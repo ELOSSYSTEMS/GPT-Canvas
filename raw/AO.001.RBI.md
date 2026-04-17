@@ -1,3 +1,25 @@
+**Canvas ID:** AO.001.RBI  
+**Title:** Recursive Bootloader Index  
+**Recovery State:** Multi-variant authority artifact  
+**Latest recovered full-body variant in this repo:** `bootloader.json` from `BUILDING THE WEBAPP`
+
+---
+
+### Recovery Note
+`AO.001.RBI` appears in the recovered corpus as an authority family rather than one perfectly stable document. The metadata for this artifact records multiple recovered names and titles under the same ID family, including:
+
+- `Recursive Bootloader Index`
+- `EL2.110.TriggerMap`
+- `AO.001.BOOT`
+- `ELoS.CommandRegistry`
+- `bootloader.json`
+
+For archive work, treat `AO.001.RBI` as the root authority hub for bootloader and registry lineage. Use `meta/AO.001.RBI.json` when variant provenance matters.
+
+---
+
+### Latest Recovered Full-Body Variant
+```json
 {
   "name": "bootloader.json",
   "version": "1.0",
@@ -30,3 +52,4 @@
     "description_he": "רצף טעינה של מערכת ELoS המותאמת לעברית, כולל תרגום טון, עיבוד כוונה, וסבב סוקרטי"
   }
 }
+```

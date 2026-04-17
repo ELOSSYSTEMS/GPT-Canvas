@@ -10,6 +10,13 @@ Purpose: first-class recovery registry for the reconstructed canvas corpus.
 - missing identifiers: 1026
 - conflicting artifacts: 49
 
+## Authority Notes
+
+- `AO.001.RBI` is the root archive and bootloader authority family; variant lineage lives in `meta/AO.001.RBI.json`.
+- `AO.910.PSN.LIBRARIAN` is the primary archive-governance persona for Dewey indexing and recall.
+- `NAME.All_Personas_Index` is the readable roster layer; `NAME.AO.916.SystemPersonaIndex` is the topology layer.
+- `AO.910.PSN` remains a mixed persona-family recovery surface and should not be treated as one clean persona body.
+
 ## Families
 
 ### `AD.800`
@@ -345,6 +352,7 @@ Purpose: first-class recovery registry for the reconstructed canvas corpus.
   - `AO.001.BOOT.SURUEE` - AO.001.BOOT.SURUEE [complete]
   - `AO.001.INDEX` - AO.001.INDEX [complete]
   - `AO.001.RBI` - Recursive Bootloader Index [complete]
+    note: authority family with multiple recovered variants under the same ID
   - `AO.001.RBI.CANVAS.ALL` - AO.001.RBI.CANVAS.ALL [complete]
   - `AO.001.REAL` - AO.001.REAL [complete]
   - `AO.001.SHARP` - AO.001.SHARP [complete]
@@ -457,6 +465,7 @@ Purpose: first-class recovery registry for the reconstructed canvas corpus.
   - `AO.910.PRM.LIB` - AO.910.PRM.LIB [complete]
   - `AO.910.PRM.PRO` - AO.910.PRM.PRO – Prompt Protocol Index [complete]
   - `AO.910.PSN` - AO.910.PSN.Assassin [complete]
+    note: mixed persona-family recovery surface; review raw and meta together
   - `AO.910.PSN.LIBRARIAN` - Librarian Persona – Recursive Knowledge Navigator [complete]
   - `AO.910.SGTOOLS` - StackGate Enforcement Toolkit [complete]
 

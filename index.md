@@ -6,6 +6,15 @@
 - OpenClaw was then used to recover the canvases contained in that export.
 - This folder and Git repository were created to hold those recovered canvases and related recovery artifacts.
 
+## Authority Layer
+
+- `raw/AO.910.PSN.LIBRARIAN.md` - Librarian persona and archive-governance note
+- `raw/AO.001.RBI.md` - recovered RBI authority hub; review with `meta/AO.001.RBI.json` for variant lineage
+- `raw/NAME.All_Personas_Index.md` - human-readable persona roster
+- `dewey-taxonomy.md` - Dewey namespace map and recovery coverage
+- `canonical-index.md` - artifact-to-raw/meta lookup
+- `librarian-master-index.md` - family-level recovery registry
+
 - total conversations scanned: 2904
 - textdoc-related messages found: 1433
 - Dewey-like identifiers found: 1360

@@ -7,6 +7,13 @@
 - identifiers seen in corpus: 1374
 - identifiers not yet reconstructed: 1026
 
+## Authority Notes
+
+- `AO.001.RBI` is a multi-variant authority family; consult `raw/AO.001.RBI.md` together with `meta/AO.001.RBI.json` when provenance matters.
+- `AO.910.PSN.LIBRARIAN` is the archive and Dewey-index authority persona in the recovered corpus.
+- `NAME.All_Personas_Index` is the roster layer; `NAME.AO.916.SystemPersonaIndex` carries the broader persona topology.
+- `AO.910.PSN` is a mixed persona-family recovery surface and should be interpreted with its metadata, not title alone.
+
 ## Recovered Artifacts
 
 - `▧ ELOS.400.USG` - ELos – Token Throttle + Prompt Injection Refactor
@@ -338,6 +345,7 @@
   - status: complete
   - raw: `raw/AO.001.RBI.md`
   - meta: `meta/AO.001.RBI.json`
+  - note: authority family with multiple recovered variants under the same ID
   - ops: complete=37, partialBodies=0, appliedPartials=1, unresolvedPartials=3
 - `AO.001.RBI.CANVAS.ALL` - AO.001.RBI.CANVAS.ALL
   - status: complete
@@ -508,6 +516,7 @@
   - status: complete
   - raw: `raw/AO.910.PSN.md`
   - meta: `meta/AO.910.PSN.json`
+  - note: mixed persona-family recovery surface; review raw and meta together
   - ops: complete=14, partialBodies=0, appliedPartials=1, unresolvedPartials=7
 - `AO.910.PSN.LIBRARIAN` - Librarian Persona – Recursive Knowledge Navigator
   - status: complete
