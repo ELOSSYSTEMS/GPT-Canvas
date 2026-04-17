@@ -1,0 +1,47 @@
+{
+  "artifactKey": "EL.910.PRM",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1749496073.097662,
+      "messageId": "eed9afab-8c54-40fb-b2a5-2e02469c209a",
+      "conversation": "Prompt Library Overview",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Ensure this instance is added to the global ELos bootloader for runtime access across all modules.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Register this vault to AO.001.RBI under 'Prompt Systems' to prevent version loss or desync.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"FeedEngineInstance = FeedEngine\\\\(\\\\)\",\n      \"comment\": \"Ensure this instance is added to the global ELos bootloader for runtime access across all modules.\"\n    },\n    {\n      \"pattern\": \"TrailVaultInstance = TrailVault\\\\(\\\\)\",\n      \"comment\": \"Register this vault to AO.001.RBI under 'Prompt Systems' to prevent version loss or desync.\"\n    }\n  ]\n}"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1749497025.580679,
+      "messageId": "2e4354bf-0064-4a16-b2a3-bac9843e8363",
+      "conversation": "Prompt Library Overview",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Captain, initiating deep forensic audit of the full conversation chain. Will cross-reference all theoretical constructs, implicit modules, unscaffolded references, and any loose logic systems mentioned. Stand by for a structured list of canvases still missing or requiring expansion. Estimated analysis ETA: under 3 minutes.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Captain, initiating deep forensic audit of the full conversation chain. Will cross-reference all theoretical constructs, implicit modules, unscaffolded references, and any loose logic systems mentioned. Stand by for a structured list of canvases still missing or requiring expansion. Estimated analysis ETA: under 3 minutes.\"\n    }\n  ]\n}"
+    }
+  ]
+}

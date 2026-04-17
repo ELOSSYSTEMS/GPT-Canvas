@@ -8,14 +8,8 @@ Purpose: first-class recovery registry for the reconstructed canvas corpus.
 - complete latest bodies: 634
 - partial latest bodies: 10
 - missing identifiers: 1026
+- preserved comment operations: 80
 - conflicting artifacts: 49
-
-## Authority Notes
-
-- `AO.001.RBI` is the root archive and bootloader authority family; variant lineage lives in `meta/AO.001.RBI.json`.
-- `AO.910.PSN.LIBRARIAN` is the primary archive-governance persona for Dewey indexing and recall.
-- `NAME.All_Personas_Index` is the readable roster layer; `NAME.AO.916.SystemPersonaIndex` is the topology layer.
-- `AO.910.PSN` remains a mixed persona-family recovery surface and should not be treated as one clean persona body.
 
 ## Families
 
@@ -352,7 +346,6 @@ Purpose: first-class recovery registry for the reconstructed canvas corpus.
   - `AO.001.BOOT.SURUEE` - AO.001.BOOT.SURUEE [complete]
   - `AO.001.INDEX` - AO.001.INDEX [complete]
   - `AO.001.RBI` - Recursive Bootloader Index [complete]
-    note: authority family with multiple recovered variants under the same ID
   - `AO.001.RBI.CANVAS.ALL` - AO.001.RBI.CANVAS.ALL [complete]
   - `AO.001.REAL` - AO.001.REAL [complete]
   - `AO.001.SHARP` - AO.001.SHARP [complete]
@@ -465,7 +458,6 @@ Purpose: first-class recovery registry for the reconstructed canvas corpus.
   - `AO.910.PRM.LIB` - AO.910.PRM.LIB [complete]
   - `AO.910.PRM.PRO` - AO.910.PRM.PRO – Prompt Protocol Index [complete]
   - `AO.910.PSN` - AO.910.PSN.Assassin [complete]
-    note: mixed persona-family recovery surface; review raw and meta together
   - `AO.910.PSN.LIBRARIAN` - Librarian Persona – Recursive Knowledge Navigator [complete]
   - `AO.910.SGTOOLS` - StackGate Enforcement Toolkit [complete]
 
@@ -3258,12 +3250,24 @@ Purpose: first-class recovery registry for the reconstructed canvas corpus.
 - conflicts: 0
   - `UUID.087ecf9b-ade5-416b-b2e0-7ecc2c8989e2-0` [complete]
 
+### `UUID.1775e1d5-4c05-431c-93d4-15e4076f7899`
+- recovered: 0
+- complete: 0
+- partial: 0
+- conflicts: 0
+
 ### `UUID.2f077234-b54c-49cb-8525-6e43b2a8163c-0`
 - recovered: 1
 - complete: 0
 - partial: 1
 - conflicts: 0
   - `UUID.2f077234-b54c-49cb-8525-6e43b2a8163c-0` [partial]
+
+### `UUID.401b8443-0994-45ce-9253-ec4a016b0b75`
+- recovered: 0
+- complete: 0
+- partial: 0
+- conflicts: 0
 
 ### `UUID.4fbfda22-58d7-405f-bb7c-060157063eb4-0`
 - recovered: 1
@@ -3272,12 +3276,54 @@ Purpose: first-class recovery registry for the reconstructed canvas corpus.
 - conflicts: 0
   - `UUID.4fbfda22-58d7-405f-bb7c-060157063eb4-0` [complete]
 
+### `UUID.5973f327-4173-48e3-8dd0-d033ef20c13c`
+- recovered: 0
+- complete: 0
+- partial: 0
+- conflicts: 0
+
 ### `UUID.59b2152d-7a83-496d-85a5-c0e4bd3ef1a8`
 - recovered: 1
 - complete: 1
 - partial: 0
 - conflicts: 0
   - `UUID.59b2152d-7a83-496d-85a5-c0e4bd3ef1a8` [complete]
+
+### `UUID.879854d4-63cc-4f9a-9f82-807685e05441`
+- recovered: 0
+- complete: 0
+- partial: 0
+- conflicts: 0
+
+### `UUID.97520259-0eb2-416f-bfe5-af02b4b3ff1e`
+- recovered: 0
+- complete: 0
+- partial: 0
+- conflicts: 0
+
+### `UUID.9b688de3-a102-4806-a739-862dfb5672a6`
+- recovered: 0
+- complete: 0
+- partial: 0
+- conflicts: 0
+
+### `UUID.a12ab623-4a3b-4cd8-8dd5-5ba8e3d7e3ff`
+- recovered: 0
+- complete: 0
+- partial: 0
+- conflicts: 0
+
+### `UUID.a44379e3-78eb-4707-883c-04d1eab4b756`
+- recovered: 0
+- complete: 0
+- partial: 0
+- conflicts: 0
+
+### `UUID.a92bade0-635a-4cbe-8011-fe1534a30beb`
+- recovered: 0
+- complete: 0
+- partial: 0
+- conflicts: 0
 
 ### `UUID.ad708119-6b5a-4f79-a08d-67ae444d89cc-0`
 - recovered: 1
@@ -3286,12 +3332,24 @@ Purpose: first-class recovery registry for the reconstructed canvas corpus.
 - conflicts: 0
   - `UUID.ad708119-6b5a-4f79-a08d-67ae444d89cc-0` [complete]
 
+### `UUID.b62fbb2a-a0d3-4d06-ae79-2f8079501b89`
+- recovered: 0
+- complete: 0
+- partial: 0
+- conflicts: 0
+
 ### `UUID.d565e00c-8025-4640-816c-6a279a270aff-0`
 - recovered: 1
 - complete: 1
 - partial: 0
 - conflicts: 0
   - `UUID.d565e00c-8025-4640-816c-6a279a270aff-0` [complete]
+
+### `UUID.d7a28d4e-f240-4d2b-b1fe-88a013de7939`
+- recovered: 0
+- complete: 0
+- partial: 0
+- conflicts: 0
 
 ### `UUID.d7fc8286-8c8d-454c-a73d-331ce6ff9c08-0`
 - recovered: 1
@@ -3300,12 +3358,30 @@ Purpose: first-class recovery registry for the reconstructed canvas corpus.
 - conflicts: 0
   - `UUID.d7fc8286-8c8d-454c-a73d-331ce6ff9c08-0` [complete]
 
+### `UUID.db3836aa-ca8f-4a8b-a6bc-63be1485ba5e`
+- recovered: 0
+- complete: 0
+- partial: 0
+- conflicts: 0
+
+### `UUID.e4259d89-b36f-4203-9ad7-22479f856ab7`
+- recovered: 0
+- complete: 0
+- partial: 0
+- conflicts: 0
+
 ### `UUID.ec74345d-9166-4cd0-9a8b-bcbf8e19bac7-0`
 - recovered: 1
 - complete: 1
 - partial: 0
 - conflicts: 0
   - `UUID.ec74345d-9166-4cd0-9a8b-bcbf8e19bac7-0` [complete]
+
+### `UUID.f1ad3fca-5ce0-483a-bcd5-f59c372b1ed0`
+- recovered: 0
+- complete: 0
+- partial: 0
+- conflicts: 0
 
 ### `UX.400`
 - recovered: 1

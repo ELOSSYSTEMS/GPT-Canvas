@@ -1,0 +1,35 @@
+{
+  "artifactKey": "NAME.Canvas-Index",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748551035.876076,
+      "messageId": "ccb42279-17ab-4622-abf8-0c9201ce8ef7",
+      "conversation": "ELos Protocol Execution Status",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Consider adding creation or modification dates to track version history over time.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "You might want to explicitly list known personas beyond just Albert and Shiran to fully map the Inner Circle structure.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "It may be helpful to include checkboxes for each system to visually track progress on canvas creation.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"## ✅ Active Canvases \\\\(As of Now\\\\)\",\n      \"comment\": \"Consider adding creation or modification dates to track version history over time.\"\n    },\n    {\n      \"pattern\": \"### 🧠 Inner Circle\",\n      \"comment\": \"You might want to explicitly list known personas beyond just Albert and Shiran to fully map the Inner Circle structure.\"\n    },\n    {\n      \"pattern\": \"## 🔄 Next Steps\",\n      \"comment\": \"It may be helpful to include checkboxes for each system to visually track progress on canvas creation.\"\n    }\n  ]\n}"
+    }
+  ]
+}

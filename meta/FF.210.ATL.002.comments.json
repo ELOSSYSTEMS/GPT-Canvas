@@ -1,0 +1,41 @@
+{
+  "artifactKey": "FF.210.ATL.002",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1749713013.949696,
+      "messageId": "d8cd38c7-9e1d-4038-ac30-eb474a05dcc0",
+      "conversation": "FF OS Brand Strategy",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Consider referencing the actual 'soft something' visual prompt canvas here to ensure alignment with brand guidelines. If it defines tone, light, or spatial composition, link or incorporate its principles directly.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"“Place this sculptural bouquet in a softly lit minimalist interior\\\\..*?”\",\n      \"comment\": \"Consider referencing the actual 'soft something' visual prompt canvas here to ensure alignment with brand guidelines. If it defines tone, light, or spatial composition, link or incorporate its principles directly.\"\n    }\n  ]\n}"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1749713109.888432,
+      "messageId": "ed61b6bc-0d41-4518-9593-e024c721d396",
+      "conversation": "FF OS Brand Strategy",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Captain, it appears you're referencing a visual guidelines canvas that replaced the Restoration Hardware aesthetic with a new directive—likely tied to Forever Flowers' evolving visual identity. The closest match is likely within the `FF.200.VSN` series or a descendant thereof (e.g., FF.200.VSN.SFT or FF.200.VSN.2). I recommend scanning the canvas index under Forever Flowers OS for sub-canvases tied to visual guidelines, aesthetic transitions, or prompt tone logic.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Captain, it appears you're referencing a visual guidelines canvas that replaced the Restoration Hardware aesthetic with a new directive—likely tied to Forever Flowers' evolving visual identity. The closest match is likely within the `FF.200.VSN` series or a descendant thereof (e.g., FF.200.VSN.SFT or FF.200.VSN.2). I recommend scanning the canvas index under Forever Flowers OS for sub-canvases tied to visual guidelines, aesthetic transitions, or prompt tone logic.\"\n    }\n  ]\n}"
+    }
+  ]
+}

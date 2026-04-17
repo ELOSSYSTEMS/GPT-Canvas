@@ -1,0 +1,23 @@
+{
+  "artifactKey": "NAME.Podcast-Michael-Multiple-Sessions",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748031674.132555,
+      "messageId": "8fe85594-b237-4fd7-8516-c719d0027f8c",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "The Librarian is now compiling the index. I’ll return shortly with the complete, updated catalog of all podcast-related canvases and their storage locations.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"The Librarian is now compiling the index. I’ll return shortly with the complete, updated catalog of all podcast-related canvases and their storage locations.\"\n    }\n  ]\n}"
+    }
+  ]
+}

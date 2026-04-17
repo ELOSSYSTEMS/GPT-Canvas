@@ -1,0 +1,29 @@
+{
+  "artifactKey": "NAME.product-bespoke-bouquet",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1746589071.400011,
+      "messageId": "66819508-3834-4f11-8e4f-7e2dc32ff876",
+      "conversation": "שיפור דף זרי פרחים",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Here's where you'll manually add your new `gallery_bespoke_xYz123` section. Insert the full definition of that section here as a new entry.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "You'll need to manually add `\"gallery_bespoke_xYz123\"` into this list where you want the gallery to appear — likely right after `\"media_grid_zJrEkM\"`.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"\\\"sections\\\": \\\\{\",\n      \"comment\": \"Here's where you'll manually add your new `gallery_bespoke_xYz123` section. Insert the full definition of that section here as a new entry.\"\n    },\n    {\n      \"pattern\": \"\\\"order\\\": \\\\[\",\n      \"comment\": \"You'll need to manually add `\\\"gallery_bespoke_xYz123\\\"` into this list where you want the gallery to appear — likely right after `\\\"media_grid_zJrEkM\\\"`.\"\n    }\n  ]\n}"
+    }
+  ]
+}

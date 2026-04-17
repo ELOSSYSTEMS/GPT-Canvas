@@ -1,0 +1,35 @@
+{
+  "artifactKey": "NAME.shopify_blocks_review",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1737578733.539329,
+      "messageId": "92129a1a-1aa8-4a90-b0ae-49b3b621912a",
+      "conversation": "List of Sections",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Consider detailing the exact implementation features of the 'Two Images Side by Side' block, as it serves as the guide for improving other blocks.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Ensure this aspect is clearly defined in the original block to maintain consistency when applying enhancements to other blocks.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Highlight how color customization is implemented in the 'Two Images Side by Side' block to replicate its effectiveness.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\"comments\": [{\"pattern\": \"#### 28\\\\. \\\\*\\\\*Two Images Side by Side\\\\*\\\\*\", \"comment\": \"Consider detailing the exact implementation features of the 'Two Images Side by Side' block, as it serves as the guide for improving other blocks.\"}, {\"pattern\": \"\\\\*\\\\*Sizes\\\\*\\\\*: Adjustable image dimensions and spacing\\\\.\", \"comment\": \"Ensure this aspect is clearly defined in the original block to maintain consistency when applying enhancements to other blocks.\"}, {\"pattern\": \"\\\\*\\\\*Colors\\\\*\\\\*: Background and border colors\\\\.\", \"comment\": \"Highlight how color customization is implemented in the 'Two Images Side by Side' block to replicate its effectiveness.\"}]}"
+    }
+  ]
+}

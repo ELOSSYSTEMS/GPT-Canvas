@@ -1,0 +1,23 @@
+{
+  "artifactKey": "PR.004.DIA",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1750565395.291327,
+      "messageId": "898c0066-f9fc-43fc-b14a-308ac29b9132",
+      "conversation": "Boot Sequence Execution",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "This is the current command registry block. Use this location to safely add new aliases like `!diagnose → PR.004.DIA`, etc.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"COMMAND\\\\s+ALIAS\\\\s+TARGET_CANVAS\",\n      \"comment\": \"This is the current command registry block. Use this location to safely add new aliases like `!diagnose → PR.004.DIA`, etc.\"\n    }\n  ]\n}"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artifactKey": "NAME.Archived-Memory-Pre-Consolidation",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747607380.830309,
+      "messageId": "49a510fd-758a-4d0a-b206-0dc276740ee1",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "This is the beginning of the full memory block you pasted. Confirm if this matches the original dump, or if you'd like me to display the entire content here for direct review.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"Forever Flowers is aiming to launch its full rebrand on June 1, 2025, including new Atelier-mode positioning, seasonal design language, and updated copy and visuals.*\",\n      \"comment\": \"This is the beginning of the full memory block you pasted. Confirm if this matches the original dump, or if you'd like me to display the entire content here for direct review.\"\n    }\n  ]\n}"
+    }
+  ]
+}

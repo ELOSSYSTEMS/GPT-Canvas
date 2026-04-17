@@ -1,0 +1,23 @@
+{
+  "artifactKey": "EL.320.MODE",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1749360407.049013,
+      "messageId": "fa7e58d0-bcb8-4b4d-8596-4e485db4db0b",
+      "conversation": "Mode Forks: Text vs Voice",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Register this canvas (`EL.320.MODE.Selector`) in the master bootloader to ensure mode logic is always active on system start.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Register this canvas (`EL.320.MODE.Selector`) in the master bootloader to ensure mode logic is always active on system start.\"\n    }\n  ]\n}"
+    }
+  ]
+}

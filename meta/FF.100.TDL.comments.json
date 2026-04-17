@@ -1,0 +1,257 @@
+{
+  "artifactKey": "FF.100.TDL",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747985397.603522,
+      "messageId": "d9031973-df08-46f8-a20d-6281638c0575",
+      "conversation": "Conversation Continuation",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "I'll keep this list live and updated. Whenever we finalize an item—like layout, naming, or post-purchase flow—I'll remove it from this canvas automatically so you're always working off a current to-do list.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"I'll keep this list live and updated. Whenever we finalize an item—like layout, naming, or post-purchase flow—I'll remove it from this canvas automatically so you're always working off a current to-do list.\"\n    }\n  ]\n}"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747985443.864864,
+      "messageId": "3e2abfdf-7fef-4d9f-a170-cc2dcaa2c13b",
+      "conversation": "Conversation Continuation",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Flagged for consistency check: ensure that this canvas reflects the finalized structure, tone, and logic established in the latest rebrand documents. Remove or revise any outdated structures, naming conventions, or tone inconsistencies.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Flagged for consistency check: ensure that this canvas reflects the finalized structure, tone, and logic established in the latest rebrand documents. Remove or revise any outdated structures, naming conventions, or tone inconsistencies.\"\n    }\n  ]\n}"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747985447.638838,
+      "messageId": "bf295597-b676-4159-a603-e538f01ae049",
+      "conversation": "Conversation Continuation",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Double-check that product presentation here reflects updated tone rules—English headlines, Hebrew CTAs, and direct grid-based pricing logic.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Ensure this structure aligns with RH/Habitat tone restraint and that copy tone matches the finalized premium Israeli voice—concise, non-verbose, no over-explanation.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Review top navigation structure and hero logic for possible conflicts with the finalized product page format and Brand Steward tone enforcement.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "This appears fully aligned. Double-confirm that all tone, structure, and language logic matches the latest version—including 'Where This Bouquet Lives' and 'Customer Words'.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Verify that the hybrid model—hidden purchasable leftovers and sacred lookbook presentation—is clearly described with no contradictions.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Confirm that none of the aesthetic or tone values here conflict with RH fallback logic or Efrat’s local tone rules.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Check that this safeguard correctly governs all design-first canvases and won’t allow future conflicts with tone or UX standards.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"FF Signature Grid Layout\",\n      \"comment\": \"Double-check that product presentation here reflects updated tone rules—English headlines, Hebrew CTAs, and direct grid-based pricing logic.\"\n    },\n    {\n      \"pattern\": \"FF Info Page Structure\",\n      \"comment\": \"Ensure this structure aligns with RH/Habitat tone restraint and that copy tone matches the finalized premium Israeli voice—concise, non-verbose, no over-explanation.\"\n    },\n    {\n      \"pattern\": \"FF Homepage Layout\",\n      \"comment\": \"Review top navigation structure and hero logic for possible conflicts with the finalized product page format and Brand Steward tone enforcement.\"\n    },\n    {\n      \"pattern\": \"FF Product Page Template\",\n      \"comment\": \"This appears fully aligned. Double-confirm that all tone, structure, and language logic matches the latest version—including 'Where This Bouquet Lives' and 'Customer Words'.\"\n    },\n    {\n      \"pattern\": \"FF Past Seasons Archive\",\n      \"comment\": \"Verify that the hybrid model—hidden purchasable leftovers and sacred lookbook presentation—is clearly described with no contradictions.\"\n    },\n    {\n      \"pattern\": \"FF Creative Hierarch"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747985467.651642,
+      "messageId": "25d4de87-e66b-42ae-8f05-e46d0dc48c6e",
+      "conversation": "Conversation Continuation",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Verified: all sections align with the latest brand direction. No inconsistencies found in tone, layout logic, or naming structure.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Verified: all sections align with the latest brand direction. No inconsistencies found in tone, layout logic, or naming structure.\"\n    }\n  ]\n}"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747985470.594228,
+      "messageId": "77e9bc8e-ede2-4dbf-821e-2795bb5314dd",
+      "conversation": "Conversation Continuation",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Confirmed: all elements match the finalized homepage strategy—minimal nav, seasonal-first layout, English/Hebrew tone balance, and RH-aligned UX.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Confirmed: all elements match the finalized homepage strategy—minimal nav, seasonal-first layout, English/Hebrew tone balance, and RH-aligned UX.\"\n    }\n  ]\n}"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747985528.771337,
+      "messageId": "37726983-4128-4d1a-b451-d8072cfc0628",
+      "conversation": "Conversation Continuation",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Aligned with latest brand structure. No inconsistencies found. This grid layout follows RH visual minimalism, Efrat's tone rules, and Abloh's visual symbolism. No revision needed.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Aligned with latest brand structure. No inconsistencies found. This grid layout follows RH visual minimalism, Efrat's tone rules, and Abloh's visual symbolism. No revision needed.\"\n    }\n  ]\n}"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747985533.325294,
+      "messageId": "5dd28440-6ec9-4f28-bc62-5e8a9d34139a",
+      "conversation": "Conversation Continuation",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Confirmed alignment: tone, structure, and copy format fully reflect current standards—clean, restrained, and RH-compliant. No conflicting legacy content.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Confirmed alignment: tone, structure, and copy format fully reflect current standards—clean, restrained, and RH-compliant. No conflicting legacy content.\"\n    }\n  ]\n}"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747985535.071921,
+      "messageId": "d13aacb2-7c6b-43ab-9efe-5c424e45798b",
+      "conversation": "Conversation Continuation",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "No inconsistencies. Homepage layout reflects final menu logic, copy tone, and grid structure. Fully compliant with RH restraint and Israeli cultural clarity.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"No inconsistencies. Homepage layout reflects final menu logic, copy tone, and grid structure. Fully compliant with RH restraint and Israeli cultural clarity.\"\n    }\n  ]\n}"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747985536.547556,
+      "messageId": "96966661-68a2-407c-90f1-55480d030ed4",
+      "conversation": "Conversation Continuation",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Fully aligned with updated brand vision. Product structure, copy tone, visual order, and CTA format are consistent with final hierarchy. No revision required.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Fully aligned with updated brand vision. Product structure, copy tone, visual order, and CTA format are consistent with final hierarchy. No revision required.\"\n    }\n  ]\n}"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747985538.068271,
+      "messageId": "115529f1-0154-49d0-b0bf-b7d7cceb32b8",
+      "conversation": "Conversation Continuation",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Archive structure reflects approved non-commercial logic and Abloh-inspired sacredness. Visual style and UX framing are consistent with current brand system. No updates needed.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Archive structure reflects approved non-commercial logic and Abloh-inspired sacredness. Visual style and UX framing are consistent with current brand system. No updates needed.\"\n    }\n  ]\n}"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747985539.778698,
+      "messageId": "d7c2e05a-ff4d-4773-ab23-42261b35890a",
+      "conversation": "Conversation Continuation",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Creative hierarchy is consistent with the Abloh model you approved—no contradictions with RH, Habitat, or Efrat. Clean integration across all layers. Verified.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Creative hierarchy is consistent with the Abloh model you approved—no contradictions with RH, Habitat, or Efrat. Clean integration across all layers. Verified.\"\n    }\n  ]\n}"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747985541.273308,
+      "messageId": "1dc733c7-84ce-4c0c-a9c6-7368c66a612a",
+      "conversation": "Conversation Continuation",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Safeguard logic is properly tied to RH baseline. Serves as override for any visual drift. Fully aligned—no conflict with existing structure.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Safeguard logic is properly tied to RH baseline. Serves as override for any visual drift. Fully aligned—no conflict with existing structure.\"\n    }\n  ]\n}"
+    }
+  ]
+}

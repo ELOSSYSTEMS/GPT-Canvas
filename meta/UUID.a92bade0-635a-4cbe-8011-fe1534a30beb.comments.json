@@ -1,0 +1,23 @@
+{
+  "artifactKey": "UUID.a92bade0-635a-4cbe-8011-fe1534a30beb",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748075381.794454,
+      "messageId": "a92bade0-635a-4cbe-8011-fe1534a30beb",
+      "conversation": "Accessing Podcast Transcripts",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "The Librarian has been triggered. Accessing your podcast transcript canvases now.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\"comments\":[{\"pattern\":\".*\",\"comment\":\"The Librarian has been triggered. Accessing your podcast transcript canvases now.\"}]}"
+    }
+  ]
+}

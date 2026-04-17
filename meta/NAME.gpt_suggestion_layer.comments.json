@@ -1,0 +1,35 @@
+{
+  "artifactKey": "NAME.gpt_suggestion_layer",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748347012.561901,
+      "messageId": "5d5ebd5f-f388-4c8f-8117-459a000795d3",
+      "conversation": "GPT Delegation Filter Design",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Confirm whether you want to namespace this as a system middleware or include it as part of MirrorOS/ELos core services.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Consider defining where these logs are stored (e.g., routing ledger, system memory, or external analytics store).",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "You may want to include how the toggle is surfaced (command, UI switch, or system variable).",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\\\"name\\\": \\\"GPT Suggestion Layer\\\".*\",\n      \"comment\": \"Confirm whether you want to namespace this as a system middleware or include it as part of MirrorOS/ELos core services.\"\n    },\n    {\n      \"pattern\": \".*\\\"log_routing\\\": true.*\",\n      \"comment\": \"Consider defining where these logs are stored (e.g., routing ledger, system memory, or external analytics store).\"\n    },\n    {\n      \"pattern\": \".*\\\"toggle\\\": true.*\",\n      \"comment\": \"You may want to include how the toggle is surfaced (command, UI switch, or system variable).\"\n    }\n  ]\n}"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artifactKey": "AI.800.RPA",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748111038.547158,
+      "messageId": "65428ff6-e090-49d0-88d2-6c3573cce98f",
+      "conversation": "Psychometric Profile Analysis Request",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Trigger The Librarian to retrieve and load all AI OS canvases, including all recursive systems, governance layers, and archived persona blueprints. Confirm all are indexed under the AI domain and tagged with appropriate Dewey Decimal codes.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Trigger The Librarian to retrieve and load all AI OS canvases, including all recursive systems, governance layers, and archived persona blueprints. Confirm all are indexed under the AI domain and tagged with appropriate Dewey Decimal codes.\"\n    }\n  ]\n}"
+    }
+  ]
+}

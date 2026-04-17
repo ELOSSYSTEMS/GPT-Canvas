@@ -1,0 +1,23 @@
+{
+  "artifactKey": "UUID.e4259d89-b36f-4203-9ad7-22479f856ab7",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748550993.105909,
+      "messageId": "e4259d89-b36f-4203-9ad7-22479f856ab7",
+      "conversation": "ELos Protocol Execution Status",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "No canvases are currently available to index. You may want to create or restore your previously used canvases to populate this list.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\"comments\":[{\"pattern\":\".*\",\"comment\":\"No canvases are currently available to index. You may want to create or restore your previously used canvases to populate this list.\"}]}"
+    }
+  ]
+}

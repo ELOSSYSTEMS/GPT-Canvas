@@ -1,0 +1,29 @@
+{
+  "artifactKey": "NAME.Return-Label-Email-Hebrew-Rtl",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1750256560.067108,
+      "messageId": "ec9d7725-18ee-43e1-ba18-407d8166decc",
+      "conversation": "תרגום דוא\"ל לעברית",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Consider applying RTL-specific styling to all table cells and headers (e.g., `td`, `th`) to ensure consistent rendering across all email clients.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "You may want to replace this placeholder with the full converted HTML body content to ensure the email renders fully as intended.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"body \\\\{ direction: rtl; text-align: right; \\\\}\",\n      \"comment\": \"Consider applying RTL-specific styling to all table cells and headers (e.g., `td`, `th`) to ensure consistent rendering across all email clients.\"\n    },\n    {\n      \"pattern\": \"<!-- \\\\(המשך התוכן נשמר כפי שהוא, עם התאמות RTL רלוונטיות.*? -->\",\n      \"comment\": \"You may want to replace this placeholder with the full converted HTML body content to ensure the email renders fully as intended.\"\n    }\n  ]\n}"
+    }
+  ]
+}

@@ -27,6 +27,7 @@
   "partialBodyOps": 0,
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 4,
+  "commentOps": 0,
   "operations": [
     {
       "opType": "create_textdoc",

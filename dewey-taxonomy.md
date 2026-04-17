@@ -4,13 +4,6 @@
 - ◻️ = identifier observed in corpus but not yet reconstructed
 - 📁 = namespace branch
 
-## Authority Notes
-
-- `AO.001.RBI` is the archive and bootloader authority hub; consult its metadata when variant lineage matters.
-- `AO.910.PSN.LIBRARIAN` is the Librarian persona authority for Dewey indexing, recall, and cross-index alignment.
-- `NAME.All_Personas_Index` is the human-readable persona roster; `NAME.AO.916.SystemPersonaIndex` is the broader topology layer.
-- Recovery presence markers show corpus coverage, not semantic cleanliness for mixed-family artifacts such as `AO.910.PSN`.
-
 - 📁 `AD`
   - 📁 `AD.700`
     - ◻️ `AD.700.IMG`

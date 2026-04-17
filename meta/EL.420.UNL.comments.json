@@ -1,0 +1,23 @@
+{
+  "artifactKey": "EL.420.UNL",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748199700.472739,
+      "messageId": "05ac34cb-0284-4f51-9d89-2a8c5001ba7a",
+      "conversation": "Builder Onboarding Step 4",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Consider renaming 'Phase 3 Menus' to something more intuitive like 'Structured Actions' or 'Advanced Usage' to align with the reframing of Phase 3 as visible-but-gated functionality.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"### 🪞 Feature Behavior Post-Unlock \\\\(Pre-Upgrade\\\\)[\\\\s\\\\S]*?\\\\| Phase 3 Menus[\\\\s\\\\S]*?\\\\|\",\n      \"comment\": \"Consider renaming 'Phase 3 Menus' to something more intuitive like 'Structured Actions' or 'Advanced Usage' to align with the reframing of Phase 3 as visible-but-gated functionality.\"\n    }\n  ]\n}"
+    }
+  ]
+}

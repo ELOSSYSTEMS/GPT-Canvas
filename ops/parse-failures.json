@@ -650,6 +650,18 @@
     ]
   },
   {
+    "conversation": "OS Hierarchy Redesign",
+    "messageId": "e10faad5-4b31-4c28-b948-a49ef014bacb",
+    "recipient": "canmore.comment_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars"
+    ]
+  },
+  {
     "conversation": "Sidebar Development Fix",
     "messageId": "a808398e-983a-44b6-8cda-052641fad060",
     "recipient": "canmore.create_textdoc",

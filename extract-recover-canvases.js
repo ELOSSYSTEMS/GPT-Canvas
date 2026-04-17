@@ -1,8 +1,22 @@
 const fs = require('fs');
 const path = require('path');
 
-const EXPORT_PATH = '/home/elos/chatgpt-export-2026-02-16/conversations.json';
-const OUT_DIR = '/home/elos/.openclaw/workspace/recovered-canvases';
+function resolveExportPath() {
+  const cwd = process.cwd();
+  const candidates = [
+    process.env.CHATGPT_EXPORT_PATH,
+    path.join(cwd, 'conversations.json'),
+    path.join(cwd, 'chatgpt-export-2026-02-16', 'conversations.json'),
+    '/home/elos/chatgpt-export-2026-02-16/conversations.json',
+  ].filter(Boolean);
+  for (const candidate of candidates) {
+    if (fs.existsSync(candidate)) return path.resolve(candidate);
+  }
+  throw new Error(`Could not find conversations.json. Checked: ${candidates.join(' | ')}`);
+}
+
+const EXPORT_PATH = resolveExportPath();
+const OUT_DIR = path.resolve(process.env.CANVAS_RECOVERY_OUT_DIR || process.cwd());
 const RAW_DIR = path.join(OUT_DIR, 'raw');
 const META_DIR = path.join(OUT_DIR, 'meta');
 const OPS_DIR = path.join(OUT_DIR, 'ops');
@@ -273,6 +287,138 @@ function parseToolPayload(raw, recipient) {
   };
 }
 
+function parseGenericPayload(raw) {
+  const first = jsonTry(raw);
+  if (first.ok) return { ok: true, value: first.value, mode: 'json-parse', partial: false };
+
+  const normalized = escapeControlCharsInJson(raw);
+  const second = jsonTry(normalized);
+  if (second.ok) return { ok: true, value: second.value, mode: 'escaped-control-chars', partial: false };
+
+  return {
+    ok: false,
+    error: String(second.error || first.error),
+    modesTried: ['json-parse', 'escaped-control-chars'],
+  };
+}
+
+function escapeRegex(text) {
+  return String(text).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function deriveLiteralCandidate(pattern) {
+  if (typeof pattern !== 'string' || !pattern) return null;
+  let out = '';
+  let whitespace = false;
+  for (let i = 0; i < pattern.length; i++) {
+    const ch = pattern[i];
+    if (ch === '\\') {
+      const next = pattern[++i];
+      if (next == null) return null;
+      if (next === 'n') {
+        out += '\n';
+        whitespace = true;
+        continue;
+      }
+      if (next === 'r') {
+        out += '\r';
+        whitespace = true;
+        continue;
+      }
+      if (next === 't') {
+        out += '\t';
+        whitespace = true;
+        continue;
+      }
+      if (next === 's') {
+        out += ' ';
+        whitespace = true;
+        continue;
+      }
+      if (/^[\\.^$|?*+()[\]{}\/-]$/.test(next)) {
+        out += next;
+        continue;
+      }
+      return null;
+    }
+    if (/[\[\]{}|^$]/.test(ch)) return null;
+    if (ch === '(' || ch === ')' || ch === '?' || ch === '+' || ch === '*') return null;
+    out += ch;
+    if (/\s/.test(ch)) whitespace = true;
+  }
+  if (out.trim().length < 12) return null;
+  return { literal: out, whitespace };
+}
+
+function applyFallbackReplacement(body, pattern, replacement, multiple) {
+  const candidate = deriveLiteralCandidate(pattern);
+  if (!candidate) return null;
+
+  if (body.includes(candidate.literal)) {
+    const exact = new RegExp(escapeRegex(candidate.literal), multiple ? 'g' : '');
+    return {
+      body: body.replace(exact, replacement),
+      mode: 'literal-exact',
+    };
+  }
+
+  if (!candidate.whitespace) return null;
+
+  const tolerantSource = candidate.literal
+    .split(/(\s+)/)
+    .map(part => (/^\s+$/.test(part) ? '\\s+' : escapeRegex(part)))
+    .join('');
+  const tolerant = new RegExp(tolerantSource, multiple ? 'g' : '');
+  if (!tolerant.test(body)) return null;
+  tolerant.lastIndex = 0;
+  return {
+    body: body.replace(tolerant, replacement),
+    mode: 'literal-whitespace',
+  };
+}
+
+function summarizeCommentPayload(payload) {
+  if (Array.isArray(payload)) return payload.map(summarizeCommentPayload);
+  if (!payload || typeof payload !== 'object') return payload;
+  const summary = {};
+  for (const [key, value] of Object.entries(payload)) {
+    if (key === 'comments' && Array.isArray(value)) {
+      summary.comments = value.map(comment => {
+        if (!comment || typeof comment !== 'object') return comment;
+        return {
+          comment: comment.comment || comment.text || null,
+          author: comment.author || comment.user || null,
+          range: comment.range || comment.selection || null,
+          id: comment.id || null,
+        };
+      });
+      continue;
+    }
+    if (typeof value === 'string' || typeof value === 'number' || typeof value === 'boolean' || value == null) {
+      summary[key] = value;
+    }
+  }
+  return summary;
+}
+
+function deriveCommentArtifactKey(payload, fallbackArtifactKey, fallbackUuid) {
+  const bodyHint = asText(
+    payload.textdoc_content ||
+    payload.content ||
+    payload.document ||
+    payload.textdoc ||
+    payload.canvas ||
+    ''
+  );
+  const nameHint = payload.textdoc_name || payload.name || payload.title || null;
+  if (!nameHint && !extractCanvasId(bodyHint) && fallbackArtifactKey) return fallbackArtifactKey;
+  return deriveArtifactKey({
+    name: nameHint,
+    body: bodyHint,
+    fallbackUuid,
+  });
+}
+
 function createArtifactEntry(artifactKey) {
   return {
     artifactKey,
@@ -289,10 +435,12 @@ function createArtifactEntry(artifactKey) {
     partialBodyOps: 0,
     appliedPartialOps: 0,
     unresolvedPartialOps: 0,
+    commentOps: [],
   };
 }
 
 const operations = [];
+const commentOperations = [];
 const allIdentifiers = new Map();
 const parseFailures = [];
 
@@ -309,7 +457,7 @@ for (const convo of data) {
   const convoOps = [];
   walk(convo, node => {
     if (!node || typeof node !== 'object' || !node.recipient) return;
-    if (node.recipient !== 'canmore.create_textdoc' && node.recipient !== 'canmore.update_textdoc') return;
+    if (node.recipient !== 'canmore.create_textdoc' && node.recipient !== 'canmore.update_textdoc' && node.recipient !== 'canmore.comment_textdoc') return;
     convoOps.push(node);
   });
   convoOps.sort((a, b) => (a.create_time || 0) - (b.create_time || 0));
@@ -317,7 +465,9 @@ for (const convo of data) {
   let lastArtifactKey = null;
   for (const node of convoOps) {
     const payloadText = getPartsText(node.content);
-    const parsed = parseToolPayload(payloadText, node.recipient);
+    const parsed = node.recipient === 'canmore.comment_textdoc'
+      ? parseGenericPayload(payloadText)
+      : parseToolPayload(payloadText, node.recipient);
     if (!parsed.ok) {
       parseFailures.push({
         conversation: convoTitle,
@@ -327,6 +477,23 @@ for (const convo of data) {
         payloadLength: payloadText.length,
         payloadSnippet: payloadText.slice(0, 1200),
         modesTried: parsed.modesTried,
+      });
+      continue;
+    }
+
+    if (node.recipient === 'canmore.comment_textdoc') {
+      const payload = parsed.value || {};
+      const artifactKey = deriveCommentArtifactKey(payload, lastArtifactKey, node.id);
+      commentOperations.push({
+        opType: 'comment_textdoc',
+        messageId: node.id,
+        createTime: node.create_time || null,
+        conversation: convoTitle,
+        artifactKey,
+        parseMode: parsed.mode,
+        sourceRecipient: node.recipient,
+        payloadSummary: summarizeCommentPayload(payload),
+        payloadSnippet: payloadText.slice(0, 1200),
       });
       continue;
     }
@@ -414,6 +581,7 @@ for (const convo of data) {
 }
 
 operations.sort((a, b) => (a.createTime || 0) - (b.createTime || 0));
+commentOperations.sort((a, b) => (a.createTime || 0) - (b.createTime || 0));
 
 const artifacts = new Map();
 const unresolvedPartials = [];
@@ -489,6 +657,22 @@ for (const op of operations) {
     const regex = new RegExp(op.pattern, flags);
     const nextBody = item.latestBody.replace(regex, op.body);
     if (nextBody === item.latestBody) {
+      const fallback = applyFallbackReplacement(item.latestBody, op.pattern, op.body, op.multiple);
+      if (fallback && fallback.body !== item.latestBody) {
+        item.latestBody = fallback.body;
+        item.latestTime = op.createTime || item.latestTime;
+        item.latestBodyComplete = item.latestBodyComplete && !!op.bodyComplete;
+        item.appliedPartialOps += 1;
+        appliedPartialOps.push({
+          artifactKey: op.artifactKey,
+          conversation: op.conversation,
+          messageId: op.messageId,
+          pattern: op.pattern,
+          parseMode: op.parseMode,
+          applyMode: fallback.mode,
+        });
+        continue;
+      }
       item.unresolvedPartialOps += 1;
       unresolvedPartials.push({
         artifactKey: op.artifactKey,
@@ -511,6 +695,7 @@ for (const op of operations) {
       messageId: op.messageId,
       pattern: op.pattern,
       parseMode: op.parseMode,
+      applyMode: 'regex',
     });
   } catch (error) {
     item.unresolvedPartialOps += 1;
@@ -525,6 +710,21 @@ for (const op of operations) {
   }
 }
 
+for (const op of commentOperations) {
+  if (!artifacts.has(op.artifactKey)) artifacts.set(op.artifactKey, createArtifactEntry(op.artifactKey));
+  const item = artifacts.get(op.artifactKey);
+  item.conversations.add(op.conversation);
+  item.commentOps.push({
+    opType: op.opType,
+    createTime: op.createTime,
+    messageId: op.messageId,
+    conversation: op.conversation,
+    parseMode: op.parseMode,
+    payloadSummary: op.payloadSummary,
+    payloadSnippet: op.payloadSnippet,
+  });
+}
+
 const artifactSummaries = [...artifacts.values()].map(item => ({
   artifactKey: item.artifactKey,
   names: [...item.names],
@@ -537,6 +737,7 @@ const artifactSummaries = [...artifacts.values()].map(item => ({
   partialBodyOps: item.partialBodyOps,
   appliedPartialOps: item.appliedPartialOps,
   unresolvedPartialOps: item.unresolvedPartialOps,
+  commentOps: item.commentOps.length,
   latestBodyLength: item.latestBody ? item.latestBody.length : 0,
   latestSource: item.latestSource || null,
 })).sort((a, b) => a.artifactKey.localeCompare(b.artifactKey));
@@ -615,11 +816,28 @@ for (const item of artifacts.values()) {
     partialBodyOps: item.partialBodyOps,
     appliedPartialOps: item.appliedPartialOps,
     unresolvedPartialOps: item.unresolvedPartialOps,
+    commentOps: item.commentOps.length,
     operations: item.operations,
+  }, null, 2));
+  if (item.commentOps.length) {
+    fs.writeFileSync(path.join(META_DIR, `${base}.comments.json`), JSON.stringify({
+      artifactKey: item.artifactKey,
+      commentOps: item.commentOps,
+    }, null, 2));
+  }
+}
+
+for (const item of artifacts.values()) {
+  if (!item.commentOps.length || item.recovered) continue;
+  const base = slugify(item.artifactKey);
+  fs.writeFileSync(path.join(META_DIR, `${base}.comments.json`), JSON.stringify({
+    artifactKey: item.artifactKey,
+    commentOps: item.commentOps,
   }, null, 2));
 }
 
 fs.writeFileSync(path.join(OPS_DIR, 'textdoc-operations.json'), JSON.stringify(operations, null, 2));
+fs.writeFileSync(path.join(OPS_DIR, 'comment-operations.json'), JSON.stringify(commentOperations, null, 2));
 fs.writeFileSync(path.join(OPS_DIR, 'parse-failures.json'), JSON.stringify(parseFailures, null, 2));
 fs.writeFileSync(path.join(OPS_DIR, 'unresolved-partials.json'), JSON.stringify(unresolvedPartials, null, 2));
 fs.writeFileSync(path.join(OPS_DIR, 'applied-partials.json'), JSON.stringify(appliedPartialOps, null, 2));
@@ -635,6 +853,7 @@ canonicalIndex.push(`- complete latest bodies: ${artifactSummaries.filter(x => x
 canonicalIndex.push(`- partial latest bodies: ${artifactSummaries.filter(x => x.recovered && !x.latestBodyComplete).length}`);
 canonicalIndex.push(`- identifiers seen in corpus: ${allIdentifierList.length}`);
 canonicalIndex.push(`- identifiers not yet reconstructed: ${missingIdentifiers.length}`);
+canonicalIndex.push(`- preserved comment operations: ${commentOperations.length}`);
 canonicalIndex.push('');
 canonicalIndex.push('## Recovered Artifacts');
 canonicalIndex.push('');
@@ -645,7 +864,7 @@ for (const item of artifactSummaries.filter(x => x.recovered)) {
   canonicalIndex.push(`  - status: ${status}`);
   canonicalIndex.push(`  - raw: \`raw/${slugify(item.artifactKey)}.md\``);
   canonicalIndex.push(`  - meta: \`meta/${slugify(item.artifactKey)}.json\``);
-  canonicalIndex.push(`  - ops: complete=${item.completeBodyOps}, partialBodies=${item.partialBodyOps}, appliedPartials=${item.appliedPartialOps}, unresolvedPartials=${item.unresolvedPartialOps}`);
+  canonicalIndex.push(`  - ops: complete=${item.completeBodyOps}, partialBodies=${item.partialBodyOps}, appliedPartials=${item.appliedPartialOps}, unresolvedPartials=${item.unresolvedPartialOps}, comments=${item.commentOps}`);
 }
 fs.writeFileSync(path.join(OUT_DIR, 'canonical-index.md'), canonicalIndex.join('\n'));
 
@@ -676,6 +895,7 @@ partialLines.push(`Artifacts with partial latest bodies: ${artifactSummaries.fil
 partialLines.push(`Applied partial regex updates: ${appliedPartialOps.length}`);
 partialLines.push(`Unresolved partial operations: ${unresolvedPartials.length}`);
 partialLines.push(`Regex errors: ${regexErrors.length}`);
+partialLines.push(`Preserved comment operations: ${commentOperations.length}`);
 partialLines.push('');
 for (const item of artifactSummaries.filter(x => x.recovered && !x.latestBodyComplete)) {
   partialLines.push(`- \`${item.artifactKey}\` latest body is partial`);
@@ -735,6 +955,7 @@ librarianLines.push(`- recovered artifacts: ${artifactSummaries.filter(x => x.re
 librarianLines.push(`- complete latest bodies: ${artifactSummaries.filter(x => x.recovered && x.latestBodyComplete).length}`);
 librarianLines.push(`- partial latest bodies: ${artifactSummaries.filter(x => x.recovered && !x.latestBodyComplete).length}`);
 librarianLines.push(`- missing identifiers: ${missingIdentifiers.length}`);
+librarianLines.push(`- preserved comment operations: ${commentOperations.length}`);
 librarianLines.push(`- conflicting artifacts: ${conflicts.length}`);
 librarianLines.push('');
 librarianLines.push('## Families');
@@ -754,6 +975,9 @@ for (const family of [...familyMap.values()].sort((a, b) => a.family.localeCompa
 }
 fs.writeFileSync(path.join(OUT_DIR, 'librarian-master-index.md'), librarianLines.join('\n'));
 
+const textdocParseFailures = parseFailures.filter(x => x.recipient !== 'canmore.comment_textdoc');
+const commentParseFailures = parseFailures.filter(x => x.recipient === 'canmore.comment_textdoc');
+
 const summary = {
   exportPath: EXPORT_PATH,
   recoveredArtifacts: artifactSummaries.filter(x => x.recovered).length,
@@ -761,13 +985,16 @@ const summary = {
   partialLatestBodies: artifactSummaries.filter(x => x.recovered && !x.latestBodyComplete).length,
   artifactKeysObserved: artifactSummaries.length,
   totalOperations: operations.length,
+  commentOperations: commentOperations.length,
   fullBodyOperations: operations.filter(x => x.fullBody).length,
   completeBodyOperations: operations.filter(x => x.fullBody && x.bodyComplete).length,
   partialBodyOperations: operations.filter(x => x.fullBody && !x.bodyComplete).length,
   appliedPartialOperations: appliedPartialOps.length,
   unresolvedPartialOperations: unresolvedPartials.length,
   regexErrors: regexErrors.length,
-  parseFailures: parseFailures.length,
+  parseFailures: textdocParseFailures.length,
+  totalParseFailures: parseFailures.length,
+  commentParseFailures: commentParseFailures.length,
   identifiersSeen: allIdentifierList.length,
   missingIdentifiers: missingIdentifiers.length,
   conflictingArtifacts: conflicts.length,

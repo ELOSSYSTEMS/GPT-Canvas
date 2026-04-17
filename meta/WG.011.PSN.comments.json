@@ -1,0 +1,23 @@
+{
+  "artifactKey": "WG.011.PSN",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1749803489.861635,
+      "messageId": "b6d8ec87-f2ed-45fa-b62b-f4310ca9b763",
+      "conversation": "War Games",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Ensure this persona module is properly filed under the 'War Games Console' parent, which itself must reside under the 'Helix OS' system hierarchy. Verify canvas registry structure matches canonical architecture.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Ensure this persona module is properly filed under the 'War Games Console' parent, which itself must reside under the 'Helix OS' system hierarchy. Verify canvas registry structure matches canonical architecture.\"\n    }\n  ]\n}"
+    }
+  ]
+}

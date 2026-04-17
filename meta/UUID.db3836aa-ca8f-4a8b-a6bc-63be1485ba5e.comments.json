@@ -1,0 +1,23 @@
+{
+  "artifactKey": "UUID.db3836aa-ca8f-4a8b-a6bc-63be1485ba5e",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748071530.222148,
+      "messageId": "db3836aa-ca8f-4a8b-a6bc-63be1485ba5e",
+      "conversation": "Podcast Transcript Retrieval",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Clarify which specific podcast (e.g., date, guest, topic) you're referring to so I can surface the correct transcript canvas.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\"comments\":[{\"pattern\":\".*\",\"comment\":\"Clarify which specific podcast (e.g., date, guest, topic) you're referring to so I can surface the correct transcript canvas.\"}]}"
+    }
+  ]
+}

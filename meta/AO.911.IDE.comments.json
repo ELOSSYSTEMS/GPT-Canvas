@@ -1,0 +1,47 @@
+{
+  "artifactKey": "AO.911.IDE",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1749131453.234186,
+      "messageId": "81d0df12-1422-4318-b7f8-38f928916ad7",
+      "conversation": "Bootloader Activation Summary",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "This is the target line where we should explicitly include AO.911.IDE – Intelligent Design Engine as part of the ELoS protocol stack. Let's confirm its phrasing before patching.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Consider clarifying whether AO.911.IDE is already implied here, or if we need to explicitly list it as a submodule under the ELoS Prompt Protocol boot sequence.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"Activate ELoS Prompt Protocol.*\",\n      \"comment\": \"This is the target line where we should explicitly include AO.911.IDE – Intelligent Design Engine as part of the ELoS protocol stack. Let's confirm its phrasing before patching.\"\n    },\n    {\n      \"pattern\": \"ELoS Prompt Protocol.*Stargate.*\",\n      \"comment\": \"Consider clarifying whether AO.911.IDE is already implied here, or if we need to explicitly list it as a submodule under the ELoS Prompt Protocol boot sequence.\"\n    }\n  ]\n}"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1749131456.356686,
+      "messageId": "3f639766-415e-4b38-be33-162b35e92257",
+      "conversation": "Bootloader Activation Summary",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "This is the section where AO.911.IDE should be explicitly included. Consider adding a line such as 'Embed AO.911.IDE – Intelligent Design Engine as core design layer for flow and persona generation.'",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"Activate ELoS Prompt Protocol v3\\\\.1-total-fireproofed \\\\(includes Stargate Protocol\\\\)\",\n      \"comment\": \"This is the section where AO.911.IDE should be explicitly included. Consider adding a line such as 'Embed AO.911.IDE – Intelligent Design Engine as core design layer for flow and persona generation.'\"\n    }\n  ]\n}"
+    }
+  ]
+}

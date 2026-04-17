@@ -1,0 +1,35 @@
+{
+  "artifactKey": "UUID.b62fbb2a-a0d3-4d06-ae79-2f8079501b89",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1753972004.256207,
+      "messageId": "b62fbb2a-a0d3-4d06-ae79-2f8079501b89",
+      "conversation": "Canvas List Retrieval",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Consider adding a short summary or objective statement at the beginning to clarify the purpose of the Silent Planning Protocol.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "This phase description could be more actionable. Consider breaking down the exact methods or indicators used to recognize intent.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Cognitive staging could benefit from a concrete example to illustrate how it's applied in practice.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\"comments\":[{\"pattern\":\"Silent Planning Protocol\",\"comment\":\"Consider adding a short summary or objective statement at the beginning to clarify the purpose of the Silent Planning Protocol.\"},{\"pattern\":\"Phase 1: Intent Recognition.*?Phase 2\",\"comment\":\"This phase description could be more actionable. Consider breaking down the exact methods or indicators used to recognize intent.\"},{\"pattern\":\"Phase 3: Cognitive Staging.*?Phase 4\",\"comment\":\"Cognitive staging could benefit from a concrete example to illustrate how it's applied in practice.\"}]}"
+    }
+  ]
+}

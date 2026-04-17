@@ -1,0 +1,29 @@
+{
+  "artifactKey": "AO.910.PRM.LIB",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1749794116.199122,
+      "messageId": "01960cdc-7a25-498f-ae37-b81555d44464",
+      "conversation": "PROMPT LIBRARY",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "This appears to be the start of the placeholder data. To confirm the true prompt count, the full dataset must be loaded or recovered from system logs or backups.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "This is the final visible prompt entry in the current canvas. Total prompt count is currently only 5, indicating the full library has not been loaded.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\\\"id\\\": 1.*\",\n      \"comment\": \"This appears to be the start of the placeholder data. To confirm the true prompt count, the full dataset must be loaded or recovered from system logs or backups.\"\n    },\n    {\n      \"pattern\": \".*\\\"id\\\": 5.*\",\n      \"comment\": \"This is the final visible prompt entry in the current canvas. Total prompt count is currently only 5, indicating the full library has not been loaded.\"\n    }\n  ]\n}"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "artifactKey": "AO.910.PRM.PRO",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748972595.910112,
+      "messageId": "f4bb0e05-bd74-41de-849f-03b6efb07c48",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Consider specifying which experimental protocol canvases are included or need separate attention. This would clarify whether further action is required.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "You might want to link directly to the relevant canvases for quick access and better traceability.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\"comments\": [{\"pattern\": \"✅ All protocol entries have been fully populated.*?\", \"comment\": \"Consider specifying which experimental protocol canvases are included or need separate attention. This would clarify whether further action is required.\"}, {\"pattern\": \"This canvas is now your \\\\*\\\\*source of truth\\\\*\\\\*\", \"comment\": \"You might want to link directly to the relevant canvases for quick access and better traceability.\"}]}"
+    }
+  ]
+}

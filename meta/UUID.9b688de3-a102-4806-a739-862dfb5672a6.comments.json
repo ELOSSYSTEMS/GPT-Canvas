@@ -1,0 +1,23 @@
+{
+  "artifactKey": "UUID.9b688de3-a102-4806-a739-862dfb5672a6",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747606433.573038,
+      "messageId": "9b688de3-a102-4806-a739-862dfb5672a6",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Can you clarify what 'Load from here' is referring to? Should I retrieve a specific canvas, or reinitialize a previous context?",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\"comments\": [{\"pattern\": \"Activate the librarian and Load from here\", \"comment\": \"Can you clarify what 'Load from here' is referring to? Should I retrieve a specific canvas, or reinitialize a previous context?\"}]}"
+    }
+  ]
+}

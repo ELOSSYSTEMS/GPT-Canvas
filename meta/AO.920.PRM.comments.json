@@ -1,0 +1,29 @@
+{
+  "artifactKey": "AO.920.PRM",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1749496653.112051,
+      "messageId": "3e5123cb-7773-482b-8076-4c241fb0a630",
+      "conversation": "Prompt Library Overview",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Ensure this class is registered explicitly in the ELos extension bootloader registry under the personalized prompt module group.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Consider persisting the inferred role to the AO.910.PRM.Vault or a similar long-term state store for cross-session consistency.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"class AdaptivePromptStack:\",\n      \"comment\": \"Ensure this class is registered explicitly in the ELos extension bootloader registry under the personalized prompt module group.\"\n    },\n    {\n      \"pattern\": \"def infer_role\\\\(self, user_id, canvas_titles\\\\):\",\n      \"comment\": \"Consider persisting the inferred role to the AO.910.PRM.Vault or a similar long-term state store for cross-session consistency.\"\n    }\n  ]\n}"
+    }
+  ]
+}

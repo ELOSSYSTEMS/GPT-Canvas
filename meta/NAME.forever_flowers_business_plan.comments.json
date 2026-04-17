@@ -1,0 +1,41 @@
+{
+  "artifactKey": "NAME.forever_flowers_business_plan",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1735816301.66396,
+      "messageId": "8ed7e2af-ae85-46d3-b1ea-8da726b8f7ef",
+      "conversation": "Business Plan for Forever Flowers",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Consider providing specific examples or calculations to clarify what a 5x markup looks like in practice, such as the cost price versus the retail price for a typical bouquet.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\"comments\":[{\"pattern\":\"Maintain a 5x markup on costs for retail bouquets\\\\.\",\"comment\":\"Consider providing specific examples or calculations to clarify what a 5x markup looks like in practice, such as the cost price versus the retail price for a typical bouquet.\"}]}"
+    },
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1735816513.480301,
+      "messageId": "80bf2c17-a133-4df4-a1dd-6bd719026594",
+      "conversation": "Business Plan for Forever Flowers",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "300 NIS is a reasonable starting point, but consider analyzing customer purchasing behavior to determine the most effective threshold. For example, calculate the average order value and test higher thresholds to maximize profitability without discouraging purchases.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\"comments\":[{\"pattern\":\"Free shipping on orders above 300 NIS and a complimentary vase with every bouquet\\\\. This threshold encourages larger purchases while maintaining profitability\\\\. Analyze average order values over time to adjust the free shipping threshold if necessary, ensuring it aligns with customer spending patterns and business goals\\\\.\",\"comment\":\"300 NIS is a reasonable starting point, but consider analyzing customer purchasing behavior to determine the most effective threshold. For example, calculate the average order value and test higher thresholds to maximize profitability without discouraging purchases.\"}]}"
+    }
+  ]
+}

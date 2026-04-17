@@ -1,0 +1,23 @@
+{
+  "artifactKey": "NAME.contact_us_section",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1735064806.980077,
+      "messageId": "6240e3e9-3a5d-4552-8f26-c2a9d1517c02",
+      "conversation": "ML350 Strut Part Numbers",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "To integrate a header option with size, format, and padding controls for the 'text with icons' section, you can add a new set of settings in the schema. This will include controls for header size (e.g., H1, H2), text format (e.g., bold, italic), and padding values for top and bottom. Then, modify the Liquid template to render the header dynamically based on these settings.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\"comments\": [{\"pattern\": \".*\", \"comment\": \"To integrate a header option with size, format, and padding controls for the 'text with icons' section, you can add a new set of settings in the schema. This will include controls for header size (e.g., H1, H2), text format (e.g., bold, italic), and padding values for top and bottom. Then, modify the Liquid template to render the header dynamically based on these settings.\"}]}"
+    }
+  ]
+}

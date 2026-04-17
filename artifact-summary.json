@@ -17,6 +17,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1757,
     "latestSource": {
       "opType": "create_textdoc",
@@ -45,6 +46,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2798,
     "latestSource": {
       "opType": "create_textdoc",
@@ -73,6 +75,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 900,
     "latestSource": {
       "opType": "create_textdoc",
@@ -101,6 +104,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 780,
     "latestSource": {
       "opType": "create_textdoc",
@@ -129,6 +133,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 834,
     "latestSource": {
       "opType": "create_textdoc",
@@ -157,6 +162,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1403,
     "latestSource": {
       "opType": "create_textdoc",
@@ -185,6 +191,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 604,
     "latestSource": {
       "opType": "create_textdoc",
@@ -213,6 +220,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1923,
     "latestSource": {
       "opType": "create_textdoc",
@@ -241,6 +249,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1570,
     "latestSource": {
       "opType": "create_textdoc",
@@ -269,6 +278,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3094,
     "latestSource": {
       "opType": "create_textdoc",
@@ -297,6 +307,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2870,
     "latestSource": {
       "opType": "create_textdoc",
@@ -325,6 +336,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1503,
     "latestSource": {
       "opType": "create_textdoc",
@@ -353,6 +365,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1662,
     "latestSource": {
       "opType": "create_textdoc",
@@ -381,6 +394,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1438,
     "latestSource": {
       "opType": "create_textdoc",
@@ -409,6 +423,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 952,
     "latestSource": {
       "opType": "create_textdoc",
@@ -437,6 +452,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 767,
     "latestSource": {
       "opType": "create_textdoc",
@@ -465,6 +481,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 747,
     "latestSource": {
       "opType": "create_textdoc",
@@ -493,6 +510,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 508,
     "latestSource": {
       "opType": "create_textdoc",
@@ -521,6 +539,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 821,
     "latestSource": {
       "opType": "create_textdoc",
@@ -549,6 +568,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 530,
     "latestSource": {
       "opType": "create_textdoc",
@@ -577,6 +597,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 426,
     "latestSource": {
       "opType": "create_textdoc",
@@ -605,6 +626,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 742,
     "latestSource": {
       "opType": "create_textdoc",
@@ -633,6 +655,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 529,
     "latestSource": {
       "opType": "create_textdoc",
@@ -661,6 +684,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1695,
     "latestSource": {
       "opType": "create_textdoc",
@@ -689,6 +713,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1787,
     "latestSource": {
       "opType": "create_textdoc",
@@ -717,6 +742,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 530,
     "latestSource": {
       "opType": "create_textdoc",
@@ -745,6 +771,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 770,
     "latestSource": {
       "opType": "create_textdoc",
@@ -773,6 +800,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 858,
     "latestSource": {
       "opType": "create_textdoc",
@@ -801,6 +829,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 719,
     "latestSource": {
       "opType": "create_textdoc",
@@ -831,6 +860,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1487,
     "latestSource": {
       "opType": "create_textdoc",
@@ -859,6 +889,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 487,
     "latestSource": {
       "opType": "create_textdoc",
@@ -887,6 +918,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2938,
     "latestSource": {
       "opType": "create_textdoc",
@@ -915,6 +947,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 797,
     "latestSource": {
       "opType": "create_textdoc",
@@ -943,6 +976,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3251,
     "latestSource": {
       "opType": "create_textdoc",
@@ -971,6 +1005,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3946,
     "latestSource": {
       "opType": "update_textdoc",
@@ -999,6 +1034,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3335,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1027,6 +1063,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3117,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1060,6 +1097,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 1712,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1088,6 +1126,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4260,
     "latestSource": {
       "opType": "update_textdoc",
@@ -1116,6 +1155,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4222,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1144,6 +1184,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3338,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1172,6 +1213,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 199,
     "latestSource": {
       "opType": "update_textdoc",
@@ -1204,6 +1246,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 1,
+    "commentOps": 0,
     "latestBodyLength": 3035,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1232,6 +1275,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1436,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1260,6 +1304,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3125,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1288,6 +1333,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3080,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1316,6 +1362,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2890,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1344,6 +1391,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2975,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1372,6 +1420,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 1276,
     "latestSource": {
       "opType": "update_textdoc",
@@ -1400,6 +1449,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 1770,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1428,6 +1478,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5234,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1456,6 +1507,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3448,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1484,6 +1536,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2929,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1512,6 +1565,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3471,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1540,6 +1594,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3627,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1568,6 +1623,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3477,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1596,6 +1652,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 1,
+    "commentOps": 3,
     "latestBodyLength": 3856,
     "latestSource": {
       "opType": "update_textdoc",
@@ -1624,6 +1681,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 1507,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1652,6 +1710,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 2274,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1676,6 +1735,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3140,
     "latestSource": {
       "opType": "update_textdoc",
@@ -1700,6 +1760,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2950,
     "latestSource": {
       "opType": "update_textdoc",
@@ -1740,6 +1801,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 431,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1768,6 +1830,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 582,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1796,6 +1859,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 582,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1824,6 +1888,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 760,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1881,6 +1946,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 1,
     "unresolvedPartialOps": 3,
+    "commentOps": 4,
     "latestBodyLength": 1297,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1909,6 +1975,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1091,
     "latestSource": {
       "opType": "update_textdoc",
@@ -1937,6 +2004,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1148,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1965,6 +2033,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1121,
     "latestSource": {
       "opType": "create_textdoc",
@@ -1993,6 +2062,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2948,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2021,6 +2091,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4644,
     "latestSource": {
       "opType": "update_textdoc",
@@ -2049,6 +2120,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1470,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2085,6 +2157,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2134,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2116,6 +2189,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1516,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2140,6 +2214,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2939,
     "latestSource": {
       "opType": "update_textdoc",
@@ -2168,6 +2243,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3142,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2196,6 +2272,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1292,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2224,6 +2301,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 814,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2264,6 +2342,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2124,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2292,6 +2371,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1535,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2320,6 +2400,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1383,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2348,6 +2429,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1353,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2376,6 +2458,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2871,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2404,6 +2487,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1035,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2432,6 +2516,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1003,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2460,6 +2545,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 840,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2488,6 +2574,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1551,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2516,6 +2603,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1221,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2546,6 +2634,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2179,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2574,6 +2663,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1955,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2602,6 +2692,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3178,
     "latestSource": {
       "opType": "update_textdoc",
@@ -2630,6 +2721,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1935,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2658,6 +2750,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3094,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2686,6 +2779,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3368,
     "latestSource": {
       "opType": "update_textdoc",
@@ -2714,6 +2808,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3871,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2743,6 +2838,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 1,
+    "commentOps": 0,
     "latestBodyLength": 702,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2770,6 +2866,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 2,
+    "commentOps": 0,
     "latestBodyLength": 1201,
     "latestSource": {
       "opType": "update_textdoc",
@@ -2821,6 +2918,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 233,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2849,6 +2947,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 3151,
     "latestSource": {
       "opType": "update_textdoc",
@@ -2897,6 +2996,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 1,
     "unresolvedPartialOps": 7,
+    "commentOps": 0,
     "latestBodyLength": 2365,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2925,6 +3025,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2439,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2953,6 +3054,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2286,
     "latestSource": {
       "opType": "create_textdoc",
@@ -2987,6 +3089,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 5,
+    "commentOps": 2,
     "latestBodyLength": 2624,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3015,6 +3118,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2045,
     "latestSource": {
       "opType": "update_textdoc",
@@ -3043,6 +3147,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1342,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3071,6 +3176,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4328,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3099,6 +3205,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4565,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3127,6 +3234,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2906,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3155,6 +3263,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1629,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3193,6 +3302,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 2967,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3221,6 +3331,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1270,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3249,6 +3360,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1404,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3277,6 +3389,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2065,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3305,6 +3418,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 818,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3333,6 +3447,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2625,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3361,6 +3476,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1365,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3392,6 +3508,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2002,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3420,6 +3537,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1653,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3448,6 +3566,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1401,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3476,6 +3595,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1993,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3504,6 +3624,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2308,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3532,6 +3653,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3841,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3560,6 +3682,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1735,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3588,6 +3711,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4882,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3617,6 +3741,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1652,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3645,6 +3770,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3533,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3673,6 +3799,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2326,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3699,6 +3826,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2853,
     "latestSource": {
       "opType": "update_textdoc",
@@ -3727,6 +3855,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3580,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3755,6 +3884,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2616,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3783,6 +3913,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1898,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3811,6 +3942,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2173,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3839,6 +3971,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 1,
     "unresolvedPartialOps": 7,
+    "commentOps": 0,
     "latestBodyLength": 2622,
     "latestSource": {
       "opType": "update_textdoc",
@@ -3867,6 +4000,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1154,
     "latestSource": {
       "opType": "update_textdoc",
@@ -3895,6 +4029,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2091,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3923,6 +4058,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2530,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3951,6 +4087,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1218,
     "latestSource": {
       "opType": "create_textdoc",
@@ -3979,6 +4116,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1339,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4007,6 +4145,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2943,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4035,6 +4174,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1731,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4059,6 +4199,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4158,
     "latestSource": {
       "opType": "update_textdoc",
@@ -4087,6 +4228,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1941,
     "latestSource": {
       "opType": "update_textdoc",
@@ -4115,6 +4257,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 218,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4146,6 +4289,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 2,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 660,
     "latestSource": {
       "opType": "update_textdoc",
@@ -4174,6 +4318,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 560,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4203,6 +4348,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2909,
     "latestSource": {
       "opType": "update_textdoc",
@@ -4231,6 +4377,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 883,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4259,6 +4406,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1403,
     "latestSource": {
       "opType": "update_textdoc",
@@ -4288,6 +4436,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 700,
     "latestSource": {
       "opType": "update_textdoc",
@@ -4316,6 +4465,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2031,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4344,6 +4494,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3117,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4372,6 +4523,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2095,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4400,6 +4552,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 3213,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4428,6 +4581,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 940,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4456,6 +4610,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1320,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4484,6 +4639,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 887,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4512,6 +4668,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 993,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4540,6 +4697,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 509,
     "latestSource": {
       "opType": "update_textdoc",
@@ -4564,6 +4722,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 570,
     "latestSource": {
       "opType": "update_textdoc",
@@ -4592,6 +4751,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 1543,
     "latestSource": {
       "opType": "update_textdoc",
@@ -4626,6 +4786,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1682,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4654,6 +4815,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2036,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4682,6 +4844,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 2,
     "latestBodyLength": 3026,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4711,6 +4874,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 660,
     "latestSource": {
       "opType": "update_textdoc",
@@ -4754,6 +4918,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1944,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4782,6 +4947,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1208,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4810,6 +4976,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1074,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4838,6 +5005,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1004,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4866,6 +5034,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1147,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4890,6 +5059,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 869,
     "latestSource": {
       "opType": "update_textdoc",
@@ -4918,6 +5088,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1732,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4946,6 +5117,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2109,
     "latestSource": {
       "opType": "create_textdoc",
@@ -4977,6 +5149,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 1975,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5005,6 +5178,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1421,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5033,6 +5207,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1540,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5061,6 +5236,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1501,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5089,6 +5265,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1751,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5129,6 +5306,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1686,
     "latestSource": {
       "opType": "update_textdoc",
@@ -5157,6 +5335,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 2652,
     "latestSource": {
       "opType": "update_textdoc",
@@ -5185,6 +5364,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3249,
     "latestSource": {
       "opType": "update_textdoc",
@@ -5213,6 +5393,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3993,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5241,6 +5422,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3113,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5269,6 +5451,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2558,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5301,6 +5484,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 517,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5331,6 +5515,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 952,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5359,6 +5544,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2016,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5393,6 +5579,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1796,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5423,6 +5610,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1449,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5454,6 +5642,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2054,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5482,6 +5671,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 874,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5515,6 +5705,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2334,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5543,6 +5734,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1374,
     "latestSource": {
       "opType": "update_textdoc",
@@ -5571,6 +5763,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 406,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5599,6 +5792,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 2,
     "latestBodyLength": 3562,
     "latestSource": {
       "opType": "update_textdoc",
@@ -5627,6 +5821,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1207,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5655,6 +5850,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 860,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5683,6 +5879,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2481,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5707,6 +5904,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1085,
     "latestSource": {
       "opType": "update_textdoc",
@@ -5735,6 +5933,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3538,
     "latestSource": {
       "opType": "update_textdoc",
@@ -5765,6 +5964,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1015,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5801,6 +6001,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 2,
     "latestBodyLength": 1015,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5831,6 +6032,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 718,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5859,6 +6061,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 733,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5887,6 +6090,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 700,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5915,6 +6119,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 840,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5943,6 +6148,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1421,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5971,6 +6177,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1302,
     "latestSource": {
       "opType": "create_textdoc",
@@ -5999,6 +6206,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2410,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6027,6 +6235,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1315,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6055,6 +6264,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1238,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6083,6 +6293,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1562,
     "latestSource": {
       "opType": "update_textdoc",
@@ -6111,6 +6322,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2383,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6139,6 +6351,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1183,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6167,6 +6380,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 1,
+    "commentOps": 0,
     "latestBodyLength": 1901,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6195,6 +6409,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2109,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6226,6 +6441,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 2,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2938,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6258,6 +6474,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2028,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6286,6 +6503,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2031,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6314,6 +6532,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2056,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6342,6 +6561,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2361,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6370,6 +6590,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1821,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6398,6 +6619,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1753,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6426,6 +6648,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2989,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6454,6 +6677,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2888,
     "latestSource": {
       "opType": "update_textdoc",
@@ -6482,6 +6706,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3023,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6510,6 +6735,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 985,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6538,6 +6764,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2727,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6566,6 +6793,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1598,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6594,6 +6822,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 4,
+    "commentOps": 12,
     "latestBodyLength": 1776,
     "latestSource": {
       "opType": "update_textdoc",
@@ -6622,6 +6851,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2673,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6653,6 +6883,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2688,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6681,6 +6912,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2915,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6709,6 +6941,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1576,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6737,6 +6970,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1474,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6765,6 +6999,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1236,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6793,6 +7028,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 2,
     "latestBodyLength": 1165,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6821,6 +7057,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4334,
     "latestSource": {
       "opType": "update_textdoc",
@@ -6849,6 +7086,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1349,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6877,6 +7115,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1818,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6905,6 +7144,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1816,
     "latestSource": {
       "opType": "update_textdoc",
@@ -6933,6 +7173,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1250,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6961,6 +7202,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2920,
     "latestSource": {
       "opType": "create_textdoc",
@@ -6989,6 +7231,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2139,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7018,6 +7261,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2029,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7046,6 +7290,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1082,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7074,6 +7319,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2678,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7102,6 +7348,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3509,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7130,6 +7377,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2282,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7158,6 +7406,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2919,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7186,6 +7435,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1517,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7214,6 +7464,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 6,
+    "commentOps": 0,
     "latestBodyLength": 2221,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7238,6 +7489,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1222,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7266,6 +7518,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2024,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7294,6 +7547,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2525,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7322,6 +7576,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2092,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7350,6 +7605,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2240,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7378,6 +7634,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1832,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7406,6 +7663,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2146,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7436,6 +7694,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 2,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 2532,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7467,6 +7726,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1285,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7495,6 +7755,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3580,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7523,6 +7784,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3472,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7551,6 +7813,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1874,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7579,6 +7842,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3191,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7607,6 +7871,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4216,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7635,6 +7900,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2644,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7663,6 +7929,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1961,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7691,6 +7958,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3161,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7719,6 +7987,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2835,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7747,6 +8016,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 910,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7775,6 +8045,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2249,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7803,6 +8074,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2446,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7831,6 +8103,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 975,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7860,6 +8133,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 911,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7890,6 +8164,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 768,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7919,6 +8194,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 833,
     "latestSource": {
       "opType": "create_textdoc",
@@ -7948,6 +8224,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 821,
     "latestSource": {
       "opType": "update_textdoc",
@@ -7978,6 +8255,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 908,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8006,6 +8284,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1003,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8034,6 +8313,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 935,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8062,6 +8342,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1648,
     "latestSource": {
       "opType": "update_textdoc",
@@ -8090,6 +8371,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2196,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8118,6 +8400,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2806,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8146,6 +8429,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2132,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8174,6 +8458,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2025,
     "latestSource": {
       "opType": "update_textdoc",
@@ -8202,6 +8487,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2155,
     "latestSource": {
       "opType": "update_textdoc",
@@ -8230,6 +8516,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2085,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8258,6 +8545,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3235,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8286,6 +8574,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 779,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8314,6 +8603,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 710,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8342,6 +8632,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 792,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8370,6 +8661,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 770,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8398,6 +8690,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 778,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8426,6 +8719,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 857,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8454,6 +8748,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 811,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8482,6 +8777,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 749,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8510,6 +8806,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 772,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8538,6 +8835,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 687,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8566,6 +8864,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 749,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8594,6 +8893,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 739,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8622,6 +8922,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 782,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8650,6 +8951,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 853,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8678,6 +8980,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 711,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8706,6 +9009,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 798,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8734,6 +9038,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 801,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8762,6 +9067,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 738,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8790,6 +9096,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 716,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8818,6 +9125,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 761,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8846,6 +9154,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 730,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8874,6 +9183,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 759,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8902,6 +9212,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 591,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8930,6 +9241,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 721,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8958,6 +9270,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 759,
     "latestSource": {
       "opType": "create_textdoc",
@@ -8986,6 +9299,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 826,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9014,6 +9328,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 735,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9042,6 +9357,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 763,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9070,6 +9386,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 1,
     "unresolvedPartialOps": 0,
+    "commentOps": 2,
     "latestBodyLength": 2800,
     "latestSource": {
       "opType": "update_textdoc",
@@ -9098,6 +9415,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 7,
     "unresolvedPartialOps": 2,
+    "commentOps": 0,
     "latestBodyLength": 22592,
     "latestSource": {
       "opType": "update_textdoc",
@@ -9126,6 +9444,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1640,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9154,6 +9473,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 0,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9182,6 +9502,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4514,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9210,6 +9531,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 727,
     "latestSource": {
       "opType": "update_textdoc",
@@ -9238,6 +9560,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1477,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9266,6 +9589,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 1103,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9294,6 +9618,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3689,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9322,6 +9647,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 1,
+    "commentOps": 0,
     "latestBodyLength": 1653,
     "latestSource": {
       "opType": "update_textdoc",
@@ -9350,6 +9676,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5656,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9378,6 +9705,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 283,
     "latestSource": {
       "opType": "update_textdoc",
@@ -9406,6 +9734,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1925,
     "latestSource": {
       "opType": "update_textdoc",
@@ -9434,6 +9763,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 77,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9462,6 +9792,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1648,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9490,6 +9821,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 1432,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9518,6 +9850,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1201,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9546,6 +9879,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1586,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9574,6 +9908,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1703,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9602,6 +9937,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4019,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9630,6 +9966,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 956,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9658,6 +9995,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2734,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9686,6 +10024,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 937,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9714,6 +10053,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 197,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9742,6 +10082,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4948,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9770,6 +10111,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2642,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9798,6 +10140,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 2728,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9826,6 +10169,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2264,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9854,6 +10198,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3660,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9882,6 +10227,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1992,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9910,6 +10256,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1969,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9938,6 +10285,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2144,
     "latestSource": {
       "opType": "create_textdoc",
@@ -9966,6 +10314,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 7504,
     "latestSource": {
       "opType": "update_textdoc",
@@ -9994,6 +10343,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 1,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 10164,
     "latestSource": {
       "opType": "update_textdoc",
@@ -10022,6 +10372,7 @@
     "partialBodyOps": 2,
     "appliedPartialOps": 1,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 4803,
     "latestSource": {
       "opType": "update_textdoc",
@@ -10050,6 +10401,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4186,
     "latestSource": {
       "opType": "update_textdoc",
@@ -10078,6 +10430,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2879,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10106,6 +10459,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4586,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10134,6 +10488,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2149,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10162,6 +10517,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1736,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10190,6 +10546,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 896,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10218,6 +10575,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5273,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10246,6 +10604,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4394,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10274,6 +10633,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1346,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10302,6 +10662,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1608,
     "latestSource": {
       "opType": "update_textdoc",
@@ -10330,6 +10691,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5166,
     "latestSource": {
       "opType": "update_textdoc",
@@ -10358,6 +10720,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 754,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10386,6 +10749,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4029,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10414,6 +10778,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2416,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10442,6 +10807,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3575,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10470,6 +10836,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2846,
     "latestSource": {
       "opType": "update_textdoc",
@@ -10498,6 +10865,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1544,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10526,6 +10894,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1703,
     "latestSource": {
       "opType": "update_textdoc",
@@ -10554,6 +10923,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3166,
     "latestSource": {
       "opType": "update_textdoc",
@@ -10582,6 +10952,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1888,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10610,6 +10981,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2557,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10638,6 +11010,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 1,
+    "commentOps": 1,
     "latestBodyLength": 2592,
     "latestSource": {
       "opType": "update_textdoc",
@@ -10666,6 +11039,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2190,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10694,6 +11068,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2500,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10722,6 +11097,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4496,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10750,6 +11126,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2951,
     "latestSource": {
       "opType": "update_textdoc",
@@ -10778,6 +11155,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2791,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10806,6 +11184,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1700,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10834,6 +11213,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1897,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10862,6 +11242,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3358,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10890,6 +11271,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1659,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10918,6 +11300,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1506,
     "latestSource": {
       "opType": "update_textdoc",
@@ -10946,6 +11329,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3396,
     "latestSource": {
       "opType": "create_textdoc",
@@ -10974,6 +11358,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3465,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11002,6 +11387,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 5108,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11030,6 +11416,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2079,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11058,6 +11445,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2090,
     "latestSource": {
       "opType": "update_textdoc",
@@ -11086,6 +11474,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1958,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11114,6 +11503,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1091,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11142,6 +11532,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1670,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11170,6 +11561,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3898,
     "latestSource": {
       "opType": "update_textdoc",
@@ -11198,6 +11590,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1979,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11226,6 +11619,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2963,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11254,6 +11648,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3472,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11282,6 +11677,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3916,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11310,6 +11706,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2034,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11338,6 +11735,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1017,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11366,6 +11764,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3375,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11394,6 +11793,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1794,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11422,6 +11822,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2481,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11450,6 +11851,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 969,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11478,6 +11880,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 922,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11506,6 +11909,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1927,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11534,6 +11938,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2989,
     "latestSource": {
       "opType": "update_textdoc",
@@ -11562,6 +11967,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1796,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11590,6 +11996,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2298,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11618,6 +12025,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3440,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11646,6 +12054,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1561,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11674,6 +12083,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1002,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11702,6 +12112,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2616,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11730,6 +12141,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1497,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11758,6 +12170,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1148,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11786,6 +12199,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 990,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11814,6 +12228,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1352,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11842,6 +12257,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1189,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11870,6 +12286,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2081,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11898,6 +12315,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1623,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11926,6 +12344,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1392,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11954,6 +12373,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1051,
     "latestSource": {
       "opType": "create_textdoc",
@@ -11982,6 +12402,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1026,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12010,6 +12431,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1630,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12038,6 +12460,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1061,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12066,6 +12489,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1139,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12094,6 +12518,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1230,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12122,6 +12547,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1266,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12150,6 +12576,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1058,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12178,6 +12605,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1095,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12206,6 +12634,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1077,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12234,6 +12663,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1222,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12262,6 +12692,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3057,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12290,6 +12721,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1287,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12318,6 +12750,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2321,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12346,6 +12779,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2710,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12374,6 +12808,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3785,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12402,6 +12837,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4379,
     "latestSource": {
       "opType": "update_textdoc",
@@ -12430,6 +12866,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1849,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12458,6 +12895,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5773,
     "latestSource": {
       "opType": "update_textdoc",
@@ -12486,6 +12924,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5918,
     "latestSource": {
       "opType": "update_textdoc",
@@ -12514,6 +12953,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2396,
     "latestSource": {
       "opType": "update_textdoc",
@@ -12542,6 +12982,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 9084,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12570,6 +13011,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1523,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12598,6 +13040,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 9129,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12626,6 +13069,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1223,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12654,6 +13098,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3895,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12682,6 +13127,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2668,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12710,6 +13156,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 13,
+    "commentOps": 2,
     "latestBodyLength": 5656,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12738,6 +13185,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4984,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12766,6 +13214,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3053,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12794,6 +13243,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2419,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12822,6 +13272,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4225,
     "latestSource": {
       "opType": "update_textdoc",
@@ -12850,6 +13301,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3668,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12878,6 +13330,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 6120,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12906,6 +13359,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 6583,
     "latestSource": {
       "opType": "update_textdoc",
@@ -12934,6 +13388,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2435,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12962,6 +13417,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3387,
     "latestSource": {
       "opType": "create_textdoc",
@@ -12990,6 +13446,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2282,
     "latestSource": {
       "opType": "update_textdoc",
@@ -13018,6 +13475,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 6022,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13046,6 +13504,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4393,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13074,6 +13533,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4784,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13102,6 +13562,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 1,
     "unresolvedPartialOps": 1,
+    "commentOps": 0,
     "latestBodyLength": 5992,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13130,6 +13591,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 8,
     "unresolvedPartialOps": 1,
+    "commentOps": 0,
     "latestBodyLength": 13058,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13158,6 +13620,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 1,
     "unresolvedPartialOps": 1,
+    "commentOps": 0,
     "latestBodyLength": 305,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13186,6 +13649,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4216,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13214,6 +13678,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4096,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13242,6 +13707,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3556,
     "latestSource": {
       "opType": "update_textdoc",
@@ -13270,6 +13736,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5064,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13298,6 +13765,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4708,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13326,6 +13794,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2236,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13354,6 +13823,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 2,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 4959,
     "latestSource": {
       "opType": "update_textdoc",
@@ -13382,6 +13852,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4856,
     "latestSource": {
       "opType": "update_textdoc",
@@ -13410,6 +13881,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2375,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13438,6 +13910,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4175,
     "latestSource": {
       "opType": "update_textdoc",
@@ -13466,6 +13939,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5127,
     "latestSource": {
       "opType": "update_textdoc",
@@ -13494,6 +13968,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5132,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13522,6 +13997,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5229,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13550,6 +14026,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1221,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13578,6 +14055,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2235,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13606,6 +14084,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4187,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13634,6 +14113,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2029,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13662,6 +14142,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3042,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13690,6 +14171,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3036,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13718,6 +14200,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 1,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4818,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13746,6 +14229,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5793,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13774,6 +14258,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4983,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13802,6 +14287,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2016,
     "latestSource": {
       "opType": "update_textdoc",
@@ -13830,6 +14316,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 6386,
     "latestSource": {
       "opType": "update_textdoc",
@@ -13858,6 +14345,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 8496,
     "latestSource": {
       "opType": "update_textdoc",
@@ -13886,6 +14374,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2469,
     "latestSource": {
       "opType": "update_textdoc",
@@ -13914,6 +14403,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 1387,
     "latestSource": {
       "opType": "update_textdoc",
@@ -13942,6 +14432,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1294,
     "latestSource": {
       "opType": "update_textdoc",
@@ -13970,6 +14461,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 8175,
     "latestSource": {
       "opType": "create_textdoc",
@@ -13998,6 +14490,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 260,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14026,6 +14519,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 188,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14054,6 +14548,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1892,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14082,6 +14577,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4154,
     "latestSource": {
       "opType": "update_textdoc",
@@ -14110,6 +14606,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 8530,
     "latestSource": {
       "opType": "update_textdoc",
@@ -14138,6 +14635,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 262,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14166,6 +14664,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2450,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14194,6 +14693,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2668,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14222,6 +14722,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2443,
     "latestSource": {
       "opType": "update_textdoc",
@@ -14250,6 +14751,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2502,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14278,6 +14780,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5582,
     "latestSource": {
       "opType": "update_textdoc",
@@ -14306,6 +14809,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5533,
     "latestSource": {
       "opType": "update_textdoc",
@@ -14334,6 +14838,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 1,
+    "commentOps": 0,
     "latestBodyLength": 4192,
     "latestSource": {
       "opType": "update_textdoc",
@@ -14362,6 +14867,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1352,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14390,6 +14896,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3640,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14418,6 +14925,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 887,
     "latestSource": {
       "opType": "update_textdoc",
@@ -14446,6 +14954,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1539,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14474,6 +14983,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1739,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14502,6 +15012,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 941,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14530,6 +15041,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3934,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14558,6 +15070,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3230,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14586,6 +15099,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1982,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14614,6 +15128,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3756,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14642,6 +15157,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4438,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14670,6 +15186,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2457,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14698,6 +15215,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2164,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14726,6 +15244,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1839,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14754,6 +15273,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3239,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14782,6 +15302,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 2518,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14810,6 +15331,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3387,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14838,6 +15360,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3403,
     "latestSource": {
       "opType": "update_textdoc",
@@ -14866,6 +15389,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 2,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2050,
     "latestSource": {
       "opType": "update_textdoc",
@@ -14894,6 +15418,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 3842,
     "latestSource": {
       "opType": "update_textdoc",
@@ -14922,6 +15447,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 6924,
     "latestSource": {
       "opType": "update_textdoc",
@@ -14950,6 +15476,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 6108,
     "latestSource": {
       "opType": "create_textdoc",
@@ -14978,6 +15505,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 3,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 16846,
     "latestSource": {
       "opType": "update_textdoc",
@@ -15006,6 +15534,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5914,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15034,6 +15563,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 835,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15062,6 +15592,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 11877,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15090,6 +15621,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1865,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15118,6 +15650,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3197,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15146,6 +15679,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3852,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15174,6 +15708,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 8,
+    "commentOps": 0,
     "latestBodyLength": 2378,
     "latestSource": {
       "opType": "update_textdoc",
@@ -15202,6 +15737,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 728,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15230,6 +15766,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 197,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15258,6 +15795,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 191,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15286,6 +15824,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 301,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15314,6 +15853,7 @@
     "partialBodyOps": 2,
     "appliedPartialOps": 1,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3751,
     "latestSource": {
       "opType": "update_textdoc",
@@ -15342,6 +15882,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 6317,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15370,6 +15911,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 33,
     "unresolvedPartialOps": 2,
+    "commentOps": 1,
     "latestBodyLength": 20022,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15398,6 +15940,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3923,
     "latestSource": {
       "opType": "update_textdoc",
@@ -15426,6 +15969,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 124,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15454,6 +15998,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2888,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15482,6 +16027,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1610,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15510,6 +16056,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 1,
     "unresolvedPartialOps": 12,
+    "commentOps": 1,
     "latestBodyLength": 5513,
     "latestSource": {
       "opType": "update_textdoc",
@@ -15538,6 +16085,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1137,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15566,6 +16114,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 884,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15594,6 +16143,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 762,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15622,6 +16172,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 655,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15650,6 +16201,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2375,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15678,6 +16230,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 4,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3550,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15706,6 +16259,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4795,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15734,6 +16288,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1693,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15762,6 +16317,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1315,
     "latestSource": {
       "opType": "update_textdoc",
@@ -15790,6 +16346,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 815,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15818,6 +16375,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1217,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15846,6 +16404,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 902,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15874,6 +16433,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 365,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15902,6 +16462,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1632,
     "latestSource": {
       "opType": "update_textdoc",
@@ -15930,6 +16491,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1842,
     "latestSource": {
       "opType": "create_textdoc",
@@ -15958,6 +16520,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3984,
     "latestSource": {
       "opType": "update_textdoc",
@@ -15986,6 +16549,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4692,
     "latestSource": {
       "opType": "update_textdoc",
@@ -16014,6 +16578,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3158,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16042,6 +16607,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 1,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 5503,
     "latestSource": {
       "opType": "update_textdoc",
@@ -16070,6 +16636,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2764,
     "latestSource": {
       "opType": "update_textdoc",
@@ -16098,6 +16665,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2759,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16126,6 +16694,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2799,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16154,6 +16723,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1978,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16182,6 +16752,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1587,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16210,6 +16781,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 4309,
     "latestSource": {
       "opType": "update_textdoc",
@@ -16238,6 +16810,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2172,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16266,6 +16839,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1193,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16294,6 +16868,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1730,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16322,6 +16897,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1466,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16350,6 +16926,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 1875,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16374,6 +16951,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3564,
     "latestSource": {
       "opType": "update_textdoc",
@@ -16402,6 +16980,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1662,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16434,6 +17013,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 8,
+    "commentOps": 0,
     "latestBodyLength": 1409,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16462,6 +17042,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1161,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16497,6 +17078,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1967,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16525,6 +17107,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1919,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16553,6 +17136,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1378,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16581,6 +17165,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1022,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16609,6 +17194,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1531,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16642,6 +17228,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1926,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16670,6 +17257,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 2236,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16698,6 +17286,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1077,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16726,6 +17315,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1115,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16754,6 +17344,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2475,
     "latestSource": {
       "opType": "update_textdoc",
@@ -16782,6 +17373,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1564,
     "latestSource": {
       "opType": "update_textdoc",
@@ -16810,6 +17402,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3403,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16841,6 +17434,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2505,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16876,6 +17470,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1901,
     "latestSource": {
       "opType": "update_textdoc",
@@ -16913,6 +17508,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1254,
     "latestSource": {
       "opType": "update_textdoc",
@@ -16941,6 +17537,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2719,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16969,6 +17566,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2322,
     "latestSource": {
       "opType": "create_textdoc",
@@ -16997,6 +17595,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2562,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17025,6 +17624,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2276,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17053,6 +17653,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2314,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17081,6 +17682,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2309,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17109,6 +17711,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2078,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17137,6 +17740,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1864,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17165,6 +17769,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1773,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17193,6 +17798,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1861,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17217,6 +17823,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 7,
+    "commentOps": 0,
     "latestBodyLength": 0,
     "latestSource": null
   },
@@ -17238,6 +17845,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 850,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17266,6 +17874,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 910,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17294,6 +17903,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2526,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17322,6 +17932,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 883,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17350,6 +17961,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 850,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17378,6 +17990,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1762,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17406,6 +18019,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2311,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17434,6 +18048,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 699,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17462,6 +18077,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1664,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17490,6 +18106,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 978,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17520,6 +18137,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1168,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17548,6 +18166,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1372,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17576,6 +18195,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1191,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17604,6 +18224,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3411,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17628,6 +18249,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3375,
     "latestSource": {
       "opType": "update_textdoc",
@@ -17637,6 +18259,24 @@
       "heuristic": "conversation-last-artifact",
       "parseMode": "json-parse"
     }
+  },
+  {
+    "artifactKey": "UUID.1775e1d5-4c05-431c-93d4-15e4076f7899",
+    "names": [],
+    "titles": [],
+    "conversations": [
+      "Librarian Assistance Request"
+    ],
+    "recovered": false,
+    "latestTime": null,
+    "latestBodyComplete": false,
+    "completeBodyOps": 0,
+    "partialBodyOps": 0,
+    "appliedPartialOps": 0,
+    "unresolvedPartialOps": 0,
+    "commentOps": 1,
+    "latestBodyLength": 0,
+    "latestSource": null
   },
   {
     "artifactKey": "UUID.2f077234-b54c-49cb-8525-6e43b2a8163c-0",
@@ -17652,6 +18292,7 @@
     "partialBodyOps": 1,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1891,
     "latestSource": {
       "opType": "update_textdoc",
@@ -17661,6 +18302,24 @@
       "heuristic": "conversation-last-artifact",
       "parseMode": "regex-update-partial"
     }
+  },
+  {
+    "artifactKey": "UUID.401b8443-0994-45ce-9253-ec4a016b0b75",
+    "names": [],
+    "titles": [],
+    "conversations": [
+      "ELos Canvas Index Summary"
+    ],
+    "recovered": false,
+    "latestTime": null,
+    "latestBodyComplete": false,
+    "completeBodyOps": 0,
+    "partialBodyOps": 0,
+    "appliedPartialOps": 0,
+    "unresolvedPartialOps": 0,
+    "commentOps": 1,
+    "latestBodyLength": 0,
+    "latestSource": null
   },
   {
     "artifactKey": "UUID.4fbfda22-58d7-405f-bb7c-060157063eb4-0",
@@ -17676,6 +18335,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1700,
     "latestSource": {
       "opType": "update_textdoc",
@@ -17685,6 +18345,24 @@
       "heuristic": "conversation-last-artifact",
       "parseMode": "json-parse"
     }
+  },
+  {
+    "artifactKey": "UUID.5973f327-4173-48e3-8dd0-d033ef20c13c",
+    "names": [],
+    "titles": [],
+    "conversations": [
+      "Librarian Assistance Request"
+    ],
+    "recovered": false,
+    "latestTime": null,
+    "latestBodyComplete": false,
+    "completeBodyOps": 0,
+    "partialBodyOps": 0,
+    "appliedPartialOps": 0,
+    "unresolvedPartialOps": 0,
+    "commentOps": 1,
+    "latestBodyLength": 0,
+    "latestSource": null
   },
   {
     "artifactKey": "UUID.59b2152d-7a83-496d-85a5-c0e4bd3ef1a8",
@@ -17700,6 +18378,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 0,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17709,6 +18388,114 @@
       "heuristic": "create-payload",
       "parseMode": "json-parse"
     }
+  },
+  {
+    "artifactKey": "UUID.879854d4-63cc-4f9a-9f82-807685e05441",
+    "names": [],
+    "titles": [],
+    "conversations": [
+      "NEW ELOS EXTENSION"
+    ],
+    "recovered": false,
+    "latestTime": null,
+    "latestBodyComplete": false,
+    "completeBodyOps": 0,
+    "partialBodyOps": 0,
+    "appliedPartialOps": 0,
+    "unresolvedPartialOps": 0,
+    "commentOps": 1,
+    "latestBodyLength": 0,
+    "latestSource": null
+  },
+  {
+    "artifactKey": "UUID.97520259-0eb2-416f-bfe5-af02b4b3ff1e",
+    "names": [],
+    "titles": [],
+    "conversations": [
+      "Persona Crafter Creation"
+    ],
+    "recovered": false,
+    "latestTime": null,
+    "latestBodyComplete": false,
+    "completeBodyOps": 0,
+    "partialBodyOps": 0,
+    "appliedPartialOps": 0,
+    "unresolvedPartialOps": 0,
+    "commentOps": 1,
+    "latestBodyLength": 0,
+    "latestSource": null
+  },
+  {
+    "artifactKey": "UUID.9b688de3-a102-4806-a739-862dfb5672a6",
+    "names": [],
+    "titles": [],
+    "conversations": [
+      "PODCAST TRANSCRIPTION"
+    ],
+    "recovered": false,
+    "latestTime": null,
+    "latestBodyComplete": false,
+    "completeBodyOps": 0,
+    "partialBodyOps": 0,
+    "appliedPartialOps": 0,
+    "unresolvedPartialOps": 0,
+    "commentOps": 1,
+    "latestBodyLength": 0,
+    "latestSource": null
+  },
+  {
+    "artifactKey": "UUID.a12ab623-4a3b-4cd8-8dd5-5ba8e3d7e3ff",
+    "names": [],
+    "titles": [],
+    "conversations": [
+      "PROMPT LIBRARY"
+    ],
+    "recovered": false,
+    "latestTime": null,
+    "latestBodyComplete": false,
+    "completeBodyOps": 0,
+    "partialBodyOps": 0,
+    "appliedPartialOps": 0,
+    "unresolvedPartialOps": 0,
+    "commentOps": 1,
+    "latestBodyLength": 0,
+    "latestSource": null
+  },
+  {
+    "artifactKey": "UUID.a44379e3-78eb-4707-883c-04d1eab4b756",
+    "names": [],
+    "titles": [],
+    "conversations": [
+      "PROMPT LIBRARY"
+    ],
+    "recovered": false,
+    "latestTime": null,
+    "latestBodyComplete": false,
+    "completeBodyOps": 0,
+    "partialBodyOps": 0,
+    "appliedPartialOps": 0,
+    "unresolvedPartialOps": 0,
+    "commentOps": 1,
+    "latestBodyLength": 0,
+    "latestSource": null
+  },
+  {
+    "artifactKey": "UUID.a92bade0-635a-4cbe-8011-fe1534a30beb",
+    "names": [],
+    "titles": [],
+    "conversations": [
+      "Accessing Podcast Transcripts"
+    ],
+    "recovered": false,
+    "latestTime": null,
+    "latestBodyComplete": false,
+    "completeBodyOps": 0,
+    "partialBodyOps": 0,
+    "appliedPartialOps": 0,
+    "unresolvedPartialOps": 0,
+    "commentOps": 1,
+    "latestBodyLength": 0,
+    "latestSource": null
   },
   {
     "artifactKey": "UUID.ad708119-6b5a-4f79-a08d-67ae444d89cc-0",
@@ -17724,6 +18511,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2999,
     "latestSource": {
       "opType": "update_textdoc",
@@ -17733,6 +18521,24 @@
       "heuristic": "conversation-last-artifact",
       "parseMode": "json-parse"
     }
+  },
+  {
+    "artifactKey": "UUID.b62fbb2a-a0d3-4d06-ae79-2f8079501b89",
+    "names": [],
+    "titles": [],
+    "conversations": [
+      "Canvas List Retrieval"
+    ],
+    "recovered": false,
+    "latestTime": null,
+    "latestBodyComplete": false,
+    "completeBodyOps": 0,
+    "partialBodyOps": 0,
+    "appliedPartialOps": 0,
+    "unresolvedPartialOps": 0,
+    "commentOps": 1,
+    "latestBodyLength": 0,
+    "latestSource": null
   },
   {
     "artifactKey": "UUID.d565e00c-8025-4640-816c-6a279a270aff-0",
@@ -17748,6 +18554,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1017,
     "latestSource": {
       "opType": "update_textdoc",
@@ -17757,6 +18564,24 @@
       "heuristic": "conversation-last-artifact",
       "parseMode": "json-parse"
     }
+  },
+  {
+    "artifactKey": "UUID.d7a28d4e-f240-4d2b-b1fe-88a013de7939",
+    "names": [],
+    "titles": [],
+    "conversations": [
+      "Recursive Persona Architecture"
+    ],
+    "recovered": false,
+    "latestTime": null,
+    "latestBodyComplete": false,
+    "completeBodyOps": 0,
+    "partialBodyOps": 0,
+    "appliedPartialOps": 0,
+    "unresolvedPartialOps": 0,
+    "commentOps": 1,
+    "latestBodyLength": 0,
+    "latestSource": null
   },
   {
     "artifactKey": "UUID.d7fc8286-8c8d-454c-a73d-331ce6ff9c08-0",
@@ -17772,6 +18597,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 667,
     "latestSource": {
       "opType": "update_textdoc",
@@ -17781,6 +18607,42 @@
       "heuristic": "conversation-last-artifact",
       "parseMode": "json-parse"
     }
+  },
+  {
+    "artifactKey": "UUID.db3836aa-ca8f-4a8b-a6bc-63be1485ba5e",
+    "names": [],
+    "titles": [],
+    "conversations": [
+      "Podcast Transcript Retrieval"
+    ],
+    "recovered": false,
+    "latestTime": null,
+    "latestBodyComplete": false,
+    "completeBodyOps": 0,
+    "partialBodyOps": 0,
+    "appliedPartialOps": 0,
+    "unresolvedPartialOps": 0,
+    "commentOps": 1,
+    "latestBodyLength": 0,
+    "latestSource": null
+  },
+  {
+    "artifactKey": "UUID.e4259d89-b36f-4203-9ad7-22479f856ab7",
+    "names": [],
+    "titles": [],
+    "conversations": [
+      "ELos Protocol Execution Status"
+    ],
+    "recovered": false,
+    "latestTime": null,
+    "latestBodyComplete": false,
+    "completeBodyOps": 0,
+    "partialBodyOps": 0,
+    "appliedPartialOps": 0,
+    "unresolvedPartialOps": 0,
+    "commentOps": 1,
+    "latestBodyLength": 0,
+    "latestSource": null
   },
   {
     "artifactKey": "UUID.ec74345d-9166-4cd0-9a8b-bcbf8e19bac7-0",
@@ -17796,6 +18658,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3396,
     "latestSource": {
       "opType": "update_textdoc",
@@ -17805,6 +18668,24 @@
       "heuristic": "conversation-last-artifact",
       "parseMode": "json-parse"
     }
+  },
+  {
+    "artifactKey": "UUID.f1ad3fca-5ce0-483a-bcd5-f59c372b1ed0",
+    "names": [],
+    "titles": [],
+    "conversations": [
+      "Accessing Podcast Transcripts"
+    ],
+    "recovered": false,
+    "latestTime": null,
+    "latestBodyComplete": false,
+    "completeBodyOps": 0,
+    "partialBodyOps": 0,
+    "appliedPartialOps": 0,
+    "unresolvedPartialOps": 0,
+    "commentOps": 1,
+    "latestBodyLength": 0,
+    "latestSource": null
   },
   {
     "artifactKey": "UX.400.ONB",
@@ -17824,6 +18705,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1374,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17852,6 +18734,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3576,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17886,6 +18769,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2803,
     "latestSource": {
       "opType": "update_textdoc",
@@ -17914,6 +18798,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2559,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17942,6 +18827,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2362,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17970,6 +18856,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3087,
     "latestSource": {
       "opType": "create_textdoc",
@@ -17998,6 +18885,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3150,
     "latestSource": {
       "opType": "create_textdoc",
@@ -18026,6 +18914,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2278,
     "latestSource": {
       "opType": "create_textdoc",
@@ -18054,6 +18943,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3258,
     "latestSource": {
       "opType": "create_textdoc",
@@ -18082,6 +18972,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 2762,
     "latestSource": {
       "opType": "create_textdoc",
@@ -18110,6 +19001,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 3152,
     "latestSource": {
       "opType": "update_textdoc",
@@ -18142,6 +19034,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1514,
     "latestSource": {
       "opType": "create_textdoc",
@@ -18174,6 +19067,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 4,
+    "commentOps": 0,
     "latestBodyLength": 1598,
     "latestSource": {
       "opType": "create_textdoc",
@@ -18208,6 +19102,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 1,
     "latestBodyLength": 1699,
     "latestSource": {
       "opType": "create_textdoc",
@@ -18242,6 +19137,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 1670,
     "latestSource": {
       "opType": "create_textdoc",
@@ -18270,6 +19166,7 @@
     "partialBodyOps": 0,
     "appliedPartialOps": 0,
     "unresolvedPartialOps": 0,
+    "commentOps": 0,
     "latestBodyLength": 521,
     "latestSource": {
       "opType": "create_textdoc",

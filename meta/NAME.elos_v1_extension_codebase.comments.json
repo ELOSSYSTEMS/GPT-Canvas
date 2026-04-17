@@ -1,0 +1,29 @@
+{
+  "artifactKey": "NAME.elos_v1_extension_codebase",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748118138.118542,
+      "messageId": "bf3c43b7-3f3d-4751-9645-705bcc5afd09",
+      "conversation": "ELos Build Framework",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "This import will not work in a content script without bundling. Consider inlining the `injectWand` function here instead.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "If you're inlining `injectWand`, make sure the function is defined above this listener to avoid runtime errors.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"import \\\\{ injectWand \\\\} from '\\\\./ui/wandToggle.js';\",\n      \"comment\": \"This import will not work in a content script without bundling. Consider inlining the `injectWand` function here instead.\"\n    },\n    {\n      \"pattern\": \"document\\\\.addEventListener\\\\('DOMContentLoaded', injectWand\\\\);\",\n      \"comment\": \"If you're inlining `injectWand`, make sure the function is defined above this listener to avoid runtime errors.\"\n    }\n  ]\n}"
+    }
+  ]
+}

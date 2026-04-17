@@ -1,0 +1,23 @@
+{
+  "artifactKey": "UUID.401b8443-0994-45ce-9253-ec4a016b0b75",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748111653.462262,
+      "messageId": "401b8443-0994-45ce-9253-ec4a016b0b75",
+      "conversation": "ELos Canvas Index Summary",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "I'll compile and present the full ELos canvas index based on all archived and cataloged canvases linked to the ELos system. This includes all core structures, build phases, UI logic, command systems, and tiered onboarding layers.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\"comments\": [{\"pattern\": \".*\", \"comment\": \"I'll compile and present the full ELos canvas index based on all archived and cataloged canvases linked to the ELos system. This includes all core structures, build phases, UI logic, command systems, and tiered onboarding layers.\"}]}"
+    }
+  ]
+}

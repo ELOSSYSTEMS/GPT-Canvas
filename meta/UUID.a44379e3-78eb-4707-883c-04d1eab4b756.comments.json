@@ -1,0 +1,23 @@
+{
+  "artifactKey": "UUID.a44379e3-78eb-4707-883c-04d1eab4b756",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1749794075.574111,
+      "messageId": "a44379e3-78eb-4707-883c-04d1eab4b756",
+      "conversation": "PROMPT LIBRARY",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Captain, please confirm permission to retrieve and display the full raw contents of AO.910.PRM.LIB. This action will allow direct audit of all prompt entries to validate count, structure, and integrity.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Captain, please confirm permission to retrieve and display the full raw contents of AO.910.PRM.LIB. This action will allow direct audit of all prompt entries to validate count, structure, and integrity.\"\n    }\n  ]\n}"
+    }
+  ]
+}

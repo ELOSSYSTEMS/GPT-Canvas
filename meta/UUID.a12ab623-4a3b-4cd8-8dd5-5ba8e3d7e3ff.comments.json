@@ -1,0 +1,23 @@
+{
+  "artifactKey": "UUID.a12ab623-4a3b-4cd8-8dd5-5ba8e3d7e3ff",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1749794044.655927,
+      "messageId": "a12ab623-4a3b-4cd8-8dd5-5ba8e3d7e3ff",
+      "conversation": "PROMPT LIBRARY",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Verify that all prompt entries (#1–#317) are present and uniquely indexed. If any are missing, corrupted, or overwritten, restore from backup or prompt creation logs. Ensure IDs are sequential and match known anchors like #1, #8, #129, #185, etc.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Verify that all prompt entries (#1–#317) are present and uniquely indexed. If any are missing, corrupted, or overwritten, restore from backup or prompt creation logs. Ensure IDs are sequential and match known anchors like #1, #8, #129, #185, etc.\"\n    }\n  ]\n}"
+    }
+  ]
+}

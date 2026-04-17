@@ -27,6 +27,7 @@
   "partialBodyOps": 0,
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 8,
+  "commentOps": 0,
   "operations": [
     {
       "opType": "update_textdoc",

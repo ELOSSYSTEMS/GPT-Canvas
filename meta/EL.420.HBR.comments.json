@@ -1,0 +1,23 @@
+{
+  "artifactKey": "EL.420.HBR",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748677174.935297,
+      "messageId": "c9c19edd-d715-4253-a082-dc8bb6c0ace2",
+      "conversation": "ELOS Extension Integration",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Add the following canvases to the visible Bootloader Output Layer:\n- EL.420.HEB – ELOS Hebrew Lite Extension – Scaffold v1.0\n- EL.420.HBR – Hebrew Tone Fidelity Engine – Rewrite Logic Scaffold\n- EL.420.HBA – Hebrew Tone Fidelity Fireproofing Audit\nThis ensures they appear under both 'Active Systems' and 'Active Logic Blocks' as part of the ELOS Translate stack.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Add the following canvases to the visible Bootloader Output Layer:\\n- EL.420.HEB – ELOS Hebrew Lite Extension – Scaffold v1.0\\n- EL.420.HBR – Hebrew Tone Fidelity Engine – Rewrite Logic Scaffold\\n- EL.420.HBA – Hebrew Tone Fidelity Fireproofing Audit\\nThis ensures they appear under both 'Active Systems' and 'Active Logic Blocks' as part of the ELOS Translate stack.\"\n    }\n  ]\n}"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748458099.713219,
+      "messageId": "03fd2c4a-5920-4af5-9554-3f1c9f63b9a8",
+      "conversation": "Prompt Refinement Protocol",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "This string should be updated to 'ELos' or 'ELos Protocol' to reflect the new naming convention and eliminate legacy Stargate references.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Ensure that this key has been renamed consistently to 'elos_protocol' throughout the document.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Consider renaming this to 'ELos Prompt Protocol' to align with the current branding and eliminate all Stargate references.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"stargate\",\n      \"comment\": \"This string should be updated to 'ELos' or 'ELos Protocol' to reflect the new naming convention and eliminate legacy Stargate references.\"\n    },\n    {\n      \"pattern\": \"stargate_protocol\",\n      \"comment\": \"Ensure that this key has been renamed consistently to 'elos_protocol' throughout the document.\"\n    },\n    {\n      \"pattern\": \"Stargate Hybrid Protocol\",\n      \"comment\": \"Consider renaming this to 'ELos Prompt Protocol' to align with the current branding and eliminate all Stargate references.\"\n    }\n  ]\n}"
+    }
+  ]
+}

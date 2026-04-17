@@ -4,6 +4,7 @@ Artifacts with partial latest bodies: 10
 Applied partial regex updates: 77
 Unresolved partial operations: 96
 Regex errors: 4
+Preserved comment operations: 80
 
 - `DA.700.ROU` latest body is partial
 - `NAME.bilingual_email_templates` latest body is partial

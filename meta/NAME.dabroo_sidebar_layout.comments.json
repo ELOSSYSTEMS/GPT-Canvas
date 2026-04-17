@@ -1,0 +1,35 @@
+{
+  "artifactKey": "NAME.dabroo_sidebar_layout",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1747035904.110068,
+      "messageId": "402158c6-cbf7-467f-91ee-7e2d1ddade5f",
+      "conversation": "Mobile scaling fix",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Consider moving this toggle button inside your existing `.chat-top-bar` to unify layout and styling with the main chat interface.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "You may want to bind a keyup event to this input so users can start typing immediately and filter items dynamically, if desired.",
+            "author": null,
+            "range": null,
+            "id": null
+          },
+          {
+            "comment": "Replace this placeholder logo with your brand icon to match the rest of the site's visual identity.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"<button class=\\\"sidebar-toggle\\\" onclick=\\\"toggleSidebar\\\\(\\\\)\\\">\",\n      \"comment\": \"Consider moving this toggle button inside your existing `.chat-top-bar` to unify layout and styling with the main chat interface.\"\n    },\n    {\n      \"pattern\": \"<div class=\\\"sidebar-search\\\">[\\\\s\\\\S]*?<\\\\/div>\",\n      \"comment\": \"You may want to bind a keyup event to this input so users can start typing immediately and filter items dynamically, if desired.\"\n    },\n    {\n      \"pattern\": \"<img src=\\\"https://via\\\\.placeholder\\\\.com/24\\\" alt=\\\"logo\\\" class=\\\"sidebar-logo\\\" \\\\/>\",\n      \"comment\": \"Replace this placeholder logo with your brand icon to match the rest of the site's visual identity.\"\n    }\n  ]\n}"
+    }
+  ]
+}

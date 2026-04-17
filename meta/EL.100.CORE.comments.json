@@ -1,0 +1,23 @@
+{
+  "artifactKey": "EL.100.CORE",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1749405483.182901,
+      "messageId": "fc1ce5a5-09e7-4d61-818b-8d9c7821386e",
+      "conversation": "System Boot Initialization",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Captain, the Librarian persona is not currently present in any canvas, including this one. It must be re-registered as a system-level persona (likely AO.910.PSN.LIBRARIAN) and linked to the bootloader and Builder onboarding system. Would you like me to restore and integrate it?",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Captain, the Librarian persona is not currently present in any canvas, including this one. It must be re-registered as a system-level persona (likely AO.910.PSN.LIBRARIAN) and linked to the bootloader and Builder onboarding system. Would you like me to restore and integrate it?\"\n    }\n  ]\n}"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artifactKey": "NAME.AI.705.WeightsReuse",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748756957.730142,
+      "messageId": "2d6835dd-62be-445c-87f8-37d5f6e220a3",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Ensure that all canvases in the 'ELos AI Introduction Course' are fully populated, cataloged with Dewey Decimal IDs, and registered in the AO.001.RBI master index. This guarantees long-term persistence in the Allon OS architecture.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \".*\",\n      \"comment\": \"Ensure that all canvases in the 'ELos AI Introduction Course' are fully populated, cataloged with Dewey Decimal IDs, and registered in the AO.001.RBI master index. This guarantees long-term persistence in the Allon OS architecture.\"\n    }\n  ]\n}"
+    }
+  ]
+}

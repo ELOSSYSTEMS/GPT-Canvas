@@ -1,0 +1,23 @@
+{
+  "artifactKey": "UUID.f1ad3fca-5ce0-483a-bcd5-f59c372b1ed0",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748075355.564866,
+      "messageId": "f1ad3fca-5ce0-483a-bcd5-f59c372b1ed0",
+      "conversation": "Accessing Podcast Transcripts",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "Accessing all podcast transcript canvases. One moment while I compile the list and retrieve their current state.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\"comments\":[{\"pattern\":\".*\",\"comment\":\"Accessing all podcast transcript canvases. One moment while I compile the list and retrieve their current state.\"}]}"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artifactKey": "AI.999.MAP",
+  "commentOps": [
+    {
+      "opType": "comment_textdoc",
+      "createTime": 1748613241.336558,
+      "messageId": "2210dbe5-880d-4315-9082-f9dea01f2434",
+      "conversation": "Psychometric Profile Analysis Request",
+      "parseMode": "json-parse",
+      "payloadSummary": {
+        "comments": [
+          {
+            "comment": "You should include a directive here to ensure all listed canvases are explicitly added to the master index (e.g., AO.001.RBI or equivalent), reinforcing cross-index accessibility.",
+            "author": null,
+            "range": null,
+            "id": null
+          }
+        ]
+      },
+      "payloadSnippet": "{\n  \"comments\": [\n    {\n      \"pattern\": \"vVerse Atlas – Topology of the Post-MIND Meta-System\",\n      \"comment\": \"You should include a directive here to ensure all listed canvases are explicitly added to the master index (e.g., AO.001.RBI or equivalent), reinforcing cross-index accessibility.\"\n    }\n  ]\n}"
+    }
+  ]
+}
