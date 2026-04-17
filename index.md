@@ -1,5 +1,11 @@
 # Recovered Canvas Inventory
 
+## Provenance
+
+- On February 16, 2026, a ChatGPT data export was created.
+- OpenClaw was then used to recover the canvases contained in that export.
+- This folder and Git repository were created to hold those recovered canvases and related recovery artifacts.
+
 - total conversations scanned: 2904
 - textdoc-related messages found: 1433
 - Dewey-like identifiers found: 1360
