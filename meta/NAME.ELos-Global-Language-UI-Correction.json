@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos-Global-Language-UI-Correction.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "ac50e964-b4df-49a5-88be-e2fbb972325a",
+      "seedConversation": "Dabroo vs ELos seperation",
+      "seedTime": 1748104130.27024,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748104130.27024,
+      "bodyComplete": true,
+      "bodyLength": 1017,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

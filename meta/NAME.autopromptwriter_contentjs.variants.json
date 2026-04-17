@@ -1,0 +1,127 @@
+{
+  "artifactKey": "NAME.autopromptwriter_contentjs",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.autopromptwriter_contentjs.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "ad0e53ab-e7f3-4d16-a615-e0eb2e607c01",
+      "seedConversation": "Prompt Strategy Deep Dive",
+      "seedTime": 1748375412.567953,
+      "latestTime": 1748375412.567953,
+      "bodyComplete": true,
+      "bodyLength": 5498,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748375412.567953,
+          "messageId": "ad0e53ab-e7f3-4d16-a615-e0eb2e607c01",
+          "conversation": "Prompt Strategy Deep Dive",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.autopromptwriter_contentjs--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "f31ff18c-20b4-48c7-a2e5-105deb80a977",
+      "seedConversation": "Prompt Strategy Deep Dive",
+      "seedTime": 1748375719.116201,
+      "latestTime": 1748375719.116201,
+      "bodyComplete": true,
+      "bodyLength": 4849,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748375719.116201,
+          "messageId": "f31ff18c-20b4-48c7-a2e5-105deb80a977",
+          "conversation": "Prompt Strategy Deep Dive",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.autopromptwriter_contentjs--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "0fc3e373-0408-46cd-bd23-92ac9bedb781",
+      "seedConversation": "Prompt Strategy Deep Dive",
+      "seedTime": 1748376516.183123,
+      "latestTime": 1748376516.183123,
+      "bodyComplete": true,
+      "bodyLength": 5222,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748376516.183123,
+          "messageId": "0fc3e373-0408-46cd-bd23-92ac9bedb781",
+          "conversation": "Prompt Strategy Deep Dive",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.autopromptwriter_contentjs--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "4ce9b682-3146-4734-a85e-2c70b98ad21e",
+      "seedConversation": "Prompt Strategy Deep Dive",
+      "seedTime": 1748376617.203835,
+      "latestTime": 1748376617.203835,
+      "bodyComplete": true,
+      "bodyLength": 6586,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748376617.203835,
+          "messageId": "4ce9b682-3146-4734-a85e-2c70b98ad21e",
+          "conversation": "Prompt Strategy Deep Dive",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.autopromptwriter_contentjs--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "73243565-6c21-455a-9b20-caf63e1dd771",
+      "seedConversation": "Prompt Strategy Deep Dive",
+      "seedTime": 1748377242.186702,
+      "latestTime": 1748377242.186702,
+      "bodyComplete": true,
+      "bodyLength": 1653,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748377242.186702,
+          "messageId": "73243565-6c21-455a-9b20-caf63e1dd771",
+          "conversation": "Prompt Strategy Deep Dive",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.autopromptwriter_contentjs--v05.md"
+    }
+  ]
+}

@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/IN.100.REB.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "8e51ce3b-0841-4806-a8b0-896e099066be",
+      "seedConversation": "ELos Rebrand Proposal",
+      "seedTime": 1748068306.446127,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748068306.446127,
+      "bodyComplete": true,
+      "bodyLength": 1832,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/IN.100.REB--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "a5115091-e70d-4575-8440-38049534babd",
+      "seedConversation": "ELos Rebrand Proposal",
+      "seedTime": 1748068314.825971,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748068314.825971,
+      "bodyComplete": true,
+      "bodyLength": 1832,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/IN.100.REB--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/IN.100.REB--v01.md",
+    "variants/IN.100.REB--v02.md"
+  ],
   "operations": [
     {
       "opType": "update_textdoc",

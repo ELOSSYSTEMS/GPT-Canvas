@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.450.FNC.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "45ac4402-77da-4909-950e-4c63eab87c71",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748199811.018873,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748199811.018873,
+      "bodyComplete": true,
+      "bodyLength": 3113,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

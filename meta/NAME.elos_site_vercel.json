@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.elos_site_vercel.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "591f44c8-37ef-48c9-9870-7d217899d97f",
+      "seedConversation": "System Boot Initialization",
+      "seedTime": 1749404116.764804,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749404116.764804,
+      "bodyComplete": true,
+      "bodyLength": 3358,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

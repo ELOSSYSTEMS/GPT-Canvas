@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.440.LOC.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "f469dc32-34a1-465e-98d5-5d511e458fa6",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748198815.040587,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748198815.040587,
+      "bodyComplete": true,
+      "bodyLength": 3993,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

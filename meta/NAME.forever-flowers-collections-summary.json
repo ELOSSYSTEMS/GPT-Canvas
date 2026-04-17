@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.forever-flowers-collections-summary.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d0f3c55e-2dd7-4b0b-b2ab-f2e92b06aaa9",
+      "seedConversation": "Forever Flowers Editions Overview",
+      "seedTime": 1752076506.156559,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1752076506.156559,
+      "bodyComplete": true,
+      "bodyLength": 4100,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.forever-flowers-collections-summary--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "f0775998-ef78-4240-a7ef-dc0e6a2b7216",
+      "seedConversation": "Forever Flowers Editions Overview",
+      "seedTime": 1752076608.641732,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1752076608.641732,
+      "bodyComplete": true,
+      "bodyLength": 4175,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.forever-flowers-collections-summary--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.forever-flowers-collections-summary--v01.md",
+    "variants/NAME.forever-flowers-collections-summary--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

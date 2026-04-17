@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos-Canvas-Index.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e06e9955-b3bc-4904-9a3b-e8553f4e0473",
+      "seedConversation": "ELos Canvas Index Summary",
+      "seedTime": 1748111654.881738,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748111654.881738,
+      "bodyComplete": true,
+      "bodyLength": 1979,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

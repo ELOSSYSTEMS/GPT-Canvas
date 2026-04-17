@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/DA.300.TGL.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "f94d648c-7b93-48d6-9d4f-52b110f630cf",
+      "seedConversation": "PERSONA > EDEN PROMPT",
+      "seedTime": 1747768562.690248,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747768562.690248,
+      "bodyComplete": true,
+      "bodyLength": 2091,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

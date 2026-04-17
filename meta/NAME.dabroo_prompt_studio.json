@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.dabroo_prompt_studio.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "dae48119-c8aa-4383-8258-a82b3fc7c777",
+      "seedConversation": "הצעות לפיתוח דף",
+      "seedTime": 1747077753.307746,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747077753.307746,
+      "bodyComplete": true,
+      "bodyLength": 7431,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.dabroo_prompt_studio--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "610bc252-68a4-47df-9a0c-17eedf96b951",
+      "seedConversation": "הצעות לפיתוח דף",
+      "seedTime": 1747077974.336304,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1747077974.336304,
+      "bodyComplete": true,
+      "bodyLength": 7504,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.dabroo_prompt_studio--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.dabroo_prompt_studio--v01.md",
+    "variants/NAME.dabroo_prompt_studio--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

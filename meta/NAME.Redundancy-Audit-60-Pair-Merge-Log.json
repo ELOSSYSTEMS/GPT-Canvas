@@ -9,7 +9,7 @@
   "conversations": [
     "60 Flagged Pairs Review"
   ],
-  "latestTime": 1748081662.623828,
+  "latestTime": 1748081688.975863,
   "latestBodyComplete": true,
   "latestSource": {
     "opType": "update_textdoc",
@@ -21,9 +21,47 @@
   },
   "completeBodyOps": 2,
   "partialBodyOps": 0,
-  "appliedPartialOps": 0,
-  "unresolvedPartialOps": 8,
+  "appliedPartialOps": 1,
+  "unresolvedPartialOps": 7,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Redundancy-Audit-60-Pair-Merge-Log.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a47d3ab4-07a0-4d01-95a9-cf9feee38101",
+      "seedConversation": "60 Flagged Pairs Review",
+      "seedTime": 1748081617.944121,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748081688.975863,
+      "bodyComplete": true,
+      "bodyLength": 2378,
+      "appliedPartials": 1,
+      "lineageLength": 2,
+      "variantPath": "variants/NAME.Redundancy-Audit-60-Pair-Merge-Log--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "19ab1bd1-5140-4981-bf45-a4d9e78ff92a",
+      "seedConversation": "60 Flagged Pairs Review",
+      "seedTime": 1748081662.623828,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1748081662.623828,
+      "bodyComplete": true,
+      "bodyLength": 2378,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.Redundancy-Audit-60-Pair-Merge-Log--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.Redundancy-Audit-60-Pair-Merge-Log--v01.md",
+    "variants/NAME.Redundancy-Audit-60-Pair-Merge-Log--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

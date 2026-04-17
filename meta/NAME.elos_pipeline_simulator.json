@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.elos_pipeline_simulator.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "6a069a42-20ef-4842-951e-33652e7cfa8b",
+      "seedConversation": "Preview not working fix",
+      "seedTime": 1750618558.226502,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1750618558.226502,
+      "bodyComplete": true,
+      "bodyLength": 2500,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

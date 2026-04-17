@@ -1,0 +1,79 @@
+{
+  "artifactKey": "IN.110.IDE",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/IN.110.IDE.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "2a9d394c-4c89-4c4a-a81c-bf4194a9eca0",
+      "seedConversation": "Prompt Expansion Ready",
+      "seedTime": 1749675582.503943,
+      "latestTime": 1749675582.503943,
+      "bodyComplete": true,
+      "bodyLength": 4131,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749675582.503943,
+          "messageId": "2a9d394c-4c89-4c4a-a81c-bf4194a9eca0",
+          "conversation": "Prompt Expansion Ready",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.110.IDE--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "20bb45e2-136a-4d45-b8fd-31d1c84f5fba",
+      "seedConversation": "Prompt Expansion Ready",
+      "seedTime": 1749675655.440181,
+      "latestTime": 1749675655.440181,
+      "bodyComplete": true,
+      "bodyLength": 3634,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749675655.440181,
+          "messageId": "20bb45e2-136a-4d45-b8fd-31d1c84f5fba",
+          "conversation": "Prompt Expansion Ready",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.110.IDE--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "bb209783-e9d7-4086-8aa8-a67fc13d0f6c",
+      "seedConversation": "Bootloader Function and Context",
+      "seedTime": 1750503235.864753,
+      "latestTime": 1750503235.864753,
+      "bodyComplete": true,
+      "bodyLength": 1285,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1750503235.864753,
+          "messageId": "bb209783-e9d7-4086-8aa8-a67fc13d0f6c",
+          "conversation": "Bootloader Function and Context",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.110.IDE--v03.md"
+    }
+  ]
+}

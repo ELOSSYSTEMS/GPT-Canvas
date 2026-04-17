@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.bibliography_apa.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "4b06055e-9916-4e0b-af51-d8c38a817ff5",
+      "seedConversation": "APA Bibliography Formatting",
+      "seedTime": 1740847093.26064,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1740847093.26064,
+      "bodyComplete": true,
+      "bodyLength": 5656,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

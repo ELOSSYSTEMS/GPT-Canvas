@@ -24,6 +24,44 @@
   "appliedPartialOps": 8,
   "unresolvedPartialOps": 1,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c1d882bf-9c3f-4132-a8a7-9eb73a4768cd",
+      "seedConversation": "Personalized Flow Design",
+      "seedTime": 1768037054.427975,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1768037492.78313,
+      "bodyComplete": true,
+      "bodyLength": 6593,
+      "appliedPartials": 2,
+      "lineageLength": 3,
+      "variantPath": "variants/NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "f1d1bed0-8266-483a-aabd-757099db79c5",
+      "seedConversation": "Personalized Flow Design",
+      "seedTime": 1768037514.88159,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1768038941.976112,
+      "bodyComplete": true,
+      "bodyLength": 13058,
+      "appliedPartials": 6,
+      "lineageLength": 7,
+      "variantPath": "variants/NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md--v01.md",
+    "variants/NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

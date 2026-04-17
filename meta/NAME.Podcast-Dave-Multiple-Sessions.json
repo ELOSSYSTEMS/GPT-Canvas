@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Podcast-Dave-Multiple-Sessions.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "f2971782-2ca9-4d69-b18a-0f99965adf28",
+      "seedConversation": "PODCAST TRANSCRIPTION",
+      "seedTime": 1748031452.698317,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748031452.698317,
+      "bodyComplete": true,
+      "bodyLength": 3230,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

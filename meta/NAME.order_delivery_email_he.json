@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.order_delivery_email_he.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "0a5707a0-4505-4116-8836-3e204101db97",
+      "seedConversation": "הזמנה נמסרה דוא\"ל",
+      "seedTime": 1738844691.351758,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1738844691.351758,
+      "bodyComplete": true,
+      "bodyLength": 5261,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.order_delivery_email_he--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "b3a8e749-06eb-45ff-85f6-da345a54db50",
+      "seedConversation": "הזמנה נמסרה דוא\"ל",
+      "seedTime": 1738844860.607028,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1738844860.607028,
+      "bodyComplete": true,
+      "bodyLength": 5582,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.order_delivery_email_he--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.order_delivery_email_he--v01.md",
+    "variants/NAME.order_delivery_email_he--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

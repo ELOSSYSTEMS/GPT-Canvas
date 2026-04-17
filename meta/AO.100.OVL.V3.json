@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.100.OVL.V3.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "398268f0-9436-4e06-86be-ea6171514bc5",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748032926.214227,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748032926.214227,
+      "bodyComplete": true,
+      "bodyLength": 3886,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AO.100.OVL.V3--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "535ffa03-a47a-4525-87c5-c5e6a2b635f3",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748033039.65225,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748033039.65225,
+      "bodyComplete": true,
+      "bodyLength": 4644,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AO.100.OVL.V3--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/AO.100.OVL.V3--v01.md",
+    "variants/AO.100.OVL.V3--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

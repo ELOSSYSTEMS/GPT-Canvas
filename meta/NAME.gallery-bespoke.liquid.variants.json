@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.gallery-bespoke.liquid",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.gallery-bespoke.liquid.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "82e8a69f-daef-440b-b9b1-e1df443d1c19",
+      "seedConversation": "שיפור דף זרי פרחים",
+      "seedTime": 1746589737.597535,
+      "latestTime": 1746589737.597535,
+      "bodyComplete": true,
+      "bodyLength": 0,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1746589737.597535,
+          "messageId": "82e8a69f-daef-440b-b9b1-e1df443d1c19",
+          "conversation": "שיפור דף זרי פרחים",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.gallery-bespoke.liquid--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "1935c3a5-dc5e-4eaa-97f7-b76a85c22abe",
+      "seedConversation": "שיפור דף זרי פרחים",
+      "seedTime": 1746589746.163327,
+      "latestTime": 1746589746.163327,
+      "bodyComplete": true,
+      "bodyLength": 2469,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1746589746.163327,
+          "messageId": "1935c3a5-dc5e-4eaa-97f7-b76a85c22abe",
+          "conversation": "שיפור דף זרי פרחים",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.gallery-bespoke.liquid--v02.md"
+    }
+  ]
+}

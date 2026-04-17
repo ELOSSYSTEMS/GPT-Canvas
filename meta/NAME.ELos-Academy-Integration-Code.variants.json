@@ -1,0 +1,79 @@
+{
+  "artifactKey": "NAME.ELos-Academy-Integration-Code",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos-Academy-Integration-Code.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "8cbcdb5d-b89a-479f-8d8d-608f4c9e47cb",
+      "seedConversation": "ELos academy integration",
+      "seedTime": 1748102112.391497,
+      "latestTime": 1748102112.391497,
+      "bodyComplete": true,
+      "bodyLength": 1447,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748102112.391497,
+          "messageId": "8cbcdb5d-b89a-479f-8d8d-608f4c9e47cb",
+          "conversation": "ELos academy integration",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Academy-Integration-Code--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "2cf09cf6-a287-4eef-a44b-6e61ffb168c7",
+      "seedConversation": "ELos academy integration",
+      "seedTime": 1748102136.305996,
+      "latestTime": 1748102136.305996,
+      "bodyComplete": true,
+      "bodyLength": 1784,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748102136.305996,
+          "messageId": "2cf09cf6-a287-4eef-a44b-6e61ffb168c7",
+          "conversation": "ELos academy integration",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Academy-Integration-Code--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "336dc61f-d80f-437b-92e1-ed809d0af317",
+      "seedConversation": "ELos academy integration",
+      "seedTime": 1748102515.072366,
+      "latestTime": 1748102515.072366,
+      "bodyComplete": true,
+      "bodyLength": 2090,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748102515.072366,
+          "messageId": "336dc61f-d80f-437b-92e1-ed809d0af317",
+          "conversation": "ELos academy integration",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Academy-Integration-Code--v03.md"
+    }
+  ]
+}

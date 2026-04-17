@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos-Memory-Graph.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "5a29be06-89af-48da-b2c0-ecb53dfe53fe",
+      "seedConversation": "ELos System Review",
+      "seedTime": 1748082001.18179,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748082001.18179,
+      "bodyComplete": true,
+      "bodyLength": 922,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

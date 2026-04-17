@@ -1,0 +1,709 @@
+# Variant Artifact Recovery
+
+Artifacts with multiple full-body variants: 176
+Artifacts whose existing raw file was preserved against a different extracted latest body: 12
+
+- `AI.100.WHO`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/AI.100.WHO.variants.json`
+- `AI.700.DAO`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/AI.700.DAO.variants.json`
+- `AI.720.REO`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/AI.720.REO.variants.json`
+- `AI.800.RPA`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/AI.800.RPA.variants.json`
+- `AI.810.RME`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/AI.810.RME.variants.json`
+- `AI.840.RCA`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/AI.840.RCA.variants.json`
+- `AI.850.MOS`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/AI.850.MOS.variants.json`
+- `AI.860.RAA`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/AI.860.RAA.variants.json`
+- `AI.999.ATL`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/AI.999.ATL.variants.json`
+- `AO.000.IDX`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/AO.000.IDX.variants.json`
+- `AO.001.BOOT`
+  - variants: 18
+  - latest extracted variant: v18
+  - meta: `meta/AO.001.BOOT.variants.json`
+- `AO.001.RBI`
+  - variants: 37
+  - latest extracted variant: v37
+  - meta: `meta/AO.001.RBI.variants.json`
+- `AO.001.RBI.CANVAS.ALL`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/AO.001.RBI.CANVAS.ALL.variants.json`
+- `AO.100.OVL.V3`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/AO.100.OVL.V3.variants.json`
+- `AO.100.PSN`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/AO.100.PSN.variants.json`
+- `AO.100.SRG`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/AO.100.SRG.variants.json`
+- `AO.200.PSN`
+  - variants: 7
+  - latest extracted variant: v07
+  - meta: `meta/AO.200.PSN.variants.json`
+- `AO.900.EL2`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/AO.900.EL2.variants.json`
+- `AO.900.RPT`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/AO.900.RPT.variants.json`
+- `AO.910.FPR`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/AO.910.FPR.variants.json`
+- `AO.910.PRM.IDX`
+  - variants: 6
+  - latest extracted variant: v04
+  - meta: `meta/AO.910.PRM.IDX.variants.json`
+- `AO.910.PRM.LIB`
+  - variants: 25
+  - latest extracted variant: v25
+  - meta: `meta/AO.910.PRM.LIB.variants.json`
+- `AO.910.PRM.PRO`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/AO.910.PRM.PRO.variants.json`
+- `AO.910.PSN`
+  - variants: 14
+  - latest extracted variant: v14
+  - meta: `meta/AO.910.PSN.variants.json`
+- `AO.911.IDE`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/AO.911.IDE.variants.json`
+- `AO.911.STG`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/AO.911.STG.variants.json`
+- `AO.920.PRM`
+  - variants: 12
+  - latest extracted variant: v12
+  - meta: `meta/AO.920.PRM.variants.json`
+- `AO.940.PRM`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/AO.940.PRM.variants.json`
+- `DA.100.MNF`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/DA.100.MNF.variants.json`
+- `DA.300.LOG`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/DA.300.LOG.variants.json`
+- `DA.300.RTL-LITE`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/DA.300.RTL-LITE.variants.json`
+- `EL.001.ENV`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/EL.001.ENV.variants.json`
+- `EL.002.STG`
+  - variants: 9
+  - latest extracted variant: v09
+  - meta: `meta/EL.002.STG.variants.json`
+- `EL.003.DVR`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/EL.003.DVR.variants.json`
+- `EL.005.BRN`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/EL.005.BRN.variants.json`
+- `EL.005.MOD.HUMANSEO`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/EL.005.MOD.HUMANSEO.variants.json`
+- `EL.100.ONB`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/EL.100.ONB.variants.json`
+- `EL.130.GRD`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/EL.130.GRD.variants.json`
+- `EL.320.MODE`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/EL.320.MODE.variants.json`
+- `EL.400.AUD`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/EL.400.AUD.variants.json`
+- `EL.410.PRC`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/EL.410.PRC.variants.json`
+- `EL.410.TNF`
+  - variants: 10
+  - latest extracted variant: v10
+  - meta: `meta/EL.410.TNF.variants.json`
+- `EL.420.HBR`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/EL.420.HBR.variants.json`
+- `EL.420.HBX`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/EL.420.HBX.variants.json`
+- `EL.420.LNG`
+  - variants: 8
+  - latest extracted variant: v08
+  - meta: `meta/EL.420.LNG.variants.json`
+- `EL.420.UNL`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/EL.420.UNL.variants.json`
+- `EL.421.HBR.EXT`
+  - variants: 7
+  - latest extracted variant: v07
+  - meta: `meta/EL.421.HBR.EXT.variants.json`
+- `EL.500.OBG`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/EL.500.OBG.variants.json`
+- `EL.500.OBG.TIP`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/EL.500.OBG.TIP.variants.json`
+- `EL.520.PRF`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/EL.520.PRF.variants.json`
+- `EL.600.IMG`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/EL.600.IMG.variants.json`
+- `EL.602.FF.VIS`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/EL.602.FF.VIS.variants.json`
+- `EL.620.IMG`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/EL.620.IMG.variants.json`
+- `EL.621.LNG`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/EL.621.LNG.variants.json`
+- `EL.631.IMG`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/EL.631.IMG.variants.json`
+- `EL.800.LNG`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/EL.800.LNG.variants.json`
+- `EL.900.AUD`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/EL.900.AUD.variants.json`
+- `EL.910.PRM`
+  - variants: 6
+  - latest extracted variant: v06
+  - meta: `meta/EL.910.PRM.variants.json`
+- `EL.920.PRM`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/EL.920.PRM.variants.json`
+- `ELOS.100.LIB`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/ELOS.100.LIB.variants.json`
+- `ELOS.300.CMD`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/ELOS.300.CMD.variants.json`
+- `ELOS.300.KRN`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/ELOS.300.KRN.variants.json`
+- `ELOS.500.UIX`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/ELOS.500.UIX.variants.json`
+- `FF.100.TDL`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/FF.100.TDL.variants.json`
+- `FF.200.ETH`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/FF.200.ETH.variants.json`
+- `FF.300.FIN`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/FF.300.FIN.variants.json`
+- `FF.500.HMP`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/FF.500.HMP.variants.json`
+- `FF.500.TPL`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/FF.500.TPL.variants.json`
+- `FF.700.ARC`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/FF.700.ARC.variants.json`
+- `FF.700.LOG – Arcaffe Delivery Logistics Persona`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/FF.700.LOG-Arcaffe-Delivery-Logistics-Persona.variants.json`
+- `FF.999.PSN`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/FF.999.PSN.variants.json`
+- `IN.100.ALL`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/IN.100.ALL.variants.json`
+- `IN.100.REB`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/IN.100.REB.variants.json`
+- `IN.100.SYS`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/IN.100.SYS.variants.json`
+- `IN.110.IDE`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/IN.110.IDE.variants.json`
+- `IN.120.DAT`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/IN.120.DAT.variants.json`
+- `IN.200.SLF`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/IN.200.SLF.variants.json`
+- `IN.300.FTR`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/IN.300.FTR.variants.json`
+- `IN.300.POL`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/IN.300.POL.variants.json`
+- `IN.300.QA`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/IN.300.QA.variants.json`
+- `IN.300.TEC`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/IN.300.TEC.variants.json`
+- `IN.500.JRN`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/IN.500.JRN.variants.json`
+- `IN.900.ZION.EP1`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/IN.900.ZION.EP1.variants.json`
+- `IN.900.ZION.EP2`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/IN.900.ZION.EP2.variants.json`
+- `IN.900.ZION.EP3`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/IN.900.ZION.EP3.variants.json`
+- `IN.900.ZION.EP4`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/IN.900.ZION.EP4.variants.json`
+- `IN.900.ZION.EP5`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/IN.900.ZION.EP5.variants.json`
+- `IN.900.ZION.EP6`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/IN.900.ZION.EP6.variants.json`
+- `KRNL.210.ISY`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/KRNL.210.ISY.variants.json`
+- `NAME.ACAD.BGN.ADD`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.ACAD.BGN.ADD.variants.json`
+- `NAME.ACAD.BGN.MEMORY`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/NAME.ACAD.BGN.MEMORY.variants.json`
+- `NAME.All_Personas_Index`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.All_Personas_Index.variants.json`
+- `NAME.Allon_Memory_Consolidation`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.Allon_Memory_Consolidation.variants.json`
+- `NAME.arcaffe_bank_info`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.arcaffe_bank_info.variants.json`
+- `NAME.autopromptwriter_contentjs`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/NAME.autopromptwriter_contentjs.variants.json`
+- `NAME.bilingual_email_templates`
+  - variants: 10
+  - latest extracted variant: v10
+  - meta: `meta/NAME.bilingual_email_templates.variants.json`
+- `NAME.bouquet_gallery_prestige`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.bouquet_gallery_prestige.variants.json`
+- `NAME.dabroo_prompt_studio`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.dabroo_prompt_studio.variants.json`
+- `NAME.dabroo_sidebar_chat`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/NAME.dabroo_sidebar_chat.variants.json`
+- `NAME.dabroo_sidebar_layout`
+  - variants: 9
+  - latest extracted variant: v09
+  - meta: `meta/NAME.dabroo_sidebar_layout.variants.json`
+- `NAME.dabroo_single_page`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.dabroo_single_page.variants.json`
+- `NAME.dabroo_toggle_mode`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/NAME.dabroo_toggle_mode.variants.json`
+- `NAME.dabrooslate_module`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.dabrooslate_module.variants.json`
+- `NAME.discount-bar.liquid`
+  - variants: 8
+  - latest extracted variant: v08
+  - meta: `meta/NAME.discount-bar.liquid.variants.json`
+- `NAME.ELos_Controller_Core`
+  - variants: 13
+  - latest extracted variant: v13
+  - meta: `meta/NAME.ELos_Controller_Core.variants.json`
+- `NAME.elos_extension_v0_1`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.elos_extension_v0_1.variants.json`
+- `NAME.ELos_Extension_v0.1`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.ELos_Extension_v0.1.variants.json`
+- `NAME.ELos_MirrorOS_Audit`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.ELos_MirrorOS_Audit.variants.json`
+- `NAME.ELos_Pricing_Model`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.ELos_Pricing_Model.variants.json`
+- `NAME.elos_translate_pipeline`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/NAME.elos_translate_pipeline.variants.json`
+- `NAME.ELos-Academy-Integration-Code`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/NAME.ELos-Academy-Integration-Code.variants.json`
+- `NAME.ELos-Build-Conflict-Audit`
+  - variants: 6
+  - latest extracted variant: v06
+  - meta: `meta/NAME.ELos-Build-Conflict-Audit.variants.json`
+- `NAME.ELos-Pro-Gating-System`
+  - variants: 6
+  - latest extracted variant: v06
+  - meta: `meta/NAME.ELos-Pro-Gating-System.variants.json`
+- `NAME.ELos-V1-QA-Checklist`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/NAME.ELos-V1-QA-Checklist.variants.json`
+- `NAME.ELOS.TNF.SafeExpansion`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/NAME.ELOS.TNF.SafeExpansion.variants.json`
+- `NAME.email_fulfillment_hebrew`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.email_fulfillment_hebrew.variants.json`
+- `NAME.faq_updated_json`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.faq_updated_json.variants.json`
+- `NAME.fireproofed_prompt_library`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.fireproofed_prompt_library.variants.json`
+- `NAME.forever_flowers_business_plan`
+  - variants: 2
+  - latest extracted variant: v01
+  - meta: `meta/NAME.forever_flowers_business_plan.variants.json`
+- `NAME.forever_flowers_deep_dive_updated_hebrew`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.forever_flowers_deep_dive_updated_hebrew.variants.json`
+- `NAME.forever_flowers_full_deep_dive_master_hebrew`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.forever_flowers_full_deep_dive_master_hebrew.variants.json`
+- `NAME.forever_flowers_loccitane`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.forever_flowers_loccitane.variants.json`
+- `NAME.forever_flowers_meeting_combined`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.forever_flowers_meeting_combined.variants.json`
+- `NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md.variants.json`
+- `NAME.forever_flowers_savings`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.forever_flowers_savings.variants.json`
+- `NAME.forever_flowers_weekly_schedule`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.forever_flowers_weekly_schedule.variants.json`
+- `NAME.Forever_Focus_Journal`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.Forever_Focus_Journal.variants.json`
+- `NAME.forever-flowers-collections-summary`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.forever-flowers-collections-summary.variants.json`
+- `NAME.Forever-Flowers-Deep-Dive-with-Albert-Improvements`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.Forever-Flowers-Deep-Dive-with-Albert-Improvements.variants.json`
+- `NAME.ForeverFlowers_BrandManifesto`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.ForeverFlowers_BrandManifesto.variants.json`
+- `NAME.ForeverFlowers_CompetitiveAudit`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.ForeverFlowers_CompetitiveAudit.variants.json`
+- `NAME.FullCanvasUI`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.FullCanvasUI.variants.json`
+- `NAME.gallery-bespoke.liquid`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.gallery-bespoke.liquid.variants.json`
+- `NAME.gpt_suggestion_layer`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.gpt_suggestion_layer.variants.json`
+- `NAME.hebrew_goldset_500`
+  - variants: 11
+  - latest extracted variant: v11
+  - meta: `meta/NAME.hebrew_goldset_500.variants.json`
+- `NAME.logo_list_section`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/NAME.logo_list_section.variants.json`
+- `NAME.media_grid_advanced`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.media_grid_advanced.variants.json`
+- `NAME.order_confirmation_audit`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.order_confirmation_audit.variants.json`
+- `NAME.order_delivery_email_he`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.order_delivery_email_he.variants.json`
+- `NAME.order_email_hebrew_rtl`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.order_email_hebrew_rtl.variants.json`
+- `NAME.order_out_for_delivery_he`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/NAME.order_out_for_delivery_he.variants.json`
+- `NAME.persona_response_formatting`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/NAME.persona_response_formatting.variants.json`
+- `NAME.product_tabs_section`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/NAME.product_tabs_section.variants.json`
+- `NAME.product_templates_editions`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/NAME.product_templates_editions.variants.json`
+- `NAME.product-bespoke-bouquet`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.product-bespoke-bouquet.variants.json`
+- `NAME.prompt_engineering_master`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.prompt_engineering_master.variants.json`
+- `NAME.Prompt-Library-Master-Index`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/NAME.Prompt-Library-Master-Index.variants.json`
+- `NAME.Redundancy-Audit-60-Pair-Merge-Log`
+  - variants: 2
+  - latest extracted variant: v01
+  - meta: `meta/NAME.Redundancy-Audit-60-Pair-Merge-Log.variants.json`
+- `NAME.Shipping-Confirmation-Update`
+  - variants: 15
+  - latest extracted variant: v15
+  - meta: `meta/NAME.Shipping-Confirmation-Update.variants.json`
+- `NAME.sidebar`
+  - variants: 12
+  - latest extracted variant: v12
+  - meta: `meta/NAME.sidebar.variants.json`
+- `NAME.Stargate_Hybrid_Protocol_Config`
+  - variants: 6
+  - latest extracted variant: v06
+  - meta: `meta/NAME.Stargate_Hybrid_Protocol_Config.variants.json`
+- `NAME.TNFChatGPTInjector`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/NAME.TNFChatGPTInjector.variants.json`
+- `NAME.Translate.2.1.ExecutionStandard`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/NAME.Translate.2.1.ExecutionStandard.variants.json`
+- `NAME.translate2-wasm-extension-plan`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/NAME.translate2-wasm-extension-plan.variants.json`
+- `NAME.Tree_of_Knowledge_Design_Philosophy`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/NAME.Tree_of_Knowledge_Design_Philosophy.variants.json`
+- `NAME.ultimate-hero-section`
+  - variants: 7
+  - latest extracted variant: v07
+  - meta: `meta/NAME.ultimate-hero-section.variants.json`
+- `NAME.unnamed`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.unnamed.variants.json`
+- `NAME.WG.010.PanelRoster.JSON`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/NAME.WG.010.PanelRoster.JSON.variants.json`
+- `OS.100.BOOT`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/OS.100.BOOT.variants.json`
+- `OS.800.POD`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/OS.800.POD.variants.json`
+- `PR.000.SPP`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/PR.000.SPP.variants.json`
+- `PR.001.EPP-2`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/PR.001.EPP-2.variants.json`
+- `PR.003.SDE`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/PR.003.SDE.variants.json`
+- `PR.100.ALL`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/PR.100.ALL.variants.json`
+- `PR.100.CVR`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/PR.100.CVR.variants.json`
+- `PR.100.PER`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/PR.100.PER.variants.json`
+- `PR.100.PRS`
+  - variants: 5
+  - latest extracted variant: v05
+  - meta: `meta/PR.100.PRS.variants.json`
+- `PR.100.PSN`
+  - variants: 8
+  - latest extracted variant: v08
+  - meta: `meta/PR.100.PSN.variants.json`
+- `PR.700.IMG`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/PR.700.IMG.variants.json`
+- `PR.900.LMM`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/PR.900.LMM.variants.json`
+- `VP.901.FF`
+  - variants: 8
+  - latest extracted variant: v08
+  - meta: `meta/VP.901.FF.variants.json`
+- `WG.000.CMD`
+  - variants: 2
+  - latest extracted variant: v02
+  - meta: `meta/WG.000.CMD.variants.json`
+- `WG.001.PSN`
+  - variants: 3
+  - latest extracted variant: v03
+  - meta: `meta/WG.001.PSN.variants.json`
+- `WG.002.PSN`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/WG.002.PSN.variants.json`
+- `WG.011.PSN`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/WG.011.PSN.variants.json`
+- `WG.012.PSN`
+  - variants: 4
+  - latest extracted variant: v04
+  - meta: `meta/WG.012.PSN.variants.json`

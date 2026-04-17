@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.dabrooslate_module.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c544151a-24d0-4019-85bb-744c0fe1bc28",
+      "seedConversation": "Stargate Protocol Initialized",
+      "seedTime": 1748678526.934202,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748678526.934202,
+      "bodyComplete": true,
+      "bodyLength": 1573,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.dabrooslate_module--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "4a279481-4e9c-4890-91f3-751f5162e10f",
+      "seedConversation": "Stargate Protocol Initialized",
+      "seedTime": 1748678555.031289,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1748678555.031289,
+      "bodyComplete": true,
+      "bodyLength": 1608,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.dabrooslate_module--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.dabrooslate_module--v01.md",
+    "variants/NAME.dabrooslate_module--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

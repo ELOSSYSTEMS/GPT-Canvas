@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/OS.200.MEM.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "2bc35d4a-ef3f-4a93-9fae-b497a65c9ab5",
+      "seedConversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "seedTime": 1747607634.624052,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747607634.624052,
+      "bodyComplete": true,
+      "bodyLength": 1193,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

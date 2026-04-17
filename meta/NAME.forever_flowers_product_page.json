@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.forever_flowers_product_page.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "2860ee78-fbef-404b-a3ee-a7f095b7116a",
+      "seedConversation": "Great Business Concepts Analysis",
+      "seedTime": 1738348919.971015,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1738348919.971015,
+      "bodyComplete": true,
+      "bodyLength": 4216,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

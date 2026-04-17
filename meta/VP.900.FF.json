@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/VP.900.FF.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "bdaa25bc-faa1-4614-b9b4-5e452a43c273",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749208478.401031,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749208478.401031,
+      "bodyComplete": true,
+      "bodyLength": 3576,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

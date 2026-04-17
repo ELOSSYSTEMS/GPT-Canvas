@@ -1,0 +1,151 @@
+{
+  "artifactKey": "NAME.ELos-Build-Conflict-Audit",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos-Build-Conflict-Audit.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "2f898dda-0634-478d-b118-a72a5c44636c",
+      "seedConversation": "v1 BUILD",
+      "seedTime": 1748097011.852802,
+      "latestTime": 1748097011.852802,
+      "bodyComplete": true,
+      "bodyLength": 2341,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748097011.852802,
+          "messageId": "2f898dda-0634-478d-b118-a72a5c44636c",
+          "conversation": "v1 BUILD",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Build-Conflict-Audit--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "ece96969-5e39-4184-976b-e14c8ea335ba",
+      "seedConversation": "v1 BUILD",
+      "seedTime": 1748097101.781651,
+      "latestTime": 1748097101.781651,
+      "bodyComplete": true,
+      "bodyLength": 2445,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748097101.781651,
+          "messageId": "ece96969-5e39-4184-976b-e14c8ea335ba",
+          "conversation": "v1 BUILD",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Build-Conflict-Audit--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "7bc4004e-7952-46ae-9973-f699494bc0b2",
+      "seedConversation": "v1 BUILD",
+      "seedTime": 1748097138.143695,
+      "latestTime": 1748097138.143695,
+      "bodyComplete": true,
+      "bodyLength": 2877,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748097138.143695,
+          "messageId": "7bc4004e-7952-46ae-9973-f699494bc0b2",
+          "conversation": "v1 BUILD",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Build-Conflict-Audit--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "94b55faa-f2e4-4d1c-8d5d-86f632f19262",
+      "seedConversation": "v1 BUILD",
+      "seedTime": 1748097229.272001,
+      "latestTime": 1748097229.272001,
+      "bodyComplete": true,
+      "bodyLength": 3093,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748097229.272001,
+          "messageId": "94b55faa-f2e4-4d1c-8d5d-86f632f19262",
+          "conversation": "v1 BUILD",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Build-Conflict-Audit--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "9fc1a570-7d93-4336-ba5d-5b6b3237e0cf",
+      "seedConversation": "v1 BUILD",
+      "seedTime": 1748097401.950413,
+      "latestTime": 1748097401.950413,
+      "bodyComplete": true,
+      "bodyLength": 3480,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748097401.950413,
+          "messageId": "9fc1a570-7d93-4336-ba5d-5b6b3237e0cf",
+          "conversation": "v1 BUILD",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Build-Conflict-Audit--v05.md"
+    },
+    {
+      "variantId": 6,
+      "seedMessageId": "d31fcdae-d66b-4620-b7b5-b2f3e18ee076",
+      "seedConversation": "v1 BUILD",
+      "seedTime": 1748097478.991055,
+      "latestTime": 1748097478.991055,
+      "bodyComplete": true,
+      "bodyLength": 3898,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748097478.991055,
+          "messageId": "d31fcdae-d66b-4620-b7b5-b2f3e18ee076",
+          "conversation": "v1 BUILD",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Build-Conflict-Audit--v06.md"
+    }
+  ]
+}

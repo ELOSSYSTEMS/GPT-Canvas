@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Forever-Flowers-Gifting-System-Specification-Fireproofed-v2.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "de0302d9-5307-4504-b672-4ccd93fdb5f7",
+      "seedConversation": "Vercel Shopify Integration Guide",
+      "seedTime": 1767989209.38613,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1767989209.38613,
+      "bodyComplete": true,
+      "bodyLength": 5132,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/UIX.420.CNV.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "b4ed6c2e-3435-4336-be3b-17f3c975ef38",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748200077.545211,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748200077.545211,
+      "bodyComplete": true,
+      "bodyLength": 3411,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

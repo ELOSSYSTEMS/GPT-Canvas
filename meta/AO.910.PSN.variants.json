@@ -1,0 +1,376 @@
+{
+  "artifactKey": "AO.910.PSN",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.910.PSN.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c3c83ddf-194e-46a0-8349-160c051c7db3",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748183961.702364,
+      "latestTime": 1748183961.702364,
+      "bodyComplete": true,
+      "bodyLength": 2698,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748183961.702364,
+          "messageId": "c3c83ddf-194e-46a0-8349-160c051c7db3",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PSN--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "8614204e-bcee-4551-bd84-86e4bf724a4a",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748185918.516598,
+      "latestTime": 1748185918.516598,
+      "bodyComplete": true,
+      "bodyLength": 2585,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748185918.516598,
+          "messageId": "8614204e-bcee-4551-bd84-86e4bf724a4a",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PSN--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "093e0b72-e853-4a53-9dbc-e778e1b0ef0f",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748186399.621752,
+      "latestTime": 1748186399.621752,
+      "bodyComplete": true,
+      "bodyLength": 2140,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748186399.621752,
+          "messageId": "093e0b72-e853-4a53-9dbc-e778e1b0ef0f",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PSN--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "0dfdf9a4-82ca-4782-bbe3-815e6d5aec31",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748187274.481273,
+      "latestTime": 1748187274.481273,
+      "bodyComplete": true,
+      "bodyLength": 2074,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748187274.481273,
+          "messageId": "0dfdf9a4-82ca-4782-bbe3-815e6d5aec31",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PSN--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "ff277877-b9e4-4930-89d7-013d0ced8ad0",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748187425.78924,
+      "latestTime": 1748187425.78924,
+      "bodyComplete": true,
+      "bodyLength": 2126,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748187425.78924,
+          "messageId": "ff277877-b9e4-4930-89d7-013d0ced8ad0",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PSN--v05.md"
+    },
+    {
+      "variantId": 6,
+      "seedMessageId": "a16fd52b-eadd-438c-90b7-98fa79a6d005",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748188026.667754,
+      "latestTime": 1748188026.667754,
+      "bodyComplete": true,
+      "bodyLength": 1013,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748188026.667754,
+          "messageId": "a16fd52b-eadd-438c-90b7-98fa79a6d005",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PSN--v06.md"
+    },
+    {
+      "variantId": 7,
+      "seedMessageId": "6151712b-7ee6-4e6e-9935-31fd52c6bb59",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748188037.662246,
+      "latestTime": 1748188037.662246,
+      "bodyComplete": true,
+      "bodyLength": 1068,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748188037.662246,
+          "messageId": "6151712b-7ee6-4e6e-9935-31fd52c6bb59",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PSN--v07.md"
+    },
+    {
+      "variantId": 8,
+      "seedMessageId": "1ff6a9c3-2312-4c8d-85b7-6707af353c2c",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748188049.576753,
+      "latestTime": 1748188049.576753,
+      "bodyComplete": true,
+      "bodyLength": 1016,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748188049.576753,
+          "messageId": "1ff6a9c3-2312-4c8d-85b7-6707af353c2c",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PSN--v08.md"
+    },
+    {
+      "variantId": 9,
+      "seedMessageId": "8b2cd199-89c2-412d-a247-2812569cae10",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748188059.907488,
+      "latestTime": 1748188059.907488,
+      "bodyComplete": true,
+      "bodyLength": 1069,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748188059.907488,
+          "messageId": "8b2cd199-89c2-412d-a247-2812569cae10",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PSN--v09.md"
+    },
+    {
+      "variantId": 10,
+      "seedMessageId": "685b5c94-cb5f-4935-a628-7b25aa4be16f",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748191305.201262,
+      "latestTime": 1748191305.201262,
+      "bodyComplete": true,
+      "bodyLength": 2143,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748191305.201262,
+          "messageId": "685b5c94-cb5f-4935-a628-7b25aa4be16f",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PSN--v10.md"
+    },
+    {
+      "variantId": 11,
+      "seedMessageId": "5532ede5-6b5d-45ae-80de-1c7e82010aef",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748191403.531326,
+      "latestTime": 1748192060.761051,
+      "bodyComplete": true,
+      "bodyLength": 2288,
+      "appliedPartials": 2,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748191403.531326,
+          "messageId": "5532ede5-6b5d-45ae-80de-1c7e82010aef",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748192045.473434,
+          "messageId": "38260e17-e500-4622-b85b-c1b5a0993d5d",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "### \\*\\*Step 4: Now You Try\\*\\*\\n```markdown\\nLet’s test it:\\nClick the Tree of Knowledge\\.\\nThen select: `Start With Builder`\\n```",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748192060.761051,
+          "messageId": "f983083a-21c7-4e0c-9bc9-ae54ee814057",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "### \\*\\*Step 1: Welcome & Friction Diffusal\\*\\*\\n```markdown\\nWelcome to ELos\\.\\n\\nThis is not just another plugin\\. It's an OS for AI\\.\\nDesigned for one thing: clarity in execution\\.\\n```",
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PSN--v11.md"
+    },
+    {
+      "variantId": 12,
+      "seedMessageId": "44ffd0bd-fa11-4e63-bdf9-26f9d1e95a8d",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748191900.823214,
+      "latestTime": 1748191900.823214,
+      "bodyComplete": true,
+      "bodyLength": 1700,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748191900.823214,
+          "messageId": "44ffd0bd-fa11-4e63-bdf9-26f9d1e95a8d",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PSN--v12.md"
+    },
+    {
+      "variantId": 13,
+      "seedMessageId": "c1abb7f2-026b-49dd-b179-e71707b0cf0d",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748192108.833864,
+      "latestTime": 1748192108.833864,
+      "bodyComplete": true,
+      "bodyLength": 2777,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748192108.833864,
+          "messageId": "c1abb7f2-026b-49dd-b179-e71707b0cf0d",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PSN--v13.md"
+    },
+    {
+      "variantId": 14,
+      "seedMessageId": "15bcaee6-2685-45b6-bdee-f8a3ca59454b",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748192275.349933,
+      "latestTime": 1748192447.225737,
+      "bodyComplete": true,
+      "bodyLength": 2365,
+      "appliedPartials": 1,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748192275.349933,
+          "messageId": "15bcaee6-2685-45b6-bdee-f8a3ca59454b",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748192447.225737,
+          "messageId": "1bfc7e45-f0df-4edd-a36f-a747db4a98ed",
+          "conversation": "Recursive Persona System Design",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "Use My Voice",
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PSN--v14.md"
+    }
+  ]
+}

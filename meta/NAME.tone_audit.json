@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.tone_audit.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "f349c9c2-731d-48e6-946e-41e941fd76b6",
+      "seedConversation": "ELos Translate 2.0 Test",
+      "seedTime": 1748716798.127763,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748716798.127763,
+      "bodyComplete": true,
+      "bodyLength": 365,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

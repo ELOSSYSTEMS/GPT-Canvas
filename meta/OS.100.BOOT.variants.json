@@ -1,0 +1,55 @@
+{
+  "artifactKey": "OS.100.BOOT",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/OS.100.BOOT.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "921127d9-c54c-4c4d-97f6-d89a939c0a43",
+      "seedConversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "seedTime": 1747607629.566654,
+      "latestTime": 1747607629.566654,
+      "bodyComplete": true,
+      "bodyLength": 1153,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1747607629.566654,
+          "messageId": "921127d9-c54c-4c4d-97f6-d89a939c0a43",
+          "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/OS.100.BOOT--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "0311ba18-e015-4446-b894-593691b2b944",
+      "seedConversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "seedTime": 1747608884.091062,
+      "latestTime": 1747608884.091062,
+      "bodyComplete": true,
+      "bodyLength": 4309,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747608884.091062,
+          "messageId": "0311ba18-e015-4446-b894-593691b2b944",
+          "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/OS.100.BOOT--v02.md"
+    }
+  ]
+}

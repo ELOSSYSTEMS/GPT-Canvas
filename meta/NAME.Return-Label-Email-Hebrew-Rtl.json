@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 1,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Return-Label-Email-Hebrew-Rtl.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "465310dd-52c5-4cd5-a454-13fedff03dd2",
+      "seedConversation": "תרגום דוא\"ל לעברית",
+      "seedTime": 1750256429.623242,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1750256429.623242,
+      "bodyComplete": true,
+      "bodyLength": 728,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

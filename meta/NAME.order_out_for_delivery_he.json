@@ -24,6 +24,59 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 1,
   "commentOps": 0,
+  "variantCount": 3,
+  "extractedLatestVariantId": 3,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.order_out_for_delivery_he.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "8d64bf5a-6a04-4541-aad3-1d66134648b6",
+      "seedConversation": "הזמנה נמסרה דוא\"ל",
+      "seedTime": 1738844991.657028,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1738844991.657028,
+      "bodyComplete": true,
+      "bodyLength": 4184,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.order_out_for_delivery_he--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "6b3b0964-f0e9-446a-8955-5ba4fb507c81",
+      "seedConversation": "הזמנה נמסרה דוא\"ל",
+      "seedTime": 1738845055.870059,
+      "seedParseMode": "regex-update-partial",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1738845055.870059,
+      "bodyComplete": false,
+      "bodyLength": 397,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.order_out_for_delivery_he--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "bc026dcc-5662-4ead-96c8-7db92df9e45b",
+      "seedConversation": "הזמנה נמסרה דוא\"ל",
+      "seedTime": 1738845143.844071,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1738845143.844071,
+      "bodyComplete": true,
+      "bodyLength": 4192,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.order_out_for_delivery_he--v03.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.order_out_for_delivery_he--v01.md",
+    "variants/NAME.order_out_for_delivery_he--v02.md",
+    "variants/NAME.order_out_for_delivery_he--v03.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

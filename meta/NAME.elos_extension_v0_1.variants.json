@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.elos_extension_v0_1",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.elos_extension_v0_1.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "5aa7844d-d762-4f01-8df3-d0704a826484",
+      "seedConversation": "NEW ELOS EXTENSION",
+      "seedTime": 1749482128.303692,
+      "latestTime": 1749482128.303692,
+      "bodyComplete": true,
+      "bodyLength": 3038,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749482128.303692,
+          "messageId": "5aa7844d-d762-4f01-8df3-d0704a826484",
+          "conversation": "NEW ELOS EXTENSION",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.elos_extension_v0_1--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "9940803c-ba88-413e-ae5e-1e71817c8f04",
+      "seedConversation": "NEW ELOS EXTENSION",
+      "seedTime": 1749482424.716587,
+      "latestTime": 1749482424.716587,
+      "bodyComplete": true,
+      "bodyLength": 1703,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749482424.716587,
+          "messageId": "9940803c-ba88-413e-ae5e-1e71817c8f04",
+          "conversation": "NEW ELOS EXTENSION",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.elos_extension_v0_1--v02.md"
+    }
+  ]
+}

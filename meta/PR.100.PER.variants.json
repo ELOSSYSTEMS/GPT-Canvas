@@ -1,0 +1,79 @@
+{
+  "artifactKey": "PR.100.PER",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.100.PER.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "9d1d4797-606c-4fe6-8198-ab231b77a9e1",
+      "seedConversation": "Persona Crafter Creation",
+      "seedTime": 1747820100.499449,
+      "latestTime": 1747820100.499449,
+      "bodyComplete": true,
+      "bodyLength": 2202,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747820100.499449,
+          "messageId": "9d1d4797-606c-4fe6-8198-ab231b77a9e1",
+          "conversation": "Persona Crafter Creation",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.PER--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "94e9466e-7af1-471e-947a-16ad116b3263",
+      "seedConversation": "Fireproof Time Management Prompts",
+      "seedTime": 1748874992.059579,
+      "latestTime": 1748874992.059579,
+      "bodyComplete": false,
+      "bodyLength": 2384,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748874992.059579,
+          "messageId": "94e9466e-7af1-471e-947a-16ad116b3263",
+          "conversation": "Fireproof Time Management Prompts",
+          "parseMode": "regex-create-partial",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.PER--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "c1dccfcf-7e48-47d5-8513-00892f096cda",
+      "seedConversation": "Fireproof Time Management Prompts",
+      "seedTime": 1748882933.059786,
+      "latestTime": 1748882933.059786,
+      "bodyComplete": true,
+      "bodyLength": 2505,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748882933.059786,
+          "messageId": "c1dccfcf-7e48-47d5-8513-00892f096cda",
+          "conversation": "Fireproof Time Management Prompts",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.PER--v03.md"
+    }
+  ]
+}

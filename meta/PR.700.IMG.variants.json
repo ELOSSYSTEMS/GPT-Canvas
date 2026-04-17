@@ -1,0 +1,103 @@
+{
+  "artifactKey": "PR.700.IMG",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.700.IMG.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "39257276-80b6-48f6-9ead-a47305f8e2ea",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749199541.446553,
+      "latestTime": 1749199541.446553,
+      "bodyComplete": true,
+      "bodyLength": 1659,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749199541.446553,
+          "messageId": "39257276-80b6-48f6-9ead-a47305f8e2ea",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.700.IMG--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "6961d6c7-245d-427d-a490-248d6ca90401",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749199639.126289,
+      "latestTime": 1749199639.126289,
+      "bodyComplete": true,
+      "bodyLength": 2125,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749199639.126289,
+          "messageId": "6961d6c7-245d-427d-a490-248d6ca90401",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.700.IMG--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "20926c2d-9788-4975-856d-e934b301b82d",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749199712.923792,
+      "latestTime": 1749199712.923792,
+      "bodyComplete": true,
+      "bodyLength": 2203,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749199712.923792,
+          "messageId": "20926c2d-9788-4975-856d-e934b301b82d",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.700.IMG--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "64fc7d23-8455-4967-a9a2-380d309218ca",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749199892.723071,
+      "latestTime": 1749199892.723071,
+      "bodyComplete": true,
+      "bodyLength": 1664,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749199892.723071,
+          "messageId": "64fc7d23-8455-4967-a9a2-380d309218ca",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.700.IMG--v04.md"
+    }
+  ]
+}

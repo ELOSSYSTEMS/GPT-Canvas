@@ -1,0 +1,79 @@
+{
+  "artifactKey": "NAME.order_out_for_delivery_he",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.order_out_for_delivery_he.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "8d64bf5a-6a04-4541-aad3-1d66134648b6",
+      "seedConversation": "הזמנה נמסרה דוא\"ל",
+      "seedTime": 1738844991.657028,
+      "latestTime": 1738844991.657028,
+      "bodyComplete": true,
+      "bodyLength": 4184,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1738844991.657028,
+          "messageId": "8d64bf5a-6a04-4541-aad3-1d66134648b6",
+          "conversation": "הזמנה נמסרה דוא\"ל",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.order_out_for_delivery_he--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "6b3b0964-f0e9-446a-8955-5ba4fb507c81",
+      "seedConversation": "הזמנה נמסרה דוא\"ל",
+      "seedTime": 1738845055.870059,
+      "latestTime": 1738845055.870059,
+      "bodyComplete": false,
+      "bodyLength": 397,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1738845055.870059,
+          "messageId": "6b3b0964-f0e9-446a-8955-5ba4fb507c81",
+          "conversation": "הזמנה נמסרה דוא\"ל",
+          "parseMode": "regex-update-partial",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.order_out_for_delivery_he--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "bc026dcc-5662-4ead-96c8-7db92df9e45b",
+      "seedConversation": "הזמנה נמסרה דוא\"ל",
+      "seedTime": 1738845143.844071,
+      "latestTime": 1738845143.844071,
+      "bodyComplete": true,
+      "bodyLength": 4192,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1738845143.844071,
+          "messageId": "bc026dcc-5662-4ead-96c8-7db92df9e45b",
+          "conversation": "הזמנה נמסרה דוא\"ל",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.order_out_for_delivery_he--v03.md"
+    }
+  ]
+}

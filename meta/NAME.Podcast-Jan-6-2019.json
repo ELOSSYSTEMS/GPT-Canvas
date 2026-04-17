@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Podcast-Jan-6-2019.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "f6fc885a-bcc5-46eb-be37-c1c0517b720f",
+      "seedConversation": "PODCAST TRANSCRIPTION",
+      "seedTime": 1748031206.991872,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748031206.991872,
+      "bodyComplete": true,
+      "bodyLength": 4438,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

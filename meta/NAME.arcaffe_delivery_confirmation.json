@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.arcaffe_delivery_confirmation.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d2793dbf-b39a-4be1-a050-8e311d89f42a",
+      "seedConversation": "פורמט אישור אספקה",
+      "seedTime": 1737019563.03554,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1737019563.03554,
+      "bodyComplete": true,
+      "bodyLength": 1477,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

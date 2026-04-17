@@ -1,0 +1,34 @@
+{
+  "personal_os_bootloader": {
+    "linked_canvases": [
+      "EL.410.TNF",
+      "EL.400.AUD",
+      "EL.420.HEB",
+      "EL.420.HBR",
+      "EL.420.HBA",
+      "TNF.SafeRouter.v1.0",
+      "TNF.MicroRecursion",
+      "EL.800.I18N.UI.Layer",
+      "EL.800.I18N.Lang.he",
+      "EL.800.I18N.Lang.fr",
+      "EL.800.I18N.Lang.es",
+      "EL.800.I18N.Lang.de",
+      "EL.800.I18N.Lang.zh",
+      "EL.800.I18N.Lang.ja",
+      "EL.800.I18N.Lang.ko",
+      "EL.800.I18N.Lang.ar",
+      "EL.800.I18N.Lang.ru",
+      "EL.800.I18N.Lang.hi",
+      "EL.800.I18N.Lang.pt",
+      "EL.800.I18N.Lang.it",
+      "EL.800.I18N.Lang.pl",
+      "EL.800.I18N.Lang.nl",
+      "EL.800.I18N.Lang.id",
+      "EL.800.I18N.Lang.tr",
+      "EL.800.I18N.Lang.vi",
+      "EL.800.I18N.Lang.th",
+      "EL.800.I18N.Lang.uk",
+      "EL.800.I18N.Lang.fa"
+    ]
+  }
+}

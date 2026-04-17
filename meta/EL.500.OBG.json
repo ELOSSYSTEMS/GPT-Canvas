@@ -28,6 +28,59 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 3,
+  "extractedLatestVariantId": 3,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.500.OBG.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c9486177-0b4c-40cb-aac1-96b16b05951c",
+      "seedConversation": "Prompt Library Overview",
+      "seedTime": 1749496886.24544,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749496886.24544,
+      "bodyComplete": true,
+      "bodyLength": 938,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.500.OBG--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "9d78589a-82e8-4158-b2c4-67212fd50d87",
+      "seedConversation": "Prompt Library Overview",
+      "seedTime": 1749497156.139865,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749497156.139865,
+      "bodyComplete": true,
+      "bodyLength": 648,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.500.OBG--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "c729029d-4855-4ac9-8f24-134096589bee",
+      "seedConversation": "Prompt Library Overview",
+      "seedTime": 1749497351.934038,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749497351.934038,
+      "bodyComplete": true,
+      "bodyLength": 517,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.500.OBG--v03.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/EL.500.OBG--v01.md",
+    "variants/EL.500.OBG--v02.md",
+    "variants/EL.500.OBG--v03.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

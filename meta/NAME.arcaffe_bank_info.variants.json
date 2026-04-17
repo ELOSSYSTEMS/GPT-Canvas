@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.arcaffe_bank_info",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.arcaffe_bank_info.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d95a2075-3c4d-4216-b9a3-9d4f164da7d3",
+      "seedConversation": "Arcaffe Bank Info Document",
+      "seedTime": 1737882081.254765,
+      "latestTime": 1737882081.254765,
+      "bodyComplete": true,
+      "bodyLength": 930,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1737882081.254765,
+          "messageId": "d95a2075-3c4d-4216-b9a3-9d4f164da7d3",
+          "conversation": "Arcaffe Bank Info Document",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.arcaffe_bank_info--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "e47af88e-c011-43e1-94cb-2f622bb1cf6a",
+      "seedConversation": "Arcaffe Bank Info Document",
+      "seedTime": 1737882235.751538,
+      "latestTime": 1737882235.751538,
+      "bodyComplete": true,
+      "bodyLength": 727,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1737882235.751538,
+          "messageId": "e47af88e-c011-43e1-94cb-2f622bb1cf6a",
+          "conversation": "Arcaffe Bank Info Document",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.arcaffe_bank_info--v02.md"
+    }
+  ]
+}

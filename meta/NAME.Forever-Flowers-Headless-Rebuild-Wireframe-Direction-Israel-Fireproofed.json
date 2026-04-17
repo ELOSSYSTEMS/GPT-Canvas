@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Forever-Flowers-Headless-Rebuild-Wireframe-Direction-Israel-Fireproofed.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "5d935c82-dac6-4387-9d85-475cddc4eef8",
+      "seedConversation": "Vercel Shopify Integration Guide",
+      "seedTime": 1767989860.272348,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1767989860.272348,
+      "bodyComplete": true,
+      "bodyLength": 5229,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/ELOS.400.USG.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "9c37254a-4543-4824-8068-a5347028d6bd",
+      "seedConversation": "ELos AIOS GPTOS Summary",
+      "seedTime": 1748111535.412246,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748111535.412246,
+      "bodyComplete": true,
+      "bodyLength": 1757,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

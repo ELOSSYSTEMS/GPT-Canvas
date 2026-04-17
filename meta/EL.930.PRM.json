@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.930.PRM.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "5b9fc7b2-c601-4ef6-bc78-84730d5a9c13",
+      "seedConversation": "Prompt Library Overview",
+      "seedTime": 1749497171.225321,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749497171.225321,
+      "bodyComplete": true,
+      "bodyLength": 733,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

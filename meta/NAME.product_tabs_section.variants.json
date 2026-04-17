@@ -1,0 +1,103 @@
+{
+  "artifactKey": "NAME.product_tabs_section",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.product_tabs_section.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "4e1ea5ff-4955-4f8c-9851-d63b1f415eea",
+      "seedConversation": "סדנאות פרחים לקביעת דף",
+      "seedTime": 1753095458.964086,
+      "latestTime": 1753095458.964086,
+      "bodyComplete": true,
+      "bodyLength": 3042,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1753095458.964086,
+          "messageId": "4e1ea5ff-4955-4f8c-9851-d63b1f415eea",
+          "conversation": "סדנאות פרחים לקביעת דף",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.product_tabs_section--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "61654f3d-f396-45f2-b85a-97515511e699",
+      "seedConversation": "סדנאות פרחים לקביעת דף",
+      "seedTime": 1753095500.801335,
+      "latestTime": 1753095500.801335,
+      "bodyComplete": true,
+      "bodyLength": 3051,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753095500.801335,
+          "messageId": "61654f3d-f396-45f2-b85a-97515511e699",
+          "conversation": "סדנאות פרחים לקביעת דף",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.product_tabs_section--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "ef539fa0-d632-41b0-806a-e3229d9e7a1c",
+      "seedConversation": "סדנאות פרחים לקביעת דף",
+      "seedTime": 1753095668.351848,
+      "latestTime": 1753095668.351848,
+      "bodyComplete": true,
+      "bodyLength": 3229,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753095668.351848,
+          "messageId": "ef539fa0-d632-41b0-806a-e3229d9e7a1c",
+          "conversation": "סדנאות פרחים לקביעת דף",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.product_tabs_section--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "6aa54c41-1b6b-4a88-8e1a-d52dd8fb4511",
+      "seedConversation": "סדנאות פרחים לקביעת דף",
+      "seedTime": 1753095895.681943,
+      "latestTime": 1753095895.681943,
+      "bodyComplete": true,
+      "bodyLength": 3403,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753095895.681943,
+          "messageId": "6aa54c41-1b6b-4a88-8e1a-d52dd8fb4511",
+          "conversation": "סדנאות פרחים לקביעת דף",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.product_tabs_section--v04.md"
+    }
+  ]
+}

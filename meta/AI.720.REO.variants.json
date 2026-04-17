@@ -1,0 +1,55 @@
+{
+  "artifactKey": "AI.720.REO",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AI.720.REO.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "21250eb7-e387-43e7-bbfc-bbb3de0184dc",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748034489.864028,
+      "latestTime": 1748034489.864028,
+      "bodyComplete": true,
+      "bodyLength": 3278,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748034489.864028,
+          "messageId": "21250eb7-e387-43e7-bbfc-bbb3de0184dc",
+          "conversation": "Psychometric Profile Analysis Request",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AI.720.REO--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "4bc4aa74-6725-4b37-bfdc-86c9de41c885",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748037049.828449,
+      "latestTime": 1748037049.828449,
+      "bodyComplete": true,
+      "bodyLength": 3946,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748037049.828449,
+          "messageId": "4bc4aa74-6725-4b37-bfdc-86c9de41c885",
+          "conversation": "Psychometric Profile Analysis Request",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AI.720.REO--v02.md"
+    }
+  ]
+}

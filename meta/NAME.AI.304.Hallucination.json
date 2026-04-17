@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.AI.304.Hallucination.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "3f217b84-8a54-4f66-bda5-4b6d9fd61277",
+      "seedConversation": "*** ELOS AI INTRO COURSE",
+      "seedTime": 1748756366.327402,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748756366.327402,
+      "bodyComplete": true,
+      "bodyLength": 739,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Dabroo-Prompt-Surgery-Engine.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "f82e316c-1f2b-4c3b-a98b-0422e0c6bfc7",
+      "seedConversation": "שיחה עם עוזר",
+      "seedTime": 1748894852.600231,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748894852.600231,
+      "bodyComplete": true,
+      "bodyLength": 1346,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

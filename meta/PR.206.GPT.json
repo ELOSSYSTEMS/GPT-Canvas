@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.206.GPT.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a6d03995-16f4-4308-bb55-2fd556a6c007",
+      "seedConversation": "Mission Ready Status",
+      "seedTime": 1747610755.228791,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747610755.228791,
+      "bodyComplete": true,
+      "bodyLength": 2309,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

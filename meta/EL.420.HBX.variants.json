@@ -1,0 +1,55 @@
+{
+  "artifactKey": "EL.420.HBX",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.420.HBX.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "7119577f-db01-478c-80d0-6d5459ca2b30",
+      "seedConversation": "Bootloader Sequence Initiated",
+      "seedTime": 1749501387.528785,
+      "latestTime": 1749501387.528785,
+      "bodyComplete": false,
+      "bodyLength": 374,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749501387.528785,
+          "messageId": "7119577f-db01-478c-80d0-6d5459ca2b30",
+          "conversation": "Bootloader Sequence Initiated",
+          "parseMode": "regex-create-partial",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.420.HBX--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "04c6f146-6c5d-4c8a-93c3-e68fdaa0a0dd",
+      "seedConversation": "Bootloader Sequence Initiated",
+      "seedTime": 1749501396.64115,
+      "latestTime": 1749501396.64115,
+      "bodyComplete": true,
+      "bodyLength": 1501,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749501396.64115,
+          "messageId": "04c6f146-6c5d-4c8a-93c3-e68fdaa0a0dd",
+          "conversation": "Bootloader Sequence Initiated",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.420.HBX--v02.md"
+    }
+  ]
+}

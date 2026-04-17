@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos_Synthesis_Module.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "37149867-b33a-4cfb-9f72-6c8e90e8b6e0",
+      "seedConversation": "ELos Protocol Success Potential",
+      "seedTime": 1748459594.492327,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748459594.492327,
+      "bodyComplete": true,
+      "bodyLength": 1659,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

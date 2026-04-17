@@ -24,6 +24,74 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 1,
   "commentOps": 3,
+  "variantCount": 4,
+  "extractedLatestVariantId": 4,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AI.999.ATL.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d240d944-61ac-4df3-9839-16769c5f20e9",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748113361.925556,
+      "seedParseMode": "escaped-control-chars",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748113361.925556,
+      "bodyComplete": true,
+      "bodyLength": 2569,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.999.ATL--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "5e94331c-d751-44b3-b0c9-d0b992efefb1",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748114058.902033,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748114058.902033,
+      "bodyComplete": true,
+      "bodyLength": 3618,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.999.ATL--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "8fce6f92-f314-484c-95f1-e60e6afbfa72",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748114158.192543,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748114158.192543,
+      "bodyComplete": true,
+      "bodyLength": 3679,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.999.ATL--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "c9ebbe2b-52ad-452f-97db-282fe37a204b",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748114276.628809,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748114276.628809,
+      "bodyComplete": true,
+      "bodyLength": 3856,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.999.ATL--v04.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/AI.999.ATL--v01.md",
+    "variants/AI.999.ATL--v02.md",
+    "variants/AI.999.ATL--v03.md",
+    "variants/AI.999.ATL--v04.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

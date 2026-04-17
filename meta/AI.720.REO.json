@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AI.720.REO.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "21250eb7-e387-43e7-bbfc-bbb3de0184dc",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748034489.864028,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748034489.864028,
+      "bodyComplete": true,
+      "bodyLength": 3278,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.720.REO--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "4bc4aa74-6725-4b37-bfdc-86c9de41c885",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748037049.828449,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748037049.828449,
+      "bodyComplete": true,
+      "bodyLength": 3946,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.720.REO--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/AI.720.REO--v01.md",
+    "variants/AI.720.REO--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

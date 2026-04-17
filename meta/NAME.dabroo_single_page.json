@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.dabroo_single_page.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "9bf1b2d5-646a-43fb-b566-5f43fce8e4ff",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747171907.424003,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747171907.424003,
+      "bodyComplete": true,
+      "bodyLength": 7661,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.dabroo_single_page--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "b692a71d-90a9-459a-babd-f5a341281fc1",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747203955.393794,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1747203955.393794,
+      "bodyComplete": true,
+      "bodyLength": 4186,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.dabroo_single_page--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.dabroo_single_page--v01.md",
+    "variants/NAME.dabroo_single_page--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 1,
   "commentOps": 1,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos_MirrorOS_Audit.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "fff8b82f-c7c6-4732-9f34-c142d1b0e0f4",
+      "seedConversation": "MirrorOS Audit Summary",
+      "seedTime": 1748361398.347482,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748361398.347482,
+      "bodyComplete": true,
+      "bodyLength": 2347,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.ELos_MirrorOS_Audit--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "ccc6db4e-350e-4349-8ab5-9e4f6a83ff29",
+      "seedConversation": "MirrorOS Audit Summary",
+      "seedTime": 1748367149.405372,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1748367149.405372,
+      "bodyComplete": true,
+      "bodyLength": 2592,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.ELos_MirrorOS_Audit--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.ELos_MirrorOS_Audit--v01.md",
+    "variants/NAME.ELos_MirrorOS_Audit--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

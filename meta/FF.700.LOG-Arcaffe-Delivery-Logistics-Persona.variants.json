@@ -1,0 +1,55 @@
+{
+  "artifactKey": "FF.700.LOG – Arcaffe Delivery Logistics Persona",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/FF.700.LOG-Arcaffe-Delivery-Logistics-Persona.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "9f63d456-9eb3-49a9-bbd3-d51d16348f45",
+      "seedConversation": "Bootloader Initialization Complete",
+      "seedTime": 1748719095.606858,
+      "latestTime": 1748719095.606858,
+      "bodyComplete": true,
+      "bodyLength": 2274,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748719095.606858,
+          "messageId": "9f63d456-9eb3-49a9-bbd3-d51d16348f45",
+          "conversation": "Bootloader Initialization Complete",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/FF.700.LOG-Arcaffe-Delivery-Logistics-Persona--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "25a893a0-840e-4b0a-bf31-7dd5ef655164",
+      "seedConversation": "Bootloader Initialization Complete",
+      "seedTime": 1748719739.200537,
+      "latestTime": 1748719739.200537,
+      "bodyComplete": true,
+      "bodyLength": 2678,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748719739.200537,
+          "messageId": "25a893a0-840e-4b0a-bf31-7dd5ef655164",
+          "conversation": "Bootloader Initialization Complete",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/FF.700.LOG-Arcaffe-Delivery-Logistics-Persona--v02.md"
+    }
+  ]
+}

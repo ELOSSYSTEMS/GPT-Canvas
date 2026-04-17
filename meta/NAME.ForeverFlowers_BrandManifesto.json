@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ForeverFlowers_BrandManifesto.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "6045a06d-96de-4556-bc96-44dc0f9c84e3",
+      "seedConversation": "פרסום מותג והמרה",
+      "seedTime": 1747424078.315192,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747424078.315192,
+      "bodyComplete": true,
+      "bodyLength": 2452,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.ForeverFlowers_BrandManifesto--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "acbbf629-2254-4ede-86aa-31eb8f7728f5",
+      "seedConversation": "פרסום מותג והמרה",
+      "seedTime": 1747424160.077014,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1747424160.077014,
+      "bodyComplete": true,
+      "bodyLength": 2016,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.ForeverFlowers_BrandManifesto--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.ForeverFlowers_BrandManifesto--v01.md",
+    "variants/NAME.ForeverFlowers_BrandManifesto--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

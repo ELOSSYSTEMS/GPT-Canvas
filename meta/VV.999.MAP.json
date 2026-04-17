@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/VV.999.MAP.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c475c1b0-4dbe-4642-9cc3-81b25ba5a379",
+      "seedConversation": "Bootloader Activation Summary",
+      "seedTime": 1749161914.344045,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749161914.344045,
+      "bodyComplete": true,
+      "bodyLength": 3087,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

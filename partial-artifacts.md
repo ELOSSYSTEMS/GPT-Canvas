@@ -1,10 +1,11 @@
 # Partial Artifact Recovery
 
 Artifacts with partial latest bodies: 10
-Applied partial regex updates: 77
-Unresolved partial operations: 96
+Applied partial regex updates: 99
+Unresolved partial operations: 74
 Regex errors: 4
 Preserved comment operations: 80
+Artifacts with multiple full-body variants: 176
 
 - `DA.700.ROU` latest body is partial
 - `NAME.bilingual_email_templates` latest body is partial
@@ -18,19 +19,6 @@ Preserved comment operations: 80
 - `UUID.2f077234-b54c-49cb-8525-6e43b2a8163c-0` latest body is partial
 
 ## Unresolved Partial Operations
-- message `639b62d4-d380-4363-9829-4e4833519b3c` artifact `NAME.forever_flowers_business_plan` reason=regex-no-match
-- message `1023028d-b1eb-4468-b6a3-f185bc2efd10` artifact `NAME.forever_flowers_business_plan` reason=regex-no-match
-- message `96cbed09-40be-4503-bdce-914475f4415f` artifact `NAME.forever_flowers_business_plan` reason=regex-no-match
-- message `27c6769d-56df-4bac-888a-1f3ca150c6ce` artifact `NAME.forever_flowers_business_plan` reason=regex-no-match
-- message `629a4b39-45dd-4cb8-8679-0d93d4d946eb` artifact `NAME.forever_flowers_business_plan` reason=regex-no-match
-- message `4b334867-2df2-4913-a017-7588029f5f83` artifact `NAME.forever_flowers_business_plan` reason=regex-no-match
-- message `03c44f87-ea29-434c-8ac9-fd2a0645ae0c` artifact `NAME.forever_flowers_business_plan` reason=regex-no-match
-- message `2e5352db-e1fe-421d-9e48-469a62bc834a` artifact `NAME.forever_flowers_business_plan` reason=regex-no-match
-- message `03288021-e5aa-426b-ac5c-d42d441a901c` artifact `NAME.forever_flowers_business_plan` reason=regex-no-match
-- message `759d40fc-4c09-4485-89f3-909976e55358` artifact `NAME.forever_flowers_business_plan` reason=regex-no-match
-- message `4ddf2d72-0ec9-4341-bc57-726eee2e2ab8` artifact `NAME.forever_flowers_business_plan` reason=regex-no-match
-- message `89895302-1f2f-49aa-9cd1-d5c14ebcb402` artifact `NAME.forever_flowers_business_plan` reason=regex-no-match
-- message `a094144e-541a-41e1-a526-575927d67b46` artifact `NAME.forever_flowers_business_plan` reason=regex-no-match
 - message `000b4c29-64de-4dfe-8ea6-c5f8089eb22b` artifact `NAME.shopify_blocks_review` reason=regex-no-match
 - message `118b7d19-acc1-4127-8d76-1b6520001705` artifact `NAME.shopify_blocks_review` reason=regex-no-match
 - message `2b6300c5-ef38-494c-9b9d-87e30de0fe05` artifact `NAME.order_out_for_delivery_he` reason=regex-no-match
@@ -55,7 +43,6 @@ Preserved comment operations: 80
 - message `6e406b49-277f-494a-897e-1f55fc64f5bf` artifact `IN.100.ALL` reason=regex-no-match
 - message `6e406b49-277f-494a-897e-1f55fc64f5bf` artifact `IN.100.ALL` reason=regex-no-match
 - message `3ec6cadc-1aff-45f8-b8c5-4ba2f189f29a` artifact `NAME.Redundancy-Audit-60-Pair-Merge-Log` reason=regex-no-match
-- message `3ec6cadc-1aff-45f8-b8c5-4ba2f189f29a` artifact `NAME.Redundancy-Audit-60-Pair-Merge-Log` reason=regex-no-match
 - message `fffb31e3-0223-45fb-bea1-6d1bd3e1badc` artifact `NAME.Redundancy-Audit-60-Pair-Merge-Log` reason=regex-no-match
 - message `fffb31e3-0223-45fb-bea1-6d1bd3e1badc` artifact `NAME.Redundancy-Audit-60-Pair-Merge-Log` reason=regex-no-match
 - message `7d5ced82-7197-4a2b-9a51-1c7121ab315e` artifact `NAME.Redundancy-Audit-60-Pair-Merge-Log` reason=regex-no-match
@@ -66,8 +53,6 @@ Preserved comment operations: 80
 - message `c722c9c7-70f9-4806-8c2a-1c94a279c312` artifact `AI.999.ATL` reason=missing-replacement
 - message `122db5ce-b489-47b7-be41-47a9e1c378d2` artifact `AO.910.PSN` reason=regex-no-match
 - message `38260e17-e500-4622-b85b-c1b5a0993d5d` artifact `AO.910.PSN` reason=regex-no-match
-- message `38260e17-e500-4622-b85b-c1b5a0993d5d` artifact `AO.910.PSN` reason=regex-no-match
-- message `f983083a-21c7-4e0c-9bc9-ae54ee814057` artifact `AO.910.PSN` reason=regex-no-match
 - message `f983083a-21c7-4e0c-9bc9-ae54ee814057` artifact `AO.910.PSN` reason=regex-no-match
 - message `9f60cb5c-04d6-498a-801a-54a10c9cf476` artifact `AO.910.PSN` reason=regex-no-match
 - message `53d7146c-98b4-498b-8f44-11958c9ff963` artifact `AO.910.PSN` reason=regex-no-match
@@ -76,8 +61,6 @@ Preserved comment operations: 80
 - message `1d20532b-9d85-46f9-b096-ba654408765d` artifact `NAME.Stargate_Hybrid_Protocol_Config` reason=regex-no-match
 - message `4b90ebf3-b9bd-4871-93c6-da347210ecfe` artifact `NAME.Stargate_Hybrid_Protocol_Config` reason=regex-no-match
 - message `4b90ebf3-b9bd-4871-93c6-da347210ecfe` artifact `NAME.Stargate_Hybrid_Protocol_Config` reason=regex-no-match
-- message `4b90ebf3-b9bd-4871-93c6-da347210ecfe` artifact `NAME.Stargate_Hybrid_Protocol_Config` reason=regex-no-match
-- message `dbdc808e-3760-43d8-9780-4587d0dae06a` artifact `NAME.Stargate_Hybrid_Protocol_Config` reason=regex-no-match
 - message `dbdc808e-3760-43d8-9780-4587d0dae06a` artifact `NAME.Stargate_Hybrid_Protocol_Config` reason=regex-no-match
 - message `dbdc808e-3760-43d8-9780-4587d0dae06a` artifact `NAME.Stargate_Hybrid_Protocol_Config` reason=regex-no-match
 - message `dbdc808e-3760-43d8-9780-4587d0dae06a` artifact `NAME.Stargate_Hybrid_Protocol_Config` reason=regex-no-match
@@ -92,8 +75,6 @@ Preserved comment operations: 80
 - message `607e2690-0af1-4a58-8fcd-a9ed4046c795` artifact `WG.002.PSN` reason=regex-no-match
 - message `a568e9ae-81fa-4b6f-a793-b08245798727` artifact `WG.002.PSN` reason=regex-no-match
 - message `a568e9ae-81fa-4b6f-a793-b08245798727` artifact `WG.002.PSN` reason=regex-no-match
-- message `c42e2b10-8925-4b5d-8621-238a18a9c569` artifact `AO.910.PRM.IDX` reason=regex-no-match
-- message `23faf08d-7d74-452c-9988-fb6421d0bbcc` artifact `AO.910.PRM.IDX` reason=regex-no-match
 - message `52f73dd2-9212-4084-b914-382206f7fa2d` artifact `PR.000.SPP` reason=no-current-body-for-partial-update
 - message `2679a5a6-ae93-4efd-972d-cae029946981` artifact `PR.000.SPP` reason=no-current-body-for-partial-update
 - message `3ad963cf-07ff-431f-a345-3d41e6d4b206` artifact `PR.210.DBT` reason=no-current-body-for-partial-update
@@ -103,8 +84,6 @@ Preserved comment operations: 80
 - message `e1c478a5-c770-4e2f-8553-e70588ffb9f6` artifact `PR.210.DBT` reason=no-current-body-for-partial-update
 - message `ed8c3d66-38d7-4165-b74e-776ce12ba97d` artifact `PR.210.DBT` reason=no-current-body-for-partial-update
 - message `029e8c77-63b2-4dc7-9cae-95a353be5a3f` artifact `PR.210.DBT` reason=no-current-body-for-partial-update
-- message `8f8a7ff8-7165-4277-ab71-7f505267ffbc` artifact `AO.001.RBI` reason=regex-no-match
-- message `eba885a0-8685-4e06-8dc0-d1e32bb2c08c` artifact `AO.001.RBI` reason=regex-no-match
 - message `a8dce4f7-6c2f-4aed-a91f-f0af088dde7e` artifact `PR.000.SPP` reason=no-current-body-for-partial-update
 - message `7bf6b1ae-832b-4a80-a97b-a4082a2022f7` artifact `PR.000.SPP` reason=no-current-body-for-partial-update
 - message `ed2b48c6-58fd-4a76-873d-83b785df1002` artifact `PR.000.SPP` reason=no-current-body-for-partial-update

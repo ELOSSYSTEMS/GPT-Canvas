@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-different",
+  "extractedLatestPath": "variants/IN.900.ZION--latest-extracted.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "bbfde433-979b-4629-9e67-2365eb56b74a",
+      "seedConversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "seedTime": 1748760348.750111,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748760348.750111,
+      "bodyComplete": true,
+      "bodyLength": 2446,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

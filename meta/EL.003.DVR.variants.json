@@ -1,0 +1,103 @@
+{
+  "artifactKey": "EL.003.DVR",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.003.DVR.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "4e56dadf-83d3-4c40-96e6-d8b8587e0359",
+      "seedConversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "seedTime": 1748970399.159937,
+      "latestTime": 1748970399.159937,
+      "bodyComplete": true,
+      "bodyLength": 2737,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748970399.159937,
+          "messageId": "4e56dadf-83d3-4c40-96e6-d8b8587e0359",
+          "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.003.DVR--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "0c2ba4ea-118d-43a7-864e-5b60e3ae46c5",
+      "seedConversation": "Bootloader Activation Summary",
+      "seedTime": 1749134173.97186,
+      "latestTime": 1749134173.97186,
+      "bodyComplete": true,
+      "bodyLength": 2147,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749134173.97186,
+          "messageId": "0c2ba4ea-118d-43a7-864e-5b60e3ae46c5",
+          "conversation": "Bootloader Activation Summary",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.003.DVR--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "797ac5ce-05b6-48cc-b17c-839cf4cf803b",
+      "seedConversation": "Bootloader Activation Summary",
+      "seedTime": 1749134248.827456,
+      "latestTime": 1749134248.827456,
+      "bodyComplete": true,
+      "bodyLength": 2664,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749134248.827456,
+          "messageId": "797ac5ce-05b6-48cc-b17c-839cf4cf803b",
+          "conversation": "Bootloader Activation Summary",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.003.DVR--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "d98ad41f-0ca6-4294-9e1c-3ef06fedad36",
+      "seedConversation": "Bootloader Activation Summary",
+      "seedTime": 1749134312.500156,
+      "latestTime": 1749134312.500156,
+      "bodyComplete": true,
+      "bodyLength": 2909,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749134312.500156,
+          "messageId": "d98ad41f-0ca6-4294-9e1c-3ef06fedad36",
+          "conversation": "Bootloader Activation Summary",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.003.DVR--v04.md"
+    }
+  ]
+}

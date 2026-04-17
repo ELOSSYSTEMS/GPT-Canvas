@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.701.MEM.RX.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "8c49fa9b-5b4f-4bee-a97d-a34ec6e6349b",
+      "seedConversation": "Bootloader Execution Summary",
+      "seedTime": 1749329343.832423,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749329343.832423,
+      "bodyComplete": true,
+      "bodyLength": 1221,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

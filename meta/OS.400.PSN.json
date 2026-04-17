@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 1,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/OS.400.PSN.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "580817f3-b8c7-4f27-b036-7f987d9ae8e4",
+      "seedConversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "seedTime": 1747607660.7354,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747607660.7354,
+      "bodyComplete": true,
+      "bodyLength": 1875,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

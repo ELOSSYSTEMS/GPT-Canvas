@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.912.RPL.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "8ff592ed-0854-4f2c-9aac-95980e5d5ca4",
+      "seedConversation": "Bootloader Execution Summary",
+      "seedTime": 1749329338.371864,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749329338.371864,
+      "bodyComplete": true,
+      "bodyLength": 1342,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

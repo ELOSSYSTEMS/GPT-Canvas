@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.001.BOOT.SURUEE.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "9ec69b3b-1680-42cb-b887-bb75eb7d3a94",
+      "seedConversation": "Command Input Initialization",
+      "seedTime": 1748677318.992384,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748677318.992384,
+      "bodyComplete": true,
+      "bodyLength": 582,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

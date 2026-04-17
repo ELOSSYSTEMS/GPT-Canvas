@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.contact_form_translatable.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "909565fd-0516-4030-b360-cf8bfae9a8ec",
+      "seedConversation": "תרגום לעברית",
+      "seedTime": 1750697243.973029,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1750697243.973029,
+      "bodyComplete": true,
+      "bodyLength": 4948,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

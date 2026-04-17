@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.200.PLN.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "f6893379-d3e2-4206-b7ae-04d7a870cd2f",
+      "seedConversation": "Memory Modularization Plan",
+      "seedTime": 1748116128.318201,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748116128.318201,
+      "bodyComplete": true,
+      "bodyLength": 814,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.930.WATCH.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "8e39e048-ca1a-475e-b623-845c2714f0e2",
+      "seedConversation": "Bootloader Execution Summary",
+      "seedTime": 1749329444.540487,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749329444.540487,
+      "bodyComplete": true,
+      "bodyLength": 1365,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

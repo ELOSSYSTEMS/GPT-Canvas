@@ -27,6 +27,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/FF.200.ETH.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "b8b79e2a-2978-45a0-9e7a-6b31ac1be92d",
+      "seedConversation": "Dabroo Power User Guide",
+      "seedTime": 1747609506.582083,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747609506.582083,
+      "bodyComplete": true,
+      "bodyLength": 1392,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/FF.200.ETH--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "5e2beeec-0dd7-448d-acc8-69402ebe5473",
+      "seedConversation": "PR.100 Canvases Search",
+      "seedTime": 1748559092.553444,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748559092.553444,
+      "bodyComplete": true,
+      "bodyLength": 2688,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/FF.200.ETH--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/FF.200.ETH--v01.md",
+    "variants/FF.200.ETH--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.410.TNF.BENCHMARK.ETHICS.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "3401362c-9841-43f5-bb5b-85b37ca3924f",
+      "seedConversation": "translation 2.0 integration and expansion",
+      "seedTime": 1749326047.328825,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749326047.328825,
+      "bodyComplete": true,
+      "bodyLength": 1208,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

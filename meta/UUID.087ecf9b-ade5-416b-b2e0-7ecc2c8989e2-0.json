@@ -20,6 +20,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/UUID.087ecf9b-ade5-416b-b2e0-7ecc2c8989e2-0.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "087ecf9b-ade5-416b-b2e0-7ecc2c8989e2",
+      "seedConversation": "ELos Build and Testing",
+      "seedTime": 1748096304.855778,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1748096304.855778,
+      "bodyComplete": true,
+      "bodyLength": 3375,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "update_textdoc",

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.elos-core-modules.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d78be666-4027-4ce3-bdad-74fb6c338e19",
+      "seedConversation": "BUILDING THE WEBAPP",
+      "seedTime": 1750601445.615782,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1750601445.615782,
+      "bodyComplete": true,
+      "bodyLength": 2963,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

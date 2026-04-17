@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos_Beginner_Recursive_Guide.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d37d2639-1b3f-4c99-9933-e0a19a0928e7",
+      "seedConversation": "Recursive Guidance for Beginners",
+      "seedTime": 1748072195.788532,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748072195.788532,
+      "bodyComplete": true,
+      "bodyLength": 2416,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

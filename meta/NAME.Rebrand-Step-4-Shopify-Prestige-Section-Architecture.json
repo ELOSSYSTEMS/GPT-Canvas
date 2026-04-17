@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Rebrand-Step-4-Shopify-Prestige-Section-Architecture.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "ecdd0c51-70c2-4349-820a-6b8b16eb9f55",
+      "seedConversation": "SUB WEB REBUILD",
+      "seedTime": 1769442909.642209,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1769442909.642209,
+      "bodyComplete": true,
+      "bodyLength": 3852,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

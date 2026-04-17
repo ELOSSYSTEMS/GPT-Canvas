@@ -1,0 +1,55 @@
+{
+  "artifactKey": "AO.000.IDX",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.000.IDX.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "4b25f44a-011b-4811-b725-3c18abb05ae0",
+      "seedConversation": "PR.100 Canvases Search",
+      "seedTime": 1748559144.303192,
+      "latestTime": 1748559144.303192,
+      "bodyComplete": true,
+      "bodyLength": 2698,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748559144.303192,
+          "messageId": "4b25f44a-011b-4811-b725-3c18abb05ae0",
+          "conversation": "PR.100 Canvases Search",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.000.IDX--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "ddb73f13-478e-4bc9-8f80-9192a98228b7",
+      "seedConversation": "PR.100 Canvases Search",
+      "seedTime": 1748559325.847532,
+      "latestTime": 1748559325.847532,
+      "bodyComplete": true,
+      "bodyLength": 2950,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748559325.847532,
+          "messageId": "ddb73f13-478e-4bc9-8f80-9192a98228b7",
+          "conversation": "PR.100 Canvases Search",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.000.IDX--v02.md"
+    }
+  ]
+}

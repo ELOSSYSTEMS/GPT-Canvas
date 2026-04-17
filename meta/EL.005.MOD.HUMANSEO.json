@@ -25,6 +25,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.005.MOD.HUMANSEO.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e29a41fc-2fca-4da6-8072-354ffa9719fd",
+      "seedConversation": "PROMPT SCRAPE IMPROVE AND STORE",
+      "seedTime": 1749055193.898173,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749055193.898173,
+      "bodyComplete": true,
+      "bodyLength": 2322,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.005.MOD.HUMANSEO--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "bcabb75e-b335-4bd7-8181-16abd248c6b4",
+      "seedConversation": "Mode Forks: Text vs Voice",
+      "seedTime": 1749360641.117407,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1749360641.117407,
+      "bodyComplete": true,
+      "bodyLength": 700,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.005.MOD.HUMANSEO--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/EL.005.MOD.HUMANSEO--v01.md",
+    "variants/EL.005.MOD.HUMANSEO--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -1,0 +1,55 @@
+{
+  "artifactKey": "AO.100.SRG",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.100.SRG.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "977bd6e5-212b-45e6-b823-bdc85a3ac950",
+      "seedConversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "seedTime": 1748974734.365912,
+      "latestTime": 1748974734.365912,
+      "bodyComplete": true,
+      "bodyLength": 986,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748974734.365912,
+          "messageId": "977bd6e5-212b-45e6-b823-bdc85a3ac950",
+          "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.100.SRG--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "e628b32e-580b-486f-9f2d-4be23b766dba",
+      "seedConversation": "Canvas List Retrieval",
+      "seedTime": 1753972849.120253,
+      "latestTime": 1753972849.120253,
+      "bodyComplete": true,
+      "bodyLength": 1516,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1753972849.120253,
+          "messageId": "e628b32e-580b-486f-9f2d-4be23b766dba",
+          "conversation": "Canvas List Retrieval",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.100.SRG--v02.md"
+    }
+  ]
+}

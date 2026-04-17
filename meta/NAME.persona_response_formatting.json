@@ -24,6 +24,59 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 3,
+  "extractedLatestVariantId": 3,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.persona_response_formatting.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a7fa3ca1-5cd1-4b78-83db-d5059c5d9755",
+      "seedConversation": "Bootloader protocol loaded",
+      "seedTime": 1754248231.299511,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1754248231.299511,
+      "bodyComplete": true,
+      "bodyLength": 7346,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.persona_response_formatting--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "e527cbf7-575a-4371-a442-b8b9d814d691",
+      "seedConversation": "Bootloader protocol loaded",
+      "seedTime": 1754249848.252162,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1754249848.252162,
+      "bodyComplete": true,
+      "bodyLength": 2172,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.persona_response_formatting--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "59c9a36a-9f23-4619-bed8-abe3eda0890d",
+      "seedConversation": "Bootloader protocol loaded",
+      "seedTime": 1754251233.331992,
+      "seedParseMode": "regex-update-partial",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1754251233.331992,
+      "bodyComplete": false,
+      "bodyLength": 887,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.persona_response_formatting--v03.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.persona_response_formatting--v01.md",
+    "variants/NAME.persona_response_formatting--v02.md",
+    "variants/NAME.persona_response_formatting--v03.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

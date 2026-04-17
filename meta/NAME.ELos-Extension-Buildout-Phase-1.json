@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos-Extension-Buildout-Phase-1.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "0dd6ebeb-130c-4a2c-9f19-1b0b9c40c39a",
+      "seedConversation": "ELos Buildout Phases",
+      "seedTime": 1748091690.621942,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748091690.621942,
+      "bodyComplete": true,
+      "bodyLength": 3472,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.forever_flowers_loccitane",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.forever_flowers_loccitane.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c6208b5a-f5cb-4c9d-93fe-c1b5a5c7721f",
+      "seedConversation": "L'Occitane Brand Overview",
+      "seedTime": 1739885976.562438,
+      "latestTime": 1739885976.562438,
+      "bodyComplete": true,
+      "bodyLength": 2127,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1739885976.562438,
+          "messageId": "c6208b5a-f5cb-4c9d-93fe-c1b5a5c7721f",
+          "conversation": "L'Occitane Brand Overview",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.forever_flowers_loccitane--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "60dba681-9143-44d7-bff2-e9c1cbf26096",
+      "seedConversation": "L'Occitane Brand Overview",
+      "seedTime": 1739886848.260612,
+      "latestTime": 1739886848.260612,
+      "bodyComplete": true,
+      "bodyLength": 2282,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1739886848.260612,
+          "messageId": "60dba681-9143-44d7-bff2-e9c1cbf26096",
+          "conversation": "L'Occitane Brand Overview",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.forever_flowers_loccitane--v02.md"
+    }
+  ]
+}

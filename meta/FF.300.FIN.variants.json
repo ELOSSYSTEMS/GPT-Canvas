@@ -1,0 +1,55 @@
+{
+  "artifactKey": "FF.300.FIN",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/FF.300.FIN.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a513c8ef-3a16-483c-b699-284de56b1db7",
+      "seedConversation": "Fear and Loathing Transcripts",
+      "seedTime": 1749073284.735311,
+      "latestTime": 1749073284.735311,
+      "bodyComplete": true,
+      "bodyLength": 2870,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749073284.735311,
+          "messageId": "a513c8ef-3a16-483c-b699-284de56b1db7",
+          "conversation": "Fear and Loathing Transcripts",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/FF.300.FIN--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "5e76c307-1dc7-4e0b-aa66-4708687ddb42",
+      "seedConversation": "Fear and Loathing Transcripts",
+      "seedTime": 1749073487.493467,
+      "latestTime": 1749073487.493467,
+      "bodyComplete": true,
+      "bodyLength": 4334,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749073487.493467,
+          "messageId": "5e76c307-1dc7-4e0b-aa66-4708687ddb42",
+          "conversation": "Fear and Loathing Transcripts",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/FF.300.FIN--v02.md"
+    }
+  ]
+}

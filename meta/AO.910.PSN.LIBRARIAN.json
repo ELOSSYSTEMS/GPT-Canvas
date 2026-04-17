@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-different",
+  "extractedLatestPath": "variants/AO.910.PSN.LIBRARIAN--latest-extracted.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "2fde31a8-1433-41b9-9f0a-711afdf1775b",
+      "seedConversation": "System Boot Initialization",
+      "seedTime": 1749405519.896447,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749405519.896447,
+      "bodyComplete": true,
+      "bodyLength": 2439,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

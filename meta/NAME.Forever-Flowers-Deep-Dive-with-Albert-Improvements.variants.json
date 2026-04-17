@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.Forever-Flowers-Deep-Dive-with-Albert-Improvements",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Forever-Flowers-Deep-Dive-with-Albert-Improvements.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "ccd748f4-db96-4717-8cf4-6b0266731d2b",
+      "seedConversation": "Forever Flowers Meeting Itinerary",
+      "seedTime": 1745991150.259921,
+      "latestTime": 1745991150.259921,
+      "bodyComplete": true,
+      "bodyLength": 3545,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1745991150.259921,
+          "messageId": "ccd748f4-db96-4717-8cf4-6b0266731d2b",
+          "conversation": "Forever Flowers Meeting Itinerary",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Forever-Flowers-Deep-Dive-with-Albert-Improvements--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "e1aae76d-4ccf-4b98-9d80-6305dfe1fc46",
+      "seedConversation": "Forever Flowers Meeting Itinerary",
+      "seedTime": 1745991220.627908,
+      "latestTime": 1745991220.627908,
+      "bodyComplete": true,
+      "bodyLength": 5127,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1745991220.627908,
+          "messageId": "e1aae76d-4ccf-4b98-9d80-6305dfe1fc46",
+          "conversation": "Forever Flowers Meeting Itinerary",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Forever-Flowers-Deep-Dive-with-Albert-Improvements--v02.md"
+    }
+  ]
+}

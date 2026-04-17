@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Mirror_Audit_System.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "71fa5c28-2d81-4164-ae10-8150640f67b6",
+      "seedConversation": "Purpose Design Blueprint",
+      "seedTime": 1748354070.654501,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748354070.654501,
+      "bodyComplete": true,
+      "bodyLength": 2450,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

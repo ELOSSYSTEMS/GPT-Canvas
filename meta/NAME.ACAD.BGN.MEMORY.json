@@ -24,6 +24,74 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 4,
+  "extractedLatestVariantId": 4,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ACAD.BGN.MEMORY.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "9f83774b-3961-4eff-bcf1-b1e0d4c94489",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748196801.779003,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748196801.779003,
+      "bodyComplete": true,
+      "bodyLength": 1704,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.ACAD.BGN.MEMORY--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "a3cd6e9a-04a2-44a1-95ed-61e599dbf66f",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748196930.209801,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1748196930.209801,
+      "bodyComplete": true,
+      "bodyLength": 2063,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.ACAD.BGN.MEMORY--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "5ac34527-273e-4be9-afd0-6dac3fc620d6",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748196991.859911,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1748196991.859911,
+      "bodyComplete": true,
+      "bodyLength": 2167,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.ACAD.BGN.MEMORY--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "2963a3bd-0c7b-49c9-871c-48141fb0f97e",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748197056.897955,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1748197056.897955,
+      "bodyComplete": true,
+      "bodyLength": 2155,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.ACAD.BGN.MEMORY--v04.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.ACAD.BGN.MEMORY--v01.md",
+    "variants/NAME.ACAD.BGN.MEMORY--v02.md",
+    "variants/NAME.ACAD.BGN.MEMORY--v03.md",
+    "variants/NAME.ACAD.BGN.MEMORY--v04.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

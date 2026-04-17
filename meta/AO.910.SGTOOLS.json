@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.910.SGTOOLS.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "170ac1d4-2497-4892-a6da-1a0091a03b57",
+      "seedConversation": "Critical Prompt Routing Protocol",
+      "seedTime": 1748203681.377671,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748203681.377671,
+      "bodyComplete": true,
+      "bodyLength": 2286,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

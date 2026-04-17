@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Prompt-Surgeon-Persona.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "1743435f-ce7d-46a6-a741-b586b4c41880",
+      "seedConversation": "Prompt Surgeon Persona Development",
+      "seedTime": 1747610107.663913,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747610107.663913,
+      "bodyComplete": true,
+      "bodyLength": 5914,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

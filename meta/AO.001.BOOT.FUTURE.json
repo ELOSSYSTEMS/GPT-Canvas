@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.001.BOOT.FUTURE.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "7e44d6aa-5dcd-475b-a691-41d0edd1e16a",
+      "seedConversation": "Command Input Initialization",
+      "seedTime": 1748677343.165312,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748677343.165312,
+      "bodyComplete": true,
+      "bodyLength": 582,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

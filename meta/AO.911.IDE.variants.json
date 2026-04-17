@@ -1,0 +1,127 @@
+{
+  "artifactKey": "AO.911.IDE",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.911.IDE.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "7cf85833-4f38-411b-a267-d76a0eee6dfd",
+      "seedConversation": "Critical Prompt Routing Protocol",
+      "seedTime": 1748203730.887211,
+      "latestTime": 1748203730.887211,
+      "bodyComplete": true,
+      "bodyLength": 1935,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748203730.887211,
+          "messageId": "7cf85833-4f38-411b-a267-d76a0eee6dfd",
+          "conversation": "Critical Prompt Routing Protocol",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.911.IDE--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "39a989c2-46f9-4fac-8740-93769b422805",
+      "seedConversation": "Bootloader Activation Summary",
+      "seedTime": 1749131300.847335,
+      "latestTime": 1749131300.847335,
+      "bodyComplete": true,
+      "bodyLength": 1801,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749131300.847335,
+          "messageId": "39a989c2-46f9-4fac-8740-93769b422805",
+          "conversation": "Bootloader Activation Summary",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.911.IDE--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "8201d9b2-c566-4f95-9b30-cf7ab9a29d3e",
+      "seedConversation": "Bootloader Activation Summary",
+      "seedTime": 1749131345.961235,
+      "latestTime": 1749131345.961235,
+      "bodyComplete": true,
+      "bodyLength": 2655,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749131345.961235,
+          "messageId": "8201d9b2-c566-4f95-9b30-cf7ab9a29d3e",
+          "conversation": "Bootloader Activation Summary",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.911.IDE--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "66111ebc-e8d5-4e68-ae35-7f22718f37eb",
+      "seedConversation": "Bootloader Activation Summary",
+      "seedTime": 1749132299.340071,
+      "latestTime": 1749132299.340071,
+      "bodyComplete": true,
+      "bodyLength": 2673,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749132299.340071,
+          "messageId": "66111ebc-e8d5-4e68-ae35-7f22718f37eb",
+          "conversation": "Bootloader Activation Summary",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.911.IDE--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "8ee308dd-108b-45fd-b88b-e3ad07974863",
+      "seedConversation": "Bootloader Execution Summary",
+      "seedTime": 1749329196.71264,
+      "latestTime": 1749329196.71264,
+      "bodyComplete": true,
+      "bodyLength": 2624,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749329196.71264,
+          "messageId": "8ee308dd-108b-45fd-b88b-e3ad07974863",
+          "conversation": "Bootloader Execution Summary",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.911.IDE--v05.md"
+    }
+  ]
+}

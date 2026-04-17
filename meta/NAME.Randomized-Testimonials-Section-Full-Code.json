@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Randomized-Testimonials-Section-Full-Code.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "2f31536b-736e-4dc2-8d50-d5d9dbe0504f",
+      "seedConversation": "Remove testimonial slider dots",
+      "seedTime": 1768915372.403273,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1768915372.403273,
+      "bodyComplete": true,
+      "bodyLength": 11877,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

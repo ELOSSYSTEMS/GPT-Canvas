@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.FullCanvasUI",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.FullCanvasUI.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a26ed7c2-0092-4909-9362-cbabd6000e43",
+      "seedConversation": "PROMPT SCRAPE IMPROVE AND STORE",
+      "seedTime": 1749062953.772795,
+      "latestTime": 1749062953.772795,
+      "bodyComplete": true,
+      "bodyLength": 3714,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749062953.772795,
+          "messageId": "a26ed7c2-0092-4909-9362-cbabd6000e43",
+          "conversation": "PROMPT SCRAPE IMPROVE AND STORE",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.FullCanvasUI--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "ba23cfc5-fbfa-4f65-b0b7-7e5f15ac5895",
+      "seedConversation": "PROMPT SCRAPE IMPROVE AND STORE",
+      "seedTime": 1749070738.378972,
+      "latestTime": 1749070738.378972,
+      "bodyComplete": true,
+      "bodyLength": 8496,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749070738.378972,
+          "messageId": "ba23cfc5-fbfa-4f65-b0b7-7e5f15ac5895",
+          "conversation": "PROMPT SCRAPE IMPROVE AND STORE",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.FullCanvasUI--v02.md"
+    }
+  ]
+}

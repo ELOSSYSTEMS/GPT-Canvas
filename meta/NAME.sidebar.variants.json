@@ -1,0 +1,295 @@
+{
+  "artifactKey": "NAME.sidebar",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.sidebar.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e297a4d9-61e5-465b-bc89-63f50a0af31c",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747167097.033121,
+      "latestTime": 1747167097.033121,
+      "bodyComplete": true,
+      "bodyLength": 1655,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1747167097.033121,
+          "messageId": "e297a4d9-61e5-465b-bc89-63f50a0af31c",
+          "conversation": "Liquid Page Breakdown Issues",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.sidebar--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "be4f340f-d92a-4728-98b9-d314a72a2655",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747167215.598705,
+      "latestTime": 1747167215.598705,
+      "bodyComplete": true,
+      "bodyLength": 2771,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747167215.598705,
+          "messageId": "be4f340f-d92a-4728-98b9-d314a72a2655",
+          "conversation": "Liquid Page Breakdown Issues",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.sidebar--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "61f3895b-33bf-4160-a4ae-1d0e05d6f141",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747167263.95247,
+      "latestTime": 1747167263.95247,
+      "bodyComplete": true,
+      "bodyLength": 3882,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747167263.95247,
+          "messageId": "61f3895b-33bf-4160-a4ae-1d0e05d6f141",
+          "conversation": "Liquid Page Breakdown Issues",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.sidebar--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "c7927dda-a445-4c2b-8be6-5712187bd7bb",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747167386.318479,
+      "latestTime": 1747167386.318479,
+      "bodyComplete": true,
+      "bodyLength": 5537,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747167386.318479,
+          "messageId": "c7927dda-a445-4c2b-8be6-5712187bd7bb",
+          "conversation": "Liquid Page Breakdown Issues",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.sidebar--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "8fd62d78-8569-4ce8-8011-cf359032e4ae",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747167557.976514,
+      "latestTime": 1747167557.976514,
+      "bodyComplete": true,
+      "bodyLength": 3206,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747167557.976514,
+          "messageId": "8fd62d78-8569-4ce8-8011-cf359032e4ae",
+          "conversation": "Liquid Page Breakdown Issues",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.sidebar--v05.md"
+    },
+    {
+      "variantId": 6,
+      "seedMessageId": "143aeca0-355d-455a-b6e6-fc7c3da7341e",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747167720.053815,
+      "latestTime": 1747167720.053815,
+      "bodyComplete": true,
+      "bodyLength": 5357,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747167720.053815,
+          "messageId": "143aeca0-355d-455a-b6e6-fc7c3da7341e",
+          "conversation": "Liquid Page Breakdown Issues",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.sidebar--v06.md"
+    },
+    {
+      "variantId": 7,
+      "seedMessageId": "96d5425a-91a6-40ce-914b-a01d728933b4",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747167955.431746,
+      "latestTime": 1747167955.431746,
+      "bodyComplete": true,
+      "bodyLength": 3913,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747167955.431746,
+          "messageId": "96d5425a-91a6-40ce-914b-a01d728933b4",
+          "conversation": "Liquid Page Breakdown Issues",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.sidebar--v07.md"
+    },
+    {
+      "variantId": 8,
+      "seedMessageId": "2028678a-7ec6-466b-853c-024312f2aa99",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747168231.584052,
+      "latestTime": 1747168231.584052,
+      "bodyComplete": true,
+      "bodyLength": 3868,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747168231.584052,
+          "messageId": "2028678a-7ec6-466b-853c-024312f2aa99",
+          "conversation": "Liquid Page Breakdown Issues",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.sidebar--v08.md"
+    },
+    {
+      "variantId": 9,
+      "seedMessageId": "5b2c3710-4409-435a-87da-8757e2c6ca1f",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747168626.332986,
+      "latestTime": 1747168626.332986,
+      "bodyComplete": true,
+      "bodyLength": 5277,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747168626.332986,
+          "messageId": "5b2c3710-4409-435a-87da-8757e2c6ca1f",
+          "conversation": "Liquid Page Breakdown Issues",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.sidebar--v09.md"
+    },
+    {
+      "variantId": 10,
+      "seedMessageId": "2273d210-22c5-40de-9631-b12498a4e1e9",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747168890.09715,
+      "latestTime": 1747168890.09715,
+      "bodyComplete": true,
+      "bodyLength": 1163,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747168890.09715,
+          "messageId": "2273d210-22c5-40de-9631-b12498a4e1e9",
+          "conversation": "Liquid Page Breakdown Issues",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.sidebar--v10.md"
+    },
+    {
+      "variantId": 11,
+      "seedMessageId": "d3aca806-dfe8-4b7b-a489-d3fe0d8a5336",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747169324.054084,
+      "latestTime": 1747169324.054084,
+      "bodyComplete": true,
+      "bodyLength": 3944,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747169324.054084,
+          "messageId": "d3aca806-dfe8-4b7b-a489-d3fe0d8a5336",
+          "conversation": "Liquid Page Breakdown Issues",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.sidebar--v11.md"
+    },
+    {
+      "variantId": 12,
+      "seedMessageId": "afe84cc2-e52a-4de7-b4ee-3acc890e1725",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747170691.302844,
+      "latestTime": 1747170691.302844,
+      "bodyComplete": true,
+      "bodyLength": 3923,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747170691.302844,
+          "messageId": "afe84cc2-e52a-4de7-b4ee-3acc890e1725",
+          "conversation": "Liquid Page Breakdown Issues",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.sidebar--v12.md"
+    }
+  ]
+}

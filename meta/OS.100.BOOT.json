@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/OS.100.BOOT.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "921127d9-c54c-4c4d-97f6-d89a939c0a43",
+      "seedConversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "seedTime": 1747607629.566654,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747607629.566654,
+      "bodyComplete": true,
+      "bodyLength": 1153,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/OS.100.BOOT--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "0311ba18-e015-4446-b894-593691b2b944",
+      "seedConversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "seedTime": 1747608884.091062,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1747608884.091062,
+      "bodyComplete": true,
+      "bodyLength": 4309,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/OS.100.BOOT--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/OS.100.BOOT--v01.md",
+    "variants/OS.100.BOOT--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

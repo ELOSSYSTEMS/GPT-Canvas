@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.forever_flowers_rebrand.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "b6d5b0fd-6247-4b01-b1cd-be271bc106d6",
+      "seedConversation": "Rebrand Forever Flowers",
+      "seedTime": 1735894807.591299,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1735894807.591299,
+      "bodyComplete": true,
+      "bodyLength": 4096,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 2,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.400.TXP.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "fa8d4b53-1fbf-44ed-8ef7-5b9d9e97cbc9",
+      "seedConversation": "ELOS Extension Integration",
+      "seedTime": 1748605024.742061,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748605024.742061,
+      "bodyComplete": true,
+      "bodyLength": 3026,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

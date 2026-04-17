@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.translate2-extension.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e54f3067-96ba-403a-9ac6-d8212eec64c7",
+      "seedConversation": "Stargate Protocol Activated",
+      "seedTime": 1748679168.595299,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748679168.595299,
+      "bodyComplete": true,
+      "bodyLength": 1842,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

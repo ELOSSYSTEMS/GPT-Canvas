@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/DA.700.ROU.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "9184e378-f8d2-4b4a-a04d-9bae2f2854ce",
+      "seedConversation": "סניפים והזמנות שבועות",
+      "seedTime": 1747820577.026073,
+      "seedParseMode": "regex-create-partial",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747820577.026073,
+      "bodyComplete": false,
+      "bodyLength": 1339,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -1,0 +1,79 @@
+{
+  "artifactKey": "NAME.persona_response_formatting",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.persona_response_formatting.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a7fa3ca1-5cd1-4b78-83db-d5059c5d9755",
+      "seedConversation": "Bootloader protocol loaded",
+      "seedTime": 1754248231.299511,
+      "latestTime": 1754248231.299511,
+      "bodyComplete": true,
+      "bodyLength": 7346,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1754248231.299511,
+          "messageId": "a7fa3ca1-5cd1-4b78-83db-d5059c5d9755",
+          "conversation": "Bootloader protocol loaded",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.persona_response_formatting--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "e527cbf7-575a-4371-a442-b8b9d814d691",
+      "seedConversation": "Bootloader protocol loaded",
+      "seedTime": 1754249848.252162,
+      "latestTime": 1754249848.252162,
+      "bodyComplete": true,
+      "bodyLength": 2172,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1754249848.252162,
+          "messageId": "e527cbf7-575a-4371-a442-b8b9d814d691",
+          "conversation": "Bootloader protocol loaded",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.persona_response_formatting--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "59c9a36a-9f23-4619-bed8-abe3eda0890d",
+      "seedConversation": "Bootloader protocol loaded",
+      "seedTime": 1754251233.331992,
+      "latestTime": 1754251233.331992,
+      "bodyComplete": false,
+      "bodyLength": 887,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1754251233.331992,
+          "messageId": "59c9a36a-9f23-4619-bed8-abe3eda0890d",
+          "conversation": "Bootloader protocol loaded",
+          "parseMode": "regex-update-partial",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.persona_response_formatting--v03.md"
+    }
+  ]
+}

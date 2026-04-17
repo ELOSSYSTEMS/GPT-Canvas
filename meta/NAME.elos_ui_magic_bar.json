@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.elos_ui_magic_bar.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "485fb254-905c-4a8e-b51e-350668e2abca",
+      "seedConversation": "Beginner UI Redesign Ideas",
+      "seedTime": 1748088655.935915,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748088655.935915,
+      "bodyComplete": true,
+      "bodyLength": 3396,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

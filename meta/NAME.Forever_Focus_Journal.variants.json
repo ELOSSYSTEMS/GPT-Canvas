@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.Forever_Focus_Journal",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Forever_Focus_Journal.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "21b4a69f-c8d9-455e-b16d-0c2296727498",
+      "seedConversation": "Cognitive Analysis and Insights",
+      "seedTime": 1744386602.387854,
+      "latestTime": 1744386602.387854,
+      "bodyComplete": true,
+      "bodyLength": 3377,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1744386602.387854,
+          "messageId": "21b4a69f-c8d9-455e-b16d-0c2296727498",
+          "conversation": "Cognitive Analysis and Insights",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Forever_Focus_Journal--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "123472b7-113f-4321-8d25-5c565162f4c0",
+      "seedConversation": "Cognitive Analysis and Insights",
+      "seedTime": 1744387163.91663,
+      "latestTime": 1744387163.91663,
+      "bodyComplete": true,
+      "bodyLength": 4856,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1744387163.91663,
+          "messageId": "123472b7-113f-4321-8d25-5c565162f4c0",
+          "conversation": "Cognitive Analysis and Insights",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Forever_Focus_Journal--v02.md"
+    }
+  ]
+}

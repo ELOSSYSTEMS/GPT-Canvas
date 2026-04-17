@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 1,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.910.PRM.PRO.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a2dac4bf-d25f-42c7-8eb8-9165439ceb19",
+      "seedConversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "seedTime": 1748972073.156517,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748972073.156517,
+      "bodyComplete": true,
+      "bodyLength": 3533,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AO.910.PRM.PRO--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "fb8eed44-af8c-4ca9-9f67-76774302296d",
+      "seedConversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "seedTime": 1748972453.700087,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748972453.700087,
+      "bodyComplete": true,
+      "bodyLength": 3151,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AO.910.PRM.PRO--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/AO.910.PRM.PRO--v01.md",
+    "variants/AO.910.PRM.PRO--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

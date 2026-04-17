@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 1,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.420.UNL.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d47b277e-4eb6-4537-b97e-b6b04c503be6",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748197982.895567,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748197982.895567,
+      "bodyComplete": true,
+      "bodyLength": 2497,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.420.UNL--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "f5940c2c-30c9-412b-af0d-b5b98be12683",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748199305.561827,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748199305.561827,
+      "bodyComplete": true,
+      "bodyLength": 2652,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.420.UNL--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/EL.420.UNL--v01.md",
+    "variants/EL.420.UNL--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/IN.500.UX.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "598f99fd-f062-4aa2-8c06-41ba4b60cb63",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748028162.865171,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748028162.865171,
+      "bodyComplete": true,
+      "bodyLength": 2835,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

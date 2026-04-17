@@ -28,6 +28,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 8,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.000.SPP.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "bfabb5ae-7438-47b4-87ad-1bfc79774589",
+      "seedConversation": "BUILDING THE WEBAPP",
+      "seedTime": 1750603931.403614,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1750603931.403614,
+      "bodyComplete": true,
+      "bodyLength": 3942,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/PR.000.SPP--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "b59ef61d-2fc1-40ab-9219-7c5b18702918",
+      "seedConversation": "Canvas List Retrieval",
+      "seedTime": 1753972010.02165,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1753972010.02165,
+      "bodyComplete": true,
+      "bodyLength": 1409,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/PR.000.SPP--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/PR.000.SPP--v01.md",
+    "variants/PR.000.SPP--v02.md"
+  ],
   "operations": [
     {
       "opType": "update_textdoc",

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Israeli-Centric-Use-Cases.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "cebe3b6f-9c8e-49b8-8275-421122bab765",
+      "seedConversation": "ChatGPT Prompts from Israel",
+      "seedTime": 1747831580.000009,
+      "seedParseMode": "regex-create-partial",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747831580.000009,
+      "bodyComplete": false,
+      "bodyLength": 1892,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

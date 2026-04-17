@@ -24,6 +24,27 @@
   "appliedPartialOps": 1,
   "unresolvedPartialOps": 1,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.forever_flowers_pricing.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "5c518fa8-3c45-4b8d-9762-722894cc4b8d",
+      "seedConversation": "L'Occitane Brand Overview",
+      "seedTime": 1739888641.621221,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1739888678.945359,
+      "bodyComplete": true,
+      "bodyLength": 305,
+      "appliedPartials": 1,
+      "lineageLength": 2,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

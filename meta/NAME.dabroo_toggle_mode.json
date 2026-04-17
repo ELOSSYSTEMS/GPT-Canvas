@@ -24,6 +24,59 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 3,
+  "extractedLatestVariantId": 3,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.dabroo_toggle_mode.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "71f7e07c-6164-4b68-b09f-7e8216c1fe18",
+      "seedConversation": "Dabroo AI Hebrew Analysis",
+      "seedTime": 1747657605.695521,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747657605.695521,
+      "bodyComplete": true,
+      "bodyLength": 3215,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.dabroo_toggle_mode--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "3765fd85-fa35-4773-a4ea-f4be9af0cec4",
+      "seedConversation": "Dabroo AI Hebrew Analysis",
+      "seedTime": 1747657750.288753,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1747657750.288753,
+      "bodyComplete": true,
+      "bodyLength": 3398,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.dabroo_toggle_mode--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "1b806212-27eb-47ba-a28e-8c5724d7a60a",
+      "seedConversation": "Dabroo AI Hebrew Analysis",
+      "seedTime": 1747661139.282513,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747661139.282513,
+      "bodyComplete": true,
+      "bodyLength": 2879,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.dabroo_toggle_mode--v03.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.dabroo_toggle_mode--v01.md",
+    "variants/NAME.dabroo_toggle_mode--v02.md",
+    "variants/NAME.dabroo_toggle_mode--v03.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

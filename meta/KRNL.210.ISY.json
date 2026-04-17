@@ -24,6 +24,59 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 3,
+  "extractedLatestVariantId": 3,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/KRNL.210.ISY.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "66951167-85b4-4905-b675-3dd9c899ea52",
+      "seedConversation": "Fix Stargate Protocol",
+      "seedTime": 1748585887.698333,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748585887.698333,
+      "bodyComplete": true,
+      "bodyLength": 1475,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/KRNL.210.ISY--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "d416ddb3-2644-4672-85c8-5667b075b0db",
+      "seedConversation": "Fix Stargate Protocol",
+      "seedTime": 1748585894.344236,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748585894.344236,
+      "bodyComplete": true,
+      "bodyLength": 1570,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/KRNL.210.ISY--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "61b2f0de-852d-4f8c-8f27-cc41428fac8e",
+      "seedConversation": "Fix Stargate Protocol",
+      "seedTime": 1748585961.586838,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748585961.586838,
+      "bodyComplete": true,
+      "bodyLength": 1648,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/KRNL.210.ISY--v03.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/KRNL.210.ISY--v01.md",
+    "variants/KRNL.210.ISY--v02.md",
+    "variants/KRNL.210.ISY--v03.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

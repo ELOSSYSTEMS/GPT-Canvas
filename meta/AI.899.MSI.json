@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 1,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AI.899.MSI.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "05a0435c-5c86-4e30-9af8-1ac7de1e4349",
+      "seedConversation": "Mind OS Meta-System Archive",
+      "seedTime": 1748562199.14278,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748562199.14278,
+      "bodyComplete": true,
+      "bodyLength": 1770,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Dabroo-Free-v1-Revamp.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "b2e5719a-4116-4429-8395-34afb75b30cf",
+      "seedConversation": "Dabroo AI Overview",
+      "seedTime": 1747685224.035284,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747685224.035284,
+      "bodyComplete": true,
+      "bodyLength": 4394,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

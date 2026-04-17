@@ -1,0 +1,186 @@
+{
+  "artifactKey": "NAME.ultimate-hero-section",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ultimate-hero-section.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "0cb13a8c-9fc5-4ebf-a029-77f4edc8db30",
+      "seedConversation": "God of Prompts Request",
+      "seedTime": 1746994270.192997,
+      "latestTime": 1746994270.192997,
+      "bodyComplete": true,
+      "bodyLength": 3650,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1746994270.192997,
+          "messageId": "0cb13a8c-9fc5-4ebf-a029-77f4edc8db30",
+          "conversation": "God of Prompts Request",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ultimate-hero-section--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "ed6b9747-14f3-48f0-885e-e48a9b2d9c94",
+      "seedConversation": "God of Prompts Request",
+      "seedTime": 1746994475.031013,
+      "latestTime": 1746994475.031013,
+      "bodyComplete": true,
+      "bodyLength": 5400,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1746994475.031013,
+          "messageId": "ed6b9747-14f3-48f0-885e-e48a9b2d9c94",
+          "conversation": "God of Prompts Request",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ultimate-hero-section--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "caaa4a16-d190-40d9-85dc-348e79c28ccf",
+      "seedConversation": "God of Prompts Request",
+      "seedTime": 1746994825.720175,
+      "latestTime": 1746994825.720175,
+      "bodyComplete": true,
+      "bodyLength": 3849,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1746994825.720175,
+          "messageId": "caaa4a16-d190-40d9-85dc-348e79c28ccf",
+          "conversation": "God of Prompts Request",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ultimate-hero-section--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "49df6f94-767d-4bf7-a735-a395eb1ffe68",
+      "seedConversation": "God of Prompts Request",
+      "seedTime": 1746995029.066657,
+      "latestTime": 1746995029.066657,
+      "bodyComplete": true,
+      "bodyLength": 4381,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1746995029.066657,
+          "messageId": "49df6f94-767d-4bf7-a735-a395eb1ffe68",
+          "conversation": "God of Prompts Request",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ultimate-hero-section--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "ce73cfe8-c439-437a-a86e-6b20c0009e00",
+      "seedConversation": "God of Prompts Request",
+      "seedTime": 1746995185.90174,
+      "latestTime": 1746995185.90174,
+      "bodyComplete": true,
+      "bodyLength": 8686,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1746995185.90174,
+          "messageId": "ce73cfe8-c439-437a-a86e-6b20c0009e00",
+          "conversation": "God of Prompts Request",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ultimate-hero-section--v05.md"
+    },
+    {
+      "variantId": 6,
+      "seedMessageId": "c84d150d-c3e9-44ef-9946-96035aa70e9f",
+      "seedConversation": "God of Prompts Request",
+      "seedTime": 1746995898.660411,
+      "latestTime": 1746995898.660411,
+      "bodyComplete": true,
+      "bodyLength": 1137,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1746995898.660411,
+          "messageId": "c84d150d-c3e9-44ef-9946-96035aa70e9f",
+          "conversation": "God of Prompts Request",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ultimate-hero-section--v06.md"
+    },
+    {
+      "variantId": 7,
+      "seedMessageId": "91746403-711f-49d0-aaf8-4efda07ccc3d",
+      "seedConversation": "God of Prompts Request",
+      "seedTime": 1746996534.823226,
+      "latestTime": 1746997241.952231,
+      "bodyComplete": true,
+      "bodyLength": 5503,
+      "appliedPartials": 1,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1746996534.823226,
+          "messageId": "91746403-711f-49d0-aaf8-4efda07ccc3d",
+          "conversation": "God of Prompts Request",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1746997241.952231,
+          "messageId": "31f6f2ae-9652-4d88-b094-fe4b89fbe0ea",
+          "conversation": "God of Prompts Request",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "{% if section.settings.main_image and \\(section.settings.layout == 'split' or section.settings.show_main_image_always\\) %}",
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ultimate-hero-section--v07.md"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "artifactKey": "FF.200.ETH",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/FF.200.ETH.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "b8b79e2a-2978-45a0-9e7a-6b31ac1be92d",
+      "seedConversation": "Dabroo Power User Guide",
+      "seedTime": 1747609506.582083,
+      "latestTime": 1747609506.582083,
+      "bodyComplete": true,
+      "bodyLength": 1392,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1747609506.582083,
+          "messageId": "b8b79e2a-2978-45a0-9e7a-6b31ac1be92d",
+          "conversation": "Dabroo Power User Guide",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/FF.200.ETH--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "5e2beeec-0dd7-448d-acc8-69402ebe5473",
+      "seedConversation": "PR.100 Canvases Search",
+      "seedTime": 1748559092.553444,
+      "latestTime": 1748559092.553444,
+      "bodyComplete": true,
+      "bodyLength": 2688,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748559092.553444,
+          "messageId": "5e2beeec-0dd7-448d-acc8-69402ebe5473",
+          "conversation": "PR.100 Canvases Search",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/FF.200.ETH--v02.md"
+    }
+  ]
+}

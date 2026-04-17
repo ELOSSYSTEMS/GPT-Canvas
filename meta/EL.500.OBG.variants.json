@@ -1,0 +1,79 @@
+{
+  "artifactKey": "EL.500.OBG",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.500.OBG.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c9486177-0b4c-40cb-aac1-96b16b05951c",
+      "seedConversation": "Prompt Library Overview",
+      "seedTime": 1749496886.24544,
+      "latestTime": 1749496886.24544,
+      "bodyComplete": true,
+      "bodyLength": 938,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749496886.24544,
+          "messageId": "c9486177-0b4c-40cb-aac1-96b16b05951c",
+          "conversation": "Prompt Library Overview",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.500.OBG--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "9d78589a-82e8-4158-b2c4-67212fd50d87",
+      "seedConversation": "Prompt Library Overview",
+      "seedTime": 1749497156.139865,
+      "latestTime": 1749497156.139865,
+      "bodyComplete": true,
+      "bodyLength": 648,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749497156.139865,
+          "messageId": "9d78589a-82e8-4158-b2c4-67212fd50d87",
+          "conversation": "Prompt Library Overview",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.500.OBG--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "c729029d-4855-4ac9-8f24-134096589bee",
+      "seedConversation": "Prompt Library Overview",
+      "seedTime": 1749497351.934038,
+      "latestTime": 1749497351.934038,
+      "bodyComplete": true,
+      "bodyLength": 517,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749497351.934038,
+          "messageId": "c729029d-4855-4ac9-8f24-134096589bee",
+          "conversation": "Prompt Library Overview",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.500.OBG--v03.md"
+    }
+  ]
+}

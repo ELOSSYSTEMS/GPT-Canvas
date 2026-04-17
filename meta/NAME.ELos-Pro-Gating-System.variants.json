@@ -1,0 +1,151 @@
+{
+  "artifactKey": "NAME.ELos-Pro-Gating-System",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos-Pro-Gating-System.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e3ca0f08-b5ac-40d6-b1fa-4eefcf3b428f",
+      "seedConversation": "ELos Buildout Phases",
+      "seedTime": 1748092858.271656,
+      "latestTime": 1748092858.271656,
+      "bodyComplete": true,
+      "bodyLength": 2653,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748092858.271656,
+          "messageId": "e3ca0f08-b5ac-40d6-b1fa-4eefcf3b428f",
+          "conversation": "ELos Buildout Phases",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Pro-Gating-System--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "c00444dd-8160-4d80-a678-c2e3ec9a44d9",
+      "seedConversation": "ELos Buildout Phases",
+      "seedTime": 1748092915.039537,
+      "latestTime": 1748092915.039537,
+      "bodyComplete": true,
+      "bodyLength": 3666,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748092915.039537,
+          "messageId": "c00444dd-8160-4d80-a678-c2e3ec9a44d9",
+          "conversation": "ELos Buildout Phases",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Pro-Gating-System--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "f33f94f8-08d9-4838-8339-92cf817fc7a3",
+      "seedConversation": "ELos Buildout Phases",
+      "seedTime": 1748093188.171908,
+      "latestTime": 1748093188.171908,
+      "bodyComplete": true,
+      "bodyLength": 4756,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748093188.171908,
+          "messageId": "f33f94f8-08d9-4838-8339-92cf817fc7a3",
+          "conversation": "ELos Buildout Phases",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Pro-Gating-System--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "11dc6481-5552-4368-a68e-8a0435dc8813",
+      "seedConversation": "ELos Buildout Phases",
+      "seedTime": 1748095214.027023,
+      "latestTime": 1748095214.027023,
+      "bodyComplete": true,
+      "bodyLength": 2523,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748095214.027023,
+          "messageId": "11dc6481-5552-4368-a68e-8a0435dc8813",
+          "conversation": "ELos Buildout Phases",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Pro-Gating-System--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "c7428ae7-6ba8-4761-9c5a-5c430e943de5",
+      "seedConversation": "ELos Buildout Phases",
+      "seedTime": 1748095692.173609,
+      "latestTime": 1748095692.173609,
+      "bodyComplete": true,
+      "bodyLength": 3649,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748095692.173609,
+          "messageId": "c7428ae7-6ba8-4761-9c5a-5c430e943de5",
+          "conversation": "ELos Buildout Phases",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Pro-Gating-System--v05.md"
+    },
+    {
+      "variantId": 6,
+      "seedMessageId": "9b06c3a2-5d29-4b86-845f-44969783ad14",
+      "seedConversation": "ELos Buildout Phases",
+      "seedTime": 1748095776.293371,
+      "latestTime": 1748095776.293371,
+      "bodyComplete": true,
+      "bodyLength": 2989,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748095776.293371,
+          "messageId": "9b06c3a2-5d29-4b86-845f-44969783ad14",
+          "conversation": "ELos Buildout Phases",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-Pro-Gating-System--v06.md"
+    }
+  ]
+}

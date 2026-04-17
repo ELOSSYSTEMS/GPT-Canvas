@@ -29,6 +29,74 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 1,
+  "variantCount": 4,
+  "extractedLatestVariantId": 4,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AI.800.RPA.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e28933de-a78c-4c16-a891-7e1f19f1fd49",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748036441.966775,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748036441.966775,
+      "bodyComplete": true,
+      "bodyLength": 4209,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.800.RPA--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "6a2a2413-cedd-4c34-ad4c-cc405e3a0185",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748036680.113095,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748036680.113095,
+      "bodyComplete": true,
+      "bodyLength": 4479,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.800.RPA--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "8d713994-afae-42d4-8a70-8b1a1a04f31c",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748111008.160217,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748111008.160217,
+      "bodyComplete": true,
+      "bodyLength": 1874,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.800.RPA--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "590f7d89-74f6-408e-a4e9-85bc3dc3b499",
+      "seedConversation": "ELos Canvas Index Summary",
+      "seedTime": 1748112114.891278,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748112114.891278,
+      "bodyComplete": true,
+      "bodyLength": 1712,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.800.RPA--v04.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/AI.800.RPA--v01.md",
+    "variants/AI.800.RPA--v02.md",
+    "variants/AI.800.RPA--v03.md",
+    "variants/AI.800.RPA--v04.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

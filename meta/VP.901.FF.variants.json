@@ -1,0 +1,199 @@
+{
+  "artifactKey": "VP.901.FF",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/VP.901.FF.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "24a55911-0c75-48f1-8d1b-43bba56d71eb",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749209413.960465,
+      "latestTime": 1749209413.960465,
+      "bodyComplete": true,
+      "bodyLength": 3015,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749209413.960465,
+          "messageId": "24a55911-0c75-48f1-8d1b-43bba56d71eb",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/VP.901.FF--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "db453a0b-8965-4e71-984e-165c23742b0b",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749209429.971178,
+      "latestTime": 1749209429.971178,
+      "bodyComplete": true,
+      "bodyLength": 3341,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749209429.971178,
+          "messageId": "db453a0b-8965-4e71-984e-165c23742b0b",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/VP.901.FF--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "cd5b5f3e-eb63-45e3-8603-155d5092cbf4",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749209646.63703,
+      "latestTime": 1749209646.63703,
+      "bodyComplete": true,
+      "bodyLength": 3103,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749209646.63703,
+          "messageId": "cd5b5f3e-eb63-45e3-8603-155d5092cbf4",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/VP.901.FF--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "ad505106-c2df-4ac9-b6a3-7ad7ee8cca57",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749210256.068858,
+      "latestTime": 1749210256.068858,
+      "bodyComplete": true,
+      "bodyLength": 2533,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749210256.068858,
+          "messageId": "ad505106-c2df-4ac9-b6a3-7ad7ee8cca57",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/VP.901.FF--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "0784de3c-46cb-4a5e-91b1-55a06d7d91d5",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749210432.952244,
+      "latestTime": 1749210432.952244,
+      "bodyComplete": true,
+      "bodyLength": 2634,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749210432.952244,
+          "messageId": "0784de3c-46cb-4a5e-91b1-55a06d7d91d5",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/VP.901.FF--v05.md"
+    },
+    {
+      "variantId": 6,
+      "seedMessageId": "ad53219f-e742-4031-8129-cccb5b1d618a",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749210878.754687,
+      "latestTime": 1749210878.754687,
+      "bodyComplete": true,
+      "bodyLength": 1869,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749210878.754687,
+          "messageId": "ad53219f-e742-4031-8129-cccb5b1d618a",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/VP.901.FF--v06.md"
+    },
+    {
+      "variantId": 7,
+      "seedMessageId": "d79b0395-5ce2-4ce8-8df8-0cf5893e0a56",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749211044.293328,
+      "latestTime": 1749211044.293328,
+      "bodyComplete": true,
+      "bodyLength": 2742,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749211044.293328,
+          "messageId": "d79b0395-5ce2-4ce8-8df8-0cf5893e0a56",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/VP.901.FF--v07.md"
+    },
+    {
+      "variantId": 8,
+      "seedMessageId": "f2aa0ef1-a256-4d8a-b850-81fd86ea0dc0",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749894144.447205,
+      "latestTime": 1749894144.447205,
+      "bodyComplete": true,
+      "bodyLength": 2803,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749894144.447205,
+          "messageId": "f2aa0ef1-a256-4d8a-b850-81fd86ea0dc0",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/VP.901.FF--v08.md"
+    }
+  ]
+}

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Forever-Flowers-Website-Flow-Canonical-UX.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "f9963367-8600-48ef-8aab-ad55d2d07e06",
+      "seedConversation": "SUB WEB REBUILD",
+      "seedTime": 1769434508.215947,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1769434508.215947,
+      "bodyComplete": true,
+      "bodyLength": 3036,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

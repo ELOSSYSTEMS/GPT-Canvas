@@ -20,6 +20,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/OS.800.POD.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a8a5275e-5d52-4e53-bd3c-221590bd4cc1",
+      "seedConversation": "PODCAST TRANSCRIPTION",
+      "seedTime": 1748031039.137023,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748031039.137023,
+      "bodyComplete": true,
+      "bodyLength": 3500,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/OS.800.POD--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "1ec32cfb-d2e8-4917-8afb-53ba2d40d5a2",
+      "seedConversation": "PODCAST TRANSCRIPTION",
+      "seedTime": 1748031077.201828,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748031077.201828,
+      "bodyComplete": true,
+      "bodyLength": 3564,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/OS.800.POD--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/OS.800.POD--v01.md",
+    "variants/OS.800.POD--v02.md"
+  ],
   "operations": [
     {
       "opType": "update_textdoc",

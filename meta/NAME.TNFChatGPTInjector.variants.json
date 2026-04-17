@@ -1,0 +1,103 @@
+{
+  "artifactKey": "NAME.TNFChatGPTInjector",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.TNFChatGPTInjector.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "b78ad2cf-25e4-4014-9f00-b452b694a1c9",
+      "seedConversation": "translation 2.0 integration and expansion",
+      "seedTime": 1749323547.348509,
+      "latestTime": 1749323547.348509,
+      "bodyComplete": true,
+      "bodyLength": 2268,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749323547.348509,
+          "messageId": "b78ad2cf-25e4-4014-9f00-b452b694a1c9",
+          "conversation": "translation 2.0 integration and expansion",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.TNFChatGPTInjector--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "7dd72bb1-fbab-49f5-84c0-6a35941177ce",
+      "seedConversation": "translation 2.0 integration and expansion",
+      "seedTime": 1749323555.370234,
+      "latestTime": 1749323555.370234,
+      "bodyComplete": true,
+      "bodyLength": 910,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749323555.370234,
+          "messageId": "7dd72bb1-fbab-49f5-84c0-6a35941177ce",
+          "conversation": "translation 2.0 integration and expansion",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.TNFChatGPTInjector--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "c6904d9c-7c07-42d4-a2b4-dc6202791fca",
+      "seedConversation": "translation 2.0 integration and expansion",
+      "seedTime": 1749323590.215688,
+      "latestTime": 1749323590.215688,
+      "bodyComplete": true,
+      "bodyLength": 2406,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749323590.215688,
+          "messageId": "c6904d9c-7c07-42d4-a2b4-dc6202791fca",
+          "conversation": "translation 2.0 integration and expansion",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.TNFChatGPTInjector--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "09bae331-b2d3-4c20-8a5d-05fe9b14ab46",
+      "seedConversation": "translation 2.0 integration and expansion",
+      "seedTime": 1749323630.966531,
+      "latestTime": 1749323630.966531,
+      "bodyComplete": true,
+      "bodyLength": 1315,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749323630.966531,
+          "messageId": "09bae331-b2d3-4c20-8a5d-05fe9b14ab46",
+          "conversation": "translation 2.0 integration and expansion",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.TNFChatGPTInjector--v04.md"
+    }
+  ]
+}

@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.email_fulfillment_hebrew.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d12724fc-be8b-42d9-a9d7-03fd6624a190",
+      "seedConversation": "Boot Sequence Summary",
+      "seedTime": 1750166807.513899,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1750166807.513899,
+      "bodyComplete": true,
+      "bodyLength": 1823,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.email_fulfillment_hebrew--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "628aa2a8-fc68-4a71-bc7d-ba9426382dc3",
+      "seedConversation": "Boot Sequence Summary",
+      "seedTime": 1750166878.576313,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1750166878.576313,
+      "bodyComplete": true,
+      "bodyLength": 5918,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.email_fulfillment_hebrew--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.email_fulfillment_hebrew--v01.md",
+    "variants/NAME.email_fulfillment_hebrew--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

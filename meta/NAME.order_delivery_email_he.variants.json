@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.order_delivery_email_he",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.order_delivery_email_he.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "0a5707a0-4505-4116-8836-3e204101db97",
+      "seedConversation": "הזמנה נמסרה דוא\"ל",
+      "seedTime": 1738844691.351758,
+      "latestTime": 1738844691.351758,
+      "bodyComplete": true,
+      "bodyLength": 5261,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1738844691.351758,
+          "messageId": "0a5707a0-4505-4116-8836-3e204101db97",
+          "conversation": "הזמנה נמסרה דוא\"ל",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.order_delivery_email_he--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "b3a8e749-06eb-45ff-85f6-da345a54db50",
+      "seedConversation": "הזמנה נמסרה דוא\"ל",
+      "seedTime": 1738844860.607028,
+      "latestTime": 1738844860.607028,
+      "bodyComplete": true,
+      "bodyLength": 5582,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1738844860.607028,
+          "messageId": "b3a8e749-06eb-45ff-85f6-da345a54db50",
+          "conversation": "הזמנה נמסרה דוא\"ל",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.order_delivery_email_he--v02.md"
+    }
+  ]
+}

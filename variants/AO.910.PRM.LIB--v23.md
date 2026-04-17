@@ -1,0 +1,55 @@
+{
+  "overview": {
+    "prompt_count": 80,
+    "categories": {
+      "🧠 IDEATION & STRATEGY": 7,
+      "✍️ COPYWRITING & MESSAGING": 13,
+      "📣 CONTENT & COPYWRITING": 2,
+      "📈 SALES & OUTREACH": 4,
+      "📚 EDUCATION & LEARNING": 6,
+      "💼 CAREER DEVELOPMENT": 2,
+      "🧠 PERSONAL GROWTH": 4,
+      "🧠 PROMPT ENGINEERING": 15,
+      "💼 BUSINESS STRATEGY": 5,
+      "🎥 SCRIPT & VIDEO STRATEGY": 1
+    },
+    "last_updated": "2025-06-13",
+    "linked_library": "AO.910.PRM.LIB",
+    "linked_index": "AO.910.PRM.IDX",
+    "integrity_mode": "Mode A — Verifiable Only"
+  },
+  "tags": {
+    "1": ["startup", "ideation", "skills", "mission"],
+    "2": ["lean canvas", "business model", "strategy"],
+    "3": ["competitive advantage", "moat", "7 powers"],
+    "4": ["blue ocean", "ERRC", "pivot"],
+    "5": ["feature", "brainstorm", "innovation"],
+    "6": ["MVP", "lean startup", "experiment"],
+    "7": ["go-to-market", "5Ps", "launch plan"],
+    "8": ["landing page", "PAS", "copy"],
+    "9": ["value proposition", "canvas", "customer"],
+    "10": ["cold outreach", "hook", "cta"],
+    "11": ["ad copy", "AIDA", "variants"],
+    "12": ["cta", "button", "copy"],
+    "13": ["email", "welcome series", "onboarding"],
+    "14": ["email", "subject line", "variants"],
+    "15": ["social", "posts", "shortform"],
+    "16": ["blog", "content", "informal"],
+    "17": ["rewrite", "tone", "clarity"],
+    "18": ["pitch", "rewrite", "tones"],
+    "19": ["cold email", "job", "skills"],
+    "20": ["thank you", "interview", "follow-up"],
+    "21": ["quiz", "education", "assessment"],
+    "22": ["lesson plan", "weekly", "education"],
+    "23": ["revision plan", "study", "prep"],
+    "24": ["explain", "simple", "analogies"],
+    "25": ["interview", "simulation", "feedback"],
+    "26": ["self-reflection", "questions", "personal growth"],
+    "27": ["learning", "optimizer", "plan"],
+    "28": ["idea validation", "risk", "MVP"],
+    "29": ["prompt", "refinement", "clarity"],
+    "30": ["self-improvement", "audit", "rewrite"],
+    "31": ["audience", "alignment", "improve"]
+    /* Tags continue for prompts 32–80 */
+  }
+}

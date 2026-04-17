@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.WG.010.PanelRoster.JSON",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.WG.010.PanelRoster.JSON.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "fd052e08-1652-4983-8bbb-73b41c59fd08",
+      "seedConversation": "War Games",
+      "seedTime": 1749800936.767146,
+      "latestTime": 1749800936.767146,
+      "bodyComplete": true,
+      "bodyLength": 2799,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749800936.767146,
+          "messageId": "fd052e08-1652-4983-8bbb-73b41c59fd08",
+          "conversation": "War Games",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.WG.010.PanelRoster.JSON--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "112044eb-06fb-4734-80bd-2b07a166352b",
+      "seedConversation": "War Games",
+      "seedTime": 1749800950.863501,
+      "latestTime": 1749800950.863501,
+      "bodyComplete": true,
+      "bodyLength": 2799,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749800950.863501,
+          "messageId": "112044eb-06fb-4734-80bd-2b07a166352b",
+          "conversation": "War Games",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.WG.010.PanelRoster.JSON--v02.md"
+    }
+  ]
+}

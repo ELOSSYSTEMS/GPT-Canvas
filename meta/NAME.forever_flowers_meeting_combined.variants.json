@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.forever_flowers_meeting_combined",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.forever_flowers_meeting_combined.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "dec91ce5-70f1-401c-a533-41a24eeb21f4",
+      "seedConversation": "Forever Flowers Meeting Itinerary",
+      "seedTime": 1745931949.659519,
+      "latestTime": 1745931949.659519,
+      "bodyComplete": true,
+      "bodyLength": 5925,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1745931949.659519,
+          "messageId": "dec91ce5-70f1-401c-a533-41a24eeb21f4",
+          "conversation": "Forever Flowers Meeting Itinerary",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.forever_flowers_meeting_combined--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "fdfac479-e58c-4fc6-865f-1b62a723e270",
+      "seedConversation": "Forever Flowers Meeting Itinerary",
+      "seedTime": 1745931986.729792,
+      "latestTime": 1745931986.729792,
+      "bodyComplete": true,
+      "bodyLength": 6022,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1745931986.729792,
+          "messageId": "fdfac479-e58c-4fc6-865f-1b62a723e270",
+          "conversation": "Forever Flowers Meeting Itinerary",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.forever_flowers_meeting_combined--v02.md"
+    }
+  ]
+}

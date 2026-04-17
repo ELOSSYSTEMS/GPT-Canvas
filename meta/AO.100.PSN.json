@@ -32,6 +32,74 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 4,
+  "extractedLatestVariantId": 4,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.100.PSN.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "bb6e4168-8ee5-4733-81d1-1435fd048514",
+      "seedConversation": "Bootloader Execution Summary",
+      "seedTime": 1749329924.298791,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749329924.298791,
+      "bodyComplete": true,
+      "bodyLength": 3159,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AO.100.PSN--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "0181f59e-6a57-477c-85e7-8fc28d5747ef",
+      "seedConversation": "Bootloader Execution Summary",
+      "seedTime": 1749330399.242719,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749330399.242719,
+      "bodyComplete": true,
+      "bodyLength": 4458,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AO.100.PSN--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "516e64e4-d1d3-435d-a323-654e95a27a40",
+      "seedConversation": "Bootloader Command Summary",
+      "seedTime": 1750583787.142912,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1750583787.142912,
+      "bodyComplete": true,
+      "bodyLength": 4315,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AO.100.PSN--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "c5e5385a-7085-4c27-a937-2c1443c42190",
+      "seedConversation": "Canvas List Retrieval",
+      "seedTime": 1753973260.260105,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1753973260.260105,
+      "bodyComplete": true,
+      "bodyLength": 2134,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AO.100.PSN--v04.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/AO.100.PSN--v01.md",
+    "variants/AO.100.PSN--v02.md",
+    "variants/AO.100.PSN--v03.md",
+    "variants/AO.100.PSN--v04.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

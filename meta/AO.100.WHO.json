@@ -20,6 +20,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.100.WHO.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "fc9023fb-c2b0-48ec-81c0-b36b22d6c1ad",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748032173.939107,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748032173.939107,
+      "bodyComplete": true,
+      "bodyLength": 2939,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "update_textdoc",

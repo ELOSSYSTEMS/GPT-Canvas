@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.forever_flowers_homepage.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a584206e-9698-4584-922c-7b99cc12f6d1",
+      "seedConversation": "Shopify Liquid Prestige Theme",
+      "seedTime": 1737488845.859682,
+      "seedParseMode": "regex-create-partial",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1737488845.859682,
+      "bodyComplete": false,
+      "bodyLength": 2435,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

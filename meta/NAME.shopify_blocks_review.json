@@ -24,6 +24,27 @@
   "appliedPartialOps": 33,
   "unresolvedPartialOps": 2,
   "commentOps": 1,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.shopify_blocks_review.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "77b763b0-f7fb-43cc-89e6-6e2428702f7e",
+      "seedConversation": "List of Sections",
+      "seedTime": 1737578692.156012,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1737579132.191278,
+      "bodyComplete": true,
+      "bodyLength": 20022,
+      "appliedPartials": 33,
+      "lineageLength": 34,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

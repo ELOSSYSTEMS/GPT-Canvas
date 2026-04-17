@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/WG.000.CMD.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "bc0f3bf1-a7fc-4a0c-834a-f83f694bb8b8",
+      "seedConversation": "War Games",
+      "seedTime": 1749799054.326908,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749799054.326908,
+      "bodyComplete": true,
+      "bodyLength": 1999,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/WG.000.CMD--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "a3386a31-df58-4246-a23c-b2c08628c09d",
+      "seedConversation": "War Games",
+      "seedTime": 1749800999.47732,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1749800999.47732,
+      "bodyComplete": true,
+      "bodyLength": 3152,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/WG.000.CMD--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/WG.000.CMD--v01.md",
+    "variants/WG.000.CMD--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

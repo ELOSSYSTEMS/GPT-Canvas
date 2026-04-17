@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.fireproofed_prompt_library",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.fireproofed_prompt_library.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "ec26b45b-3b91-48e5-94dd-d313a995b216",
+      "seedConversation": "Bootloader Activation Summary",
+      "seedTime": 1749129941.93202,
+      "latestTime": 1749129941.93202,
+      "bodyComplete": true,
+      "bodyLength": 3895,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749129941.93202,
+          "messageId": "ec26b45b-3b91-48e5-94dd-d313a995b216",
+          "conversation": "Bootloader Activation Summary",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.fireproofed_prompt_library--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "04de2b0a-c96a-4e13-b172-e185251d7c33",
+      "seedConversation": "Bootloader Activation Summary",
+      "seedTime": 1749129963.829462,
+      "latestTime": 1749129963.829462,
+      "bodyComplete": true,
+      "bodyLength": 3895,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749129963.829462,
+          "messageId": "04de2b0a-c96a-4e13-b172-e185251d7c33",
+          "conversation": "Bootloader Activation Summary",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.fireproofed_prompt_library--v02.md"
+    }
+  ]
+}

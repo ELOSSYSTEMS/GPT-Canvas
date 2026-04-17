@@ -1,0 +1,55 @@
+{
+  "artifactKey": "EL.005.BRN",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.005.BRN.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "29f90be0-5751-4923-a7c0-33c30c227622",
+      "seedConversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "seedTime": 1748973624.515223,
+      "latestTime": 1748973624.515223,
+      "bodyComplete": true,
+      "bodyLength": 1088,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748973624.515223,
+          "messageId": "29f90be0-5751-4923-a7c0-33c30c227622",
+          "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.005.BRN--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "d5a56d9b-10ca-4e43-b9f5-85f1410e1771",
+      "seedConversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "seedTime": 1748973651.754917,
+      "latestTime": 1748973651.754917,
+      "bodyComplete": true,
+      "bodyLength": 1403,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748973651.754917,
+          "messageId": "d5a56d9b-10ca-4e43-b9f5-85f1410e1771",
+          "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.005.BRN--v02.md"
+    }
+  ]
+}

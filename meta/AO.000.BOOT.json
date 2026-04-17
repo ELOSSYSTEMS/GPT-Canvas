@@ -20,6 +20,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.000.BOOT.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "923ea83c-41df-4591-bef5-9d3033c3f7d3",
+      "seedConversation": "Prompt Expansion Ready",
+      "seedTime": 1749673086.463451,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1749673086.463451,
+      "bodyComplete": true,
+      "bodyLength": 3140,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "update_textdoc",

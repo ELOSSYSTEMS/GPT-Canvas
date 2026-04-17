@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Stargate-Phase-2-Rewrite-Engine.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a990ed2f-ddb0-4607-bc0a-bb0865c956ca",
+      "seedConversation": "שיחה עם עוזר",
+      "seedTime": 1748894715.426796,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748894715.426796,
+      "bodyComplete": true,
+      "bodyLength": 762,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

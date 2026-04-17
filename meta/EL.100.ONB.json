@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.100.ONB.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c5e50190-c056-4abb-aaef-a44f03f22dcd",
+      "seedConversation": "Dabroo vs ELos seperation",
+      "seedTime": 1748104323.53464,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748104323.53464,
+      "bodyComplete": true,
+      "bodyLength": 1321,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.100.ONB--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "e93defbc-bbcd-466d-8fe7-1f7f479e303a",
+      "seedConversation": "Dabroo vs ELos seperation",
+      "seedTime": 1748104330.866844,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748104330.866844,
+      "bodyComplete": true,
+      "bodyLength": 1320,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.100.ONB--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/EL.100.ONB--v01.md",
+    "variants/EL.100.ONB--v02.md"
+  ],
   "operations": [
     {
       "opType": "update_textdoc",

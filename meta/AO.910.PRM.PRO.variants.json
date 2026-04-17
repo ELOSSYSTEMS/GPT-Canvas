@@ -1,0 +1,55 @@
+{
+  "artifactKey": "AO.910.PRM.PRO",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.910.PRM.PRO.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a2dac4bf-d25f-42c7-8eb8-9165439ceb19",
+      "seedConversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "seedTime": 1748972073.156517,
+      "latestTime": 1748972073.156517,
+      "bodyComplete": true,
+      "bodyLength": 3533,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748972073.156517,
+          "messageId": "a2dac4bf-d25f-42c7-8eb8-9165439ceb19",
+          "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PRM.PRO--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "fb8eed44-af8c-4ca9-9f67-76774302296d",
+      "seedConversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "seedTime": 1748972453.700087,
+      "latestTime": 1748972453.700087,
+      "bodyComplete": true,
+      "bodyLength": 3151,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748972453.700087,
+          "messageId": "fb8eed44-af8c-4ca9-9f67-76774302296d",
+          "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.910.PRM.PRO--v02.md"
+    }
+  ]
+}

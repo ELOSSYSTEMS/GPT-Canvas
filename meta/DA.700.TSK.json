@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/DA.700.TSK.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "37f50292-d1fb-49e2-9d62-f56e17bfe0be",
+      "seedConversation": "Dabroo AI Hebrew Analysis",
+      "seedTime": 1747636550.229677,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747636550.229677,
+      "bodyComplete": true,
+      "bodyLength": 2943,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

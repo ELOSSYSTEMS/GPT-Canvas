@@ -24,6 +24,27 @@
   "appliedPartialOps": 4,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Subscription-Addendum-Gifting-Tier.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c8bb2bae-8ebf-4258-a609-ef783f5bcc22",
+      "seedConversation": "SUB WEB REBUILD",
+      "seedTime": 1769433624.902694,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1769433842.775149,
+      "bodyComplete": true,
+      "bodyLength": 3550,
+      "appliedPartials": 4,
+      "lineageLength": 5,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

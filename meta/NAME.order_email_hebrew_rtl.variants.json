@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.order_email_hebrew_rtl",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.order_email_hebrew_rtl.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "7d945c38-096c-402b-af4e-313d4b3685b1",
+      "seedConversation": "תרגום דוא\"ל לעברית",
+      "seedTime": 1750255813.993606,
+      "latestTime": 1750255813.993606,
+      "bodyComplete": true,
+      "bodyLength": 3017,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1750255813.993606,
+          "messageId": "7d945c38-096c-402b-af4e-313d4b3685b1",
+          "conversation": "תרגום דוא\"ל לעברית",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.order_email_hebrew_rtl--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "98c43408-184d-4ced-a97f-36690ed07802",
+      "seedConversation": "תרגום דוא\"ל לעברית",
+      "seedTime": 1750255882.478205,
+      "latestTime": 1750255882.478205,
+      "bodyComplete": true,
+      "bodyLength": 5533,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1750255882.478205,
+          "messageId": "98c43408-184d-4ced-a97f-36690ed07802",
+          "conversation": "תרגום דוא\"ל לעברית",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.order_email_hebrew_rtl--v02.md"
+    }
+  ]
+}

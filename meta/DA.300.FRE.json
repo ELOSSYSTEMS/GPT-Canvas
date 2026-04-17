@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/DA.300.FRE.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "9dd6e4d7-b3af-4c56-ab90-6294ced9836c",
+      "seedConversation": "Dabroo trigger issues",
+      "seedTime": 1747672125.92832,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747672125.92832,
+      "bodyComplete": true,
+      "bodyLength": 1898,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

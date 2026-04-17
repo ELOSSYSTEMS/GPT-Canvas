@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.dabroo_modular_setup.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "60adadb0-17c2-4d41-8e68-2c8b3d9521cf",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747166925.298645,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747166925.298645,
+      "bodyComplete": true,
+      "bodyLength": 2144,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

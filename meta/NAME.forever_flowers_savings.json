@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.forever_flowers_savings.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "6369a3f8-2d1f-44b2-be70-b4a89704ae4d",
+      "seedConversation": "Luxury Page Comparison Tips",
+      "seedTime": 1750445137.548475,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1750445137.548475,
+      "bodyComplete": true,
+      "bodyLength": 2550,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.forever_flowers_savings--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "469d5017-cd6c-43a9-95d5-f29636b4dec2",
+      "seedConversation": "Luxury Page Comparison Tips",
+      "seedTime": 1750445315.756225,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1750445315.756225,
+      "bodyComplete": true,
+      "bodyLength": 3556,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.forever_flowers_savings--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.forever_flowers_savings--v01.md",
+    "variants/NAME.forever_flowers_savings--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

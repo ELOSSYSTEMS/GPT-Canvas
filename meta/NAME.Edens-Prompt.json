@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Edens-Prompt.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "7c372940-2f9b-4946-b097-4d3b83b6a755",
+      "seedConversation": "Mission Summary",
+      "seedTime": 1747605134.135795,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747605134.135795,
+      "bodyComplete": true,
+      "bodyLength": 754,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

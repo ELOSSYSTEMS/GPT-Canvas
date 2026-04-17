@@ -24,6 +24,59 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 3,
+  "extractedLatestVariantId": 3,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/FF.999.PSN.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "21f75e5d-3d6e-4060-b341-681e83a24455",
+      "seedConversation": "Bootloader Execution Summary",
+      "seedTime": 1749330079.558905,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749330079.558905,
+      "bodyComplete": true,
+      "bodyLength": 2058,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/FF.999.PSN--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "e9913fe8-0180-404e-a27a-4451bcf06554",
+      "seedConversation": "Bootloader Execution Summary",
+      "seedTime": 1749330169.310319,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1749330169.310319,
+      "bodyComplete": true,
+      "bodyLength": 2285,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/FF.999.PSN--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "58a07754-0286-4c50-bd01-748d11687259",
+      "seedConversation": "Bootloader Execution Summary",
+      "seedTime": 1749330204.73238,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1749330204.73238,
+      "bodyComplete": true,
+      "bodyLength": 2919,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/FF.999.PSN--v03.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/FF.999.PSN--v01.md",
+    "variants/FF.999.PSN--v02.md",
+    "variants/FF.999.PSN--v03.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 4,
   "commentOps": 12,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/FF.100.TDL.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "68732cfd-a265-48a9-ac21-bba025fe615f",
+      "seedConversation": "Conversation Continuation",
+      "seedTime": 1747985361.329791,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747985361.329791,
+      "bodyComplete": true,
+      "bodyLength": 1583,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/FF.100.TDL--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "c7f38d89-aaa4-4a46-ab47-258bf0ce007f",
+      "seedConversation": "Conversation Continuation",
+      "seedTime": 1747991001.078117,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1747991001.078117,
+      "bodyComplete": true,
+      "bodyLength": 1776,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/FF.100.TDL--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/FF.100.TDL--v01.md",
+    "variants/FF.100.TDL--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

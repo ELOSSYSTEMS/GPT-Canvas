@@ -1,0 +1,247 @@
+{
+  "artifactKey": "NAME.bilingual_email_templates",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.bilingual_email_templates.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "b406c13e-c508-4fc7-92d9-29b8529d8a64",
+      "seedConversation": "Hebrew Conditional Emails Shopify",
+      "seedTime": 1753627404.034596,
+      "latestTime": 1753627404.034596,
+      "bodyComplete": true,
+      "bodyLength": 3668,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1753627404.034596,
+          "messageId": "b406c13e-c508-4fc7-92d9-29b8529d8a64",
+          "conversation": "Hebrew Conditional Emails Shopify",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.bilingual_email_templates--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "0b8757ec-8492-474c-86f2-cd3e325078d4",
+      "seedConversation": "Hebrew Conditional Emails Shopify",
+      "seedTime": 1753627462.980588,
+      "latestTime": 1753627462.980588,
+      "bodyComplete": true,
+      "bodyLength": 5998,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753627462.980588,
+          "messageId": "0b8757ec-8492-474c-86f2-cd3e325078d4",
+          "conversation": "Hebrew Conditional Emails Shopify",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.bilingual_email_templates--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "131e1a5b-ac06-48ab-8953-d07626606cdf",
+      "seedConversation": "Hebrew Conditional Emails Shopify",
+      "seedTime": 1753627541.890751,
+      "latestTime": 1753627541.890751,
+      "bodyComplete": true,
+      "bodyLength": 6002,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753627541.890751,
+          "messageId": "131e1a5b-ac06-48ab-8953-d07626606cdf",
+          "conversation": "Hebrew Conditional Emails Shopify",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.bilingual_email_templates--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "44e2b4d7-6262-4ada-8428-d1c3a4ea7f15",
+      "seedConversation": "Hebrew Conditional Emails Shopify",
+      "seedTime": 1753627803.620092,
+      "latestTime": 1753627803.620092,
+      "bodyComplete": true,
+      "bodyLength": 5740,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753627803.620092,
+          "messageId": "44e2b4d7-6262-4ada-8428-d1c3a4ea7f15",
+          "conversation": "Hebrew Conditional Emails Shopify",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.bilingual_email_templates--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "9cad4b35-381a-422c-bebf-97924e5d8253",
+      "seedConversation": "Hebrew Conditional Emails Shopify",
+      "seedTime": 1753627901.31517,
+      "latestTime": 1753627901.31517,
+      "bodyComplete": true,
+      "bodyLength": 2119,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753627901.31517,
+          "messageId": "9cad4b35-381a-422c-bebf-97924e5d8253",
+          "conversation": "Hebrew Conditional Emails Shopify",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.bilingual_email_templates--v05.md"
+    },
+    {
+      "variantId": 6,
+      "seedMessageId": "a50f5b95-73a7-4726-a290-5721528b1fb7",
+      "seedConversation": "Hebrew Conditional Emails Shopify",
+      "seedTime": 1753627993.517623,
+      "latestTime": 1753627993.517623,
+      "bodyComplete": true,
+      "bodyLength": 2267,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753627993.517623,
+          "messageId": "a50f5b95-73a7-4726-a290-5721528b1fb7",
+          "conversation": "Hebrew Conditional Emails Shopify",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.bilingual_email_templates--v06.md"
+    },
+    {
+      "variantId": 7,
+      "seedMessageId": "9f6de468-1546-4d6e-abcc-a2d89c5f0e28",
+      "seedConversation": "Hebrew Conditional Emails Shopify",
+      "seedTime": 1753628220.367878,
+      "latestTime": 1753628220.367878,
+      "bodyComplete": true,
+      "bodyLength": 2358,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753628220.367878,
+          "messageId": "9f6de468-1546-4d6e-abcc-a2d89c5f0e28",
+          "conversation": "Hebrew Conditional Emails Shopify",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.bilingual_email_templates--v07.md"
+    },
+    {
+      "variantId": 8,
+      "seedMessageId": "b0b28b50-121c-496c-a524-22581a24971f",
+      "seedConversation": "Hebrew Conditional Emails Shopify",
+      "seedTime": 1753628599.524301,
+      "latestTime": 1753628599.524301,
+      "bodyComplete": true,
+      "bodyLength": 2304,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753628599.524301,
+          "messageId": "b0b28b50-121c-496c-a524-22581a24971f",
+          "conversation": "Hebrew Conditional Emails Shopify",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.bilingual_email_templates--v08.md"
+    },
+    {
+      "variantId": 9,
+      "seedMessageId": "7f5e7712-2d17-4358-9b16-8b3547e966b9",
+      "seedConversation": "Hebrew Conditional Emails Shopify",
+      "seedTime": 1753628689.083856,
+      "latestTime": 1753628689.083856,
+      "bodyComplete": true,
+      "bodyLength": 2151,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753628689.083856,
+          "messageId": "7f5e7712-2d17-4358-9b16-8b3547e966b9",
+          "conversation": "Hebrew Conditional Emails Shopify",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.bilingual_email_templates--v09.md"
+    },
+    {
+      "variantId": 10,
+      "seedMessageId": "f0fc7b5c-2a47-4f4b-b5b2-c87ffa8feb29",
+      "seedConversation": "Hebrew Conditional Emails Shopify",
+      "seedTime": 1753629191.666353,
+      "latestTime": 1753629191.666353,
+      "bodyComplete": false,
+      "bodyLength": 283,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753629191.666353,
+          "messageId": "f0fc7b5c-2a47-4f4b-b5b2-c87ffa8feb29",
+          "conversation": "Hebrew Conditional Emails Shopify",
+          "parseMode": "regex-update-partial",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.bilingual_email_templates--v10.md"
+    }
+  ]
+}

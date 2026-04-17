@@ -1,0 +1,79 @@
+{
+  "artifactKey": "ELOS.300.KRN",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/ELOS.300.KRN.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "038155f5-488b-4f14-ad46-84306043191c",
+      "seedConversation": "Recursive Guidance for Beginners",
+      "seedTime": 1748074462.504334,
+      "latestTime": 1748074462.504334,
+      "bodyComplete": true,
+      "bodyLength": 2695,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748074462.504334,
+          "messageId": "038155f5-488b-4f14-ad46-84306043191c",
+          "conversation": "Recursive Guidance for Beginners",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/ELOS.300.KRN--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "4cb653a7-64d3-4b1c-8a64-0c299c37175c",
+      "seedConversation": "Recursive Guidance for Beginners",
+      "seedTime": 1748075145.995598,
+      "latestTime": 1748075145.995598,
+      "bodyComplete": true,
+      "bodyLength": 1930,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748075145.995598,
+          "messageId": "4cb653a7-64d3-4b1c-8a64-0c299c37175c",
+          "conversation": "Recursive Guidance for Beginners",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/ELOS.300.KRN--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "8e167fe8-37a6-42f1-be3e-b8fcfea9acbe",
+      "seedConversation": "Stargate v3.1 Boot",
+      "seedTime": 1748693802.586525,
+      "latestTime": 1748693802.586525,
+      "bodyComplete": true,
+      "bodyLength": 2028,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748693802.586525,
+          "messageId": "8e167fe8-37a6-42f1-be3e-b8fcfea9acbe",
+          "conversation": "Stargate v3.1 Boot",
+          "parseMode": "escaped-control-chars",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/ELOS.300.KRN--v03.md"
+    }
+  ]
+}

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/FF.200.STR.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e70b2a00-33f8-4ed1-b58d-79cb5d771a21",
+      "seedConversation": "Fear and Loathing Transcripts",
+      "seedTime": 1749073202.877368,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749073202.877368,
+      "bodyComplete": true,
+      "bodyLength": 2915,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

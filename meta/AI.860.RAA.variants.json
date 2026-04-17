@@ -1,0 +1,79 @@
+{
+  "artifactKey": "AI.860.RAA",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AI.860.RAA.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e7f61121-b9e3-4b60-97b9-52b1f1deee24",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748067068.561529,
+      "latestTime": 1748067068.561529,
+      "bodyComplete": true,
+      "bodyLength": 3633,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748067068.561529,
+          "messageId": "e7f61121-b9e3-4b60-97b9-52b1f1deee24",
+          "conversation": "Psychometric Profile Analysis Request",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AI.860.RAA--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "70fa2e9e-1cbb-4c57-af00-7359d2d85463",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748067206.217899,
+      "latestTime": 1748067206.217899,
+      "bodyComplete": true,
+      "bodyLength": 2359,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748067206.217899,
+          "messageId": "70fa2e9e-1cbb-4c57-af00-7359d2d85463",
+          "conversation": "Psychometric Profile Analysis Request",
+          "parseMode": "escaped-control-chars",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AI.860.RAA--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "ea0a1952-6658-44b8-b259-1bac1fbdaf86",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748067277.297253,
+      "latestTime": 1748067277.297253,
+      "bodyComplete": true,
+      "bodyLength": 1276,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748067277.297253,
+          "messageId": "ea0a1952-6658-44b8-b259-1bac1fbdaf86",
+          "conversation": "Psychometric Profile Analysis Request",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AI.860.RAA--v03.md"
+    }
+  ]
+}

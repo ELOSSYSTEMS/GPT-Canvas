@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.forever_flowers_faq.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "af7dcbd9-c87d-4545-a09d-b82ded0c97f8",
+      "seedConversation": "FAQ Page Creation",
+      "seedTime": 1750656840.964035,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1750656840.964035,
+      "bodyComplete": true,
+      "bodyLength": 3668,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

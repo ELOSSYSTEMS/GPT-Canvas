@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos-Tiered-Command-Preview-Logic.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "67c0ceea-84df-4803-b56b-5697a5f97d3c",
+      "seedConversation": "ELos System Review",
+      "seedTime": 1748083903.938137,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748083903.938137,
+      "bodyComplete": true,
+      "bodyLength": 1623,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

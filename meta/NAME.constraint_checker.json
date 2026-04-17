@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.constraint_checker.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "99709306-8a2a-4ea5-b269-192e064e024a",
+      "seedConversation": "ELos Translate 2.0 Test",
+      "seedTime": 1748716799.709636,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748716799.709636,
+      "bodyComplete": true,
+      "bodyLength": 197,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

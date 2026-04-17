@@ -1,0 +1,378 @@
+{
+  "artifactKey": "NAME.Shipping-Confirmation-Update",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Shipping-Confirmation-Update.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "2a35dd8c-b209-4326-9881-281fccdf28a9",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753632871.120662,
+      "latestTime": 1753632871.120662,
+      "bodyComplete": true,
+      "bodyLength": 2046,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1753632871.120662,
+          "messageId": "2a35dd8c-b209-4326-9881-281fccdf28a9",
+          "conversation": "Code update confirmation",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "f629dc7d-071f-466b-ab83-1dfc46137a2e",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753633058.185221,
+      "latestTime": 1753633058.185221,
+      "bodyComplete": true,
+      "bodyLength": 2483,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753633058.185221,
+          "messageId": "f629dc7d-071f-466b-ab83-1dfc46137a2e",
+          "conversation": "Code update confirmation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "ac19efe2-764f-4a7e-9931-95d29cdedbcc",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753633158.221253,
+      "latestTime": 1753633158.221253,
+      "bodyComplete": true,
+      "bodyLength": 2953,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753633158.221253,
+          "messageId": "ac19efe2-764f-4a7e-9931-95d29cdedbcc",
+          "conversation": "Code update confirmation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "40e86639-202b-443c-9b85-428ca297773f",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753633418.356273,
+      "latestTime": 1753633418.356273,
+      "bodyComplete": true,
+      "bodyLength": 4052,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753633418.356273,
+          "messageId": "40e86639-202b-443c-9b85-428ca297773f",
+          "conversation": "Code update confirmation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "628a2844-1eae-48fc-85c0-226e439818d4",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753633755.306218,
+      "latestTime": 1753633793.597882,
+      "bodyComplete": false,
+      "bodyLength": 1748,
+      "appliedPartials": 1,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753633755.306218,
+          "messageId": "628a2844-1eae-48fc-85c0-226e439818d4",
+          "conversation": "Code update confirmation",
+          "parseMode": "regex-update-partial",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753633793.597882,
+          "messageId": "cbaf7557-a5c2-401b-ab1a-d242e8caa4fb",
+          "conversation": "Code update confirmation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "בסטודיו שלנו בתל אביב",
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v05.md"
+    },
+    {
+      "variantId": 6,
+      "seedMessageId": "cce350b4-d61e-465e-ab86-482ef2afdc86",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753633893.343531,
+      "latestTime": 1753633893.343531,
+      "bodyComplete": true,
+      "bodyLength": 2436,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753633893.343531,
+          "messageId": "cce350b4-d61e-465e-ab86-482ef2afdc86",
+          "conversation": "Code update confirmation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v06.md"
+    },
+    {
+      "variantId": 7,
+      "seedMessageId": "07127ae4-29ca-40c5-b17d-3fef03fae5d3",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753634010.614319,
+      "latestTime": 1753634010.614319,
+      "bodyComplete": true,
+      "bodyLength": 2520,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753634010.614319,
+          "messageId": "07127ae4-29ca-40c5-b17d-3fef03fae5d3",
+          "conversation": "Code update confirmation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v07.md"
+    },
+    {
+      "variantId": 8,
+      "seedMessageId": "06bae4a8-adb2-4da5-b2c6-f3f264ea4415",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753634079.488056,
+      "latestTime": 1753634079.488056,
+      "bodyComplete": true,
+      "bodyLength": 2316,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753634079.488056,
+          "messageId": "06bae4a8-adb2-4da5-b2c6-f3f264ea4415",
+          "conversation": "Code update confirmation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v08.md"
+    },
+    {
+      "variantId": 9,
+      "seedMessageId": "7975af1c-a2b6-40c8-82ac-02e66466cd9f",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753634138.69871,
+      "latestTime": 1753634138.69871,
+      "bodyComplete": true,
+      "bodyLength": 2874,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753634138.69871,
+          "messageId": "7975af1c-a2b6-40c8-82ac-02e66466cd9f",
+          "conversation": "Code update confirmation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v09.md"
+    },
+    {
+      "variantId": 10,
+      "seedMessageId": "cbc70fda-e312-445d-8757-5fb0461506f7",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753634201.149619,
+      "latestTime": 1753634201.149619,
+      "bodyComplete": true,
+      "bodyLength": 2790,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753634201.149619,
+          "messageId": "cbc70fda-e312-445d-8757-5fb0461506f7",
+          "conversation": "Code update confirmation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v10.md"
+    },
+    {
+      "variantId": 11,
+      "seedMessageId": "56896a4b-02e5-4338-8280-cebb405db882",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753634426.543977,
+      "latestTime": 1753634426.543977,
+      "bodyComplete": true,
+      "bodyLength": 2529,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753634426.543977,
+          "messageId": "56896a4b-02e5-4338-8280-cebb405db882",
+          "conversation": "Code update confirmation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v11.md"
+    },
+    {
+      "variantId": 12,
+      "seedMessageId": "1032ca57-eaee-4219-acc5-c2e300edb4eb",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753634534.255632,
+      "latestTime": 1753634534.255632,
+      "bodyComplete": false,
+      "bodyLength": 2419,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753634534.255632,
+          "messageId": "1032ca57-eaee-4219-acc5-c2e300edb4eb",
+          "conversation": "Code update confirmation",
+          "parseMode": "regex-update-partial",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v12.md"
+    },
+    {
+      "variantId": 13,
+      "seedMessageId": "1eedde64-407c-4e88-b107-e36261dd2ee3",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753634563.539954,
+      "latestTime": 1753634563.539954,
+      "bodyComplete": true,
+      "bodyLength": 2643,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753634563.539954,
+          "messageId": "1eedde64-407c-4e88-b107-e36261dd2ee3",
+          "conversation": "Code update confirmation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v13.md"
+    },
+    {
+      "variantId": 14,
+      "seedMessageId": "5a0e20c3-bb7b-4166-820a-7d969211354b",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753634622.857173,
+      "latestTime": 1753634622.857173,
+      "bodyComplete": true,
+      "bodyLength": 3869,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753634622.857173,
+          "messageId": "5a0e20c3-bb7b-4166-820a-7d969211354b",
+          "conversation": "Code update confirmation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v14.md"
+    },
+    {
+      "variantId": 15,
+      "seedMessageId": "d58b4fe3-7621-49ed-b60d-7caacaf34171",
+      "seedConversation": "Code update confirmation",
+      "seedTime": 1753634680.874439,
+      "latestTime": 1753634680.874439,
+      "bodyComplete": true,
+      "bodyLength": 3751,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753634680.874439,
+          "messageId": "d58b4fe3-7621-49ed-b60d-7caacaf34171",
+          "conversation": "Code update confirmation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Shipping-Confirmation-Update--v15.md"
+    }
+  ]
+}

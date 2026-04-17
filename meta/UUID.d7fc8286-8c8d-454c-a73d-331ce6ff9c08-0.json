@@ -20,6 +20,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/UUID.d7fc8286-8c8d-454c-a73d-331ce6ff9c08-0.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d7fc8286-8c8d-454c-a73d-331ce6ff9c08",
+      "seedConversation": "שיפור דף זרי פרחים",
+      "seedTime": 1746588824.751227,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1746588824.751227,
+      "bodyComplete": true,
+      "bodyLength": 667,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "update_textdoc",

@@ -1,0 +1,125 @@
+{
+  "artifactKey": "IN.100.SYS",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/IN.100.SYS.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "ecf3d923-995b-42fb-a383-6b63350a153a",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748014098.989498,
+      "latestTime": 1748014207.785837,
+      "bodyComplete": true,
+      "bodyLength": 1588,
+      "appliedPartials": 2,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748014098.989498,
+          "messageId": "ecf3d923-995b-42fb-a383-6b63350a153a",
+          "conversation": "NEW CHATPT OS APP",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748014207.785837,
+          "messageId": "8f805e3b-dfb6-4a7c-b5b4-4b768bd98148",
+          "conversation": "NEW CHATPT OS APP",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "Allon OS",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748014207.785837,
+          "messageId": "8f805e3b-dfb6-4a7c-b5b4-4b768bd98148",
+          "conversation": "NEW CHATPT OS APP",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "(?<=\\*\\*System Name:\\*\\* ).*",
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.100.SYS--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "3fb9c121-dffa-4396-8caf-66efab6265ad",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748014260.135089,
+      "latestTime": 1748014260.135089,
+      "bodyComplete": true,
+      "bodyLength": 1588,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748014260.135089,
+          "messageId": "3fb9c121-dffa-4396-8caf-66efab6265ad",
+          "conversation": "NEW CHATPT OS APP",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.100.SYS--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "5942cdd1-84cb-435b-b6b1-c66d7c7e0cf7",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748014364.559048,
+      "latestTime": 1748014364.559048,
+      "bodyComplete": true,
+      "bodyLength": 2026,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748014364.559048,
+          "messageId": "5942cdd1-84cb-435b-b6b1-c66d7c7e0cf7",
+          "conversation": "NEW CHATPT OS APP",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.100.SYS--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "82b070ab-4301-4aa1-8fd1-eeee9d96fda6",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748027282.054968,
+      "latestTime": 1748027282.054968,
+      "bodyComplete": true,
+      "bodyLength": 2532,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748027282.054968,
+          "messageId": "82b070ab-4301-4aa1-8fd1-eeee9d96fda6",
+          "conversation": "NEW CHATPT OS APP",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.100.SYS--v04.md"
+    }
+  ]
+}

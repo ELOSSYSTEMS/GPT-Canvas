@@ -1,0 +1,66 @@
+{
+  "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Redundancy-Audit-60-Pair-Merge-Log.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a47d3ab4-07a0-4d01-95a9-cf9feee38101",
+      "seedConversation": "60 Flagged Pairs Review",
+      "seedTime": 1748081617.944121,
+      "latestTime": 1748081688.975863,
+      "bodyComplete": true,
+      "bodyLength": 2378,
+      "appliedPartials": 1,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748081617.944121,
+          "messageId": "a47d3ab4-07a0-4d01-95a9-cf9feee38101",
+          "conversation": "60 Flagged Pairs Review",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748081688.975863,
+          "messageId": "3ec6cadc-1aff-45f8-b8c5-4ba2f189f29a",
+          "conversation": "60 Flagged Pairs Review",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "\\bGPTOS\\b",
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Redundancy-Audit-60-Pair-Merge-Log--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "19ab1bd1-5140-4981-bf45-a4d9e78ff92a",
+      "seedConversation": "60 Flagged Pairs Review",
+      "seedTime": 1748081662.623828,
+      "latestTime": 1748081662.623828,
+      "bodyComplete": true,
+      "bodyLength": 2378,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748081662.623828,
+          "messageId": "19ab1bd1-5140-4981-bf45-a4d9e78ff92a",
+          "conversation": "60 Flagged Pairs Review",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.Redundancy-Audit-60-Pair-Merge-Log--v02.md"
+    }
+  ]
+}

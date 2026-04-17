@@ -1,0 +1,79 @@
+{
+  "artifactKey": "PR.003.SDE",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.003.SDE.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "479547d0-ef96-4e2a-b3b4-b0caf03d49cb",
+      "seedConversation": "BUILDING THE WEBAPP",
+      "seedTime": 1750596824.664832,
+      "latestTime": 1750596824.664832,
+      "bodyComplete": true,
+      "bodyLength": 1188,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1750596824.664832,
+          "messageId": "479547d0-ef96-4e2a-b3b4-b0caf03d49cb",
+          "conversation": "BUILDING THE WEBAPP",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.003.SDE--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "aa1ebb8c-1f0c-4c9e-b6d2-08af0e2a4620",
+      "seedConversation": "Canvas List Retrieval",
+      "seedTime": 1753972614.504113,
+      "latestTime": 1753972614.504113,
+      "bodyComplete": true,
+      "bodyLength": 1810,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1753972614.504113,
+          "messageId": "aa1ebb8c-1f0c-4c9e-b6d2-08af0e2a4620",
+          "conversation": "Canvas List Retrieval",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.003.SDE--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "933bde9a-47e9-4154-9be8-5b869fcb9df9",
+      "seedConversation": "Canvas List Retrieval",
+      "seedTime": 1753972685.236589,
+      "latestTime": 1753972685.236589,
+      "bodyComplete": true,
+      "bodyLength": 1926,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1753972685.236589,
+          "messageId": "933bde9a-47e9-4154-9be8-5b869fcb9df9",
+          "conversation": "Canvas List Retrieval",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.003.SDE--v03.md"
+    }
+  ]
+}

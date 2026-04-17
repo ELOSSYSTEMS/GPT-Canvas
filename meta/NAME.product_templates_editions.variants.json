@@ -1,0 +1,101 @@
+{
+  "artifactKey": "NAME.product_templates_editions",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.product_templates_editions.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "f004639e-c8fa-46ef-a1da-e9c597ec31e3",
+      "seedConversation": "BOARD ROOM",
+      "seedTime": 1751790458.144073,
+      "latestTime": 1751790458.144073,
+      "bodyComplete": true,
+      "bodyLength": 1430,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1751790458.144073,
+          "messageId": "f004639e-c8fa-46ef-a1da-e9c597ec31e3",
+          "conversation": "BOARD ROOM",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.product_templates_editions--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "82de966e-3dd7-4434-89bb-6dc684f30df6",
+      "seedConversation": "BOARD ROOM",
+      "seedTime": 1751793189.526962,
+      "latestTime": 1751793189.526962,
+      "bodyComplete": true,
+      "bodyLength": 2057,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1751793189.526962,
+          "messageId": "82de966e-3dd7-4434-89bb-6dc684f30df6",
+          "conversation": "BOARD ROOM",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.product_templates_editions--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "4da5479b-6b46-493d-b8dd-32f31a063c54",
+      "seedConversation": "BOARD ROOM",
+      "seedTime": 1751793251.772037,
+      "latestTime": 1751794058.832113,
+      "bodyComplete": true,
+      "bodyLength": 2050,
+      "appliedPartials": 2,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1751793251.772037,
+          "messageId": "4da5479b-6b46-493d-b8dd-32f31a063c54",
+          "conversation": "BOARD ROOM",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1751793454.521351,
+          "messageId": "271675ac-baae-4091-ae3a-8630fdf9f80e",
+          "conversation": "BOARD ROOM",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "<!-- SNIPPET: flagship-testimonials.liquid -->[\\s\\S]*",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1751794058.832113,
+          "messageId": "c8852b36-ad1d-46b6-b6fe-a321f2df9ebb",
+          "conversation": "BOARD ROOM",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "<!-- SNIPPET: flagship-testimonials-slider.liquid -->[\\s\\S]*",
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.product_templates_editions--v03.md"
+    }
+  ]
+}

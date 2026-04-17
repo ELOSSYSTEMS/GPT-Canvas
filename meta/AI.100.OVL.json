@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AI.100.OVL.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "fb8c8048-f1d4-4cd7-b3e2-9c449a0523cb",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748033831.418671,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748033831.418671,
+      "bodyComplete": true,
+      "bodyLength": 1923,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

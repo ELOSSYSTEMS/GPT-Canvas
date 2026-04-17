@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.001.SHARP.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "1d92a753-8200-41cb-8435-e2e9b08191ab",
+      "seedConversation": "Fix Stargate Protocol",
+      "seedTime": 1748589535.151367,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748589535.151367,
+      "bodyComplete": true,
+      "bodyLength": 1121,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

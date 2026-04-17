@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.FOREVER_FLOWERS_SYSTEM_PHILOSOPHY.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "ed56fff2-37d5-48d2-bef8-62d157704f5f",
+      "seedConversation": "Forever Flowers Site Review",
+      "seedTime": 1767994177.979449,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1767994177.979449,
+      "bodyComplete": true,
+      "bodyLength": 4708,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

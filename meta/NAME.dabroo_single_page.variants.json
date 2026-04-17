@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.dabroo_single_page",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.dabroo_single_page.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "9bf1b2d5-646a-43fb-b566-5f43fce8e4ff",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747171907.424003,
+      "latestTime": 1747171907.424003,
+      "bodyComplete": true,
+      "bodyLength": 7661,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1747171907.424003,
+          "messageId": "9bf1b2d5-646a-43fb-b566-5f43fce8e4ff",
+          "conversation": "Liquid Page Breakdown Issues",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.dabroo_single_page--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "b692a71d-90a9-459a-babd-f5a341281fc1",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747203955.393794,
+      "latestTime": 1747203955.393794,
+      "bodyComplete": true,
+      "bodyLength": 4186,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747203955.393794,
+          "messageId": "b692a71d-90a9-459a-babd-f5a341281fc1",
+          "conversation": "Liquid Page Breakdown Issues",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.dabroo_single_page--v02.md"
+    }
+  ]
+}

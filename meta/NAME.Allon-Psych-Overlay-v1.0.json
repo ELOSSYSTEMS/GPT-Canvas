@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Allon-Psych-Overlay-v1.0.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "7dce25c5-ad6b-4862-ad28-88e5bcb37f17",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748032345.067969,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748032345.067969,
+      "bodyComplete": true,
+      "bodyLength": 1640,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

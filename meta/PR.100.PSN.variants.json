@@ -1,0 +1,199 @@
+{
+  "artifactKey": "PR.100.PSN",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.100.PSN.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "3e64fac9-bd4c-4a92-a054-b9de0e04aff3",
+      "seedConversation": "Mission Summary",
+      "seedTime": 1747605923.487394,
+      "latestTime": 1747605923.487394,
+      "bodyComplete": true,
+      "bodyLength": 4056,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1747605923.487394,
+          "messageId": "3e64fac9-bd4c-4a92-a054-b9de0e04aff3",
+          "conversation": "Mission Summary",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.PSN--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "cee513b2-a018-4770-8d6f-525c48a75eba",
+      "seedConversation": "Mission Summary",
+      "seedTime": 1747606035.488488,
+      "latestTime": 1747606035.488488,
+      "bodyComplete": true,
+      "bodyLength": 4631,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747606035.488488,
+          "messageId": "cee513b2-a018-4770-8d6f-525c48a75eba",
+          "conversation": "Mission Summary",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.PSN--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "cc6d1317-5604-4d48-b79d-1b134fedda7f",
+      "seedConversation": "Mission Summary",
+      "seedTime": 1747606187.244388,
+      "latestTime": 1747606187.244388,
+      "bodyComplete": true,
+      "bodyLength": 5755,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747606187.244388,
+          "messageId": "cc6d1317-5604-4d48-b79d-1b134fedda7f",
+          "conversation": "Mission Summary",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.PSN--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "d131453a-c174-47cc-b439-d601f6e7460f",
+      "seedConversation": "PODCAST TRANSCRIPTION",
+      "seedTime": 1747606628.646853,
+      "latestTime": 1747606628.646853,
+      "bodyComplete": false,
+      "bodyLength": 4940,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1747606628.646853,
+          "messageId": "d131453a-c174-47cc-b439-d601f6e7460f",
+          "conversation": "PODCAST TRANSCRIPTION",
+          "parseMode": "regex-create-partial",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.PSN--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "462d0205-a393-4f86-b2b2-cd54e6df09c6",
+      "seedConversation": "Mission Summary",
+      "seedTime": 1747606740.62975,
+      "latestTime": 1747606740.62975,
+      "bodyComplete": true,
+      "bodyLength": 5585,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747606740.62975,
+          "messageId": "462d0205-a393-4f86-b2b2-cd54e6df09c6",
+          "conversation": "Mission Summary",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.PSN--v05.md"
+    },
+    {
+      "variantId": 6,
+      "seedMessageId": "c7c7bb53-30bd-4438-9127-4d6407311970",
+      "seedConversation": "Dabroo Power User Guide",
+      "seedTime": 1747609516.97417,
+      "latestTime": 1747609516.97417,
+      "bodyComplete": true,
+      "bodyLength": 1436,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1747609516.97417,
+          "messageId": "c7c7bb53-30bd-4438-9127-4d6407311970",
+          "conversation": "Dabroo Power User Guide",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.PSN--v06.md"
+    },
+    {
+      "variantId": 7,
+      "seedMessageId": "7e180de1-be9b-453b-a7ef-9440cf607e72",
+      "seedConversation": "Dabroo Power User Guide",
+      "seedTime": 1747609738.715175,
+      "latestTime": 1747609738.715175,
+      "bodyComplete": true,
+      "bodyLength": 3170,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1747609738.715175,
+          "messageId": "7e180de1-be9b-453b-a7ef-9440cf607e72",
+          "conversation": "Dabroo Power User Guide",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.PSN--v07.md"
+    },
+    {
+      "variantId": 8,
+      "seedMessageId": "5c8d2bf5-76de-459e-a94d-ea6d252cca0b",
+      "seedConversation": "Mission Ready Status",
+      "seedTime": 1747610871.566091,
+      "latestTime": 1747610871.566091,
+      "bodyComplete": true,
+      "bodyLength": 1254,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747610871.566091,
+          "messageId": "5c8d2bf5-76de-459e-a94d-ea6d252cca0b",
+          "conversation": "Mission Ready Status",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.PSN--v08.md"
+    }
+  ]
+}

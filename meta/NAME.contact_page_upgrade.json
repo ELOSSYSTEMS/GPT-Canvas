@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.contact_page_upgrade.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a7bf501a-5224-4ec6-a518-84bfc3ad925c",
+      "seedConversation": "תרגום לעברית",
+      "seedTime": 1750695129.981505,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1750695129.981505,
+      "bodyComplete": true,
+      "bodyLength": 2642,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

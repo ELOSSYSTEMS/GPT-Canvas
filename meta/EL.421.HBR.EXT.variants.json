@@ -1,0 +1,175 @@
+{
+  "artifactKey": "EL.421.HBR.EXT",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.421.HBR.EXT.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "2df35f6e-b117-4a2a-9bbd-bfe0a862885c",
+      "seedConversation": "translation 2.0 integration and expansion",
+      "seedTime": 1749322415.306633,
+      "latestTime": 1749322415.306633,
+      "bodyComplete": true,
+      "bodyLength": 2844,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749322415.306633,
+          "messageId": "2df35f6e-b117-4a2a-9bbd-bfe0a862885c",
+          "conversation": "translation 2.0 integration and expansion",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.421.HBR.EXT--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "0befc706-d9b8-468f-b595-1b5f3ce685b1",
+      "seedConversation": "translation 2.0 integration and expansion",
+      "seedTime": 1749322595.036287,
+      "latestTime": 1749322595.036287,
+      "bodyComplete": true,
+      "bodyLength": 2866,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749322595.036287,
+          "messageId": "0befc706-d9b8-468f-b595-1b5f3ce685b1",
+          "conversation": "translation 2.0 integration and expansion",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.421.HBR.EXT--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "e4218c56-97b4-4cf0-a781-d810c5e18f02",
+      "seedConversation": "translation 2.0 integration and expansion",
+      "seedTime": 1749322641.298068,
+      "latestTime": 1749322641.298068,
+      "bodyComplete": true,
+      "bodyLength": 2822,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749322641.298068,
+          "messageId": "e4218c56-97b4-4cf0-a781-d810c5e18f02",
+          "conversation": "translation 2.0 integration and expansion",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.421.HBR.EXT--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "71688458-78d7-441b-8fbf-3584a959f5fa",
+      "seedConversation": "translation 2.0 integration and expansion",
+      "seedTime": 1749322723.512943,
+      "latestTime": 1749322723.512943,
+      "bodyComplete": true,
+      "bodyLength": 2886,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749322723.512943,
+          "messageId": "71688458-78d7-441b-8fbf-3584a959f5fa",
+          "conversation": "translation 2.0 integration and expansion",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.421.HBR.EXT--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "fb39b668-feee-4419-b99a-6a89ef4719ee",
+      "seedConversation": "translation 2.0 integration and expansion",
+      "seedTime": 1749322805.698012,
+      "latestTime": 1749322805.698012,
+      "bodyComplete": true,
+      "bodyLength": 3031,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749322805.698012,
+          "messageId": "fb39b668-feee-4419-b99a-6a89ef4719ee",
+          "conversation": "translation 2.0 integration and expansion",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.421.HBR.EXT--v05.md"
+    },
+    {
+      "variantId": 6,
+      "seedMessageId": "1c960536-e3ea-413d-b45f-a22198cbe710",
+      "seedConversation": "translation 2.0 integration and expansion",
+      "seedTime": 1749323034.213992,
+      "latestTime": 1749323034.213992,
+      "bodyComplete": true,
+      "bodyLength": 3265,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749323034.213992,
+          "messageId": "1c960536-e3ea-413d-b45f-a22198cbe710",
+          "conversation": "translation 2.0 integration and expansion",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.421.HBR.EXT--v06.md"
+    },
+    {
+      "variantId": 7,
+      "seedMessageId": "48f332c1-9aa6-42c1-b66d-bcc3d829a7fa",
+      "seedConversation": "translation 2.0 integration and expansion",
+      "seedTime": 1749323088.53402,
+      "latestTime": 1749323088.53402,
+      "bodyComplete": true,
+      "bodyLength": 3249,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749323088.53402,
+          "messageId": "48f332c1-9aa6-42c1-b66d-bcc3d829a7fa",
+          "conversation": "translation 2.0 integration and expansion",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.421.HBR.EXT--v07.md"
+    }
+  ]
+}

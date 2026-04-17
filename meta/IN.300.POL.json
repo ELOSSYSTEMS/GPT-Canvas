@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/IN.300.POL.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e01efe09-a018-40c6-9bf1-76735b7accba",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748027167.185415,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748027167.185415,
+      "bodyComplete": true,
+      "bodyLength": 2452,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/IN.300.POL--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "0a3d062d-356e-4823-aee4-300e6af0f629",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748027247.802704,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748027247.802704,
+      "bodyComplete": true,
+      "bodyLength": 3191,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/IN.300.POL--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/IN.300.POL--v01.md",
+    "variants/IN.300.POL--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

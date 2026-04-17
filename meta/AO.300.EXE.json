@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.300.EXE.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a4e06e7f-e377-4ef7-bbc0-fcd6cdfcddcd",
+      "seedConversation": "Recursive Guidance for Beginners",
+      "seedTime": 1748074567.79191,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748074567.79191,
+      "bodyComplete": true,
+      "bodyLength": 2871,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

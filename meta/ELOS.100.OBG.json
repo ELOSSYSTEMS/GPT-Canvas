@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/ELOS.100.OBG.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "ecf6f076-95c0-471e-9107-005dfe743769",
+      "seedConversation": "Recursive Guidance for Beginners",
+      "seedTime": 1748074293.622626,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748074293.622626,
+      "bodyComplete": true,
+      "bodyLength": 2383,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

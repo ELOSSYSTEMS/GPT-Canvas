@@ -27,6 +27,44 @@
   "appliedPartialOps": 2,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/ELOS.300.CMD.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "915d4c63-c57d-4ce1-9fa5-7906d92ae6c6",
+      "seedConversation": "Recursive Guidance for Beginners",
+      "seedTime": 1748072391.699302,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748072391.699302,
+      "bodyComplete": true,
+      "bodyLength": 2193,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/ELOS.300.CMD--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "16aab7e1-74e7-44bb-8bcc-14a63f8643fb",
+      "seedConversation": "Bootloader Sequence Initiated",
+      "seedTime": 1749162306.784326,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749162350.916013,
+      "bodyComplete": true,
+      "bodyLength": 2938,
+      "appliedPartials": 2,
+      "lineageLength": 3,
+      "variantPath": "variants/ELOS.300.CMD--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/ELOS.300.CMD--v01.md",
+    "variants/ELOS.300.CMD--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -1,0 +1,55 @@
+{
+  "artifactKey": "DA.300.RTL-LITE",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/DA.300.RTL-LITE.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "b9348937-137b-405c-9167-79596eaafe10",
+      "seedConversation": "ChatGPT Prompts from Israel",
+      "seedTime": 1747862035.711702,
+      "latestTime": 1747862035.711702,
+      "bodyComplete": true,
+      "bodyLength": 1264,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1747862035.711702,
+          "messageId": "b9348937-137b-405c-9167-79596eaafe10",
+          "conversation": "ChatGPT Prompts from Israel",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/DA.300.RTL-LITE--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "edd2643d-6c47-421d-8747-e5565f5841b6",
+      "seedConversation": "ChatGPT Prompts from Israel",
+      "seedTime": 1747862095.895556,
+      "latestTime": 1747862095.895556,
+      "bodyComplete": true,
+      "bodyLength": 1154,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747862095.895556,
+          "messageId": "edd2643d-6c47-421d-8747-e5565f5841b6",
+          "conversation": "ChatGPT Prompts from Israel",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/DA.300.RTL-LITE--v02.md"
+    }
+  ]
+}

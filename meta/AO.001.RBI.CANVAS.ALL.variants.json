@@ -1,0 +1,55 @@
+{
+  "artifactKey": "AO.001.RBI.CANVAS.ALL",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.001.RBI.CANVAS.ALL.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d111bcde-83c3-4c20-9f62-158206e003c7",
+      "seedConversation": "Stargate v3.1 Boot",
+      "seedTime": 1748691727.064541,
+      "latestTime": 1748691727.064541,
+      "bodyComplete": true,
+      "bodyLength": 627,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748691727.064541,
+          "messageId": "d111bcde-83c3-4c20-9f62-158206e003c7",
+          "conversation": "Stargate v3.1 Boot",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.001.RBI.CANVAS.ALL--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "50474e66-85cc-40d7-911b-9d0ea27f0d5f",
+      "seedConversation": "Stargate v3.1 Boot",
+      "seedTime": 1748691760.087289,
+      "latestTime": 1748691760.087289,
+      "bodyComplete": true,
+      "bodyLength": 1091,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748691760.087289,
+          "messageId": "50474e66-85cc-40d7-911b-9d0ea27f0d5f",
+          "conversation": "Stargate v3.1 Boot",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.001.RBI.CANVAS.ALL--v02.md"
+    }
+  ]
+}

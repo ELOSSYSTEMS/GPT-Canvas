@@ -1,11 +1,171 @@
 [
   {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "639b62d4-d380-4363-9829-4e4833519b3c",
+    "pattern": "Google Search and Shopping Ads: Optimize keywords and launch campaigns targeting home decor enthusiasts and businesses.",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "1023028d-b1eb-4468-b6a3-f185bc2efd10",
+    "pattern": "Regular blog posts on floral trends, eco-friendly decor, and DIY arrangement tips.",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "96cbed09-40be-4503-bdce-914475f4415f",
+    "pattern": "- \\*\\*Referral Program:\\*\\*\\n  - Launch a referral program offering discounts or free products for successful referrals\\.",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "27c6769d-56df-4bac-888a-1f3ca150c6ce",
+    "pattern": "Maintain a 5x markup on costs for retail bouquets\\.",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "629a4b39-45dd-4cb8-8679-0d93d4d946eb",
+    "pattern": "Create bundled offerings \\(e\\.g\\., bouquet \\+ vase \\+ care instructions\\) with slight discounts to encourage larger orders\\.",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "4b334867-2df2-4913-a017-7588029f5f83",
+    "pattern": "Offer a subscription for monthly bouquet deliveries, targeting both individual and corporate clients\\.",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "03c44f87-ea29-434c-8ac9-fd2a0645ae0c",
+    "pattern": "Introduce tiered pricing \\(Standard, Executive, Exclusive\\) with clear value differentiation\\.",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "2e5352db-e1fe-421d-9e48-469a62bc834a",
+    "pattern": "Focus on the three bestsellers \\(לחישת שדה, צבעוני נצחי, שקט נצחי\\) with upsell options \\(e\\.g\\., fuller bouquets, premium flower additions\\)\\.",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "03288021-e5aa-426b-ac5c-d42d441a901c",
+    "pattern": "Free shipping and a complimentary vase with every bouquet\\.",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "759d40fc-4c09-4485-89f3-909976e55358",
+    "pattern": "Free shipping on orders above 300 NIS and a complimentary vase with every bouquet\\. This threshold encourages larger purchases while maintaining profitability\\. Analyze average order values over time to adjust the free shipping threshold if necessary, ensuring it aligns with customer spending patterns and business goals\\.",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "4ddf2d72-0ec9-4341-bc57-726eee2e2ab8",
+    "pattern": "- \\*\\*Efficiency in Deliveries:\\*\\*\\n  - Optimize delivery routes to reduce costs, especially for Arcaffe branches\\.\\n  - Implement zone-based delivery schedules \\(weekly for Tel Aviv, bi-weekly for other areas\\)\\.",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "89895302-1f2f-49aa-9cd1-d5c14ebcb402",
+    "pattern": "Discontinue deliveries to areas outside the Merkaz Region to streamline operations and maintain high service quality\\.",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "a094144e-541a-41e1-a526-575927d67b46",
+    "pattern": "Focus on differentiating Forever Flowers by offering free shipping, a free vase with every bouquet, and unique design collections\\.",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
     "artifactKey": "NAME.shopify_blocks_review",
     "conversation": "List of Sections",
     "messageId": "3b97c6f4-b532-40df-987e-f2ebfc3de47d",
     "pattern": "\\*\\*Colors\\*\\*: Background and border colors\\.",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -13,7 +173,11 @@
     "messageId": "f6dd5b8c-016d-4fd6-a263-583a8d97759e",
     "pattern": "\\*\\*Sizes\\*\\*: Adjustable image dimensions and spacing\\.",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -21,7 +185,11 @@
     "messageId": "5e107f6c-af63-40e8-9e5a-506078a11087",
     "pattern": "#### 28\\. \\*\\*Two Images Side by Side\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -29,7 +197,11 @@
     "messageId": "7621368c-530f-404c-ad44-6906a54de39c",
     "pattern": "#### 1\\. \\*\\*Before/After Image\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -37,7 +209,11 @@
     "messageId": "7621368c-530f-404c-ad44-6906a54de39c",
     "pattern": "#### 2\\. \\*\\*Blog Posts\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -45,7 +221,11 @@
     "messageId": "7621368c-530f-404c-ad44-6906a54de39c",
     "pattern": "#### 3\\. \\*\\*Collection List\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -53,7 +233,11 @@
     "messageId": "7621368c-530f-404c-ad44-6906a54de39c",
     "pattern": "#### 4\\. \\*\\*Contact Form\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -61,7 +245,11 @@
     "messageId": "7621368c-530f-404c-ad44-6906a54de39c",
     "pattern": "#### 5\\. \\*\\*Countdown Timer\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -69,7 +257,11 @@
     "messageId": "baf1b3ac-7ad6-4036-a630-afa91d44d9ac",
     "pattern": "#### 1\\. \\*\\*Before/After Image\\*\\*\\n- \\*\\*Features\\*\\*: This block enables a slider to compare two images side-by-side with adjustable alignment and container spacing for clean presentation\\.",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -77,7 +269,11 @@
     "messageId": "28eda615-6080-4967-a9da-7811338925c5",
     "pattern": "#### 6\\. \\*\\*Custom Liquid\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -85,7 +281,11 @@
     "messageId": "28eda615-6080-4967-a9da-7811338925c5",
     "pattern": "#### 7\\. \\*\\*FAQ\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -93,7 +293,11 @@
     "messageId": "28eda615-6080-4967-a9da-7811338925c5",
     "pattern": "#### 8\\. \\*\\*Featured Collections\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -101,7 +305,11 @@
     "messageId": "28eda615-6080-4967-a9da-7811338925c5",
     "pattern": "#### 9\\. \\*\\*Featured Product\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -109,7 +317,11 @@
     "messageId": "28eda615-6080-4967-a9da-7811338925c5",
     "pattern": "#### 10\\. \\*\\*Image with Text\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -117,7 +329,11 @@
     "messageId": "47aea804-2be8-466a-8704-2cd04e23c5e8",
     "pattern": "#### 11\\. \\*\\*Image with Text Block\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -125,7 +341,11 @@
     "messageId": "47aea804-2be8-466a-8704-2cd04e23c5e8",
     "pattern": "#### 12\\. \\*\\*Image with Text Overlay\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -133,7 +353,11 @@
     "messageId": "47aea804-2be8-466a-8704-2cd04e23c5e8",
     "pattern": "#### 13\\. \\*\\*Images with Text Scroll\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -141,7 +365,11 @@
     "messageId": "47aea804-2be8-466a-8704-2cd04e23c5e8",
     "pattern": "#### 14\\. \\*\\*Logo List\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -149,7 +377,11 @@
     "messageId": "47aea804-2be8-466a-8704-2cd04e23c5e8",
     "pattern": "#### 15\\. \\*\\*Media Grid Advanced\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -157,7 +389,11 @@
     "messageId": "3db487d2-9cb4-475f-af46-5a55f7e7b407",
     "pattern": "#### 16\\. \\*\\*Media Grid\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -165,7 +401,11 @@
     "messageId": "3db487d2-9cb4-475f-af46-5a55f7e7b407",
     "pattern": "#### 17\\. \\*\\*Multi-Column\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -173,7 +413,11 @@
     "messageId": "3db487d2-9cb4-475f-af46-5a55f7e7b407",
     "pattern": "#### 18\\. \\*\\*Multiple Media with Text\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -181,7 +425,11 @@
     "messageId": "3db487d2-9cb4-475f-af46-5a55f7e7b407",
     "pattern": "#### 19\\. \\*\\*Newsletter\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -189,7 +437,11 @@
     "messageId": "3db487d2-9cb4-475f-af46-5a55f7e7b407",
     "pattern": "#### 20\\. \\*\\*Recently Viewed Products\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -197,7 +449,11 @@
     "messageId": "114c8c00-011a-4a4d-991b-091bc90115d9",
     "pattern": "#### 21\\. \\*\\*Scrolling Content\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -205,7 +461,11 @@
     "messageId": "114c8c00-011a-4a4d-991b-091bc90115d9",
     "pattern": "#### 22\\. \\*\\*Shop the Look\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -213,7 +473,11 @@
     "messageId": "114c8c00-011a-4a4d-991b-091bc90115d9",
     "pattern": "#### 23\\. \\*\\*Slideshow\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -221,7 +485,11 @@
     "messageId": "114c8c00-011a-4a4d-991b-091bc90115d9",
     "pattern": "#### 24\\. \\*\\*Tabs\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -229,7 +497,11 @@
     "messageId": "114c8c00-011a-4a4d-991b-091bc90115d9",
     "pattern": "#### 25\\. \\*\\*Testimonials\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -237,7 +509,11 @@
     "messageId": "80922dc0-a2da-4e98-b1f8-00b11ea28487",
     "pattern": "#### 26\\. \\*\\*Text with Icons\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -245,7 +521,11 @@
     "messageId": "80922dc0-a2da-4e98-b1f8-00b11ea28487",
     "pattern": "#### 27\\. \\*\\*Timeline\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -253,7 +533,11 @@
     "messageId": "80922dc0-a2da-4e98-b1f8-00b11ea28487",
     "pattern": "#### 28\\. \\*\\*Two Images Side by Side\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.shopify_blocks_review",
@@ -261,7 +545,11 @@
     "messageId": "80922dc0-a2da-4e98-b1f8-00b11ea28487",
     "pattern": "#### 29\\. \\*\\*Video\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.forever_flowers_pricing",
@@ -269,7 +557,11 @@
     "messageId": "19628a68-7bf1-4f19-8af9-2dd37f90a15b",
     "pattern": "אספקה לנקודת המכירה",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.forever_flowers_weekly_schedule",
@@ -277,7 +569,11 @@
     "messageId": "0b256979-a0a0-4aee-9dcc-82a97aa281fa",
     "pattern": "## 📅 לוח שבועי \\(09:00–15:00\\)[\\s\\S]+?---",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
   },
   {
     "artifactKey": "NAME.forever_flowers_weekly_schedule",
@@ -285,7 +581,11 @@
     "messageId": "fb601752-7fd2-4013-ad50-7baf62659f19",
     "pattern": "## 📅 לוח שבועי \\(09:00–15:00\\)[\\s\\S]+?---",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
   },
   {
     "artifactKey": "NAME.ultimate-hero-section",
@@ -293,7 +593,11 @@
     "messageId": "31f6f2ae-9652-4d88-b094-fe4b89fbe0ea",
     "pattern": "{% if section.settings.main_image and \\(section.settings.layout == 'split' or section.settings.show_main_image_always\\) %}",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 7,
+    "matchedVariantIds": [
+      7
+    ]
   },
   {
     "artifactKey": "NAME.dabroo_sidebar_layout",
@@ -301,7 +605,13 @@
     "messageId": "f09c2088-9af8-44d6-9207-f2cf975ecce4",
     "pattern": "<img src=\"https://via\\.placeholder\\.com/20\" /> <span>DABROO AI</span>",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 3,
+    "matchedVariantIds": [
+      3,
+      2,
+      1
+    ]
   },
   {
     "artifactKey": "NAME.dabroo_sidebar_chat",
@@ -309,7 +619,11 @@
     "messageId": "b561ea00-398f-4221-b4cd-807e83b38613",
     "pattern": "function typeIntoInput\\(text\\) \\{[\\s\\S]*?setTimeout\\(typeNext, 40\\);",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 4,
+    "matchedVariantIds": [
+      4
+    ]
   },
   {
     "artifactKey": "NAME.Allon_Memory_Consolidation",
@@ -317,7 +631,11 @@
     "messageId": "f5a7215c-5c37-408a-8ad3-3b8741a479d0",
     "pattern": "### 7\\. 🧬 \\*\\*Allon’s Identity, Psychology & Operating System\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
   },
   {
     "artifactKey": "NAME.Allon_Memory_Consolidation",
@@ -325,7 +643,11 @@
     "messageId": "a31b32f0-f9cc-45f4-94f7-c76ae2a545b1",
     "pattern": "### 4\\. 💵 \\*\\*The Financier Persona\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
   },
   {
     "artifactKey": "NAME.Allon_Memory_Consolidation",
@@ -333,7 +655,11 @@
     "messageId": "23ec8f85-c952-453e-9473-89a4eba66faa",
     "pattern": "Allon Schaham's master financial profile as of May 2025.*?personal expenses remain categorized as such unless reclassified\\.",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
   },
   {
     "artifactKey": "NAME.Allon_Memory_Consolidation",
@@ -341,7 +667,12 @@
     "messageId": "d2c6651d-828a-4b74-a1e7-d85cd0f6e232",
     "pattern": "### MEMORY CONSOLIDATION PROPOSAL FOR ALLON S\\.",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2,
+      1
+    ]
   },
   {
     "artifactKey": "NAME.Allon_Memory_Consolidation",
@@ -349,7 +680,11 @@
     "messageId": "f2cb0f74-c5a9-45f1-9765-22341ad876ec",
     "pattern": "### 6\\. 🧠 \\*\\*The Prompt Surgeon Persona\\*\\*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
   },
   {
     "artifactKey": "NAME.Allon_Memory_Consolidation",
@@ -357,7 +692,11 @@
     "messageId": "181dff57-f959-4e64-97ab-db472f967728",
     "pattern": "### 6\\. 🧠 \\*\\*The Prompt Surgeon Persona\\*\\*[\\s\\S]*?---",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
   },
   {
     "artifactKey": "NAME.Allon_Memory_Consolidation",
@@ -365,7 +704,11 @@
     "messageId": "59341675-3054-4cf4-b7bc-f552377984d0",
     "pattern": "1\\. \\*\\*Israeli Marketer\\*\\* – voice expert combining:[\\s\\S]*?Writes for Israeli buyers who resist manipulation\\.",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
   },
   {
     "artifactKey": "DA.300.LOG",
@@ -373,7 +716,11 @@
     "messageId": "77569de2-4501-4422-b5b3-1947e59cb9f3",
     "pattern": "Lightning Bolt Icon",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
   },
   {
     "artifactKey": "IN.100.SYS",
@@ -381,7 +728,11 @@
     "messageId": "8f805e3b-dfb6-4a7c-b5b4-4b768bd98148",
     "pattern": "Allon OS",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "IN.100.SYS",
@@ -389,7 +740,47 @@
     "messageId": "8f805e3b-dfb6-4a7c-b5b4-4b768bd98148",
     "pattern": "(?<=\\*\\*System Name:\\*\\* ).*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "3ec6cadc-1aff-45f8-b8c5-4ba2f189f29a",
+    "pattern": "\\bGPTOS\\b",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
+  },
+  {
+    "artifactKey": "AO.910.PSN",
+    "conversation": "Recursive Persona System Design",
+    "messageId": "38260e17-e500-4622-b85b-c1b5a0993d5d",
+    "pattern": "### \\*\\*Step 4: Now You Try\\*\\*\\n```markdown\\nLet’s test it:\\nClick the Tree of Knowledge\\.\\nThen select: `Start With Builder`\\n```",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 11,
+    "matchedVariantIds": [
+      11
+    ]
+  },
+  {
+    "artifactKey": "AO.910.PSN",
+    "conversation": "Recursive Persona System Design",
+    "messageId": "f983083a-21c7-4e0c-9bc9-ae54ee814057",
+    "pattern": "### \\*\\*Step 1: Welcome & Friction Diffusal\\*\\*\\n```markdown\\nWelcome to ELos\\.\\n\\nThis is not just another plugin\\. It's an OS for AI\\.\\nDesigned for one thing: clarity in execution\\.\\n```",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 11,
+    "matchedVariantIds": [
+      11
+    ]
   },
   {
     "artifactKey": "AO.910.PSN",
@@ -397,7 +788,11 @@
     "messageId": "1bfc7e45-f0df-4edd-a36f-a747db4a98ed",
     "pattern": "Use My Voice",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 14,
+    "matchedVariantIds": [
+      14
+    ]
   },
   {
     "artifactKey": "NAME.All_Personas_Index",
@@ -405,7 +800,11 @@
     "messageId": "11f0b21a-fae8-4028-ba9c-29189a878606",
     "pattern": "### 🔻 Inactive \\(Not Instantiated Yet\\)\\n1\\. \\*\\*The Assassin\\*\\*.*?",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
   },
   {
     "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
@@ -413,7 +812,38 @@
     "messageId": "1d20532b-9d85-46f9-b096-ba654408765d",
     "pattern": "stargate_protocol",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 3,
+    "matchedVariantIds": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "4b90ebf3-b9bd-4871-93c6-da347210ecfe",
+    "pattern": "stargate_protocol",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2,
+      1
+    ]
+  },
+  {
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "dbdc808e-3760-43d8-9780-4587d0dae06a",
+    "pattern": "stargate_protocol",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.Prompt-Library-Master-Index",
@@ -421,7 +851,13 @@
     "messageId": "0741ac94-0de4-47ed-beee-533af4147c64",
     "pattern": "## 📈 Marketing & Advertising Prompts",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 5,
+    "matchedVariantIds": [
+      5,
+      4,
+      3
+    ]
   },
   {
     "artifactKey": "NAME.Prompt-Library-Master-Index",
@@ -429,7 +865,13 @@
     "messageId": "a6032b1d-696a-4a4d-9849-8200ce3786c1",
     "pattern": "## 📈 Marketing & Advertising Prompts",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 5,
+    "matchedVariantIds": [
+      5,
+      4,
+      3
+    ]
   },
   {
     "artifactKey": "NAME.Prompt-Library-Master-Index",
@@ -437,7 +879,13 @@
     "messageId": "1720eb3e-a4f3-412d-ad43-33b84bb094af",
     "pattern": "## 📈 Marketing & Advertising Prompts",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 5,
+    "matchedVariantIds": [
+      5,
+      4,
+      3
+    ]
   },
   {
     "artifactKey": "AO.001.RBI",
@@ -445,7 +893,11 @@
     "messageId": "92429eb4-8a67-457c-acd9-2d0b9d7bbf6c",
     "pattern": "Activate Stargate Protocol v3\\.1-total-fireproofed",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 16,
+    "matchedVariantIds": [
+      16
+    ]
   },
   {
     "artifactKey": "EL.002.STG",
@@ -453,7 +905,11 @@
     "messageId": "9b1c0271-81c7-427f-970a-6bf100909dcc",
     "pattern": "\"showPromptDiff\": true",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 8,
+    "matchedVariantIds": [
+      8
+    ]
   },
   {
     "artifactKey": "EL.002.STG",
@@ -461,7 +917,11 @@
     "messageId": "9b1c0271-81c7-427f-970a-6bf100909dcc",
     "pattern": "✅ Fully output-transparent — every prompt pass-through reveals its own mutation chain",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 8,
+    "matchedVariantIds": [
+      8
+    ]
   },
   {
     "artifactKey": "ELOS.300.CMD",
@@ -469,7 +929,11 @@
     "messageId": "6d7764ec-9e68-4751-a3c2-1294c4b347c6",
     "pattern": "```bash\\n/fireproof .*?\\n/translate .*?\\n/stargate .*?\\n/rewrite .*?\\n```",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
   },
   {
     "artifactKey": "ELOS.300.CMD",
@@ -477,7 +941,65 @@
     "messageId": "6d7764ec-9e68-4751-a3c2-1294c4b347c6",
     "pattern": "slash commands",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
+  },
+  {
+    "artifactKey": "AO.910.PRM.IDX",
+    "conversation": "PROMPT LIBRARY",
+    "messageId": "c42e2b10-8925-4b5d-8621-238a18a9c569",
+    "pattern": "\"prompt_count\":\\s*120",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 5,
+    "matchedVariantIds": [
+      5,
+      4
+    ]
+  },
+  {
+    "artifactKey": "AO.910.PRM.IDX",
+    "conversation": "PROMPT LIBRARY",
+    "messageId": "23faf08d-7d74-452c-9988-fb6421d0bbcc",
+    "pattern": "\"prompt_count\":\\s*120",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 4,
+    "matchedVariantIds": [
+      4
+    ]
+  },
+  {
+    "artifactKey": "AO.001.RBI",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "8f8a7ff8-7165-4277-ab71-7f505267ffbc",
+    "pattern": "## Canvas Autoload Registry\\n```([\\s\\S]*?)```",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 34,
+    "matchedVariantIds": [
+      34,
+      33,
+      32,
+      31
+    ]
+  },
+  {
+    "artifactKey": "AO.001.RBI",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "eba885a0-8685-4e06-8dc0-d1e32bb2c08c",
+    "pattern": "## Canvas Autoload Registry\\n```\n([\\s\\S]*?)\n```",
+    "parseMode": "json-parse",
+    "applyMode": "regex",
+    "targetVariantId": 33,
+    "matchedVariantIds": [
+      33,
+      32,
+      31
+    ]
   },
   {
     "artifactKey": "NAME.product_templates_editions",
@@ -485,7 +1007,11 @@
     "messageId": "271675ac-baae-4091-ae3a-8630fdf9f80e",
     "pattern": "<!-- SNIPPET: flagship-testimonials.liquid -->[\\s\\S]*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 3,
+    "matchedVariantIds": [
+      3
+    ]
   },
   {
     "artifactKey": "NAME.product_templates_editions",
@@ -493,7 +1019,11 @@
     "messageId": "c8852b36-ad1d-46b6-b6fe-a321f2df9ebb",
     "pattern": "<!-- SNIPPET: flagship-testimonials-slider.liquid -->[\\s\\S]*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 3,
+    "matchedVariantIds": [
+      3
+    ]
   },
   {
     "artifactKey": "NAME.Shipping-Confirmation-Update",
@@ -501,7 +1031,11 @@
     "messageId": "cbaf7557-a5c2-401b-ab1a-d242e8caa4fb",
     "pattern": "בסטודיו שלנו בתל אביב",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 5,
+    "matchedVariantIds": [
+      5
+    ]
   },
   {
     "artifactKey": "NAME.Forever-Flowers-Wireframe-Outlines-All-Approved-Pages",
@@ -509,7 +1043,11 @@
     "messageId": "ef13c5d5-915c-473e-98ce-6b42e801c087",
     "pattern": "[\\s\\S]*",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
@@ -517,7 +1055,11 @@
     "messageId": "f119979d-c10c-4065-81a1-5b22d689a786",
     "pattern": "## Final Anchor",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
@@ -525,7 +1067,11 @@
     "messageId": "78b58381-3cba-4d41-974f-37d33a3d90bb",
     "pattern": "## Open Questions for the Forever Panel",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
@@ -533,7 +1079,12 @@
     "messageId": "80273f1a-8854-4988-9c0c-c0fd6bc46e95",
     "pattern": "## Homepage as a Dynamic Surface",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2,
+      1
+    ]
   },
   {
     "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
@@ -541,7 +1092,12 @@
     "messageId": "a9e7c4f4-6e02-46c1-9bd4-512c146324bc",
     "pattern": "### Homepage Variants",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2,
+      1
+    ]
   },
   {
     "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
@@ -549,7 +1105,11 @@
     "messageId": "ab3b0c24-62af-437b-9e35-4240df8c16e8",
     "pattern": "## Tier-1 PDP \\(First Visit Only\\)[\\s\\S]*?retired forever\\*\\* for that customer",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
   },
   {
     "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
@@ -557,7 +1117,11 @@
     "messageId": "ab3b0c24-62af-437b-9e35-4240df8c16e8",
     "pattern": "## RealtimeStack-Style Visitor Tracking",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
   },
   {
     "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
@@ -565,7 +1129,11 @@
     "messageId": "89dc40ec-6f30-484b-a5d8-809d63b3ad71",
     "pattern": "## Tier-1 PDP \\(First Visit Only\\)[\\s\\S]*?customer",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2
+    ]
   },
   {
     "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
@@ -573,7 +1141,12 @@
     "messageId": "9cc8f112-f39f-40b4-a733-284a90f54b6b",
     "pattern": "## Final Anchor[\\s\\S]*$",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 2,
+    "matchedVariantIds": [
+      2,
+      1
+    ]
   },
   {
     "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_DIAGRAM.md",
@@ -581,7 +1154,11 @@
     "messageId": "69cc185e-16a9-4952-a075-7d178514c7d8",
     "pattern": "$",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.Subscription-Addendum-Gifting-Tier",
@@ -589,7 +1166,11 @@
     "messageId": "d414912b-01f9-496e-b270-2bd70c7055b9",
     "pattern": "## Deliveries[\\s\\S]*?---",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.Subscription-Addendum-Gifting-Tier",
@@ -597,7 +1178,11 @@
     "messageId": "d414912b-01f9-496e-b270-2bd70c7055b9",
     "pattern": "## Pricing \\(Indicative\\)[\\s\\S]*?> Final pricing intentionally left flexible to test anchoring\\.",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.Subscription-Addendum-Gifting-Tier",
@@ -605,7 +1190,11 @@
     "messageId": "29f3073a-51b7-458d-8bbf-9e0019a935c9",
     "pattern": "## One-Line Definition \\(Internal\\)[\\s\\S]*$",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   },
   {
     "artifactKey": "NAME.Subscription-Addendum-Gifting-Tier",
@@ -613,6 +1202,10 @@
     "messageId": "1d97c55b-38d7-4459-b558-70f9cbc777d4",
     "pattern": "\\*\\*\\\"Flowers, handled — for the dates that matter\\.\\\"\\*\\*[\\s\\S]*$",
     "parseMode": "json-parse",
-    "applyMode": "regex"
+    "applyMode": "regex",
+    "targetVariantId": 1,
+    "matchedVariantIds": [
+      1
+    ]
   }
 ]

@@ -1,0 +1,103 @@
+{
+  "artifactKey": "PR.100.ALL",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.100.ALL.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "8ffe4e3a-9c92-406c-aba9-ee83191ccf56",
+      "seedConversation": "PODCAST TRANSCRIPTION",
+      "seedTime": 1747606875.123621,
+      "latestTime": 1747606875.123621,
+      "bodyComplete": true,
+      "bodyLength": 4590,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1747606875.123621,
+          "messageId": "8ffe4e3a-9c92-406c-aba9-ee83191ccf56",
+          "conversation": "PODCAST TRANSCRIPTION",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.ALL--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "90621537-0017-4035-9235-05fce376d1ef",
+      "seedConversation": "PODCAST TRANSCRIPTION",
+      "seedTime": 1747606958.76315,
+      "latestTime": 1747606958.76315,
+      "bodyComplete": true,
+      "bodyLength": 5257,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747606958.76315,
+          "messageId": "90621537-0017-4035-9235-05fce376d1ef",
+          "conversation": "PODCAST TRANSCRIPTION",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.ALL--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "47bf819a-aadb-4dc6-8a2a-a6a28c0daf68",
+      "seedConversation": "PODCAST TRANSCRIPTION",
+      "seedTime": 1747607086.537217,
+      "latestTime": 1747607086.537217,
+      "bodyComplete": true,
+      "bodyLength": 1538,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747607086.537217,
+          "messageId": "47bf819a-aadb-4dc6-8a2a-a6a28c0daf68",
+          "conversation": "PODCAST TRANSCRIPTION",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.ALL--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "94a684a6-d066-4f1a-bff7-93f9b453db5e",
+      "seedConversation": "PODCAST TRANSCRIPTION",
+      "seedTime": 1747607130.094069,
+      "latestTime": 1747607130.094069,
+      "bodyComplete": true,
+      "bodyLength": 2475,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747607130.094069,
+          "messageId": "94a684a6-d066-4f1a-bff7-93f9b453db5e",
+          "conversation": "PODCAST TRANSCRIPTION",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.ALL--v04.md"
+    }
+  ]
+}

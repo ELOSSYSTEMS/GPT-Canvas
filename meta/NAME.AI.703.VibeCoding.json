@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.AI.703.VibeCoding.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "3d6a2aad-defb-499d-a83a-4d9f27d12589",
+      "seedConversation": "*** ELOS AI INTRO COURSE",
+      "seedTime": 1748756514.066504,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748756514.066504,
+      "bodyComplete": true,
+      "bodyLength": 826,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

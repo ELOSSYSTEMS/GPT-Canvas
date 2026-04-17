@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.208.FPR.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "05bff66a-fa9f-4cef-97e9-9786cd1587be",
+      "seedConversation": "Librarian Assistance Request",
+      "seedTime": 1748202495.257037,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748202495.257037,
+      "bodyComplete": true,
+      "bodyLength": 1535,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

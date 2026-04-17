@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos_Pricing_Model.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "5d929b76-b237-4c12-9b03-e079a036a6ce",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748197563.841154,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748197563.841154,
+      "bodyComplete": true,
+      "bodyLength": 2573,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.ELos_Pricing_Model--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "1c277e16-5bdc-48c3-aceb-480bbf76fe6d",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748197775.112813,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1748197775.112813,
+      "bodyComplete": true,
+      "bodyLength": 2951,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.ELos_Pricing_Model--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.ELos_Pricing_Model--v01.md",
+    "variants/NAME.ELos_Pricing_Model--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

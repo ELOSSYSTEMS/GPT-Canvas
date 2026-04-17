@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 2,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/FF.210.ATL.002.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "06acc71c-1816-40b0-a78c-f8a04d77c813",
+      "seedConversation": "FF OS Brand Strategy",
+      "seedTime": 1749711076.516025,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749711076.516025,
+      "bodyComplete": true,
+      "bodyLength": 1165,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -1,0 +1,199 @@
+{
+  "artifactKey": "NAME.discount-bar.liquid",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.discount-bar.liquid.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "550bdb00-edf9-49ac-a47b-1eff752d5ed6",
+      "seedConversation": "SHOPIFY SIDEBAR POPUP",
+      "seedTime": 1750350039.271208,
+      "latestTime": 1750350039.271208,
+      "bodyComplete": true,
+      "bodyLength": 3589,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1750350039.271208,
+          "messageId": "550bdb00-edf9-49ac-a47b-1eff752d5ed6",
+          "conversation": "SHOPIFY SIDEBAR POPUP",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.discount-bar.liquid--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "9865e3c2-d2a6-41cf-8b0c-a7a166d7bf9a",
+      "seedConversation": "SHOPIFY SIDEBAR POPUP",
+      "seedTime": 1750350301.830201,
+      "latestTime": 1750350301.830201,
+      "bodyComplete": true,
+      "bodyLength": 3259,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1750350301.830201,
+          "messageId": "9865e3c2-d2a6-41cf-8b0c-a7a166d7bf9a",
+          "conversation": "SHOPIFY SIDEBAR POPUP",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.discount-bar.liquid--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "c7ae3d71-e86c-4472-9f7d-718f8bebe1ec",
+      "seedConversation": "SHOPIFY SIDEBAR POPUP",
+      "seedTime": 1750350699.156295,
+      "latestTime": 1750350699.156295,
+      "bodyComplete": true,
+      "bodyLength": 4242,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1750350699.156295,
+          "messageId": "c7ae3d71-e86c-4472-9f7d-718f8bebe1ec",
+          "conversation": "SHOPIFY SIDEBAR POPUP",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.discount-bar.liquid--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "471420f9-bdfe-4460-bf2e-d13ad2019703",
+      "seedConversation": "SHOPIFY SIDEBAR POPUP",
+      "seedTime": 1750351046.151392,
+      "latestTime": 1750351046.151392,
+      "bodyComplete": true,
+      "bodyLength": 4702,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1750351046.151392,
+          "messageId": "471420f9-bdfe-4460-bf2e-d13ad2019703",
+          "conversation": "SHOPIFY SIDEBAR POPUP",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.discount-bar.liquid--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "140681cc-4872-4252-a565-41d35126bc13",
+      "seedConversation": "SHOPIFY SIDEBAR POPUP",
+      "seedTime": 1750352145.197474,
+      "latestTime": 1750352145.197474,
+      "bodyComplete": true,
+      "bodyLength": 3911,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1750352145.197474,
+          "messageId": "140681cc-4872-4252-a565-41d35126bc13",
+          "conversation": "SHOPIFY SIDEBAR POPUP",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.discount-bar.liquid--v05.md"
+    },
+    {
+      "variantId": 6,
+      "seedMessageId": "97d1373a-c477-4950-ae29-a504ee9fc21d",
+      "seedConversation": "SHOPIFY SIDEBAR POPUP",
+      "seedTime": 1750352350.314671,
+      "latestTime": 1750352350.314671,
+      "bodyComplete": true,
+      "bodyLength": 4742,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1750352350.314671,
+          "messageId": "97d1373a-c477-4950-ae29-a504ee9fc21d",
+          "conversation": "SHOPIFY SIDEBAR POPUP",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.discount-bar.liquid--v06.md"
+    },
+    {
+      "variantId": 7,
+      "seedMessageId": "b94aa57d-a2c6-4ff5-8647-0a7dde3a14a7",
+      "seedConversation": "SHOPIFY SIDEBAR POPUP",
+      "seedTime": 1750354063.463625,
+      "latestTime": 1750354063.463625,
+      "bodyComplete": true,
+      "bodyLength": 4850,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1750354063.463625,
+          "messageId": "b94aa57d-a2c6-4ff5-8647-0a7dde3a14a7",
+          "conversation": "SHOPIFY SIDEBAR POPUP",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.discount-bar.liquid--v07.md"
+    },
+    {
+      "variantId": 8,
+      "seedMessageId": "080ca9e9-0996-4f58-ae54-38da156b7616",
+      "seedConversation": "SHOPIFY SIDEBAR POPUP",
+      "seedTime": 1750354656.373536,
+      "latestTime": 1750354656.373536,
+      "bodyComplete": true,
+      "bodyLength": 5166,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1750354656.373536,
+          "messageId": "080ca9e9-0996-4f58-ae54-38da156b7616",
+          "conversation": "SHOPIFY SIDEBAR POPUP",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.discount-bar.liquid--v08.md"
+    }
+  ]
+}

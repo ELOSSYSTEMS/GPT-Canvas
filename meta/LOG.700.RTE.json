@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/LOG.700.RTE.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "ac11bd9a-57d9-4384-8daa-b78ff448ccda",
+      "seedConversation": "Persona Crafter Creation",
+      "seedTime": 1747820061.626103,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747820061.626103,
+      "bodyComplete": true,
+      "bodyLength": 2196,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

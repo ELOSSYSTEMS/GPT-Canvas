@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.helix_canvas_sidebar.html.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e7bc9808-ed02-425f-9991-24bffd2745ec",
+      "seedConversation": "Creating AI Agents",
+      "seedTime": 1749985851.016119,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749985851.016119,
+      "bodyComplete": true,
+      "bodyLength": 8175,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

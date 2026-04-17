@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Forever-Panel-Internal-Dashboards-Master-Build-Plan.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "5364afde-58a1-4582-a967-ace7cc662911",
+      "seedConversation": "Dashboard Scraping Overview",
+      "seedTime": 1770043399.872527,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1770043399.872527,
+      "bodyComplete": true,
+      "bodyLength": 4983,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.300.GHO.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "968d6678-1696-495c-9a4e-70c1cc0990d7",
+      "seedConversation": "Dabroo Power User Guide",
+      "seedTime": 1747609885.706811,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747609885.706811,
+      "bodyComplete": true,
+      "bodyLength": 883,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

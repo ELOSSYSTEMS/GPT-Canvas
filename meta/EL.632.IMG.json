@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.632.IMG.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "b90dac6c-19a3-4218-9db5-34da1a697f3c",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749200425.487882,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749200425.487882,
+      "bodyComplete": true,
+      "bodyLength": 1207,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

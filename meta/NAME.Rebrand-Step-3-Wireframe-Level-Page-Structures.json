@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Rebrand-Step-3-Wireframe-Level-Page-Structures.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "7504de6a-1325-4bdc-9481-f3166f11bd3f",
+      "seedConversation": "SUB WEB REBUILD",
+      "seedTime": 1769442562.233283,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1769442562.233283,
+      "bodyComplete": true,
+      "bodyLength": 3197,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

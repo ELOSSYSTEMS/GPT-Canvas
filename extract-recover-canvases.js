@@ -20,10 +20,11 @@ const OUT_DIR = path.resolve(process.env.CANVAS_RECOVERY_OUT_DIR || process.cwd(
 const RAW_DIR = path.join(OUT_DIR, 'raw');
 const META_DIR = path.join(OUT_DIR, 'meta');
 const OPS_DIR = path.join(OUT_DIR, 'ops');
+const VARIANTS_DIR = path.join(OUT_DIR, 'variants');
 const previousSummaryPath = path.join(OUT_DIR, 'summary.json');
 const previousSummary = fs.existsSync(previousSummaryPath) ? JSON.parse(fs.readFileSync(previousSummaryPath, 'utf8')) : null;
 
-for (const dir of [OUT_DIR, RAW_DIR, META_DIR, OPS_DIR]) fs.mkdirSync(dir, { recursive: true });
+for (const dir of [OUT_DIR, RAW_DIR, META_DIR, OPS_DIR, VARIANTS_DIR]) fs.mkdirSync(dir, { recursive: true });
 
 const data = JSON.parse(fs.readFileSync(EXPORT_PATH, 'utf8'));
 const idRegex = /\b[A-Z]{2,6}(?:-[A-Z]{2,6})?\.\d{3}(?:\.[A-Z0-9-]{1,24})+\b/g;
@@ -52,6 +53,10 @@ function asText(value) {
   if (Array.isArray(value)) return value.map(asText).join('\n');
   if (typeof value === 'object') return JSON.stringify(value, null, 2);
   return String(value);
+}
+
+function normalizeBodyForCompare(text) {
+  return asText(text).replace(/\r\n/g, '\n');
 }
 
 function getPartsText(content) {
@@ -436,7 +441,60 @@ function createArtifactEntry(artifactKey) {
     appliedPartialOps: 0,
     unresolvedPartialOps: 0,
     commentOps: [],
+    variants: [],
+    extractedLatestVariantId: null,
+    extractedLatestPath: null,
+    rawWriteStatus: 'not-written',
   };
+}
+
+function createVariantFromFullBody(item, op) {
+  const variantId = item.variants.length + 1;
+  return {
+    variantId,
+    seedMessageId: op.messageId,
+    seedConversation: op.conversation,
+    seedTime: op.createTime,
+    seedParseMode: op.parseMode,
+    seedHeuristic: op.heuristic,
+    latestTime: op.createTime,
+    body: op.body,
+    bodyComplete: !!op.bodyComplete,
+    appliedPartials: 0,
+    lineage: [
+      {
+        opType: op.opType,
+        createTime: op.createTime,
+        messageId: op.messageId,
+        conversation: op.conversation,
+        parseMode: op.parseMode,
+        heuristic: op.heuristic,
+        applyMode: 'full-body',
+        pattern: null,
+        ambiguousMatchCount: 0,
+      },
+    ],
+  };
+}
+
+function tryApplyUpdateToBody(body, pattern, replacement, multiple) {
+  try {
+    const flags = multiple ? 'g' : '';
+    const regex = new RegExp(pattern, flags);
+    const nextBody = body.replace(regex, replacement);
+    if (nextBody !== body) return { matched: true, body: nextBody, applyMode: 'regex' };
+    const fallback = applyFallbackReplacement(body, pattern, replacement, multiple);
+    if (fallback && fallback.body !== body) {
+      return { matched: true, body: fallback.body, applyMode: fallback.mode };
+    }
+    return { matched: false };
+  } catch (error) {
+    return { matched: false, error };
+  }
+}
+
+function compareVariantRecency(a, b) {
+  return (b.latestTime || 0) - (a.latestTime || 0) || b.variantId - a.variantId;
 }
 
 const operations = [];
@@ -622,6 +680,7 @@ for (const op of operations) {
       heuristic: op.heuristic,
       parseMode: op.parseMode,
     };
+    item.variants.push(createVariantFromFullBody(item, op));
     continue;
   }
 
@@ -652,62 +711,81 @@ for (const op of operations) {
     continue;
   }
 
-  try {
-    const flags = op.multiple ? 'g' : '';
-    const regex = new RegExp(op.pattern, flags);
-    const nextBody = item.latestBody.replace(regex, op.body);
-    if (nextBody === item.latestBody) {
-      const fallback = applyFallbackReplacement(item.latestBody, op.pattern, op.body, op.multiple);
-      if (fallback && fallback.body !== item.latestBody) {
-        item.latestBody = fallback.body;
-        item.latestTime = op.createTime || item.latestTime;
-        item.latestBodyComplete = item.latestBodyComplete && !!op.bodyComplete;
-        item.appliedPartialOps += 1;
-        appliedPartialOps.push({
-          artifactKey: op.artifactKey,
-          conversation: op.conversation,
-          messageId: op.messageId,
-          pattern: op.pattern,
-          parseMode: op.parseMode,
-          applyMode: fallback.mode,
-        });
-        continue;
-      }
-      item.unresolvedPartialOps += 1;
-      unresolvedPartials.push({
-        artifactKey: op.artifactKey,
-        conversation: op.conversation,
-        messageId: op.messageId,
-        reason: 'regex-no-match',
-        pattern: op.pattern,
-        replacementSnippet: op.body.slice(0, 300),
-        parseMode: op.parseMode,
-      });
-      continue;
+  const variantMatches = [];
+  let regexError = null;
+  for (const variant of item.variants) {
+    const attempt = tryApplyUpdateToBody(variant.body, op.pattern, op.body, op.multiple);
+    if (attempt.error) {
+      regexError = attempt.error;
+      break;
     }
-    item.latestBody = nextBody;
-    item.latestTime = op.createTime || item.latestTime;
-    item.latestBodyComplete = item.latestBodyComplete && !!op.bodyComplete;
-    item.appliedPartialOps += 1;
-    appliedPartialOps.push({
-      artifactKey: op.artifactKey,
-      conversation: op.conversation,
-      messageId: op.messageId,
-      pattern: op.pattern,
-      parseMode: op.parseMode,
-      applyMode: 'regex',
-    });
-  } catch (error) {
+    if (attempt.matched) {
+      variantMatches.push({
+        variant,
+        body: attempt.body,
+        applyMode: attempt.applyMode,
+      });
+    }
+  }
+
+  if (regexError) {
     item.unresolvedPartialOps += 1;
     regexErrors.push({
       artifactKey: op.artifactKey,
       conversation: op.conversation,
       messageId: op.messageId,
       pattern: op.pattern,
-      error: String(error),
+      error: String(regexError),
       parseMode: op.parseMode,
     });
+    continue;
   }
+
+  if (!variantMatches.length) {
+    item.unresolvedPartialOps += 1;
+    unresolvedPartials.push({
+      artifactKey: op.artifactKey,
+      conversation: op.conversation,
+      messageId: op.messageId,
+      reason: 'regex-no-match',
+      pattern: op.pattern,
+      replacementSnippet: op.body.slice(0, 300),
+      parseMode: op.parseMode,
+    });
+    continue;
+  }
+
+  variantMatches.sort((a, b) => compareVariantRecency(a.variant, b.variant));
+  const chosen = variantMatches[0];
+  chosen.variant.body = chosen.body;
+  chosen.variant.latestTime = op.createTime || chosen.variant.latestTime;
+  chosen.variant.bodyComplete = chosen.variant.bodyComplete && !!op.bodyComplete;
+  chosen.variant.appliedPartials += 1;
+  chosen.variant.lineage.push({
+    opType: op.opType,
+    createTime: op.createTime,
+    messageId: op.messageId,
+    conversation: op.conversation,
+    parseMode: op.parseMode,
+    heuristic: op.heuristic,
+    applyMode: chosen.applyMode,
+    pattern: op.pattern,
+    ambiguousMatchCount: Math.max(0, variantMatches.length - 1),
+  });
+  item.latestBody = chosen.variant.body;
+  item.latestTime = chosen.variant.latestTime;
+  item.latestBodyComplete = chosen.variant.bodyComplete;
+  item.appliedPartialOps += 1;
+  appliedPartialOps.push({
+    artifactKey: op.artifactKey,
+    conversation: op.conversation,
+    messageId: op.messageId,
+    pattern: op.pattern,
+    parseMode: op.parseMode,
+    applyMode: chosen.applyMode,
+    targetVariantId: chosen.variant.variantId,
+    matchedVariantIds: variantMatches.map(match => match.variant.variantId),
+  });
 }
 
 for (const op of commentOperations) {
@@ -725,6 +803,36 @@ for (const op of commentOperations) {
   });
 }
 
+for (const item of artifacts.values()) {
+  if (!item.variants.length) continue;
+  item.variants.sort((a, b) => a.variantId - b.variantId);
+  const latestVariant = [...item.variants].sort(compareVariantRecency)[0];
+  item.latestBody = latestVariant.body;
+  item.latestTime = latestVariant.latestTime;
+  item.latestBodyComplete = latestVariant.bodyComplete;
+  item.extractedLatestVariantId = latestVariant.variantId;
+}
+
+for (const item of artifacts.values()) {
+  if (!item.recovered || !item.latestBody) continue;
+  const base = slugify(item.artifactKey);
+  const rawPath = path.join(RAW_DIR, `${base}.md`);
+  const extractedVariantPath = path.join(VARIANTS_DIR, `${base}--latest-extracted.md`);
+  if (!fs.existsSync(rawPath)) {
+    item.rawWriteStatus = 'created';
+    item.extractedLatestPath = path.relative(OUT_DIR, rawPath).replace(/\\/g, '/');
+    continue;
+  }
+  const existingRaw = fs.readFileSync(rawPath, 'utf8');
+  if (normalizeBodyForCompare(existingRaw) === normalizeBodyForCompare(item.latestBody)) {
+    item.rawWriteStatus = 'preserved-existing-same';
+    item.extractedLatestPath = path.relative(OUT_DIR, rawPath).replace(/\\/g, '/');
+    continue;
+  }
+  item.rawWriteStatus = 'preserved-existing-different';
+  item.extractedLatestPath = path.relative(OUT_DIR, extractedVariantPath).replace(/\\/g, '/');
+}
+
 const artifactSummaries = [...artifacts.values()].map(item => ({
   artifactKey: item.artifactKey,
   names: [...item.names],
@@ -738,6 +846,9 @@ const artifactSummaries = [...artifacts.values()].map(item => ({
   appliedPartialOps: item.appliedPartialOps,
   unresolvedPartialOps: item.unresolvedPartialOps,
   commentOps: item.commentOps.length,
+  variantCount: item.variants.length,
+  extractedLatestVariantId: item.extractedLatestVariantId,
+  rawWriteStatus: item.rawWriteStatus,
   latestBodyLength: item.latestBody ? item.latestBody.length : 0,
   latestSource: item.latestSource || null,
 })).sort((a, b) => a.artifactKey.localeCompare(b.artifactKey));
@@ -803,7 +914,22 @@ function writeTaxonomy(node, depth, lines) {
 for (const item of artifacts.values()) {
   if (!item.recovered || !item.latestBody) continue;
   const base = slugify(item.artifactKey);
-  fs.writeFileSync(path.join(RAW_DIR, `${base}.md`), item.latestBody);
+  const rawPath = path.join(RAW_DIR, `${base}.md`);
+  const variantFilePaths = [];
+  if (item.variants.length > 1) {
+    for (const variant of item.variants) {
+      const variantPath = path.join(VARIANTS_DIR, `${base}--v${String(variant.variantId).padStart(2, '0')}.md`);
+      fs.writeFileSync(variantPath, variant.body);
+      variantFilePaths.push(path.relative(OUT_DIR, variantPath).replace(/\\/g, '/'));
+    }
+  }
+
+  if (item.rawWriteStatus === 'created') {
+    fs.writeFileSync(rawPath, item.latestBody);
+  } else if (item.rawWriteStatus === 'preserved-existing-different') {
+    fs.writeFileSync(path.join(OUT_DIR, item.extractedLatestPath), item.latestBody);
+  }
+
   fs.writeFileSync(path.join(META_DIR, `${base}.json`), JSON.stringify({
     artifactKey: item.artifactKey,
     names: [...item.names],
@@ -817,8 +943,46 @@ for (const item of artifacts.values()) {
     appliedPartialOps: item.appliedPartialOps,
     unresolvedPartialOps: item.unresolvedPartialOps,
     commentOps: item.commentOps.length,
+    variantCount: item.variants.length,
+    extractedLatestVariantId: item.extractedLatestVariantId,
+    rawWriteStatus: item.rawWriteStatus,
+    extractedLatestPath: item.extractedLatestPath,
+    variants: item.variants.map(variant => ({
+      variantId: variant.variantId,
+      seedMessageId: variant.seedMessageId,
+      seedConversation: variant.seedConversation,
+      seedTime: variant.seedTime,
+      seedParseMode: variant.seedParseMode,
+      seedHeuristic: variant.seedHeuristic,
+      latestTime: variant.latestTime,
+      bodyComplete: variant.bodyComplete,
+      bodyLength: variant.body.length,
+      appliedPartials: variant.appliedPartials,
+      lineageLength: variant.lineage.length,
+      variantPath: item.variants.length > 1 ? `variants/${base}--v${String(variant.variantId).padStart(2, '0')}.md` : null,
+    })),
+    variantPaths: variantFilePaths,
     operations: item.operations,
   }, null, 2));
+  if (item.variants.length > 1) {
+    fs.writeFileSync(path.join(META_DIR, `${base}.variants.json`), JSON.stringify({
+      artifactKey: item.artifactKey,
+      rawWriteStatus: item.rawWriteStatus,
+      extractedLatestPath: item.extractedLatestPath,
+      variants: item.variants.map(variant => ({
+        variantId: variant.variantId,
+        seedMessageId: variant.seedMessageId,
+        seedConversation: variant.seedConversation,
+        seedTime: variant.seedTime,
+        latestTime: variant.latestTime,
+        bodyComplete: variant.bodyComplete,
+        bodyLength: variant.body.length,
+        appliedPartials: variant.appliedPartials,
+        lineage: variant.lineage,
+        variantPath: `variants/${base}--v${String(variant.variantId).padStart(2, '0')}.md`,
+      })),
+    }, null, 2));
+  }
   if (item.commentOps.length) {
     fs.writeFileSync(path.join(META_DIR, `${base}.comments.json`), JSON.stringify({
       artifactKey: item.artifactKey,
@@ -854,6 +1018,7 @@ canonicalIndex.push(`- partial latest bodies: ${artifactSummaries.filter(x => x.
 canonicalIndex.push(`- identifiers seen in corpus: ${allIdentifierList.length}`);
 canonicalIndex.push(`- identifiers not yet reconstructed: ${missingIdentifiers.length}`);
 canonicalIndex.push(`- preserved comment operations: ${commentOperations.length}`);
+canonicalIndex.push(`- multi-variant artifacts: ${artifactSummaries.filter(x => x.variantCount > 1).length}`);
 canonicalIndex.push('');
 canonicalIndex.push('## Recovered Artifacts');
 canonicalIndex.push('');
@@ -863,6 +1028,8 @@ for (const item of artifactSummaries.filter(x => x.recovered)) {
   canonicalIndex.push(`- \`${item.artifactKey}\`${title ? ` - ${title}` : ''}`);
   canonicalIndex.push(`  - status: ${status}`);
   canonicalIndex.push(`  - raw: \`raw/${slugify(item.artifactKey)}.md\``);
+  if (item.variantCount > 1) canonicalIndex.push(`  - variants: ${item.variantCount} (see \`meta/${slugify(item.artifactKey)}.variants.json\`)`);
+  if (item.extractedLatestVariantId) canonicalIndex.push(`  - extracted latest variant: v${String(item.extractedLatestVariantId).padStart(2, '0')}`);
   canonicalIndex.push(`  - meta: \`meta/${slugify(item.artifactKey)}.json\``);
   canonicalIndex.push(`  - ops: complete=${item.completeBodyOps}, partialBodies=${item.partialBodyOps}, appliedPartials=${item.appliedPartialOps}, unresolvedPartials=${item.unresolvedPartialOps}, comments=${item.commentOps}`);
 }
@@ -896,6 +1063,7 @@ partialLines.push(`Applied partial regex updates: ${appliedPartialOps.length}`);
 partialLines.push(`Unresolved partial operations: ${unresolvedPartials.length}`);
 partialLines.push(`Regex errors: ${regexErrors.length}`);
 partialLines.push(`Preserved comment operations: ${commentOperations.length}`);
+partialLines.push(`Artifacts with multiple full-body variants: ${artifactSummaries.filter(x => x.variantCount > 1).length}`);
 partialLines.push('');
 for (const item of artifactSummaries.filter(x => x.recovered && !x.latestBodyComplete)) {
   partialLines.push(`- \`${item.artifactKey}\` latest body is partial`);
@@ -909,6 +1077,20 @@ if (unresolvedPartials.length) {
   if (unresolvedPartials.length > 500) partialLines.push(`- ... truncated ${unresolvedPartials.length - 500} additional unresolved entries in \`ops/unresolved-partials.json\``);
 }
 fs.writeFileSync(path.join(OUT_DIR, 'partial-artifacts.md'), partialLines.join('\n'));
+
+const variantLines = [];
+variantLines.push('# Variant Artifact Recovery');
+variantLines.push('');
+variantLines.push(`Artifacts with multiple full-body variants: ${artifactSummaries.filter(x => x.variantCount > 1).length}`);
+variantLines.push(`Artifacts whose existing raw file was preserved against a different extracted latest body: ${artifactSummaries.filter(x => x.rawWriteStatus === 'preserved-existing-different').length}`);
+variantLines.push('');
+for (const item of artifactSummaries.filter(x => x.variantCount > 1)) {
+  variantLines.push(`- \`${item.artifactKey}\``);
+  variantLines.push(`  - variants: ${item.variantCount}`);
+  variantLines.push(`  - latest extracted variant: v${String(item.extractedLatestVariantId || 0).padStart(2, '0')}`);
+  variantLines.push(`  - meta: \`meta/${slugify(item.artifactKey)}.variants.json\``);
+}
+fs.writeFileSync(path.join(OUT_DIR, 'variant-artifacts.md'), variantLines.join('\n'));
 
 const conflictLines = [];
 conflictLines.push('# Conflicting Artifact Signals');
@@ -933,13 +1115,14 @@ function familyKeyForArtifact(artifactKey) {
 const familyMap = new Map();
 for (const item of artifactSummaries) {
   const family = familyKeyForArtifact(item.artifactKey);
-  if (!familyMap.has(family)) familyMap.set(family, { family, recovered: 0, complete: 0, partial: 0, conflicts: 0, items: [] });
+  if (!familyMap.has(family)) familyMap.set(family, { family, recovered: 0, complete: 0, partial: 0, conflicts: 0, variantArtifacts: 0, items: [] });
   const entry = familyMap.get(family);
   if (item.recovered) {
     entry.recovered += 1;
     if (item.latestBodyComplete) entry.complete += 1;
     else entry.partial += 1;
   }
+  if (item.variantCount > 1) entry.variantArtifacts += 1;
   if (conflicts.find(x => x.artifactKey === item.artifactKey)) entry.conflicts += 1;
   entry.items.push(item);
 }
@@ -957,6 +1140,7 @@ librarianLines.push(`- partial latest bodies: ${artifactSummaries.filter(x => x.
 librarianLines.push(`- missing identifiers: ${missingIdentifiers.length}`);
 librarianLines.push(`- preserved comment operations: ${commentOperations.length}`);
 librarianLines.push(`- conflicting artifacts: ${conflicts.length}`);
+librarianLines.push(`- multi-variant artifacts: ${artifactSummaries.filter(x => x.variantCount > 1).length}`);
 librarianLines.push('');
 librarianLines.push('## Families');
 librarianLines.push('');
@@ -966,9 +1150,10 @@ for (const family of [...familyMap.values()].sort((a, b) => a.family.localeCompa
   librarianLines.push(`- complete: ${family.complete}`);
   librarianLines.push(`- partial: ${family.partial}`);
   librarianLines.push(`- conflicts: ${family.conflicts}`);
+  librarianLines.push(`- variants: ${family.variantArtifacts}`);
   for (const item of family.items.filter(x => x.recovered).sort((a, b) => a.artifactKey.localeCompare(b.artifactKey)).slice(0, 40)) {
     const label = item.titles[0] || item.names[0] || '';
-    librarianLines.push(`  - \`${item.artifactKey}\`${label ? ` - ${label}` : ''} [${item.latestBodyComplete ? 'complete' : 'partial'}]`);
+    librarianLines.push(`  - \`${item.artifactKey}\`${label ? ` - ${label}` : ''} [${item.latestBodyComplete ? 'complete' : 'partial'}${item.variantCount > 1 ? `, variants=${item.variantCount}` : ''}]`);
   }
   if (family.items.filter(x => x.recovered).length > 40) librarianLines.push(`  - ... ${family.items.filter(x => x.recovered).length - 40} more recovered items in this family`);
   librarianLines.push('');
@@ -986,6 +1171,7 @@ const summary = {
   artifactKeysObserved: artifactSummaries.length,
   totalOperations: operations.length,
   commentOperations: commentOperations.length,
+  multiVariantArtifacts: artifactSummaries.filter(x => x.variantCount > 1).length,
   fullBodyOperations: operations.filter(x => x.fullBody).length,
   completeBodyOperations: operations.filter(x => x.fullBody && x.bodyComplete).length,
   partialBodyOperations: operations.filter(x => x.fullBody && !x.bodyComplete).length,
@@ -998,6 +1184,7 @@ const summary = {
   identifiersSeen: allIdentifierList.length,
   missingIdentifiers: missingIdentifiers.length,
   conflictingArtifacts: conflicts.length,
+  preservedRawDivergences: artifactSummaries.filter(x => x.rawWriteStatus === 'preserved-existing-different').length,
   previousSummary,
 };
 fs.writeFileSync(path.join(OUT_DIR, 'summary.json'), JSON.stringify(summary, null, 2));

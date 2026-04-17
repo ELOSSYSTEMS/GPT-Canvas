@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.fireproofed_prompt_library.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "ec26b45b-3b91-48e5-94dd-d313a995b216",
+      "seedConversation": "Bootloader Activation Summary",
+      "seedTime": 1749129941.93202,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749129941.93202,
+      "bodyComplete": true,
+      "bodyLength": 3895,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.fireproofed_prompt_library--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "04de2b0a-c96a-4e13-b172-e185251d7c33",
+      "seedConversation": "Bootloader Activation Summary",
+      "seedTime": 1749129963.829462,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749129963.829462,
+      "bodyComplete": true,
+      "bodyLength": 3895,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.fireproofed_prompt_library--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.fireproofed_prompt_library--v01.md",
+    "variants/NAME.fireproofed_prompt_library--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

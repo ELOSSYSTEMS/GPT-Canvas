@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.STS_Framework_ForeverFlowers.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "8ddde7b0-1b68-4704-a083-b783074266aa",
+      "seedConversation": "STS Meta Ad Recreation",
+      "seedTime": 1749843763.909641,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749843763.909641,
+      "bodyComplete": true,
+      "bodyLength": 2375,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

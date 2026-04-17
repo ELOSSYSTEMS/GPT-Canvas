@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ff-editorial-strips.liquid-Fresh.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a086d6f7-6dba-4677-8e5e-979b3a8b1576",
+      "seedConversation": "Replicating Floralis Section",
+      "seedTime": 1769279118.076579,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1769279118.076579,
+      "bodyComplete": true,
+      "bodyLength": 9084,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

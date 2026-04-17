@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.order_confirmation_audit",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.order_confirmation_audit.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e62be522-0a12-4e1d-861f-ac2635686a12",
+      "seedConversation": "Order Confirmation Code Audit",
+      "seedTime": 1753623209.445559,
+      "latestTime": 1753623209.445559,
+      "bodyComplete": true,
+      "bodyLength": 280,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1753623209.445559,
+          "messageId": "e62be522-0a12-4e1d-861f-ac2635686a12",
+          "conversation": "Order Confirmation Code Audit",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.order_confirmation_audit--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "72316ebe-0ffa-4ce8-92cb-bc71d41e03a1",
+      "seedConversation": "Order Confirmation Code Audit",
+      "seedTime": 1753623239.974365,
+      "latestTime": 1753623239.974365,
+      "bodyComplete": true,
+      "bodyLength": 2443,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753623239.974365,
+          "messageId": "72316ebe-0ffa-4ce8-92cb-bc71d41e03a1",
+          "conversation": "Order Confirmation Code Audit",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.order_confirmation_audit--v02.md"
+    }
+  ]
+}

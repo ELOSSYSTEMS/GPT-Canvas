@@ -24,6 +24,27 @@
   "appliedPartialOps": 1,
   "unresolvedPartialOps": 1,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_DIAGRAM.md.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c305923f-9b25-487e-ab02-ec21778ccad5",
+      "seedConversation": "Personalized Flow Design",
+      "seedTime": 1768039510.600047,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1768039674.018103,
+      "bodyComplete": true,
+      "bodyLength": 5992,
+      "appliedPartials": 1,
+      "lineageLength": 2,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

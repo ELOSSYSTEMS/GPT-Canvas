@@ -25,6 +25,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/DA.100.MNF.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d6741983-04e6-42e8-a3a9-6ed717915a2f",
+      "seedConversation": "Dabroo Power User Guide",
+      "seedTime": 1747609970.1465,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1747609970.1465,
+      "bodyComplete": true,
+      "bodyLength": 2020,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/DA.100.MNF--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "d8d47b88-b30e-4ae2-bc58-5271bba1de16",
+      "seedConversation": "Mission Summary",
+      "seedTime": 1747611590.778177,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747611590.778177,
+      "bodyComplete": true,
+      "bodyLength": 1652,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/DA.100.MNF--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/DA.100.MNF--v01.md",
+    "variants/DA.100.MNF--v02.md"
+  ],
   "operations": [
     {
       "opType": "update_textdoc",

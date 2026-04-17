@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.prompt_engineering_master",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.prompt_engineering_master.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c7456953-9e10-4471-8fa8-095eb0ed6ab3",
+      "seedConversation": "Bootloader Activation Summary",
+      "seedTime": 1749130132.928581,
+      "latestTime": 1749130132.928581,
+      "bodyComplete": true,
+      "bodyLength": 6939,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749130132.928581,
+          "messageId": "c7456953-9e10-4471-8fa8-095eb0ed6ab3",
+          "conversation": "Bootloader Activation Summary",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.prompt_engineering_master--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "6e964080-97b3-4b60-871c-78b18edead17",
+      "seedConversation": "Bootloader Activation Summary",
+      "seedTime": 1749130234.322245,
+      "latestTime": 1749130234.322245,
+      "bodyComplete": true,
+      "bodyLength": 6924,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749130234.322245,
+          "messageId": "6e964080-97b3-4b60-871c-78b18edead17",
+          "conversation": "Bootloader Activation Summary",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.prompt_engineering_master--v02.md"
+    }
+  ]
+}

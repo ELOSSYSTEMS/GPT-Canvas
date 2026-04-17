@@ -1,0 +1,55 @@
+{
+  "artifactKey": "ELOS.100.LIB",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/ELOS.100.LIB.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "eb94f4a7-b2ec-423f-a63d-44f71b8ea4da",
+      "seedConversation": "ELos Buildout Structure",
+      "seedTime": 1748089685.325188,
+      "latestTime": 1748089685.325188,
+      "bodyComplete": true,
+      "bodyLength": 1361,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748089685.325188,
+          "messageId": "eb94f4a7-b2ec-423f-a63d-44f71b8ea4da",
+          "conversation": "ELos Buildout Structure",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/ELOS.100.LIB--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "eaebbbf1-db87-43c8-99f7-6791525c1f2f",
+      "seedConversation": "ELos Buildout Structure",
+      "seedTime": 1748089810.417221,
+      "latestTime": 1748089810.417221,
+      "bodyComplete": true,
+      "bodyLength": 1562,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748089810.417221,
+          "messageId": "eaebbbf1-db87-43c8-99f7-6791525c1f2f",
+          "conversation": "ELos Buildout Structure",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/ELOS.100.LIB--v02.md"
+    }
+  ]
+}

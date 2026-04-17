@@ -1,122 +1,5 @@
 [
   {
-    "artifactKey": "NAME.forever_flowers_business_plan",
-    "conversation": "Business Plan for Forever Flowers",
-    "messageId": "639b62d4-d380-4363-9829-4e4833519b3c",
-    "reason": "regex-no-match",
-    "pattern": "Google Search and Shopping Ads: Optimize keywords and launch campaigns targeting home decor enthusiasts and businesses.",
-    "replacementSnippet": "Google Search and Shopping Ads: Conduct thorough keyword research using tools like Google Keyword Planner to identify high-traffic, low-competition terms. Create compelling ad copy and visuals that highlight the luxury, eco-friendly nature of Forever Flowers bouquets. Segment campaigns to target spe",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.forever_flowers_business_plan",
-    "conversation": "Business Plan for Forever Flowers",
-    "messageId": "1023028d-b1eb-4468-b6a3-f185bc2efd10",
-    "reason": "regex-no-match",
-    "pattern": "Regular blog posts on floral trends, eco-friendly decor, and DIY arrangement tips.",
-    "replacementSnippet": "10 engaging blog post topics to start with:\n1. \"Floral Trends of 2025: What’s Hot in Home Decor?\"\n2. \"Why Choose Dried Flowers? Eco-Friendly and Timeless Benefits\"\n3. \"DIY Floral Arrangements: Easy Steps to Style Your Forever Flowers\"\n4. \"The Perfect Vase Pairing: Enhancing Your Dried Flower Bouquet",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.forever_flowers_business_plan",
-    "conversation": "Business Plan for Forever Flowers",
-    "messageId": "96cbed09-40be-4503-bdce-914475f4415f",
-    "reason": "regex-no-match",
-    "pattern": "- \\*\\*Referral Program:\\*\\*\\n  - Launch a referral program offering discounts or free products for successful referrals\\.",
-    "replacementSnippet": "- **Referral Program:**\n  - Launch a referral program offering discounts or free products for successful referrals.\n  - **Steps to Implement:**\n    1. Define the referral rewards: Decide whether customers will receive a percentage discount, store credit, or a free product for successful referrals.\n ",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.forever_flowers_business_plan",
-    "conversation": "Business Plan for Forever Flowers",
-    "messageId": "27c6769d-56df-4bac-888a-1f3ca150c6ce",
-    "reason": "regex-no-match",
-    "pattern": "Maintain a 5x markup on costs for retail bouquets\\.",
-    "replacementSnippet": "For example, if the cost to produce a bouquet is 50 NIS, applying a 5x markup would result in a retail price of 250 NIS. This pricing ensures profitability while aligning with the luxury branding of Forever Flowers.",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.forever_flowers_business_plan",
-    "conversation": "Business Plan for Forever Flowers",
-    "messageId": "629a4b39-45dd-4cb8-8679-0d93d4d946eb",
-    "reason": "regex-no-match",
-    "pattern": "Create bundled offerings \\(e\\.g\\., bouquet \\+ vase \\+ care instructions\\) with slight discounts to encourage larger orders\\.",
-    "replacementSnippet": "Create bundled offerings (e.g., bouquet + vase + care instructions) with slight discounts to encourage larger orders. For instance, offer a \"Home Decor Starter Pack\" that includes a mid-sized bouquet, a matching vase, and a detailed care instruction leaflet. This bundle could be priced 10-15% lower ",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.forever_flowers_business_plan",
-    "conversation": "Business Plan for Forever Flowers",
-    "messageId": "4b334867-2df2-4913-a017-7588029f5f83",
-    "reason": "regex-no-match",
-    "pattern": "Offer a subscription for monthly bouquet deliveries, targeting both individual and corporate clients\\.",
-    "replacementSnippet": "Offer a subscription for monthly bouquet deliveries, targeting both individual and corporate clients. For individuals, create tiered subscription plans (e.g., Basic Plan with one small bouquet per month, Premium Plan with larger bouquets and customization options). For corporate clients, offer flexi",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.forever_flowers_business_plan",
-    "conversation": "Business Plan for Forever Flowers",
-    "messageId": "03c44f87-ea29-434c-8ac9-fd2a0645ae0c",
-    "reason": "regex-no-match",
-    "pattern": "Introduce tiered pricing \\(Standard, Executive, Exclusive\\) with clear value differentiation\\.",
-    "replacementSnippet": "Introduce tiered pricing (Standard, Executive, Exclusive) with clear value differentiation. For the Standard tier, offer high-quality bouquets with a minimal design focus, suitable for casual gifting or home use. The Executive tier would feature medium-sized bouquets with more intricate designs and ",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.forever_flowers_business_plan",
-    "conversation": "Business Plan for Forever Flowers",
-    "messageId": "2e5352db-e1fe-421d-9e48-469a62bc834a",
-    "reason": "regex-no-match",
-    "pattern": "Focus on the three bestsellers \\(לחישת שדה, צבעוני נצחי, שקט נצחי\\) with upsell options \\(e\\.g\\., fuller bouquets, premium flower additions\\)\\.",
-    "replacementSnippet": "Focus on the three bestsellers (לחישת שדה, צבעוני נצחי, שקט נצחי) with upsell options. For example, offer a fuller bouquet option for an additional 50 NIS that enhances the visual impact by adding more filler greens and secondary flowers. Premium flower additions could include roses (30 NIS per flow",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.forever_flowers_business_plan",
-    "conversation": "Business Plan for Forever Flowers",
-    "messageId": "03288021-e5aa-426b-ac5c-d42d441a901c",
-    "reason": "regex-no-match",
-    "pattern": "Free shipping and a complimentary vase with every bouquet\\.",
-    "replacementSnippet": "Free shipping on orders above 300 NIS and a complimentary vase with every bouquet. This threshold encourages larger purchases while maintaining profitability. Analyze average order values over time to adjust the free shipping threshold if necessary, ensuring it aligns with customer spending patterns",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.forever_flowers_business_plan",
-    "conversation": "Business Plan for Forever Flowers",
-    "messageId": "759d40fc-4c09-4485-89f3-909976e55358",
-    "reason": "regex-no-match",
-    "pattern": "Free shipping on orders above 300 NIS and a complimentary vase with every bouquet\\. This threshold encourages larger purchases while maintaining profitability\\. Analyze average order values over time to adjust the free shipping threshold if necessary, ensuring it aligns with customer spending patterns and business goals\\.",
-    "replacementSnippet": "300 NIS is a reasonable starting point for free shipping, but this threshold should be validated through customer purchasing behavior analysis. Begin by calculating the current average order value and comparing it to this threshold. Test higher thresholds, such as 350 NIS or 400 NIS, over a three-mo",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.forever_flowers_business_plan",
-    "conversation": "Business Plan for Forever Flowers",
-    "messageId": "4ddf2d72-0ec9-4341-bc57-726eee2e2ab8",
-    "reason": "regex-no-match",
-    "pattern": "- \\*\\*Efficiency in Deliveries:\\*\\*\\n  - Optimize delivery routes to reduce costs, especially for Arcaffe branches\\.\\n  - Implement zone-based delivery schedules \\(weekly for Tel Aviv, bi-weekly for other areas\\)\\.",
-    "replacementSnippet": "- **Efficiency in Deliveries:**\n  - Shift focus to the Merkaz Region, offering hand-delivered bouquets with a \"white glove\" service for a personalized customer experience.\n  - Establish clear delivery zones within the Merkaz Region and implement fixed delivery schedules to optimize efficiency.\n  - D",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.forever_flowers_business_plan",
-    "conversation": "Business Plan for Forever Flowers",
-    "messageId": "89895302-1f2f-49aa-9cd1-d5c14ebcb402",
-    "reason": "regex-no-match",
-    "pattern": "Discontinue deliveries to areas outside the Merkaz Region to streamline operations and maintain high service quality\\.",
-    "replacementSnippet": "Discontinue deliveries to areas outside the Merkaz Region to streamline operations and maintain high service quality. On the website, communicate this shift transparently by updating the delivery policy page and creating a pop-up or banner announcement for visitors. Use positive language to emphasiz",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.forever_flowers_business_plan",
-    "conversation": "Business Plan for Forever Flowers",
-    "messageId": "a094144e-541a-41e1-a526-575927d67b46",
-    "reason": "regex-no-match",
-    "pattern": "Focus on differentiating Forever Flowers by offering free shipping, a free vase with every bouquet, and unique design collections\\.",
-    "replacementSnippet": "Focus on differentiating Forever Flowers by emphasizing unique design collections, personalized hand-delivery service within the Merkaz Region, and a luxury brand experience. Analyze competitors to identify gaps in their offerings, such as limited customization options, lack of eco-friendly products",
-    "parseMode": "json-parse"
-  },
-  {
     "artifactKey": "NAME.shopify_blocks_review",
     "conversation": "List of Sections",
     "messageId": "000b4c29-64de-4dfe-8ea6-c5f8089eb22b",
@@ -328,15 +211,6 @@
     "conversation": "60 Flagged Pairs Review",
     "messageId": "3ec6cadc-1aff-45f8-b8c5-4ba2f189f29a",
     "reason": "regex-no-match",
-    "pattern": "\\bGPTOS\\b",
-    "replacementSnippet": "ELos",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
-    "conversation": "60 Flagged Pairs Review",
-    "messageId": "3ec6cadc-1aff-45f8-b8c5-4ba2f189f29a",
-    "reason": "regex-no-match",
     "pattern": "\\bAI OS\\b",
     "replacementSnippet": "ELos",
     "parseMode": "json-parse"
@@ -432,24 +306,6 @@
   {
     "artifactKey": "AO.910.PSN",
     "conversation": "Recursive Persona System Design",
-    "messageId": "38260e17-e500-4622-b85b-c1b5a0993d5d",
-    "reason": "regex-no-match",
-    "pattern": "### \\*\\*Step 4: Now You Try\\*\\*\\n```markdown\\nLet’s test it:\\nClick the Tree of Knowledge\\.\\nThen select: `Start With Builder`\\n```",
-    "replacementSnippet": "### **Step 4: Now You Try**\n```markdown\nLet’s test it:\nClick the Tree of Knowledge.\nThen select: `Start With Builder`\n\nYou're ready.\nClick the Tree of Knowledge anytime.\nIt's your compass, your control panel, your first and last button.\n\nYou're now running ELos.\n```",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "AO.910.PSN",
-    "conversation": "Recursive Persona System Design",
-    "messageId": "f983083a-21c7-4e0c-9bc9-ae54ee814057",
-    "reason": "regex-no-match",
-    "pattern": "### \\*\\*Step 1: Welcome & Friction Diffusal\\*\\*\\n```markdown\\nWelcome to ELos\\.\\n\\nThis is not just another plugin\\. It's an OS for AI\\.\\nDesigned for one thing: clarity in execution\\.\\n```",
-    "replacementSnippet": "### **Step 1: Welcome & Friction Diffusal**\n```markdown\nWelcome to ELos.\n\nThis is not just another plugin. It's an OS for AI.\nDesigned for one thing: clarity in execution.\n\nYou are currently in: Beginner Mode  \nThis means you're seeing a simplified, safe view of ELos.  \nNew capabilities will unlock ",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "AO.910.PSN",
-    "conversation": "Recursive Persona System Design",
     "messageId": "f983083a-21c7-4e0c-9bc9-ae54ee814057",
     "reason": "regex-no-match",
     "pattern": "### \\*\\*Step 4: Now You Try\\*\\*\\n```markdown\\nLet’s test it:\\nClick the Tree of Knowledge\\.\\nThen select: `Start With Builder`\\n```",
@@ -504,15 +360,6 @@
     "conversation": "Prompt Refinement Protocol",
     "messageId": "4b90ebf3-b9bd-4871-93c6-da347210ecfe",
     "reason": "regex-no-match",
-    "pattern": "stargate_protocol",
-    "replacementSnippet": "elos_protocol",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
-    "conversation": "Prompt Refinement Protocol",
-    "messageId": "4b90ebf3-b9bd-4871-93c6-da347210ecfe",
-    "reason": "regex-no-match",
     "pattern": "Stargate Protocol",
     "replacementSnippet": "ELos Protocol",
     "parseMode": "json-parse"
@@ -533,15 +380,6 @@
     "reason": "regex-no-match",
     "pattern": "stargate hybrid protocol",
     "replacementSnippet": "ELos Prompt Protocol",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
-    "conversation": "Prompt Refinement Protocol",
-    "messageId": "dbdc808e-3760-43d8-9780-4587d0dae06a",
-    "reason": "regex-no-match",
-    "pattern": "stargate_protocol",
-    "replacementSnippet": "elos_protocol",
     "parseMode": "json-parse"
   },
   {
@@ -662,24 +500,6 @@
     "parseMode": "json-parse"
   },
   {
-    "artifactKey": "AO.910.PRM.IDX",
-    "conversation": "PROMPT LIBRARY",
-    "messageId": "c42e2b10-8925-4b5d-8621-238a18a9c569",
-    "reason": "regex-no-match",
-    "pattern": "\"prompt_count\":\\s*120",
-    "replacementSnippet": "\"prompt_count\": 121",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "AO.910.PRM.IDX",
-    "conversation": "PROMPT LIBRARY",
-    "messageId": "23faf08d-7d74-452c-9988-fb6421d0bbcc",
-    "reason": "regex-no-match",
-    "pattern": "\"prompt_count\":\\s*120",
-    "replacementSnippet": "\"prompt_count\": 121",
-    "parseMode": "json-parse"
-  },
-  {
     "artifactKey": "PR.000.SPP",
     "conversation": "Boot Sequence Execution",
     "messageId": "52f73dd2-9212-4084-b914-382206f7fa2d",
@@ -758,24 +578,6 @@
     "reason": "no-current-body-for-partial-update",
     "pattern": "COMMAND\\s+ALIAS\\s+TARGET_CANVAS\\n",
     "replacementSnippet": "COMMAND  ALIAS        TARGET_CANVAS\n!debate   →            PR.210.DBT\n!history  →            PR.211.HIS\n!stepflow →            PR.212.STP\n!diagnose →            PR.004.DIA\n!intent   →            PR.005.INT\n!context  →            PR.006.CNT\n!clarify  →            PR.007.MIR\n!formalize→            PR.",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "AO.001.RBI",
-    "conversation": "Boot Sequence Execution",
-    "messageId": "8f8a7ff8-7165-4277-ab71-7f505267ffbc",
-    "reason": "regex-no-match",
-    "pattern": "## Canvas Autoload Registry\\n```([\\s\\S]*?)```",
-    "replacementSnippet": "## Canvas Autoload Registry\n```\n\\1\nELoS.CommandRegistry – Command Alias Registry\n```",
-    "parseMode": "json-parse"
-  },
-  {
-    "artifactKey": "AO.001.RBI",
-    "conversation": "Boot Sequence Execution",
-    "messageId": "eba885a0-8685-4e06-8dc0-d1e32bb2c08c",
-    "reason": "regex-no-match",
-    "pattern": "## Canvas Autoload Registry\\n```\n([\\s\\S]*?)\n```",
-    "replacementSnippet": "## Canvas Autoload Registry\n```\n\\1\nELoS.CommandRegistry – Command Alias Registry\n```",
     "parseMode": "json-parse"
   },
   {

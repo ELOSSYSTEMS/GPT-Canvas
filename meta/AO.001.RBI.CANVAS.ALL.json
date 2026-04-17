@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.001.RBI.CANVAS.ALL.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d111bcde-83c3-4c20-9f62-158206e003c7",
+      "seedConversation": "Stargate v3.1 Boot",
+      "seedTime": 1748691727.064541,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748691727.064541,
+      "bodyComplete": true,
+      "bodyLength": 627,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AO.001.RBI.CANVAS.ALL--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "50474e66-85cc-40d7-911b-9d0ea27f0d5f",
+      "seedConversation": "Stargate v3.1 Boot",
+      "seedTime": 1748691760.087289,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748691760.087289,
+      "bodyComplete": true,
+      "bodyLength": 1091,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AO.001.RBI.CANVAS.ALL--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/AO.001.RBI.CANVAS.ALL--v01.md",
+    "variants/AO.001.RBI.CANVAS.ALL--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

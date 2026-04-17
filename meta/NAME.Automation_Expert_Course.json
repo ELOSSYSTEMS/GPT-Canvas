@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Automation_Expert_Course.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "8ac35c8c-2836-4d3a-8610-7f4210666110",
+      "seedConversation": "GHL n8n Automation Breakdown",
+      "seedTime": 1748858111.123596,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748858111.123596,
+      "bodyComplete": true,
+      "bodyLength": 3689,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

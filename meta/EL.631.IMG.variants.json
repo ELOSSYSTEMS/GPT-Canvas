@@ -1,0 +1,127 @@
+{
+  "artifactKey": "EL.631.IMG",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.631.IMG.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "4912b863-cf57-4a0a-9efd-835d12c28d02",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749200420.647727,
+      "latestTime": 1749200420.647727,
+      "bodyComplete": true,
+      "bodyLength": 863,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749200420.647727,
+          "messageId": "4912b863-cf57-4a0a-9efd-835d12c28d02",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.631.IMG--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "aa800eff-e890-493f-b717-e544864dea9c",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749200510.797491,
+      "latestTime": 1749200510.797491,
+      "bodyComplete": true,
+      "bodyLength": 1435,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749200510.797491,
+          "messageId": "aa800eff-e890-493f-b717-e544864dea9c",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.631.IMG--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "c02e11ef-b9b3-49d6-9114-9d2860520c72",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749200551.811559,
+      "latestTime": 1749200551.811559,
+      "bodyComplete": true,
+      "bodyLength": 1610,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749200551.811559,
+          "messageId": "c02e11ef-b9b3-49d6-9114-9d2860520c72",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.631.IMG--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "9b8f1bc7-8226-4f7d-a3f7-72f38f733caa",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749200644.520752,
+      "latestTime": 1749200644.520752,
+      "bodyComplete": true,
+      "bodyLength": 1648,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749200644.520752,
+          "messageId": "9b8f1bc7-8226-4f7d-a3f7-72f38f733caa",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.631.IMG--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "e16c93fe-195c-4430-8308-8c43ff5b6955",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749200675.501683,
+      "latestTime": 1749200675.501683,
+      "bodyComplete": true,
+      "bodyLength": 3562,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749200675.501683,
+          "messageId": "e16c93fe-195c-4430-8308-8c43ff5b6955",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.631.IMG--v05.md"
+    }
+  ]
+}

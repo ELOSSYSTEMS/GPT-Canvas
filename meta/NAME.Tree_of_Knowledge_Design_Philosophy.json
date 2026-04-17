@@ -24,6 +24,74 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 4,
+  "extractedLatestVariantId": 4,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Tree_of_Knowledge_Design_Philosophy.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "aa4994e6-4992-4ae3-b16a-9f9e58a1e31d",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748194531.159802,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748194531.159802,
+      "bodyComplete": true,
+      "bodyLength": 3047,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.Tree_of_Knowledge_Design_Philosophy--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "fbcb5131-02e5-4ab2-8965-4d1ef1f9f76b",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748194811.537611,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1748194811.537611,
+      "bodyComplete": true,
+      "bodyLength": 3935,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.Tree_of_Knowledge_Design_Philosophy--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "793f94a0-baa5-43c5-847a-e492659e7b2c",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748195162.928177,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1748195162.928177,
+      "bodyComplete": true,
+      "bodyLength": 4354,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.Tree_of_Knowledge_Design_Philosophy--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "8dfbd455-691a-4c6b-b0fe-d1a8325a8774",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748195308.796464,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1748195308.796464,
+      "bodyComplete": true,
+      "bodyLength": 4692,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.Tree_of_Knowledge_Design_Philosophy--v04.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.Tree_of_Knowledge_Design_Philosophy--v01.md",
+    "variants/NAME.Tree_of_Knowledge_Design_Philosophy--v02.md",
+    "variants/NAME.Tree_of_Knowledge_Design_Philosophy--v03.md",
+    "variants/NAME.Tree_of_Knowledge_Design_Philosophy--v04.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

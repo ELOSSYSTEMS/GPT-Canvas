@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Rebrand-Step-2-What-Gets-Deleted-Kept.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "53d45b4a-1efd-46d5-99a8-f5402dda2b43",
+      "seedConversation": "SUB WEB REBUILD",
+      "seedTime": 1769439233.736169,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1769439233.736169,
+      "bodyComplete": true,
+      "bodyLength": 1865,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -1,0 +1,103 @@
+{
+  "artifactKey": "WG.011.PSN",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/WG.011.PSN.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a0f2a07c-ef06-40c4-bfc7-1583d5418d06",
+      "seedConversation": "War Games",
+      "seedTime": 1749802928.123985,
+      "latestTime": 1749802928.123985,
+      "bodyComplete": true,
+      "bodyLength": 2524,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749802928.123985,
+          "messageId": "a0f2a07c-ef06-40c4-bfc7-1583d5418d06",
+          "conversation": "War Games",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/WG.011.PSN--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "8b834d6d-22dc-43c7-b1c5-acf32955c63c",
+      "seedConversation": "War Games",
+      "seedTime": 1749803359.980692,
+      "latestTime": 1749803359.980692,
+      "bodyComplete": true,
+      "bodyLength": 1635,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749803359.980692,
+          "messageId": "8b834d6d-22dc-43c7-b1c5-acf32955c63c",
+          "conversation": "War Games",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/WG.011.PSN--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "0fe8b9f5-5ab0-436e-abcd-3ceb614e9588",
+      "seedConversation": "War Games",
+      "seedTime": 1749803387.495471,
+      "latestTime": 1749803387.495471,
+      "bodyComplete": true,
+      "bodyLength": 1699,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749803387.495471,
+          "messageId": "0fe8b9f5-5ab0-436e-abcd-3ceb614e9588",
+          "conversation": "War Games",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/WG.011.PSN--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "2cc3600a-b9bb-47cc-9388-30ace69f3efe",
+      "seedConversation": "War Games",
+      "seedTime": 1749803428.925088,
+      "latestTime": 1749803428.925088,
+      "bodyComplete": true,
+      "bodyLength": 1699,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749803428.925088,
+          "messageId": "2cc3600a-b9bb-47cc-9388-30ace69f3efe",
+          "conversation": "War Games",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/WG.011.PSN--v04.md"
+    }
+  ]
+}

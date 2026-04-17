@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.forever_flowers_deep_dive_updated_hebrew.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "f23e7d23-7c04-4448-b140-7647219f6f6c",
+      "seedConversation": "Forever Flowers Meeting Itinerary",
+      "seedTime": 1745940863.876912,
+      "seedParseMode": "regex-create-partial",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1745940863.876912,
+      "bodyComplete": false,
+      "bodyLength": 4110,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.forever_flowers_deep_dive_updated_hebrew--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "14b9cebe-6860-4d0d-b933-84f96b574309",
+      "seedConversation": "Forever Flowers Meeting Itinerary",
+      "seedTime": 1745940898.448999,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1745940898.448999,
+      "bodyComplete": true,
+      "bodyLength": 4225,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.forever_flowers_deep_dive_updated_hebrew--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.forever_flowers_deep_dive_updated_hebrew--v01.md",
+    "variants/NAME.forever_flowers_deep_dive_updated_hebrew--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -28,6 +28,74 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 4,
   "commentOps": 0,
+  "variantCount": 4,
+  "extractedLatestVariantId": 4,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/WG.002.PSN.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "ca8acba1-c6b7-4d57-94cd-ef28b43e3bef",
+      "seedConversation": "War Games",
+      "seedTime": 1749799111.272266,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749799111.272266,
+      "bodyComplete": true,
+      "bodyLength": 1173,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/WG.002.PSN--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "06620906-d669-4f24-8c0d-dab3ee90fffd",
+      "seedConversation": "War Games",
+      "seedTime": 1749799236.268349,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749799236.268349,
+      "bodyComplete": true,
+      "bodyLength": 1455,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/WG.002.PSN--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "2d074fb5-95c6-4c48-b605-294f02c3d9c0",
+      "seedConversation": "War Games",
+      "seedTime": 1749799341.447262,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1749799341.447262,
+      "bodyComplete": true,
+      "bodyLength": 1455,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/WG.002.PSN--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "83951ff5-fede-4dde-830c-d84e61576403",
+      "seedConversation": "War Games",
+      "seedTime": 1749803090.459919,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749803090.459919,
+      "bodyComplete": true,
+      "bodyLength": 1598,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/WG.002.PSN--v04.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/WG.002.PSN--v01.md",
+    "variants/WG.002.PSN--v02.md",
+    "variants/WG.002.PSN--v03.md",
+    "variants/WG.002.PSN--v04.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.PRM.FRG.LifeCoach.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "53a508e6-a61d-475e-bfba-61bb25684a5f",
+      "seedConversation": "Prompt Library Overview",
+      "seedTime": 1749498614.62857,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749498614.62857,
+      "bodyComplete": true,
+      "bodyLength": 3387,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

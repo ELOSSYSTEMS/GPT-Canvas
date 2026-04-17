@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.prompt_library_full.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "44a71bd7-29da-4485-a7b8-c38f02cbf8af",
+      "seedConversation": "PROMPT SCRAPE IMPROVE AND STORE",
+      "seedTime": 1754497313.697165,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1754497313.697165,
+      "bodyComplete": true,
+      "bodyLength": 6108,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

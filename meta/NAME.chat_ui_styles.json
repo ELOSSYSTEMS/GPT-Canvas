@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.chat_ui_styles.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "94e5cc2a-7e77-4bd4-84bb-bca55b35635a",
+      "seedConversation": "Typing Effect Fixes",
+      "seedTime": 1747008626.491546,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747008626.491546,
+      "bodyComplete": true,
+      "bodyLength": 4019,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

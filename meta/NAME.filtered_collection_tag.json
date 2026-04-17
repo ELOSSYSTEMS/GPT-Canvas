@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.filtered_collection_tag.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "296a2753-b950-463c-aa63-99bf3d258ec6",
+      "seedConversation": "Create collection page",
+      "seedTime": 1753732390.163781,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1753732390.163781,
+      "bodyComplete": true,
+      "bodyLength": 1223,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

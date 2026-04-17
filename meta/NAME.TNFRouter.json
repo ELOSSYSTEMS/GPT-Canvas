@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.TNFRouter.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "ecb59301-2944-4e83-a929-3e76681698fc",
+      "seedConversation": "translation 2.0 integration and expansion",
+      "seedTime": 1749323260.835345,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749323260.835345,
+      "bodyComplete": true,
+      "bodyLength": 902,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

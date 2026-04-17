@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ForeverFlowers_CompetitiveAudit.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "420540de-264a-476c-abff-ce3db6d6b815",
+      "seedConversation": "Competitive Landscape & Gaps",
+      "seedTime": 1746734201.46526,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1746734201.46526,
+      "bodyComplete": true,
+      "bodyLength": 4632,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.ForeverFlowers_CompetitiveAudit--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "5d8b3ca9-bc81-4454-b16a-58b2645ddcaa",
+      "seedConversation": "Competitive Landscape & Gaps",
+      "seedTime": 1746734521.044751,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1746734521.044751,
+      "bodyComplete": true,
+      "bodyLength": 6386,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.ForeverFlowers_CompetitiveAudit--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.ForeverFlowers_CompetitiveAudit--v01.md",
+    "variants/NAME.ForeverFlowers_CompetitiveAudit--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

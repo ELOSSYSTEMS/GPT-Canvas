@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.AI.404.AIWrapper.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "855f9bcb-efaa-46c6-a672-ae7b07cb8a2a",
+      "seedConversation": "*** ELOS AI INTRO COURSE",
+      "seedTime": 1748756423.727712,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748756423.727712,
+      "bodyComplete": true,
+      "bodyLength": 801,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

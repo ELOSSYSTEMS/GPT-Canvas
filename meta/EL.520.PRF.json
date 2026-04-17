@@ -30,6 +30,59 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 3,
+  "extractedLatestVariantId": 3,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.520.PRF.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "dc717d6c-ebd0-44ad-90dc-18766b8d3617",
+      "seedConversation": "Scrape URL Request",
+      "seedTime": 1752953156.591896,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1752953156.591896,
+      "bodyComplete": true,
+      "bodyLength": 2074,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.520.PRF--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "398e1e6a-14be-4dc7-9331-a3ca59a18553",
+      "seedConversation": "Scrape prompt content",
+      "seedTime": 1753446019.438245,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1753446019.438245,
+      "bodyComplete": true,
+      "bodyLength": 2073,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.520.PRF--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "764cf927-2075-45ae-9f5c-89324f911cee",
+      "seedConversation": "Canvas List Retrieval",
+      "seedTime": 1753972788.104901,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1753972788.104901,
+      "bodyComplete": true,
+      "bodyLength": 1796,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.520.PRF--v03.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/EL.520.PRF--v01.md",
+    "variants/EL.520.PRF--v02.md",
+    "variants/EL.520.PRF--v03.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

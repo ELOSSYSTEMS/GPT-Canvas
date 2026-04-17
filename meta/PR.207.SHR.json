@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.207.SHR.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "bb3d8d4b-12d3-49e8-9c90-69f172b5c8e9",
+      "seedConversation": "Mission Ready Status",
+      "seedTime": 1747610774.248197,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747610774.248197,
+      "bodyComplete": true,
+      "bodyLength": 2078,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

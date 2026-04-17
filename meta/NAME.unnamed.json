@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.unnamed.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "9dfe0775-78ff-4d63-86a0-645e7cd3e910",
+      "seedConversation": "SUB WEB REBUILD",
+      "seedTime": 1769481631.129309,
+      "seedParseMode": "regex-create-partial",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1769481631.129309,
+      "bodyComplete": false,
+      "bodyLength": 455,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.unnamed--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "182a68eb-78bb-41fe-b0fd-0e5f624d576f",
+      "seedConversation": "SUB WEB REBUILD",
+      "seedTime": 1769481668.402046,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1769481668.402046,
+      "bodyComplete": true,
+      "bodyLength": 2764,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.unnamed--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.unnamed--v01.md",
+    "variants/NAME.unnamed--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

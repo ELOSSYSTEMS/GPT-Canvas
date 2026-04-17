@@ -27,6 +27,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.602.FF.VIS.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "22c84e67-8eab-430c-a1a6-5df9cbd14dde",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749210843.796231,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749210843.796231,
+      "bodyComplete": true,
+      "bodyLength": 2425,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.602.FF.VIS--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "fb05e8c4-7925-48d8-baa3-ff43f615d704",
+      "seedConversation": "NEW ELOS EXTENSION",
+      "seedTime": 1749894178.023181,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749894178.023181,
+      "bodyComplete": true,
+      "bodyLength": 2054,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.602.FF.VIS--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/EL.602.FF.VIS--v01.md",
+    "variants/EL.602.FF.VIS--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

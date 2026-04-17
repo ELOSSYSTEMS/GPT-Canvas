@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.ACAD.BGN.ADD",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ACAD.BGN.ADD.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "25632930-7468-4bc1-a199-a1ec18365bde",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748196669.25786,
+      "latestTime": 1748196669.25786,
+      "bodyComplete": true,
+      "bodyLength": 2028,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748196669.25786,
+          "messageId": "25632930-7468-4bc1-a199-a1ec18365bde",
+          "conversation": "Builder Onboarding Step 4",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ACAD.BGN.ADD--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "6845e44c-e3bc-4948-b0b9-fff5c170f765",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748196772.219272,
+      "latestTime": 1748196772.219272,
+      "bodyComplete": true,
+      "bodyLength": 2025,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748196772.219272,
+          "messageId": "6845e44c-e3bc-4948-b0b9-fff5c170f765",
+          "conversation": "Builder Onboarding Step 4",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ACAD.BGN.ADD--v02.md"
+    }
+  ]
+}

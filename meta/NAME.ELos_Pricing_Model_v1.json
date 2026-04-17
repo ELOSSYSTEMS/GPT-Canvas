@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos_Pricing_Model_v1.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "16d1ea7b-9518-4a14-a4e3-be90a9415d65",
+      "seedConversation": "Bootloader Execution Summary",
+      "seedTime": 1749396731.706448,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749396731.706448,
+      "bodyComplete": true,
+      "bodyLength": 2791,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

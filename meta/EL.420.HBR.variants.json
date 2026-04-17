@@ -1,0 +1,79 @@
+{
+  "artifactKey": "EL.420.HBR",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.420.HBR.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c7efb66e-3127-4fc3-8566-7c2bf167b324",
+      "seedConversation": "ELOS Extension Integration",
+      "seedTime": 1748607851.428931,
+      "latestTime": 1748607851.428931,
+      "bodyComplete": true,
+      "bodyLength": 2167,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748607851.428931,
+          "messageId": "c7efb66e-3127-4fc3-8566-7c2bf167b324",
+          "conversation": "ELOS Extension Integration",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.420.HBR--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "ecb86ef4-31e4-4ae9-a56e-16f6baf65a6b",
+      "seedConversation": "ELOS Extension Integration",
+      "seedTime": 1748608073.411089,
+      "latestTime": 1748608073.411089,
+      "bodyComplete": true,
+      "bodyLength": 2946,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748608073.411089,
+          "messageId": "ecb86ef4-31e4-4ae9-a56e-16f6baf65a6b",
+          "conversation": "ELOS Extension Integration",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.420.HBR--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "70f4ad36-e496-446d-a8d2-3e1eea4b6947",
+      "seedConversation": "NEW ELOS EXTENSION",
+      "seedTime": 1749478236.976092,
+      "latestTime": 1749478236.976092,
+      "bodyComplete": true,
+      "bodyLength": 1975,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749478236.976092,
+          "messageId": "70f4ad36-e496-446d-a8d2-3e1eea4b6947",
+          "conversation": "NEW ELOS EXTENSION",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.420.HBR--v03.md"
+    }
+  ]
+}

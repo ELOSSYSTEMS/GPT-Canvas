@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.phase1_intent_classifier.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "dfd5b566-aaac-451d-8627-da4a9e9314a6",
+      "seedConversation": "שיחה עם עוזר",
+      "seedTime": 1748894556.136422,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748894556.136422,
+      "bodyComplete": true,
+      "bodyLength": 1539,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

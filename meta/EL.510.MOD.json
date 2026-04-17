@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.510.MOD.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "ec1d7994-90d2-4749-96b4-90f27bef71eb",
+      "seedConversation": "BUILDING CANVAS MODULE",
+      "seedTime": 1749317969.826741,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749317969.826741,
+      "bodyComplete": true,
+      "bodyLength": 2016,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

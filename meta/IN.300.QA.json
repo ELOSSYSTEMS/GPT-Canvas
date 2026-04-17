@@ -24,6 +24,59 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 3,
+  "extractedLatestVariantId": 3,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/IN.300.QA.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "354a97a4-05d1-4f5b-8eb6-dae550415280",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748023009.143393,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748023009.143393,
+      "bodyComplete": true,
+      "bodyLength": 3110,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/IN.300.QA--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "d9c4b00f-856d-4fcd-854d-e29498fe00ee",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748028661.155022,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748028661.155022,
+      "bodyComplete": true,
+      "bodyLength": 3632,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/IN.300.QA--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "1295f871-b4c0-496c-9cfa-12ef5e821b2a",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748029102.539329,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748029102.539329,
+      "bodyComplete": true,
+      "bodyLength": 4216,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/IN.300.QA--v03.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/IN.300.QA--v01.md",
+    "variants/IN.300.QA--v02.md",
+    "variants/IN.300.QA--v03.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

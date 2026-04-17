@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.910.PSN.LIBRARIAN.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "3b33d976-033b-4e75-85c1-8a4fa4eada5c",
+      "seedConversation": "NEW ELOS EXTENSION",
+      "seedTime": 1749405455.682482,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749405455.682482,
+      "bodyComplete": true,
+      "bodyLength": 1372,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

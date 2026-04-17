@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ACAD.BGN.VOICE.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c052836c-4092-409a-9c1b-d9c588602cb9",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748196554.026784,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748196554.026784,
+      "bodyComplete": true,
+      "bodyLength": 2085,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

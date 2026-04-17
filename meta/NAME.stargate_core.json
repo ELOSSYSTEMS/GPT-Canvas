@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.stargate_core.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "ad1e1256-b5d0-49df-afc7-70b5c192d864",
+      "seedConversation": "ELos Translate 2.0 Test",
+      "seedTime": 1748716790.791392,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748716790.791392,
+      "bodyComplete": true,
+      "bodyLength": 1610,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

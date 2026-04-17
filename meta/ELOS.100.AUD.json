@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/ELOS.100.AUD.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e86c027a-405d-4691-bf18-a47e9ca226c2",
+      "seedConversation": "ELos Buildout Structure",
+      "seedTime": 1748089761.61046,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748089761.61046,
+      "bodyComplete": true,
+      "bodyLength": 1302,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

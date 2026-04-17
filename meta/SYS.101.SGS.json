@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/SYS.101.SGS.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "1351999b-3aee-4312-aaf7-6940466fa6c1",
+      "seedConversation": "BUILDING THE WEBAPP",
+      "seedTime": 1750595853.151626,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1750595853.151626,
+      "bodyComplete": true,
+      "bodyLength": 1191,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

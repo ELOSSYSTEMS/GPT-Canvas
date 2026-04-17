@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.command_canvas.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "f4cf3ef3-e2be-4d61-a198-e04387bca2b8",
+      "seedConversation": "Boot Sequence Initialized",
+      "seedTime": 1748700066.736976,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748700066.736976,
+      "bodyComplete": true,
+      "bodyLength": 937,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

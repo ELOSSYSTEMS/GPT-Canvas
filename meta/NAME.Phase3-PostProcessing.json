@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Phase3-PostProcessing.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "3866831d-391d-4d3b-9ed0-30cd165fe3e4",
+      "seedConversation": "שיחה עם עוזר",
+      "seedTime": 1748894658.845551,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748894658.845551,
+      "bodyComplete": true,
+      "bodyLength": 941,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

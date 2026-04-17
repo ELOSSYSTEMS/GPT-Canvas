@@ -1,0 +1,79 @@
+{
+  "artifactKey": "EL.400.AUD",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.400.AUD.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "7b430c41-c911-4b34-b6fd-855d566feba2",
+      "seedConversation": "ELOS Extension Integration",
+      "seedTime": 1748605238.825678,
+      "latestTime": 1748605238.825678,
+      "bodyComplete": true,
+      "bodyLength": 2621,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748605238.825678,
+          "messageId": "7b430c41-c911-4b34-b6fd-855d566feba2",
+          "conversation": "ELOS Extension Integration",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.400.AUD--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "08f3c784-0b8e-43de-b245-f28efdf86910",
+      "seedConversation": "Greeting Protocol Verification",
+      "seedTime": 1748699778.231672,
+      "latestTime": 1748699778.231672,
+      "bodyComplete": true,
+      "bodyLength": 584,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748699778.231672,
+          "messageId": "08f3c784-0b8e-43de-b245-f28efdf86910",
+          "conversation": "Greeting Protocol Verification",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.400.AUD--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "635c2241-55d1-4b22-ae34-cae45f4d1a5c",
+      "seedConversation": "Canvas List Retrieval",
+      "seedTime": 1753972966.011835,
+      "latestTime": 1753972966.011835,
+      "bodyComplete": true,
+      "bodyLength": 1682,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1753972966.011835,
+          "messageId": "635c2241-55d1-4b22-ae34-cae45f4d1a5c",
+          "conversation": "Canvas List Retrieval",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.400.AUD--v03.md"
+    }
+  ]
+}

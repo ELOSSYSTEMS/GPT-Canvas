@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos-Academy-Unlock-Flow.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "cd495caf-dcca-4846-8290-3e59cac26f7a",
+      "seedConversation": "ELos academy integration",
+      "seedTime": 1748103015.116408,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748103015.116408,
+      "bodyComplete": true,
+      "bodyLength": 1958,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

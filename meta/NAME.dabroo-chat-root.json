@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.dabroo-chat-root.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e47ad740-0095-4dcd-9562-ac9697867362",
+      "seedConversation": "Liquid Page Breakdown Issues",
+      "seedTime": 1747166578.906501,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747166578.906501,
+      "bodyComplete": true,
+      "bodyLength": 896,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

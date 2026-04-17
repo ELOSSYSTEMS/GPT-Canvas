@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Stargate-Phase-1-Intent-Classifier.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "0efe335c-a792-4dbf-9c69-185e88b22476",
+      "seedConversation": "שיחה עם עוזר",
+      "seedTime": 1748894704.885247,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748894704.885247,
+      "bodyComplete": true,
+      "bodyLength": 884,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

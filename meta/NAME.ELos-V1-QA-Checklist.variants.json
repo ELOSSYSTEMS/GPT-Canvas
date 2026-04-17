@@ -1,0 +1,79 @@
+{
+  "artifactKey": "NAME.ELos-V1-QA-Checklist",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos-V1-QA-Checklist.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "f0930688-43bb-4057-b6dd-cd8acda95c1a",
+      "seedConversation": "ELos academy integration",
+      "seedTime": 1748100217.960864,
+      "latestTime": 1748100217.960864,
+      "bodyComplete": true,
+      "bodyLength": 1784,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748100217.960864,
+          "messageId": "f0930688-43bb-4057-b6dd-cd8acda95c1a",
+          "conversation": "ELos academy integration",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-V1-QA-Checklist--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "4e9a56f8-0b20-4748-a882-153317997a6a",
+      "seedConversation": "ELos academy integration",
+      "seedTime": 1748102021.420019,
+      "latestTime": 1748102021.420019,
+      "bodyComplete": true,
+      "bodyLength": 2112,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748102021.420019,
+          "messageId": "4e9a56f8-0b20-4748-a882-153317997a6a",
+          "conversation": "ELos academy integration",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-V1-QA-Checklist--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "41801e8a-e212-46b8-8b9c-a960b60d23c8",
+      "seedConversation": "ELos academy integration",
+      "seedTime": 1748102055.322476,
+      "latestTime": 1748102055.322476,
+      "bodyComplete": true,
+      "bodyLength": 4379,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748102055.322476,
+          "messageId": "41801e8a-e212-46b8-8b9c-a960b60d23c8",
+          "conversation": "ELos academy integration",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos-V1-QA-Checklist--v03.md"
+    }
+  ]
+}

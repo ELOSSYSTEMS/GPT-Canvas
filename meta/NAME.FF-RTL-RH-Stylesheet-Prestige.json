@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.FF-RTL-RH-Stylesheet-Prestige.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "be987f2c-a375-4096-85c5-90c036785581",
+      "seedConversation": "Conversation Continuation",
+      "seedTime": 1747988191.509472,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747988191.509472,
+      "bodyComplete": true,
+      "bodyLength": 1523,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.unnamed",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.unnamed.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "9dfe0775-78ff-4d63-86a0-645e7cd3e910",
+      "seedConversation": "SUB WEB REBUILD",
+      "seedTime": 1769481631.129309,
+      "latestTime": 1769481631.129309,
+      "bodyComplete": false,
+      "bodyLength": 455,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1769481631.129309,
+          "messageId": "9dfe0775-78ff-4d63-86a0-645e7cd3e910",
+          "conversation": "SUB WEB REBUILD",
+          "parseMode": "regex-create-partial",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.unnamed--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "182a68eb-78bb-41fe-b0fd-0e5f624d576f",
+      "seedConversation": "SUB WEB REBUILD",
+      "seedTime": 1769481668.402046,
+      "latestTime": 1769481668.402046,
+      "bodyComplete": true,
+      "bodyLength": 2764,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1769481668.402046,
+          "messageId": "182a68eb-78bb-41fe-b0fd-0e5f624d576f",
+          "conversation": "SUB WEB REBUILD",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.unnamed--v02.md"
+    }
+  ]
+}

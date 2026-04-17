@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos-Initial-content.js-Build.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "f8eee767-17fd-4a06-a0b3-37371c6d6282",
+      "seedConversation": "ELos Build and Testing",
+      "seedTime": 1748096323.990961,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748096323.990961,
+      "bodyComplete": true,
+      "bodyLength": 3375,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

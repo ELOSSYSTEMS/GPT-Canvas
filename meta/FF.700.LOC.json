@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/FF.700.LOC.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "88d3e0c2-00ec-4d2f-8e37-72298c5011c6",
+      "seedConversation": "סניפים והזמנות שבועות",
+      "seedTime": 1747820649.966942,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747820649.966942,
+      "bodyComplete": true,
+      "bodyLength": 1082,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

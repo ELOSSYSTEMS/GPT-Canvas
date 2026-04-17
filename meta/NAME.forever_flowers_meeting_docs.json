@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.forever_flowers_meeting_docs.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "5cf28c87-ad8a-4933-8c8b-41294ac50f09",
+      "seedConversation": "Forever Flowers Meeting Itinerary",
+      "seedTime": 1745930894.043988,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1745930894.043988,
+      "bodyComplete": true,
+      "bodyLength": 4784,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

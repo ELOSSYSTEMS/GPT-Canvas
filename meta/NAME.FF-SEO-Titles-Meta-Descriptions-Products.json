@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.FF-SEO-Titles-Meta-Descriptions-Products.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "59643be6-2840-4126-b565-73b152163dc4",
+      "seedConversation": "Shopping Campaign Bidding Guide",
+      "seedTime": 1770402997.972571,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1770402997.972571,
+      "bodyComplete": true,
+      "bodyLength": 9129,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

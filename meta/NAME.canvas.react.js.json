@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.canvas.react.js.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e3f92192-724f-4164-88a0-160408b541e7",
+      "seedConversation": "BUILDING THE WEBAPP",
+      "seedTime": 1750597414.85639,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1750597414.85639,
+      "bodyComplete": true,
+      "bodyLength": 1586,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

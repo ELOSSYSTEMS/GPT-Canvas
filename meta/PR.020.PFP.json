@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.020.PFP.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "bcad1ff5-3435-4df1-a9a3-d9a6d1bdbebc",
+      "seedConversation": "BUILDING THE WEBAPP",
+      "seedTime": 1750596841.209145,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1750596841.209145,
+      "bodyComplete": true,
+      "bodyLength": 1115,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -25,6 +25,74 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 4,
+  "extractedLatestVariantId": 4,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.410.PRC.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "1090aa14-19e2-4b6b-839a-81ab4ff4c0dd",
+      "seedConversation": "ELOS Extension Integration",
+      "seedTime": 1748605405.843657,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748605405.843657,
+      "bodyComplete": true,
+      "bodyLength": 2786,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.410.PRC--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "7ea8ffc0-c006-4a59-b3d8-d5dff4a9cf9f",
+      "seedConversation": "ELOS Extension Integration",
+      "seedTime": 1748606318.266768,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748606318.266768,
+      "bodyComplete": true,
+      "bodyLength": 3140,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.410.PRC--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "9b49835c-2f0e-4e3f-beb9-c8931a87cef5",
+      "seedConversation": "ELOS Extension Integration",
+      "seedTime": 1748606765.038251,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748606765.038251,
+      "bodyComplete": true,
+      "bodyLength": 2899,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.410.PRC--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "44605242-505a-4dde-8fe4-8724e51f3131",
+      "seedConversation": "Mode Forks: Text vs Voice",
+      "seedTime": 1749360638.889392,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1749360638.889392,
+      "bodyComplete": true,
+      "bodyLength": 660,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/EL.410.PRC--v04.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/EL.410.PRC--v01.md",
+    "variants/EL.410.PRC--v02.md",
+    "variants/EL.410.PRC--v03.md",
+    "variants/EL.410.PRC--v04.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

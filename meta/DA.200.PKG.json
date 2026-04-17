@@ -22,6 +22,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/DA.200.PKG.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "5d7e901b-2886-4c6c-94c8-0f401d2f061e",
+      "seedConversation": "Dabroo AI Packaging Design",
+      "seedTime": 1747613194.196465,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1747613194.196465,
+      "bodyComplete": true,
+      "bodyLength": 2853,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "update_textdoc",

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/WG.900.SIMLOG.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "dc3cc98a-cc1f-4ed1-9ff1-6eb509dcc4d8",
+      "seedConversation": "War Games",
+      "seedTime": 1749799154.847354,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749799154.847354,
+      "bodyComplete": true,
+      "bodyLength": 521,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

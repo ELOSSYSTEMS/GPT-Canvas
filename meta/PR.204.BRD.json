@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.204.BRD.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "88cd51af-75dc-40db-86ad-56a4ad6bd991",
+      "seedConversation": "Mission Ready Status",
+      "seedTime": 1747610729.54256,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747610729.54256,
+      "bodyComplete": true,
+      "bodyLength": 2276,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,44 @@
   "appliedPartialOps": 1,
   "unresolvedPartialOps": 7,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/DA.300.LOG.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c19e6663-f6bd-40d9-a5aa-b49ba485c9ea",
+      "seedConversation": "Dabroo AI Packaging Design",
+      "seedTime": 1747612947.682878,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747612947.682878,
+      "bodyComplete": true,
+      "bodyLength": 1987,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/DA.300.LOG--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "1c186cc0-c19e-4c8b-ba48-eefd8c634904",
+      "seedConversation": "Dabroo AI Packaging Design",
+      "seedTime": 1747613043.049538,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1747613079.441252,
+      "bodyComplete": true,
+      "bodyLength": 2622,
+      "appliedPartials": 1,
+      "lineageLength": 2,
+      "variantPath": "variants/DA.300.LOG--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/DA.300.LOG--v01.md",
+    "variants/DA.300.LOG--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 1,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Podcast-Michael-Multiple-Sessions.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e63d1e8d-c4e0-4bca-8b83-d4b154e5e4b5",
+      "seedConversation": "PODCAST TRANSCRIPTION",
+      "seedTime": 1748031552.490295,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748031552.490295,
+      "bodyComplete": true,
+      "bodyLength": 2518,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

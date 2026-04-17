@@ -1,0 +1,55 @@
+{
+  "artifactKey": "DA.100.MNF",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/DA.100.MNF.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d6741983-04e6-42e8-a3a9-6ed717915a2f",
+      "seedConversation": "Dabroo Power User Guide",
+      "seedTime": 1747609970.1465,
+      "latestTime": 1747609970.1465,
+      "bodyComplete": true,
+      "bodyLength": 2020,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747609970.1465,
+          "messageId": "d6741983-04e6-42e8-a3a9-6ed717915a2f",
+          "conversation": "Dabroo Power User Guide",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/DA.100.MNF--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "d8d47b88-b30e-4ae2-bc58-5271bba1de16",
+      "seedConversation": "Mission Summary",
+      "seedTime": 1747611590.778177,
+      "latestTime": 1747611590.778177,
+      "bodyComplete": true,
+      "bodyLength": 1652,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1747611590.778177,
+          "messageId": "d8d47b88-b30e-4ae2-bc58-5271bba1de16",
+          "conversation": "Mission Summary",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/DA.100.MNF--v02.md"
+    }
+  ]
+}

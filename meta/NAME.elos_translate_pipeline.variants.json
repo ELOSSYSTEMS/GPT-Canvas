@@ -1,0 +1,79 @@
+{
+  "artifactKey": "NAME.elos_translate_pipeline",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.elos_translate_pipeline.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a1d13438-b508-4ec3-993d-05177004c668",
+      "seedConversation": "Preview not working fix",
+      "seedTime": 1750616149.845533,
+      "latestTime": 1750616149.845533,
+      "bodyComplete": true,
+      "bodyLength": 2151,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1750616149.845533,
+          "messageId": "a1d13438-b508-4ec3-993d-05177004c668",
+          "conversation": "Preview not working fix",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.elos_translate_pipeline--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "6d7d4604-1d63-4b14-ac6b-9d5b699a4310",
+      "seedConversation": "Preview not working fix",
+      "seedTime": 1750616286.090592,
+      "latestTime": 1750616286.090592,
+      "bodyComplete": true,
+      "bodyLength": 2233,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1750616286.090592,
+          "messageId": "6d7d4604-1d63-4b14-ac6b-9d5b699a4310",
+          "conversation": "Preview not working fix",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.elos_translate_pipeline--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "6c49b35f-a439-4c4a-86e6-80559ba115bc",
+      "seedConversation": "Preview not working fix",
+      "seedTime": 1750616851.25344,
+      "latestTime": 1750616851.25344,
+      "bodyComplete": true,
+      "bodyLength": 1506,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1750616851.25344,
+          "messageId": "6c49b35f-a439-4c4a-86e6-80559ba115bc",
+          "conversation": "Preview not working fix",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.elos_translate_pipeline--v03.md"
+    }
+  ]
+}

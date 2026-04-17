@@ -1,0 +1,127 @@
+{
+  "artifactKey": "PR.001.EPP-2",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.001.EPP-2.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "b7b7ed0a-25e4-41da-9388-ba556958060b",
+      "seedConversation": "Hike Recommendation Request",
+      "seedTime": 1751405474.499094,
+      "latestTime": 1751405474.499094,
+      "bodyComplete": true,
+      "bodyLength": 1635,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1751405474.499094,
+          "messageId": "b7b7ed0a-25e4-41da-9388-ba556958060b",
+          "conversation": "Hike Recommendation Request",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.001.EPP-2--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "47b68fb4-18af-4507-b5cd-62bd6f930a08",
+      "seedConversation": "ELos Protocol Activation Query",
+      "seedTime": 1751406573.618421,
+      "latestTime": 1751406573.618421,
+      "bodyComplete": true,
+      "bodyLength": 1591,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1751406573.618421,
+          "messageId": "47b68fb4-18af-4507-b5cd-62bd6f930a08",
+          "conversation": "ELos Protocol Activation Query",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.001.EPP-2--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "8e52ff86-62bb-430d-bf56-a518dfc4d497",
+      "seedConversation": "Bootloader status check",
+      "seedTime": 1753934839.162585,
+      "latestTime": 1753934839.162585,
+      "bodyComplete": true,
+      "bodyLength": 2826,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1753934839.162585,
+          "messageId": "8e52ff86-62bb-430d-bf56-a518dfc4d497",
+          "conversation": "Bootloader status check",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.001.EPP-2--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "e7a7d6a2-f069-4c2c-9911-458b9ec89d40",
+      "seedConversation": "Bootloader status check",
+      "seedTime": 1753939638.328288,
+      "latestTime": 1753939638.328288,
+      "bodyComplete": true,
+      "bodyLength": 2826,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1753939638.328288,
+          "messageId": "e7a7d6a2-f069-4c2c-9911-458b9ec89d40",
+          "conversation": "Bootloader status check",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.001.EPP-2--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "e43feb36-3bd1-429b-b786-a81618ca92dc",
+      "seedConversation": "Canvas List Retrieval",
+      "seedTime": 1753972431.874632,
+      "latestTime": 1753972431.874632,
+      "bodyComplete": true,
+      "bodyLength": 1967,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1753972431.874632,
+          "messageId": "e43feb36-3bd1-429b-b786-a81618ca92dc",
+          "conversation": "Canvas List Retrieval",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.001.EPP-2--v05.md"
+    }
+  ]
+}

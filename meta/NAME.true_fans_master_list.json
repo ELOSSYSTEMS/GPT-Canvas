@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.true_fans_master_list.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "dc8cc734-75c8-445c-8eea-4205357c51c2",
+      "seedConversation": "1000 True Fans strategy",
+      "seedTime": 1764691932.736813,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1764691932.736813,
+      "bodyComplete": true,
+      "bodyLength": 3158,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

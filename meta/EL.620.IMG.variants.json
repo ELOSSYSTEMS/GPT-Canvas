@@ -1,0 +1,127 @@
+{
+  "artifactKey": "EL.620.IMG",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.620.IMG.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "67eea013-5362-43d4-b0d2-d69a3e7de4f3",
+      "seedConversation": "ELOS VISUALS OS",
+      "seedTime": 1749199947.380687,
+      "latestTime": 1749199947.380687,
+      "bodyComplete": true,
+      "bodyLength": 1134,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749199947.380687,
+          "messageId": "67eea013-5362-43d4-b0d2-d69a3e7de4f3",
+          "conversation": "ELOS VISUALS OS",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.620.IMG--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "62cf326f-d88e-4878-8720-91ceedf7879c",
+      "seedConversation": "Forever Flowers Rebrand Request",
+      "seedTime": 1749892269.433043,
+      "latestTime": 1749892269.433043,
+      "bodyComplete": true,
+      "bodyLength": 3228,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749892269.433043,
+          "messageId": "62cf326f-d88e-4878-8720-91ceedf7879c",
+          "conversation": "Forever Flowers Rebrand Request",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.620.IMG--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "80cec4c5-c26d-46f4-8195-5551cd47ebe7",
+      "seedConversation": "Forever Flowers Rebrand Request",
+      "seedTime": 1749892299.987098,
+      "latestTime": 1749892299.987098,
+      "bodyComplete": true,
+      "bodyLength": 3228,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749892299.987098,
+          "messageId": "80cec4c5-c26d-46f4-8195-5551cd47ebe7",
+          "conversation": "Forever Flowers Rebrand Request",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.620.IMG--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "87ecef40-c5e9-482c-bde0-52d9a9bdfd0f",
+      "seedConversation": "Forever Flowers Rebrand Request",
+      "seedTime": 1749892356.326766,
+      "latestTime": 1749892356.326766,
+      "bodyComplete": true,
+      "bodyLength": 3178,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749892356.326766,
+          "messageId": "87ecef40-c5e9-482c-bde0-52d9a9bdfd0f",
+          "conversation": "Forever Flowers Rebrand Request",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.620.IMG--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "bc5f9c7d-5ad6-4c5d-ae97-e5fa78a917b0",
+      "seedConversation": "Forever Flowers Rebrand Request",
+      "seedTime": 1749893783.090947,
+      "latestTime": 1749893783.090947,
+      "bodyComplete": true,
+      "bodyLength": 2334,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749893783.090947,
+          "messageId": "bc5f9c7d-5ad6-4c5d-ae97-e5fa78a917b0",
+          "conversation": "Forever Flowers Rebrand Request",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.620.IMG--v05.md"
+    }
+  ]
+}

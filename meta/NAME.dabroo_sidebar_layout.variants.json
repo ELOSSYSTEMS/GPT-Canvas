@@ -1,0 +1,234 @@
+{
+  "artifactKey": "NAME.dabroo_sidebar_layout",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.dabroo_sidebar_layout.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d7fde8c4-49b6-4712-819d-2811765c3205",
+      "seedConversation": "Mobile scaling fix",
+      "seedTime": 1747034763.914193,
+      "latestTime": 1747034763.914193,
+      "bodyComplete": true,
+      "bodyLength": 3555,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1747034763.914193,
+          "messageId": "d7fde8c4-49b6-4712-819d-2811765c3205",
+          "conversation": "Mobile scaling fix",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.dabroo_sidebar_layout--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "752ced7c-25ff-4264-9a48-14084dc1c5f1",
+      "seedConversation": "Mobile scaling fix",
+      "seedTime": 1747034877.455574,
+      "latestTime": 1747034877.455574,
+      "bodyComplete": true,
+      "bodyLength": 4560,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747034877.455574,
+          "messageId": "752ced7c-25ff-4264-9a48-14084dc1c5f1",
+          "conversation": "Mobile scaling fix",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.dabroo_sidebar_layout--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "c90815e5-ccfb-40d2-9e48-836ae4524df1",
+      "seedConversation": "Mobile scaling fix",
+      "seedTime": 1747035032.116098,
+      "latestTime": 1747035174.609422,
+      "bodyComplete": true,
+      "bodyLength": 5139,
+      "appliedPartials": 1,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747035032.116098,
+          "messageId": "c90815e5-ccfb-40d2-9e48-836ae4524df1",
+          "conversation": "Mobile scaling fix",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747035174.609422,
+          "messageId": "f09c2088-9af8-44d6-9207-f2cf975ecce4",
+          "conversation": "Mobile scaling fix",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "<img src=\"https://via\\.placeholder\\.com/20\" /> <span>DABROO AI</span>",
+          "ambiguousMatchCount": 2
+        }
+      ],
+      "variantPath": "variants/NAME.dabroo_sidebar_layout--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "d7c7612b-ffeb-4fbc-86d4-18e7a2436dd7",
+      "seedConversation": "Mobile scaling fix",
+      "seedTime": 1747035258.122844,
+      "latestTime": 1747035258.122844,
+      "bodyComplete": true,
+      "bodyLength": 5562,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747035258.122844,
+          "messageId": "d7c7612b-ffeb-4fbc-86d4-18e7a2436dd7",
+          "conversation": "Mobile scaling fix",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.dabroo_sidebar_layout--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "5a891c86-319a-4734-951c-93004a704530",
+      "seedConversation": "Mobile scaling fix",
+      "seedTime": 1747035432.56686,
+      "latestTime": 1747035432.56686,
+      "bodyComplete": true,
+      "bodyLength": 6058,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747035432.56686,
+          "messageId": "5a891c86-319a-4734-951c-93004a704530",
+          "conversation": "Mobile scaling fix",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.dabroo_sidebar_layout--v05.md"
+    },
+    {
+      "variantId": 6,
+      "seedMessageId": "eae1fe4d-b6f1-4cdf-bb8a-fce575474247",
+      "seedConversation": "Mobile scaling fix",
+      "seedTime": 1747035643.788323,
+      "latestTime": 1747035643.788323,
+      "bodyComplete": true,
+      "bodyLength": 6746,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747035643.788323,
+          "messageId": "eae1fe4d-b6f1-4cdf-bb8a-fce575474247",
+          "conversation": "Mobile scaling fix",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.dabroo_sidebar_layout--v06.md"
+    },
+    {
+      "variantId": 7,
+      "seedMessageId": "f675879a-c806-4ba5-a54e-6adf4486ca39",
+      "seedConversation": "Mobile scaling fix",
+      "seedTime": 1747036014.044349,
+      "latestTime": 1747036014.044349,
+      "bodyComplete": true,
+      "bodyLength": 4891,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747036014.044349,
+          "messageId": "f675879a-c806-4ba5-a54e-6adf4486ca39",
+          "conversation": "Mobile scaling fix",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.dabroo_sidebar_layout--v07.md"
+    },
+    {
+      "variantId": 8,
+      "seedMessageId": "2076359d-1fc6-41bb-b80e-5dd1335f9ac8",
+      "seedConversation": "Mobile scaling fix",
+      "seedTime": 1747036190.479116,
+      "latestTime": 1747036190.479116,
+      "bodyComplete": false,
+      "bodyLength": 469,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747036190.479116,
+          "messageId": "2076359d-1fc6-41bb-b80e-5dd1335f9ac8",
+          "conversation": "Mobile scaling fix",
+          "parseMode": "regex-update-partial",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.dabroo_sidebar_layout--v08.md"
+    },
+    {
+      "variantId": 9,
+      "seedMessageId": "142e64bb-4856-4ed7-a715-82c1269f52ba",
+      "seedConversation": "Mobile scaling fix",
+      "seedTime": 1747036449.494117,
+      "latestTime": 1747036449.494117,
+      "bodyComplete": false,
+      "bodyLength": 4803,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747036449.494117,
+          "messageId": "142e64bb-4856-4ed7-a715-82c1269f52ba",
+          "conversation": "Mobile scaling fix",
+          "parseMode": "regex-update-partial",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.dabroo_sidebar_layout--v09.md"
+    }
+  ]
+}

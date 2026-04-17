@@ -1,0 +1,55 @@
+{
+  "artifactKey": "AO.911.STG",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.911.STG.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "52eef6d6-85e1-433b-9795-8ee29e297754",
+      "seedConversation": "Spellbook AI for Lawyers",
+      "seedTime": 1749074560.670511,
+      "latestTime": 1749074560.670511,
+      "bodyComplete": true,
+      "bodyLength": 1212,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749074560.670511,
+          "messageId": "52eef6d6-85e1-433b-9795-8ee29e297754",
+          "conversation": "Spellbook AI for Lawyers",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.911.STG--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "68a6eba1-680b-4a30-8e23-75e8ab0c023a",
+      "seedConversation": "Spellbook AI for Lawyers",
+      "seedTime": 1749074583.399706,
+      "latestTime": 1749074583.399706,
+      "bodyComplete": true,
+      "bodyLength": 2045,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749074583.399706,
+          "messageId": "68a6eba1-680b-4a30-8e23-75e8ab0c023a",
+          "conversation": "Spellbook AI for Lawyers",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/AO.911.STG--v02.md"
+    }
+  ]
+}

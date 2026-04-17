@@ -1,0 +1,66 @@
+{
+  "artifactKey": "NAME.All_Personas_Index",
+  "rawWriteStatus": "preserved-existing-different",
+  "extractedLatestPath": "variants/NAME.All_Personas_Index--latest-extracted.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "219e9c94-8519-4ff8-8025-fc6fdeade53a",
+      "seedConversation": "Active Personas in Allon OS",
+      "seedTime": 1748201889.703428,
+      "latestTime": 1748201889.703428,
+      "bodyComplete": true,
+      "bodyLength": 2560,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748201889.703428,
+          "messageId": "219e9c94-8519-4ff8-8025-fc6fdeade53a",
+          "conversation": "Active Personas in Allon OS",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.All_Personas_Index--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "4411f930-2f1e-43fb-b1b5-fb38100bbcb2",
+      "seedConversation": "Active Personas in Allon OS",
+      "seedTime": 1748202083.923082,
+      "latestTime": 1748202215.979672,
+      "bodyComplete": true,
+      "bodyLength": 2800,
+      "appliedPartials": 1,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748202083.923082,
+          "messageId": "4411f930-2f1e-43fb-b1b5-fb38100bbcb2",
+          "conversation": "Active Personas in Allon OS",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748202215.979672,
+          "messageId": "11f0b21a-fae8-4028-ba9c-29189a878606",
+          "conversation": "Active Personas in Allon OS",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "### 🔻 Inactive \\(Not Instantiated Yet\\)\\n1\\. \\*\\*The Assassin\\*\\*.*?",
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.All_Personas_Index--v02.md"
+    }
+  ]
+}

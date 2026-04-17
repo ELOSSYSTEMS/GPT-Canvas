@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ACAD.BGN.ADD.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "25632930-7468-4bc1-a199-a1ec18365bde",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748196669.25786,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748196669.25786,
+      "bodyComplete": true,
+      "bodyLength": 2028,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.ACAD.BGN.ADD--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "6845e44c-e3bc-4948-b0b9-fff5c170f765",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748196772.219272,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1748196772.219272,
+      "bodyComplete": true,
+      "bodyLength": 2025,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.ACAD.BGN.ADD--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.ACAD.BGN.ADD--v01.md",
+    "variants/NAME.ACAD.BGN.ADD--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

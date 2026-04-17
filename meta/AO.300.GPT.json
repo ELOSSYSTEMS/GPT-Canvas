@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.300.GPT.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "45da961e-2c02-4d34-8ee4-dfbad4c94878",
+      "seedConversation": "Memory Modularization Plan",
+      "seedTime": 1748116111.462596,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748116111.462596,
+      "bodyComplete": true,
+      "bodyLength": 1035,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -1,0 +1,103 @@
+{
+  "artifactKey": "IN.900.ZION.EP2",
+  "rawWriteStatus": "preserved-existing-different",
+  "extractedLatestPath": "variants/IN.900.ZION.EP2--latest-extracted.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "da263c5a-94b2-4c66-b321-f8e318ee0a23",
+      "seedConversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "seedTime": 1748760553.945727,
+      "latestTime": 1748760553.945727,
+      "bodyComplete": true,
+      "bodyLength": 881,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748760553.945727,
+          "messageId": "da263c5a-94b2-4c66-b321-f8e318ee0a23",
+          "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.900.ZION.EP2--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "6c8d5fda-89a3-46e5-9a21-2b20ee2d7ae3",
+      "seedConversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "seedTime": 1748761224.443607,
+      "latestTime": 1748761224.443607,
+      "bodyComplete": true,
+      "bodyLength": 918,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748761224.443607,
+          "messageId": "6c8d5fda-89a3-46e5-9a21-2b20ee2d7ae3",
+          "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+          "parseMode": "escaped-control-chars",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.900.ZION.EP2--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "e2016c40-21da-492b-b732-7791e57b4dcf",
+      "seedConversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "seedTime": 1748761593.72045,
+      "latestTime": 1748761593.72045,
+      "bodyComplete": true,
+      "bodyLength": 449,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748761593.72045,
+          "messageId": "e2016c40-21da-492b-b732-7791e57b4dcf",
+          "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.900.ZION.EP2--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "7a02adbf-9cfa-4502-a57a-cf83f9a7abd1",
+      "seedConversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "seedTime": 1748762347.67636,
+      "latestTime": 1748762347.67636,
+      "bodyComplete": true,
+      "bodyLength": 911,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748762347.67636,
+          "messageId": "7a02adbf-9cfa-4502-a57a-cf83f9a7abd1",
+          "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.900.ZION.EP2--v04.md"
+    }
+  ]
+}

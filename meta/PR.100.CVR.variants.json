@@ -1,0 +1,79 @@
+{
+  "artifactKey": "PR.100.CVR",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.100.CVR.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "df3d88bc-2dbd-4bd4-ae40-fe5495b23210",
+      "seedConversation": "Dabroo AI Framework Overview",
+      "seedTime": 1747847561.629899,
+      "latestTime": 1747847561.629899,
+      "bodyComplete": true,
+      "bodyLength": 1526,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1747847561.629899,
+          "messageId": "df3d88bc-2dbd-4bd4-ae40-fe5495b23210",
+          "conversation": "Dabroo AI Framework Overview",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.CVR--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "aa070406-8746-46d4-b550-d6ea17068889",
+      "seedConversation": "Dabroo AI Framework Overview",
+      "seedTime": 1747847630.094558,
+      "latestTime": 1747847630.094558,
+      "bodyComplete": true,
+      "bodyLength": 2378,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747847630.094558,
+          "messageId": "aa070406-8746-46d4-b550-d6ea17068889",
+          "conversation": "Dabroo AI Framework Overview",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.CVR--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "7756a6d8-4422-4823-93a7-8db63e319595",
+      "seedConversation": "Dabroo AI Framework Overview",
+      "seedTime": 1747847671.839911,
+      "latestTime": 1747847671.839911,
+      "bodyComplete": true,
+      "bodyLength": 1564,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747847671.839911,
+          "messageId": "7756a6d8-4422-4823-93a7-8db63e319595",
+          "conversation": "Dabroo AI Framework Overview",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/PR.100.CVR--v03.md"
+    }
+  ]
+}

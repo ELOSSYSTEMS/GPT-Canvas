@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.elos_font_bifurcation.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "733640a6-7c53-40b0-90da-2d08815db132",
+      "seedConversation": "Prompt Expansion Ready",
+      "seedTime": 1749750503.737509,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749750503.737509,
+      "bodyComplete": true,
+      "bodyLength": 1888,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

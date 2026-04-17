@@ -1,0 +1,79 @@
+{
+  "artifactKey": "NAME.logo_list_section",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.logo_list_section.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "7efceacf-e4cd-4a11-a56f-1971b740071b",
+      "seedConversation": "Logo List Adjustments",
+      "seedTime": 1738489323.790234,
+      "latestTime": 1738489323.790234,
+      "bodyComplete": true,
+      "bodyLength": 3863,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1738489323.790234,
+          "messageId": "7efceacf-e4cd-4a11-a56f-1971b740071b",
+          "conversation": "Logo List Adjustments",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.logo_list_section--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "f36fbc33-01ad-42b5-a10d-91513fbe836d",
+      "seedConversation": "Logo List Adjustments",
+      "seedTime": 1738489623.95818,
+      "latestTime": 1738489623.95818,
+      "bodyComplete": true,
+      "bodyLength": 4058,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1738489623.95818,
+          "messageId": "f36fbc33-01ad-42b5-a10d-91513fbe836d",
+          "conversation": "Logo List Adjustments",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.logo_list_section--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "f1d671cd-efbc-4738-a977-e6e75d016513",
+      "seedConversation": "Logo List Adjustments",
+      "seedTime": 1738489736.642888,
+      "latestTime": 1738489736.642888,
+      "bodyComplete": true,
+      "bodyLength": 4154,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1738489736.642888,
+          "messageId": "f1d671cd-efbc-4738-a977-e6e75d016513",
+          "conversation": "Logo List Adjustments",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.logo_list_section--v03.md"
+    }
+  ]
+}

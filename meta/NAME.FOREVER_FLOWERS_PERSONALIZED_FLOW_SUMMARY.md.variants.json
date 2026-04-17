@@ -1,0 +1,143 @@
+{
+  "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c1d882bf-9c3f-4132-a8a7-9eb73a4768cd",
+      "seedConversation": "Personalized Flow Design",
+      "seedTime": 1768037054.427975,
+      "latestTime": 1768037492.78313,
+      "bodyComplete": true,
+      "bodyLength": 6593,
+      "appliedPartials": 2,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1768037054.427975,
+          "messageId": "c1d882bf-9c3f-4132-a8a7-9eb73a4768cd",
+          "conversation": "Personalized Flow Design",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1768037145.533383,
+          "messageId": "f119979d-c10c-4065-81a1-5b22d689a786",
+          "conversation": "Personalized Flow Design",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "## Final Anchor",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1768037492.78313,
+          "messageId": "78b58381-3cba-4d41-974f-37d33a3d90bb",
+          "conversation": "Personalized Flow Design",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "## Open Questions for the Forever Panel",
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "f1d1bed0-8266-483a-aabd-757099db79c5",
+      "seedConversation": "Personalized Flow Design",
+      "seedTime": 1768037514.88159,
+      "latestTime": 1768038941.976112,
+      "bodyComplete": true,
+      "bodyLength": 13058,
+      "appliedPartials": 6,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1768037514.88159,
+          "messageId": "f1d1bed0-8266-483a-aabd-757099db79c5",
+          "conversation": "Personalized Flow Design",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1768038404.958611,
+          "messageId": "80273f1a-8854-4988-9c0c-c0fd6bc46e95",
+          "conversation": "Personalized Flow Design",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "## Homepage as a Dynamic Surface",
+          "ambiguousMatchCount": 1
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1768038409.919307,
+          "messageId": "a9e7c4f4-6e02-46c1-9bd4-512c146324bc",
+          "conversation": "Personalized Flow Design",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "### Homepage Variants",
+          "ambiguousMatchCount": 1
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1768038886.925014,
+          "messageId": "ab3b0c24-62af-437b-9e35-4240df8c16e8",
+          "conversation": "Personalized Flow Design",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "## Tier-1 PDP \\(First Visit Only\\)[\\s\\S]*?retired forever\\*\\* for that customer",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1768038886.925014,
+          "messageId": "ab3b0c24-62af-437b-9e35-4240df8c16e8",
+          "conversation": "Personalized Flow Design",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "## RealtimeStack-Style Visitor Tracking",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1768038903.552553,
+          "messageId": "89dc40ec-6f30-484b-a5d8-809d63b3ad71",
+          "conversation": "Personalized Flow Design",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "## Tier-1 PDP \\(First Visit Only\\)[\\s\\S]*?customer",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1768038941.976112,
+          "messageId": "9cc8f112-f39f-40b4-a733-284a90f54b6b",
+          "conversation": "Personalized Flow Design",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "## Final Anchor[\\s\\S]*$",
+          "ambiguousMatchCount": 1
+        }
+      ],
+      "variantPath": "variants/NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md--v02.md"
+    }
+  ]
+}

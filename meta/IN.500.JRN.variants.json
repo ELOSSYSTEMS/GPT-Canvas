@@ -1,0 +1,55 @@
+{
+  "artifactKey": "IN.500.JRN",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/IN.500.JRN.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "6cefbce1-d8d6-4b10-86be-5087a5984832",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748028314.776303,
+      "latestTime": 1748028314.776303,
+      "bodyComplete": true,
+      "bodyLength": 2813,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748028314.776303,
+          "messageId": "6cefbce1-d8d6-4b10-86be-5087a5984832",
+          "conversation": "NEW CHATPT OS APP",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.500.JRN--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "99478297-2138-40bb-a444-c88fefa30e70",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748028543.063889,
+      "latestTime": 1748028543.063889,
+      "bodyComplete": true,
+      "bodyLength": 3161,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748028543.063889,
+          "messageId": "99478297-2138-40bb-a444-c88fefa30e70",
+          "conversation": "NEW CHATPT OS APP",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.500.JRN--v02.md"
+    }
+  ]
+}

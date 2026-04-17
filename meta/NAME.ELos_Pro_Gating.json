@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos_Pro_Gating.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "e39ef8b3-4df7-4b4d-9dcd-c4936ef86adc",
+      "seedConversation": "ELos academy integration",
+      "seedTime": 1748098704.228997,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748098704.228997,
+      "bodyComplete": true,
+      "bodyLength": 1700,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

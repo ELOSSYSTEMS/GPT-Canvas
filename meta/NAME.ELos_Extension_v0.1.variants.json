@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.ELos_Extension_v0.1",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos_Extension_v0.1.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c6a5267f-e90f-46b1-8f9c-822f0607398a",
+      "seedConversation": "NEW ELOS EXTENSION",
+      "seedTime": 1749482479.131887,
+      "latestTime": 1749482479.131887,
+      "bodyComplete": true,
+      "bodyLength": 2122,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1749482479.131887,
+          "messageId": "c6a5267f-e90f-46b1-8f9c-822f0607398a",
+          "conversation": "NEW ELOS EXTENSION",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos_Extension_v0.1--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "5f2add81-1b23-479a-b00d-8e965dcb9a02",
+      "seedConversation": "NEW ELOS EXTENSION",
+      "seedTime": 1749582555.715798,
+      "latestTime": 1749582555.715798,
+      "bodyComplete": true,
+      "bodyLength": 3166,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1749582555.715798,
+          "messageId": "5f2add81-1b23-479a-b00d-8e965dcb9a02",
+          "conversation": "NEW ELOS EXTENSION",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.ELos_Extension_v0.1--v02.md"
+    }
+  ]
+}

@@ -26,6 +26,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AI.700.DAO.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "0e171993-cb3f-44d4-9b6d-73efd7e15e86",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748034451.428573,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748034451.428573,
+      "bodyComplete": true,
+      "bodyLength": 3690,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.700.DAO--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "d4784d9c-ccd4-4ca0-9ea1-e4a4e81ef6f6",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748113351.907003,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748113351.907003,
+      "bodyComplete": true,
+      "bodyLength": 1487,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.700.DAO--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/AI.700.DAO--v01.md",
+    "variants/AI.700.DAO--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

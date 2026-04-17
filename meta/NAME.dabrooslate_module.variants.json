@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.dabrooslate_module",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.dabrooslate_module.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c544151a-24d0-4019-85bb-744c0fe1bc28",
+      "seedConversation": "Stargate Protocol Initialized",
+      "seedTime": 1748678526.934202,
+      "latestTime": 1748678526.934202,
+      "bodyComplete": true,
+      "bodyLength": 1573,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748678526.934202,
+          "messageId": "c544151a-24d0-4019-85bb-744c0fe1bc28",
+          "conversation": "Stargate Protocol Initialized",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.dabrooslate_module--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "4a279481-4e9c-4890-91f3-751f5162e10f",
+      "seedConversation": "Stargate Protocol Initialized",
+      "seedTime": 1748678555.031289,
+      "latestTime": 1748678555.031289,
+      "bodyComplete": true,
+      "bodyLength": 1608,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748678555.031289,
+          "messageId": "4a279481-4e9c-4890-91f3-751f5162e10f",
+          "conversation": "Stargate Protocol Initialized",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.dabrooslate_module--v02.md"
+    }
+  ]
+}

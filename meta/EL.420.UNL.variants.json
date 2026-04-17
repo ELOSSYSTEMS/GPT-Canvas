@@ -1,0 +1,55 @@
+{
+  "artifactKey": "EL.420.UNL",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.420.UNL.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d47b277e-4eb6-4537-b97e-b6b04c503be6",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748197982.895567,
+      "latestTime": 1748197982.895567,
+      "bodyComplete": true,
+      "bodyLength": 2497,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748197982.895567,
+          "messageId": "d47b277e-4eb6-4537-b97e-b6b04c503be6",
+          "conversation": "Builder Onboarding Step 4",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.420.UNL--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "f5940c2c-30c9-412b-af0d-b5b98be12683",
+      "seedConversation": "Builder Onboarding Step 4",
+      "seedTime": 1748199305.561827,
+      "latestTime": 1748199305.561827,
+      "bodyComplete": true,
+      "bodyLength": 2652,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748199305.561827,
+          "messageId": "f5940c2c-30c9-412b-af0d-b5b98be12683",
+          "conversation": "Builder Onboarding Step 4",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/EL.420.UNL--v02.md"
+    }
+  ]
+}

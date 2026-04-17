@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.930.FORGE.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "c0d4d39a-efa7-40e4-b614-f363bb9d6f95",
+      "seedConversation": "Prompt Expansion Ready",
+      "seedTime": 1749673273.133638,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1749673273.133638,
+      "bodyComplete": true,
+      "bodyLength": 2065,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

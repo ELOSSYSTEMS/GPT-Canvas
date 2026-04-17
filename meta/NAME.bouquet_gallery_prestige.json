@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.bouquet_gallery_prestige.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d2f82fae-3267-4675-aa95-21c46078091e",
+      "seedConversation": "RealtimeStack Shopify App Overview",
+      "seedTime": 1752749116.700302,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1752749116.700302,
+      "bodyComplete": true,
+      "bodyLength": 1925,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.bouquet_gallery_prestige--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "f44da593-04e3-4e76-98e0-851d5679504d",
+      "seedConversation": "RealtimeStack Shopify App Overview",
+      "seedTime": 1752749214.147476,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1752749214.147476,
+      "bodyComplete": true,
+      "bodyLength": 1925,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.bouquet_gallery_prestige--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.bouquet_gallery_prestige--v01.md",
+    "variants/NAME.bouquet_gallery_prestige--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

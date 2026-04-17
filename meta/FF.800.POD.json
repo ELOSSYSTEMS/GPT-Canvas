@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/FF.800.POD.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a82ba343-4f8e-4df2-baae-54c5e4dc5e07",
+      "seedConversation": "PODCAST TRANSCRIPTION",
+      "seedTime": 1748030970.489759,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748030970.489759,
+      "bodyComplete": true,
+      "bodyLength": 3509,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -24,6 +24,74 @@
   "appliedPartialOps": 1,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 4,
+  "extractedLatestVariantId": 4,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.dabroo_sidebar_chat.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "2bc9f5c7-d5a3-43ef-86e1-6020e80f52e5",
+      "seedConversation": "Sidebar Integration for Dabroo",
+      "seedTime": 1747036879.600453,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747036879.600453,
+      "bodyComplete": true,
+      "bodyLength": 5920,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.dabroo_sidebar_chat--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "81f4bb6b-b1c7-48a3-a076-9a88cef98e82",
+      "seedConversation": "Sidebar Integration for Dabroo",
+      "seedTime": 1747037040.335348,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1747037040.335348,
+      "bodyComplete": true,
+      "bodyLength": 6079,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.dabroo_sidebar_chat--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "781c419a-a491-4a1a-9cb8-b7f397518159",
+      "seedConversation": "Sidebar Integration for Dabroo",
+      "seedTime": 1747038491.201328,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1747038491.201328,
+      "bodyComplete": true,
+      "bodyLength": 3785,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.dabroo_sidebar_chat--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "8fb1e7d1-1859-4ed0-a4c1-ab3e5f7a46c1",
+      "seedConversation": "Sidebar Integration for Dabroo",
+      "seedTime": 1747038630.898756,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1747038880.45869,
+      "bodyComplete": true,
+      "bodyLength": 10164,
+      "appliedPartials": 1,
+      "lineageLength": 2,
+      "variantPath": "variants/NAME.dabroo_sidebar_chat--v04.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.dabroo_sidebar_chat--v01.md",
+    "variants/NAME.dabroo_sidebar_chat--v02.md",
+    "variants/NAME.dabroo_sidebar_chat--v03.md",
+    "variants/NAME.dabroo_sidebar_chat--v04.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

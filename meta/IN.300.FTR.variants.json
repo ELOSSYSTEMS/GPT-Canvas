@@ -1,0 +1,127 @@
+{
+  "artifactKey": "IN.300.FTR",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/IN.300.FTR.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "f156e070-2871-4a1c-9353-d3b5e420d131",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748022951.410981,
+      "latestTime": 1748022951.410981,
+      "bodyComplete": true,
+      "bodyLength": 3031,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748022951.410981,
+          "messageId": "f156e070-2871-4a1c-9353-d3b5e420d131",
+          "conversation": "NEW CHATPT OS APP",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.300.FTR--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "d0b0bbf7-4239-48be-a0ee-a71a8f5d6816",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748023740.649588,
+      "latestTime": 1748023740.649588,
+      "bodyComplete": true,
+      "bodyLength": 3713,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748023740.649588,
+          "messageId": "d0b0bbf7-4239-48be-a0ee-a71a8f5d6816",
+          "conversation": "NEW CHATPT OS APP",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.300.FTR--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "8bc22b81-4f89-43a4-bdae-c03d4c53e907",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748029156.859141,
+      "latestTime": 1748029156.859141,
+      "bodyComplete": true,
+      "bodyLength": 4151,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748029156.859141,
+          "messageId": "8bc22b81-4f89-43a4-bdae-c03d4c53e907",
+          "conversation": "NEW CHATPT OS APP",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.300.FTR--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "0faf40df-b7f8-4ba6-b168-bff60fb1efac",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748029590.10123,
+      "latestTime": 1748029590.10123,
+      "bodyComplete": true,
+      "bodyLength": 1458,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748029590.10123,
+          "messageId": "0faf40df-b7f8-4ba6-b168-bff60fb1efac",
+          "conversation": "NEW CHATPT OS APP",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.300.FTR--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "21c7c18c-6a8c-4565-8177-fdc4f14dcd55",
+      "seedConversation": "NEW CHATPT OS APP",
+      "seedTime": 1748029921.85826,
+      "latestTime": 1748029921.85826,
+      "bodyComplete": true,
+      "bodyLength": 1874,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748029921.85826,
+          "messageId": "21c7c18c-6a8c-4565-8177-fdc4f14dcd55",
+          "conversation": "NEW CHATPT OS APP",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/IN.300.FTR--v05.md"
+    }
+  ]
+}

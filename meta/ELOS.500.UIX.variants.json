@@ -1,0 +1,55 @@
+{
+  "artifactKey": "ELOS.500.UIX",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/ELOS.500.UIX.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "da543261-8fcc-4843-8c99-f17a1ba7563d",
+      "seedConversation": "Recursive Guidance for Beginners",
+      "seedTime": 1748073105.551089,
+      "latestTime": 1748073105.551089,
+      "bodyComplete": true,
+      "bodyLength": 2537,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748073105.551089,
+          "messageId": "da543261-8fcc-4843-8c99-f17a1ba7563d",
+          "conversation": "Recursive Guidance for Beginners",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/ELOS.500.UIX--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "4acd0b89-eedf-40ce-a8d9-19240a60f8db",
+      "seedConversation": "Recursive Guidance for Beginners",
+      "seedTime": 1748073728.428193,
+      "latestTime": 1748073728.428193,
+      "bodyComplete": true,
+      "bodyLength": 2888,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748073728.428193,
+          "messageId": "4acd0b89-eedf-40ce-a8d9-19240a60f8db",
+          "conversation": "Recursive Guidance for Beginners",
+          "parseMode": "json-parse",
+          "heuristic": "id-from-replacement",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/ELOS.500.UIX--v02.md"
+    }
+  ]
+}

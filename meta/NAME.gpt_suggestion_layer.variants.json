@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.gpt_suggestion_layer",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.gpt_suggestion_layer.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "0e7a9163-9e53-41ec-8e69-7fb3259b293c",
+      "seedConversation": "GPT Delegation Filter Design",
+      "seedTime": 1748346940.228748,
+      "latestTime": 1748346940.228748,
+      "bodyComplete": true,
+      "bodyLength": 1351,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748346940.228748,
+          "messageId": "0e7a9163-9e53-41ec-8e69-7fb3259b293c",
+          "conversation": "GPT Delegation Filter Design",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.gpt_suggestion_layer--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "0919136c-4f0f-4d5a-ba45-758b44b06896",
+      "seedConversation": "GPT Delegation Filter Design",
+      "seedTime": 1748347158.152112,
+      "latestTime": 1748347158.152112,
+      "bodyComplete": true,
+      "bodyLength": 1387,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748347158.152112,
+          "messageId": "0919136c-4f0f-4d5a-ba45-758b44b06896",
+          "conversation": "GPT Delegation Filter Design",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.gpt_suggestion_layer--v02.md"
+    }
+  ]
+}

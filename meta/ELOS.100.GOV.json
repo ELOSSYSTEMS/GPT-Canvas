@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/ELOS.100.GOV.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "1a07d8bc-0e38-49a4-9de2-9450897494dc",
+      "seedConversation": "ELos Buildout Structure",
+      "seedTime": 1748089745.261739,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748089745.261739,
+      "bodyComplete": true,
+      "bodyLength": 1315,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

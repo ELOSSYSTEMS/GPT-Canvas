@@ -1,0 +1,55 @@
+{
+  "artifactKey": "NAME.dabroo_prompt_studio",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.dabroo_prompt_studio.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "dae48119-c8aa-4383-8258-a82b3fc7c777",
+      "seedConversation": "הצעות לפיתוח דף",
+      "seedTime": 1747077753.307746,
+      "latestTime": 1747077753.307746,
+      "bodyComplete": true,
+      "bodyLength": 7431,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1747077753.307746,
+          "messageId": "dae48119-c8aa-4383-8258-a82b3fc7c777",
+          "conversation": "הצעות לפיתוח דף",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.dabroo_prompt_studio--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "610bc252-68a4-47df-9a0c-17eedf96b951",
+      "seedConversation": "הצעות לפיתוח דף",
+      "seedTime": 1747077974.336304,
+      "latestTime": 1747077974.336304,
+      "bodyComplete": true,
+      "bodyLength": 7504,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1747077974.336304,
+          "messageId": "610bc252-68a4-47df-9a0c-17eedf96b951",
+          "conversation": "הצעות לפיתוח דף",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.dabroo_prompt_studio--v02.md"
+    }
+  ]
+}

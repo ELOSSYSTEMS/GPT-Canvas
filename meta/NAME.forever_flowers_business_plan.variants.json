@@ -1,0 +1,198 @@
+{
+  "artifactKey": "NAME.forever_flowers_business_plan",
+  "rawWriteStatus": "preserved-existing-different",
+  "extractedLatestPath": "variants/NAME.forever_flowers_business_plan--latest-extracted.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "aa3ca7fe-32a0-4344-b081-511a9ed803ba",
+      "seedConversation": "Business Plan for Forever Flowers",
+      "seedTime": 1735816184.424853,
+      "latestTime": 1735816679.976749,
+      "bodyComplete": true,
+      "bodyLength": 11256,
+      "appliedPartials": 13,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1735816184.424853,
+          "messageId": "aa3ca7fe-32a0-4344-b081-511a9ed803ba",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1735816225.563971,
+          "messageId": "639b62d4-d380-4363-9829-4e4833519b3c",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "Google Search and Shopping Ads: Optimize keywords and launch campaigns targeting home decor enthusiasts and businesses.",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1735816259.738967,
+          "messageId": "1023028d-b1eb-4468-b6a3-f185bc2efd10",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "Regular blog posts on floral trends, eco-friendly decor, and DIY arrangement tips.",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1735816286.265591,
+          "messageId": "96cbed09-40be-4503-bdce-914475f4415f",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "- \\*\\*Referral Program:\\*\\*\\n  - Launch a referral program offering discounts or free products for successful referrals\\.",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1735816317.193341,
+          "messageId": "27c6769d-56df-4bac-888a-1f3ca150c6ce",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "Maintain a 5x markup on costs for retail bouquets\\.",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1735816375.024999,
+          "messageId": "629a4b39-45dd-4cb8-8679-0d93d4d946eb",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "Create bundled offerings \\(e\\.g\\., bouquet \\+ vase \\+ care instructions\\) with slight discounts to encourage larger orders\\.",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1735816392.758024,
+          "messageId": "4b334867-2df2-4913-a017-7588029f5f83",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "Offer a subscription for monthly bouquet deliveries, targeting both individual and corporate clients\\.",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1735816408.090672,
+          "messageId": "03c44f87-ea29-434c-8ac9-fd2a0645ae0c",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "Introduce tiered pricing \\(Standard, Executive, Exclusive\\) with clear value differentiation\\.",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1735816433.299192,
+          "messageId": "2e5352db-e1fe-421d-9e48-469a62bc834a",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "Focus on the three bestsellers \\(לחישת שדה, צבעוני נצחי, שקט נצחי\\) with upsell options \\(e\\.g\\., fuller bouquets, premium flower additions\\)\\.",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1735816492.751237,
+          "messageId": "03288021-e5aa-426b-ac5c-d42d441a901c",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "Free shipping and a complimentary vase with every bouquet\\.",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1735816527.56132,
+          "messageId": "759d40fc-4c09-4485-89f3-909976e55358",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "Free shipping on orders above 300 NIS and a complimentary vase with every bouquet\\. This threshold encourages larger purchases while maintaining profitability\\. Analyze average order values over time to adjust the free shipping threshold if necessary, ensuring it aligns with customer spending patterns and business goals\\.",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1735816574.246978,
+          "messageId": "4ddf2d72-0ec9-4341-bc57-726eee2e2ab8",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "- \\*\\*Efficiency in Deliveries:\\*\\*\\n  - Optimize delivery routes to reduce costs, especially for Arcaffe branches\\.\\n  - Implement zone-based delivery schedules \\(weekly for Tel Aviv, bi-weekly for other areas\\)\\.",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1735816610.442009,
+          "messageId": "89895302-1f2f-49aa-9cd1-d5c14ebcb402",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "Discontinue deliveries to areas outside the Merkaz Region to streamline operations and maintain high service quality\\.",
+          "ambiguousMatchCount": 0
+        },
+        {
+          "opType": "update_textdoc",
+          "createTime": 1735816679.976749,
+          "messageId": "a094144e-541a-41e1-a526-575927d67b46",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "regex",
+          "pattern": "Focus on differentiating Forever Flowers by offering free shipping, a free vase with every bouquet, and unique design collections\\.",
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.forever_flowers_business_plan--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "fc8c5cee-6859-4bb7-b34d-5973b14a2c45",
+      "seedConversation": "Business Plan for Forever Flowers",
+      "seedTime": 1735816187.109526,
+      "latestTime": 1735816187.109526,
+      "bodyComplete": true,
+      "bodyLength": 5656,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1735816187.109526,
+          "messageId": "fc8c5cee-6859-4bb7-b34d-5973b14a2c45",
+          "conversation": "Business Plan for Forever Flowers",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.forever_flowers_business_plan--v02.md"
+    }
+  ]
+}

@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.elos_playbook_v2.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "98164172-a7af-4cec-b93a-c1e4169fe605",
+      "seedConversation": "Frontend test prompt",
+      "seedTime": 1756597936.707082,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1756597936.707082,
+      "bodyComplete": true,
+      "bodyLength": 4496,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

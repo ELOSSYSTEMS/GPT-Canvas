@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Super-Prompts.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "bdde9015-a8f3-4cb4-a0fb-6a974536e753",
+      "seedConversation": "AI Prompt Collection",
+      "seedTime": 1752520889.934004,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1752520889.934004,
+      "bodyComplete": true,
+      "bodyLength": 4795,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

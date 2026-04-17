@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Forever-Flowers-OS.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "bd3a8332-c5fc-45eb-991e-57dd2a6ea695",
+      "seedConversation": "Load Forever Flowers OS",
+      "seedTime": 1748518662.066818,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748518662.066818,
+      "bodyComplete": true,
+      "bodyLength": 1221,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

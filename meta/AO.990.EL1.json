@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AO.990.EL1.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "cc0a9899-daff-403c-a638-195ad1a2dc48",
+      "seedConversation": "Recursive Persona System Design",
+      "seedTime": 1748187006.545696,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748187006.545696,
+      "bodyComplete": true,
+      "bodyLength": 1401,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

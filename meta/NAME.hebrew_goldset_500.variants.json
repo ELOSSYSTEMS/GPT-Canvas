@@ -1,0 +1,271 @@
+{
+  "artifactKey": "NAME.hebrew_goldset_500",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.hebrew_goldset_500.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "632dd4ff-1ecb-4b2c-9ed8-6e97ebcf0615",
+      "seedConversation": "Hebrew goldset creation",
+      "seedTime": 1754679940.553748,
+      "latestTime": 1754679940.553748,
+      "bodyComplete": true,
+      "bodyLength": 3807,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1754679940.553748,
+          "messageId": "632dd4ff-1ecb-4b2c-9ed8-6e97ebcf0615",
+          "conversation": "Hebrew goldset creation",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.hebrew_goldset_500--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "8bbe2617-c54c-414f-a47b-b92de9e18b0c",
+      "seedConversation": "Hebrew goldset creation",
+      "seedTime": 1754679992.543756,
+      "latestTime": 1754679992.543756,
+      "bodyComplete": true,
+      "bodyLength": 2332,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1754679992.543756,
+          "messageId": "8bbe2617-c54c-414f-a47b-b92de9e18b0c",
+          "conversation": "Hebrew goldset creation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.hebrew_goldset_500--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "87f847b2-491e-4d3e-b43f-dbc8ac32eb4d",
+      "seedConversation": "Hebrew goldset creation",
+      "seedTime": 1754680018.061073,
+      "latestTime": 1754680018.061073,
+      "bodyComplete": true,
+      "bodyLength": 4670,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1754680018.061073,
+          "messageId": "87f847b2-491e-4d3e-b43f-dbc8ac32eb4d",
+          "conversation": "Hebrew goldset creation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.hebrew_goldset_500--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "f15d3bc8-f055-4b1c-a65e-928999507b70",
+      "seedConversation": "Hebrew goldset creation",
+      "seedTime": 1754680043.783826,
+      "latestTime": 1754680043.783826,
+      "bodyComplete": true,
+      "bodyLength": 3535,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1754680043.783826,
+          "messageId": "f15d3bc8-f055-4b1c-a65e-928999507b70",
+          "conversation": "Hebrew goldset creation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.hebrew_goldset_500--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "b89b319b-9c5e-42a6-a7ad-ec81490976c1",
+      "seedConversation": "Hebrew goldset creation",
+      "seedTime": 1754680418.006034,
+      "latestTime": 1754680418.006034,
+      "bodyComplete": true,
+      "bodyLength": 4553,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1754680418.006034,
+          "messageId": "b89b319b-9c5e-42a6-a7ad-ec81490976c1",
+          "conversation": "Hebrew goldset creation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.hebrew_goldset_500--v05.md"
+    },
+    {
+      "variantId": 6,
+      "seedMessageId": "fabe1368-4461-4525-8aa1-00d2baa16234",
+      "seedConversation": "Hebrew goldset creation",
+      "seedTime": 1754680720.464099,
+      "latestTime": 1754680720.464099,
+      "bodyComplete": true,
+      "bodyLength": 666,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1754680720.464099,
+          "messageId": "fabe1368-4461-4525-8aa1-00d2baa16234",
+          "conversation": "Hebrew goldset creation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.hebrew_goldset_500--v06.md"
+    },
+    {
+      "variantId": 7,
+      "seedMessageId": "8fc81fea-0ffd-4bc8-9e00-3807a2985b17",
+      "seedConversation": "Hebrew goldset creation",
+      "seedTime": 1754680844.714867,
+      "latestTime": 1754680844.714867,
+      "bodyComplete": true,
+      "bodyLength": 2937,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1754680844.714867,
+          "messageId": "8fc81fea-0ffd-4bc8-9e00-3807a2985b17",
+          "conversation": "Hebrew goldset creation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.hebrew_goldset_500--v07.md"
+    },
+    {
+      "variantId": 8,
+      "seedMessageId": "74d83fa2-b6cf-4a0b-b437-b10a00c5de42",
+      "seedConversation": "Hebrew goldset creation",
+      "seedTime": 1754680874.147162,
+      "latestTime": 1754680874.147162,
+      "bodyComplete": true,
+      "bodyLength": 4232,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1754680874.147162,
+          "messageId": "74d83fa2-b6cf-4a0b-b437-b10a00c5de42",
+          "conversation": "Hebrew goldset creation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.hebrew_goldset_500--v08.md"
+    },
+    {
+      "variantId": 9,
+      "seedMessageId": "531dfb4e-3b10-4e6a-b930-29909f7ba5db",
+      "seedConversation": "Hebrew goldset creation",
+      "seedTime": 1754680902.989522,
+      "latestTime": 1754680902.989522,
+      "bodyComplete": true,
+      "bodyLength": 8502,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1754680902.989522,
+          "messageId": "531dfb4e-3b10-4e6a-b930-29909f7ba5db",
+          "conversation": "Hebrew goldset creation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.hebrew_goldset_500--v09.md"
+    },
+    {
+      "variantId": 10,
+      "seedMessageId": "7ac6ff98-69dc-4bd4-8779-e85c7f8cd1df",
+      "seedConversation": "Hebrew goldset creation",
+      "seedTime": 1754681154.359476,
+      "latestTime": 1754681154.359476,
+      "bodyComplete": true,
+      "bodyLength": 842,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1754681154.359476,
+          "messageId": "7ac6ff98-69dc-4bd4-8779-e85c7f8cd1df",
+          "conversation": "Hebrew goldset creation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.hebrew_goldset_500--v10.md"
+    },
+    {
+      "variantId": 11,
+      "seedMessageId": "2eb01289-1b12-4646-9e1d-90a73a350bef",
+      "seedConversation": "Hebrew goldset creation",
+      "seedTime": 1754681221.315995,
+      "latestTime": 1754681221.315995,
+      "bodyComplete": true,
+      "bodyLength": 1294,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1754681221.315995,
+          "messageId": "2eb01289-1b12-4646-9e1d-90a73a350bef",
+          "conversation": "Hebrew goldset creation",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.hebrew_goldset_500--v11.md"
+    }
+  ]
+}

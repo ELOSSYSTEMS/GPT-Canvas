@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.media_grid_advanced.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "5f1aae25-98c8-4d33-80b0-cca11393be9d",
+      "seedConversation": "Media Grid Customization",
+      "seedTime": 1737550169.945555,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1737550169.945555,
+      "bodyComplete": true,
+      "bodyLength": 7683,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.media_grid_advanced--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "c7e67319-f21f-4bac-9b63-42cf9b9f296a",
+      "seedConversation": "Media Grid Customization",
+      "seedTime": 1737550963.987941,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1737550963.987941,
+      "bodyComplete": true,
+      "bodyLength": 8530,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.media_grid_advanced--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.media_grid_advanced--v01.md",
+    "variants/NAME.media_grid_advanced--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

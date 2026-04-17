@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Dabroo-AI-content.js-Chatbar-Toggle-Integration.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "9cb48da9-00f0-4f99-bd0f-74db37d6d8dc",
+      "seedConversation": "Dabroo Toggle Location Adjustment",
+      "seedTime": 1747693357.948944,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747693357.948944,
+      "bodyComplete": true,
+      "bodyLength": 4586,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

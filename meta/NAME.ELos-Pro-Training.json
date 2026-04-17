@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.ELos-Pro-Training.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "3d2fd4cf-2592-4dd3-91d2-cd8aac78dbd9",
+      "seedConversation": "ELos Academy Review",
+      "seedTime": 1748101937.462659,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748101937.462659,
+      "bodyComplete": true,
+      "bodyLength": 2298,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

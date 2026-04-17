@@ -20,6 +20,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/UUID.d565e00c-8025-4640-816c-6a279a270aff-0.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "d565e00c-8025-4640-816c-6a279a270aff",
+      "seedConversation": "Dabroo vs ELos seperation",
+      "seedTime": 1748104121.739853,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1748104121.739853,
+      "bodyComplete": true,
+      "bodyLength": 1017,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "update_textdoc",

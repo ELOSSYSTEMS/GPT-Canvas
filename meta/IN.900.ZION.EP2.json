@@ -25,6 +25,74 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 4,
+  "extractedLatestVariantId": 4,
+  "rawWriteStatus": "preserved-existing-different",
+  "extractedLatestPath": "variants/IN.900.ZION.EP2--latest-extracted.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "da263c5a-94b2-4c66-b321-f8e318ee0a23",
+      "seedConversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "seedTime": 1748760553.945727,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748760553.945727,
+      "bodyComplete": true,
+      "bodyLength": 881,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/IN.900.ZION.EP2--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "6c8d5fda-89a3-46e5-9a21-2b20ee2d7ae3",
+      "seedConversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "seedTime": 1748761224.443607,
+      "seedParseMode": "escaped-control-chars",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748761224.443607,
+      "bodyComplete": true,
+      "bodyLength": 918,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/IN.900.ZION.EP2--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "e2016c40-21da-492b-b732-7791e57b4dcf",
+      "seedConversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "seedTime": 1748761593.72045,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748761593.72045,
+      "bodyComplete": true,
+      "bodyLength": 449,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/IN.900.ZION.EP2--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "7a02adbf-9cfa-4502-a57a-cf83f9a7abd1",
+      "seedConversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "seedTime": 1748762347.67636,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748762347.67636,
+      "bodyComplete": true,
+      "bodyLength": 911,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/IN.900.ZION.EP2--v04.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/IN.900.ZION.EP2--v01.md",
+    "variants/IN.900.ZION.EP2--v02.md",
+    "variants/IN.900.ZION.EP2--v03.md",
+    "variants/IN.900.ZION.EP2--v04.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -20,6 +20,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/EL.300.KRN.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "57cea62f-f848-4a54-9156-3d37fd12830c",
+      "seedConversation": "Mode Forks: Text vs Voice",
+      "seedTime": 1749360633.139186,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1749360633.139186,
+      "bodyComplete": true,
+      "bodyLength": 570,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "update_textdoc",

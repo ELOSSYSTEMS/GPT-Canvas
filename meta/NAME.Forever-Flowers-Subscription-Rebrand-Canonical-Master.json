@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.Forever-Flowers-Subscription-Rebrand-Canonical-Master.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "5233d778-aead-49a6-8f93-150a4cbd8ec3",
+      "seedConversation": "SUB WEB REBUILD",
+      "seedTime": 1769434031.621598,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1769434031.621598,
+      "bodyComplete": true,
+      "bodyLength": 4187,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

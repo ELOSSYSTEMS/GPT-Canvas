@@ -24,6 +24,44 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 2,
+  "extractedLatestVariantId": 2,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.faq_updated_json.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a51516e8-2da1-41ce-8b21-090683667b5a",
+      "seedConversation": "Boot Sequence Overview",
+      "seedTime": 1750163160.846164,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1750163160.846164,
+      "bodyComplete": true,
+      "bodyLength": 1407,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.faq_updated_json--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "a2fa725e-e282-4be6-a925-2ff5d43e7261",
+      "seedConversation": "Boot Sequence Overview",
+      "seedTime": 1750163214.804082,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "conversation-last-artifact",
+      "latestTime": 1750163214.804082,
+      "bodyComplete": true,
+      "bodyLength": 2396,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.faq_updated_json--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.faq_updated_json--v01.md",
+    "variants/NAME.faq_updated_json--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

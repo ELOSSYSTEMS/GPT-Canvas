@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.interactive_bouquet_tool.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "5ead6f5b-f9af-4d8a-9d78-7c253bbcfce3",
+      "seedConversation": "Forever Flowers Overview",
+      "seedTime": 1735849481.609239,
+      "seedParseMode": "regex-create-partial",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1735849481.609239,
+      "bodyComplete": false,
+      "bodyLength": 188,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

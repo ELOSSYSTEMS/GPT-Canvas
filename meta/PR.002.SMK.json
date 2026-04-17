@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/PR.002.SMK.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "5ffa6d93-4932-447f-a9b8-74b07a59adcd",
+      "seedConversation": "Canvas List Retrieval",
+      "seedTime": 1753972910.684203,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1753972910.684203,
+      "bodyComplete": true,
+      "bodyLength": 1531,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

@@ -9,7 +9,7 @@
   "conversations": [
     "Business Plan for Forever Flowers"
   ],
-  "latestTime": 1735816187.109526,
+  "latestTime": 1735816679.976749,
   "latestBodyComplete": true,
   "latestSource": {
     "opType": "create_textdoc",
@@ -21,9 +21,47 @@
   },
   "completeBodyOps": 2,
   "partialBodyOps": 0,
-  "appliedPartialOps": 0,
-  "unresolvedPartialOps": 13,
+  "appliedPartialOps": 13,
+  "unresolvedPartialOps": 0,
   "commentOps": 2,
+  "variantCount": 2,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-different",
+  "extractedLatestPath": "variants/NAME.forever_flowers_business_plan--latest-extracted.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "aa3ca7fe-32a0-4344-b081-511a9ed803ba",
+      "seedConversation": "Business Plan for Forever Flowers",
+      "seedTime": 1735816184.424853,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1735816679.976749,
+      "bodyComplete": true,
+      "bodyLength": 11256,
+      "appliedPartials": 13,
+      "lineageLength": 14,
+      "variantPath": "variants/NAME.forever_flowers_business_plan--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "fc8c5cee-6859-4bb7-b34d-5973b14a2c45",
+      "seedConversation": "Business Plan for Forever Flowers",
+      "seedTime": 1735816187.109526,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1735816187.109526,
+      "bodyComplete": true,
+      "bodyLength": 5656,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/NAME.forever_flowers_business_plan--v02.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/NAME.forever_flowers_business_plan--v01.md",
+    "variants/NAME.forever_flowers_business_plan--v02.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",

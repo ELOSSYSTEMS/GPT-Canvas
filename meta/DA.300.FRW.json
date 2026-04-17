@@ -24,6 +24,27 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 1,
+  "extractedLatestVariantId": 1,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/DA.300.FRW.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "1c2073e1-ad7d-4094-851d-00f82e1187b5",
+      "seedConversation": "ChatGPT Prompts from Israel",
+      "seedTime": 1747843417.442094,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1747843417.442094,
+      "bodyComplete": true,
+      "bodyLength": 2173,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": null
+    }
+  ],
+  "variantPaths": [],
   "operations": [
     {
       "opType": "create_textdoc",

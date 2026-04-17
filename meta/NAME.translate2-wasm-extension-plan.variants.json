@@ -1,0 +1,127 @@
+{
+  "artifactKey": "NAME.translate2-wasm-extension-plan",
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/NAME.translate2-wasm-extension-plan.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "5a4a97d9-8ac2-45aa-b20e-714835034a01",
+      "seedConversation": "Stargate Protocol Activated",
+      "seedTime": 1748679326.163696,
+      "latestTime": 1748679326.163696,
+      "bodyComplete": true,
+      "bodyLength": 2337,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "create_textdoc",
+          "createTime": 1748679326.163696,
+          "messageId": "5a4a97d9-8ac2-45aa-b20e-714835034a01",
+          "conversation": "Stargate Protocol Activated",
+          "parseMode": "json-parse",
+          "heuristic": "create-payload",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.translate2-wasm-extension-plan--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "bc3b3c3d-f59d-47ac-8ed8-e89b4a7b7532",
+      "seedConversation": "Stargate Protocol Activated",
+      "seedTime": 1748679357.930992,
+      "latestTime": 1748679357.930992,
+      "bodyComplete": true,
+      "bodyLength": 2384,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748679357.930992,
+          "messageId": "bc3b3c3d-f59d-47ac-8ed8-e89b4a7b7532",
+          "conversation": "Stargate Protocol Activated",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.translate2-wasm-extension-plan--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "d6ee78d0-75b2-4a22-9bdd-ef13259a02bf",
+      "seedConversation": "Stargate Protocol Activated",
+      "seedTime": 1748679458.424679,
+      "latestTime": 1748679458.424679,
+      "bodyComplete": true,
+      "bodyLength": 2966,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748679458.424679,
+          "messageId": "d6ee78d0-75b2-4a22-9bdd-ef13259a02bf",
+          "conversation": "Stargate Protocol Activated",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.translate2-wasm-extension-plan--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "8fff3de3-1b7f-437c-98f3-64dc1ff6b378",
+      "seedConversation": "Stargate Protocol Activated",
+      "seedTime": 1748680943.566915,
+      "latestTime": 1748680943.566915,
+      "bodyComplete": true,
+      "bodyLength": 3372,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748680943.566915,
+          "messageId": "8fff3de3-1b7f-437c-98f3-64dc1ff6b378",
+          "conversation": "Stargate Protocol Activated",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.translate2-wasm-extension-plan--v04.md"
+    },
+    {
+      "variantId": 5,
+      "seedMessageId": "31cf90b7-2464-4841-ac6d-49985528b940",
+      "seedConversation": "Stargate Protocol Activated",
+      "seedTime": 1748681015.790719,
+      "latestTime": 1748681015.790719,
+      "bodyComplete": true,
+      "bodyLength": 3984,
+      "appliedPartials": 0,
+      "lineage": [
+        {
+          "opType": "update_textdoc",
+          "createTime": 1748681015.790719,
+          "messageId": "31cf90b7-2464-4841-ac6d-49985528b940",
+          "conversation": "Stargate Protocol Activated",
+          "parseMode": "json-parse",
+          "heuristic": "conversation-last-artifact",
+          "applyMode": "full-body",
+          "pattern": null,
+          "ambiguousMatchCount": 0
+        }
+      ],
+      "variantPath": "variants/NAME.translate2-wasm-extension-plan--v05.md"
+    }
+  ]
+}

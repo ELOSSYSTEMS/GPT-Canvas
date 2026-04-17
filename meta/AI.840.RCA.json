@@ -24,6 +24,74 @@
   "appliedPartialOps": 0,
   "unresolvedPartialOps": 0,
   "commentOps": 0,
+  "variantCount": 4,
+  "extractedLatestVariantId": 4,
+  "rawWriteStatus": "preserved-existing-same",
+  "extractedLatestPath": "raw/AI.840.RCA.md",
+  "variants": [
+    {
+      "variantId": 1,
+      "seedMessageId": "a2514f4f-21f2-4b18-9bdf-b71107a36373",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748037300.554517,
+      "seedParseMode": "escaped-control-chars",
+      "seedHeuristic": "create-payload",
+      "latestTime": 1748037300.554517,
+      "bodyComplete": true,
+      "bodyLength": 2955,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.840.RCA--v01.md"
+    },
+    {
+      "variantId": 2,
+      "seedMessageId": "ce2665a1-c5c4-494e-899d-f5da9f234fd9",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748037732.754961,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748037732.754961,
+      "bodyComplete": true,
+      "bodyLength": 195,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.840.RCA--v02.md"
+    },
+    {
+      "variantId": 3,
+      "seedMessageId": "c932bc4b-60f4-4ee8-b2ce-d49856dfe6b8",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748037735.628815,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748037735.628815,
+      "bodyComplete": true,
+      "bodyLength": 176,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.840.RCA--v03.md"
+    },
+    {
+      "variantId": 4,
+      "seedMessageId": "f6eb0816-9630-4647-bfcd-74f6979aecf2",
+      "seedConversation": "Psychometric Profile Analysis Request",
+      "seedTime": 1748037738.494903,
+      "seedParseMode": "json-parse",
+      "seedHeuristic": "id-from-replacement",
+      "latestTime": 1748037738.494903,
+      "bodyComplete": true,
+      "bodyLength": 199,
+      "appliedPartials": 0,
+      "lineageLength": 1,
+      "variantPath": "variants/AI.840.RCA--v04.md"
+    }
+  ],
+  "variantPaths": [
+    "variants/AI.840.RCA--v01.md",
+    "variants/AI.840.RCA--v02.md",
+    "variants/AI.840.RCA--v03.md",
+    "variants/AI.840.RCA--v04.md"
+  ],
   "operations": [
     {
       "opType": "create_textdoc",
