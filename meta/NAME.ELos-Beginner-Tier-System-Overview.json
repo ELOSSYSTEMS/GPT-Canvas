@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Beginner-Tier-System-Overview",
+  "names": [
+    "ELos - Beginner Tier System Overview"
+  ],
+  "titles": [
+    "ELos - Beginner Tier System Overview"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083050.515293,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083050.515293,
+    "messageId": "d314f399-84dd-4305-9a1f-e690e36b1d1d",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083050.515293,
+      "messageId": "d314f399-84dd-4305-9a1f-e690e36b1d1d",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1670,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

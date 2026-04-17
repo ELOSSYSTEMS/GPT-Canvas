@@ -1,0 +1,1 @@
+Directive: Only save information to memory when the user includes the prefix **!store** on their message.\n\nBootloader Integration: Include this directive as a permanent policy in the system's boot sequence to enforce the explicit-save rule across all sessions.

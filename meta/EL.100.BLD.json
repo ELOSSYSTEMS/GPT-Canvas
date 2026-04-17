@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.100.BLD",
+  "names": [
+    "elos_canvas_index"
+  ],
+  "titles": [
+    "elos_canvas_index"
+  ],
+  "conversations": [
+    "ELos Build Framework"
+  ],
+  "latestTime": 1748118142.459401,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Build Framework",
+    "createTime": 1748118142.459401,
+    "messageId": "b586173c-62a6-4712-a585-ccdfe45ada26",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748118142.459401,
+      "messageId": "b586173c-62a6-4712-a585-ccdfe45ada26",
+      "conversation": "ELos Build Framework",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2095,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

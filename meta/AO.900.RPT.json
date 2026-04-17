@@ -1,0 +1,52 @@
+{
+  "artifactKey": "AO.900.RPT",
+  "names": [
+    "System_Tools_Deployment"
+  ],
+  "titles": [
+    "System_Tools_Deployment"
+  ],
+  "conversations": [
+    "AI Tools Breakdown"
+  ],
+  "latestTime": 1748205242.027911,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "AI Tools Breakdown",
+    "createTime": 1748205242.027911,
+    "messageId": "0c74014a-9c44-4229-8465-a79137f284bc",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748205175.409315,
+      "messageId": "3f5a6261-c60e-4afa-b0a7-1acdf6178741",
+      "conversation": "AI Tools Breakdown",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2099,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748205242.027911,
+      "messageId": "0c74014a-9c44-4229-8465-a79137f284bc",
+      "conversation": "AI Tools Breakdown",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3178,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

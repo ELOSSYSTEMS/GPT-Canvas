@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.999.CMP",
+  "names": [
+    "EL.999.CMP – Compression Engine"
+  ],
+  "titles": [
+    "EL.999.CMP – Compression Engine"
+  ],
+  "conversations": [
+    "Bootloader Execution Summary"
+  ],
+  "latestTime": 1749329462.470241,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Execution Summary",
+    "createTime": 1749329462.470241,
+    "messageId": "5e610ec6-ab23-4824-9792-0386928df53f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749329462.470241,
+      "messageId": "5e610ec6-ab23-4824-9792-0386928df53f",
+      "conversation": "Bootloader Execution Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1421,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

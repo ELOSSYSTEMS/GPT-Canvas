@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.450.FNC",
+  "names": [
+    "ELos_Core_Functions_Tiers"
+  ],
+  "titles": [
+    "ELos_Core_Functions_Tiers"
+  ],
+  "conversations": [
+    "Builder Onboarding Step 4"
+  ],
+  "latestTime": 1748199811.018873,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Builder Onboarding Step 4",
+    "createTime": 1748199811.018873,
+    "messageId": "45ac4402-77da-4909-950e-4c63eab87c71",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748199811.018873,
+      "messageId": "45ac4402-77da-4909-950e-4c63eab87c71",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3113,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

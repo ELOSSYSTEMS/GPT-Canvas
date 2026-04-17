@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tiered-Command-UI-Framework",
+  "names": [
+    "ELos - Tiered Command UI Framework"
+  ],
+  "titles": [
+    "ELos - Tiered Command UI Framework"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083955.251208,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083955.251208,
+    "messageId": "b66fb994-7de7-4485-ae33-6c81271a089d",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083955.251208,
+      "messageId": "b66fb994-7de7-4485-ae33-6c81271a089d",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1392,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

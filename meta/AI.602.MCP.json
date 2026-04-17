@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.602.MCP",
+  "names": [
+    "AI.602.MCP"
+  ],
+  "titles": [
+    "AI.602.MCP"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756470.508611,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756470.508611,
+    "messageId": "20f56422-1e3e-4dd7-a86e-54f68bb69228",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756470.508611,
+      "messageId": "20f56422-1e3e-4dd7-a86e-54f68bb69228",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 858,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

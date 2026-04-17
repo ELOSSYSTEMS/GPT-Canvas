@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.404.AIWrapper",
+  "names": [
+    "AI.404.AIWrapper"
+  ],
+  "titles": [
+    "AI.404.AIWrapper"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756423.727712,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756423.727712,
+    "messageId": "855f9bcb-efaa-46c6-a672-ae7b07cb8a2a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756423.727712,
+      "messageId": "855f9bcb-efaa-46c6-a672-ae7b07cb8a2a",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 801,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

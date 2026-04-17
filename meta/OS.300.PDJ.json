@@ -1,0 +1,40 @@
+{
+  "artifactKey": "OS.300.PDJ",
+  "names": [
+    "Podcast Index – Solo Sessions January 2019"
+  ],
+  "titles": [
+    "Podcast Index – Solo Sessions January 2019"
+  ],
+  "conversations": [
+    "PODCAST TRANSCRIPTION"
+  ],
+  "latestTime": 1748079219.733435,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PODCAST TRANSCRIPTION",
+    "createTime": 1748079219.733435,
+    "messageId": "85eb2136-e8c1-4b7e-8e0f-bd5a57c26e90",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748079219.733435,
+      "messageId": "85eb2136-e8c1-4b7e-8e0f-bd5a57c26e90",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1730,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

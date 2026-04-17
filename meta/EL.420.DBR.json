@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.420.DBR",
+  "names": [
+    "EL.420.DBR – Dabroo Intent Engine for ELOS Translate"
+  ],
+  "titles": [
+    "EL.420.DBR – Dabroo Intent Engine for ELOS Translate"
+  ],
+  "conversations": [
+    "ELos Translate 2.0 Test"
+  ],
+  "latestTime": 1748717574.829407,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Translate 2.0 Test",
+    "createTime": 1748717574.829407,
+    "messageId": "00301085-a100-48ee-8d94-a4ea3d6241d1",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748717574.829407,
+      "messageId": "00301085-a100-48ee-8d94-a4ea3d6241d1",
+      "conversation": "ELos Translate 2.0 Test",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1732,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

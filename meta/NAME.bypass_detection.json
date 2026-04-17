@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.bypass_detection",
+  "names": [
+    "bypass_detection"
+  ],
+  "titles": [
+    "bypass_detection"
+  ],
+  "conversations": [
+    "ELos Translate 2.0 Test"
+  ],
+  "latestTime": 1748716803.378427,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Translate 2.0 Test",
+    "createTime": 1748716803.378427,
+    "messageId": "dc5e97ff-4b4c-4c1f-b69d-d5ebeb661c2d",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748716803.378427,
+      "messageId": "dc5e97ff-4b4c-4c1f-b69d-d5ebeb661c2d",
+      "conversation": "ELos Translate 2.0 Test",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 77,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

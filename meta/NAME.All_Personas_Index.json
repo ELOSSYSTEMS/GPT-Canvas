@@ -1,0 +1,64 @@
+{
+  "artifactKey": "NAME.All_Personas_Index",
+  "names": [
+    "All_Personas_Index"
+  ],
+  "titles": [
+    "All_Personas_Index"
+  ],
+  "conversations": [
+    "Active Personas in Allon OS"
+  ],
+  "latestTime": 1748202215.979672,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Active Personas in Allon OS",
+    "createTime": 1748202083.923082,
+    "messageId": "4411f930-2f1e-43fb-b1b5-fb38100bbcb2",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 1,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748201889.703428,
+      "messageId": "219e9c94-8519-4ff8-8025-fc6fdeade53a",
+      "conversation": "Active Personas in Allon OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2560,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748202083.923082,
+      "messageId": "4411f930-2f1e-43fb-b1b5-fb38100bbcb2",
+      "conversation": "Active Personas in Allon OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2660,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748202215.979672,
+      "messageId": "11f0b21a-fae8-4028-ba9c-29189a878606",
+      "conversation": "Active Personas in Allon OS",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 198,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "### 🔻 Inactive \\(Not Instantiated Yet\\)\\n1\\. \\*\\*The Assassin\\*\\*.*?"
+    }
+  ]
+}

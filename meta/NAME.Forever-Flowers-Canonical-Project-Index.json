@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Forever-Flowers-Canonical-Project-Index",
+  "names": [
+    "Forever Flowers – Canonical Project Index"
+  ],
+  "titles": [
+    "Forever Flowers – Canonical Project Index"
+  ],
+  "conversations": [
+    "Forever Flowers Site Review"
+  ],
+  "latestTime": 1767993478.464725,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Forever Flowers Site Review",
+    "createTime": 1767993478.464725,
+    "messageId": "4e9e8c07-0778-4b2b-a559-1a02681c3872",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1767993478.464725,
+      "messageId": "4e9e8c07-0778-4b2b-a559-1a02681c3872",
+      "conversation": "Forever Flowers Site Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2375,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

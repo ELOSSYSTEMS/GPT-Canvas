@@ -1,0 +1,40 @@
+{
+  "artifactKey": "DA.700.TSK",
+  "names": [
+    "Dabroo Free Extension Build Plan"
+  ],
+  "titles": [
+    "Dabroo Free Extension Build Plan"
+  ],
+  "conversations": [
+    "Dabroo AI Hebrew Analysis"
+  ],
+  "latestTime": 1747636550.229677,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo AI Hebrew Analysis",
+    "createTime": 1747636550.229677,
+    "messageId": "37f50292-d1fb-49e2-9d62-f56e17bfe0be",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747636550.229677,
+      "messageId": "37f50292-d1fb-49e2-9d62-f56e17bfe0be",
+      "conversation": "Dabroo AI Hebrew Analysis",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2943,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

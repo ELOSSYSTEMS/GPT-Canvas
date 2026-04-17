@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.order_email_hebrew_rtl",
+  "names": [
+    "order_email_hebrew_rtl"
+  ],
+  "titles": [
+    "order_email_hebrew_rtl"
+  ],
+  "conversations": [
+    "תרגום דוא\"ל לעברית"
+  ],
+  "latestTime": 1750255882.478205,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "תרגום דוא\"ל לעברית",
+    "createTime": 1750255882.478205,
+    "messageId": "98c43408-184d-4ced-a97f-36690ed07802",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750255813.993606,
+      "messageId": "7d945c38-096c-402b-af4e-313d4b3685b1",
+      "conversation": "תרגום דוא\"ל לעברית",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3017,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1750255882.478205,
+      "messageId": "98c43408-184d-4ced-a97f-36690ed07802",
+      "conversation": "תרגום דוא\"ל לעברית",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5533,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

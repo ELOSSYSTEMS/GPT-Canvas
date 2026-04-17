@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.forever_flowers_meeting_combined_updated",
+  "names": [
+    "forever_flowers_meeting_combined_updated"
+  ],
+  "titles": [
+    "forever_flowers_meeting_combined_updated"
+  ],
+  "conversations": [
+    "Forever Flowers Meeting Itinerary"
+  ],
+  "latestTime": 1745932534.438981,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Forever Flowers Meeting Itinerary",
+    "createTime": 1745932534.438981,
+    "messageId": "f7e58ad6-8aa1-440a-91c9-e04b582a82f4",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1745932534.438981,
+      "messageId": "f7e58ad6-8aa1-440a-91c9-e04b582a82f4",
+      "conversation": "Forever Flowers Meeting Itinerary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4393,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

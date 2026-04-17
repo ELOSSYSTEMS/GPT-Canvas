@@ -1,0 +1,52 @@
+{
+  "artifactKey": "AO.001.RBI.CANVAS.ALL",
+  "names": [
+    "AO.001.RBI.CANVAS.ALL"
+  ],
+  "titles": [
+    "AO.001.RBI.CANVAS.ALL"
+  ],
+  "conversations": [
+    "Stargate v3.1 Boot"
+  ],
+  "latestTime": 1748691760.087289,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Stargate v3.1 Boot",
+    "createTime": 1748691760.087289,
+    "messageId": "50474e66-85cc-40d7-911b-9d0ea27f0d5f",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748691727.064541,
+      "messageId": "d111bcde-83c3-4c20-9f62-158206e003c7",
+      "conversation": "Stargate v3.1 Boot",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 627,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748691760.087289,
+      "messageId": "50474e66-85cc-40d7-911b-9d0ea27f0d5f",
+      "conversation": "Stargate v3.1 Boot",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1091,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

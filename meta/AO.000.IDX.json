@@ -1,0 +1,48 @@
+{
+  "artifactKey": "AO.000.IDX",
+  "names": [],
+  "titles": [],
+  "conversations": [
+    "PR.100 Canvases Search"
+  ],
+  "latestTime": 1748559325.847532,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "PR.100 Canvases Search",
+    "createTime": 1748559325.847532,
+    "messageId": "ddb73f13-478e-4bc9-8f80-9192a98228b7",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748559144.303192,
+      "messageId": "4b25f44a-011b-4811-b725-3c18abb05ae0",
+      "conversation": "PR.100 Canvases Search",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2698,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748559325.847532,
+      "messageId": "ddb73f13-478e-4bc9-8f80-9192a98228b7",
+      "conversation": "PR.100 Canvases Search",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2950,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

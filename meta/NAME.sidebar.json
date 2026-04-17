@@ -1,0 +1,172 @@
+{
+  "artifactKey": "NAME.sidebar",
+  "names": [
+    "sidebar"
+  ],
+  "titles": [
+    "sidebar"
+  ],
+  "conversations": [
+    "Liquid Page Breakdown Issues"
+  ],
+  "latestTime": 1747170691.302844,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Liquid Page Breakdown Issues",
+    "createTime": 1747170691.302844,
+    "messageId": "afe84cc2-e52a-4de7-b4ee-3acc890e1725",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 12,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747167097.033121,
+      "messageId": "e297a4d9-61e5-465b-bc89-63f50a0af31c",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1655,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747167215.598705,
+      "messageId": "be4f340f-d92a-4728-98b9-d314a72a2655",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2771,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747167263.95247,
+      "messageId": "61f3895b-33bf-4160-a4ae-1d0e05d6f141",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3882,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747167386.318479,
+      "messageId": "c7927dda-a445-4c2b-8be6-5712187bd7bb",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5537,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747167557.976514,
+      "messageId": "8fd62d78-8569-4ce8-8011-cf359032e4ae",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3206,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747167720.053815,
+      "messageId": "143aeca0-355d-455a-b6e6-fc7c3da7341e",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5357,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747167955.431746,
+      "messageId": "96d5425a-91a6-40ce-914b-a01d728933b4",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3913,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747168231.584052,
+      "messageId": "2028678a-7ec6-466b-853c-024312f2aa99",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3868,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747168626.332986,
+      "messageId": "5b2c3710-4409-435a-87da-8757e2c6ca1f",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5277,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747168890.09715,
+      "messageId": "2273d210-22c5-40de-9631-b12498a4e1e9",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1163,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747169324.054084,
+      "messageId": "d3aca806-dfe8-4b7b-a489-d3fe0d8a5336",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3944,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747170691.302844,
+      "messageId": "afe84cc2-e52a-4de7-b4ee-3acc890e1725",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3923,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

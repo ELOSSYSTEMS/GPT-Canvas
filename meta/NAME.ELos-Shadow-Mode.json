@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Shadow-Mode",
+  "names": [
+    "ELos - Shadow Mode"
+  ],
+  "titles": [
+    "ELos - Shadow Mode"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748081995.624315,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748081995.624315,
+    "messageId": "da5b6f6d-1758-4c36-8a14-d1333be9a5d5",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748081995.624315,
+      "messageId": "da5b6f6d-1758-4c36-8a14-d1333be9a5d5",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1002,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

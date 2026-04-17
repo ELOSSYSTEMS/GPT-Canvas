@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.920.IA1",
+  "names": [
+    "Import Auditor Persona"
+  ],
+  "titles": [
+    "Import Auditor Persona"
+  ],
+  "conversations": [
+    "Critical Prompt Routing Protocol"
+  ],
+  "latestTime": 1748203853.948511,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Critical Prompt Routing Protocol",
+    "createTime": 1748203853.948511,
+    "messageId": "f5fd6fc7-e048-4420-b0ff-0dc9e264f8fb",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748203853.948511,
+      "messageId": "f5fd6fc7-e048-4420-b0ff-0dc9e264f8fb",
+      "conversation": "Critical Prompt Routing Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1629,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

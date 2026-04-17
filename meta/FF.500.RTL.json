@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.500.RTL",
+  "names": [
+    "Tentative Horizon UI RTL Port"
+  ],
+  "titles": [
+    "Tentative Horizon UI RTL Port"
+  ],
+  "conversations": [
+    "Shopify Features for Forever Flowers"
+  ],
+  "latestTime": 1747857668.733208,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Shopify Features for Forever Flowers",
+    "createTime": 1747857668.733208,
+    "messageId": "087f5d19-3874-4865-bc34-d074931198ed",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747857668.733208,
+      "messageId": "087f5d19-3874-4865-bc34-d074931198ed",
+      "conversation": "Shopify Features for Forever Flowers",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2920,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

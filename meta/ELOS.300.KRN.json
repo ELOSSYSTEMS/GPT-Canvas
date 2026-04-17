@@ -1,0 +1,68 @@
+{
+  "artifactKey": "ELOS.300.KRN",
+  "names": [
+    "ELos - Command Kernel & Execution Chains",
+    "Allon OS – Command QuickMenu UI",
+    "AO.500.CMD"
+  ],
+  "titles": [
+    "ELos - Command Kernel & Execution Chains",
+    "Allon OS – Command QuickMenu UI"
+  ],
+  "conversations": [
+    "Recursive Guidance for Beginners",
+    "Stargate v3.1 Boot"
+  ],
+  "latestTime": 1748693802.586525,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Stargate v3.1 Boot",
+    "createTime": 1748693802.586525,
+    "messageId": "8e167fe8-37a6-42f1-be3e-b8fcfea9acbe",
+    "heuristic": "create-payload",
+    "parseMode": "escaped-control-chars"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748074462.504334,
+      "messageId": "038155f5-488b-4f14-ad46-84306043191c",
+      "conversation": "Recursive Guidance for Beginners",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2695,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748075145.995598,
+      "messageId": "4cb653a7-64d3-4b1c-8a64-0c299c37175c",
+      "conversation": "Recursive Guidance for Beginners",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1930,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748693802.586525,
+      "messageId": "8e167fe8-37a6-42f1-be3e-b8fcfea9acbe",
+      "conversation": "Stargate v3.1 Boot",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2028,
+      "heuristic": "create-payload",
+      "parseMode": "escaped-control-chars",
+      "pattern": null
+    }
+  ]
+}

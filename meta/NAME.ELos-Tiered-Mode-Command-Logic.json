@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tiered-Mode-Command-Logic",
+  "names": [
+    "ELos - Tiered Mode Command Logic"
+  ],
+  "titles": [
+    "ELos - Tiered Mode Command Logic"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083400.036858,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083400.036858,
+    "messageId": "02d490ac-4951-487d-b467-15d6daec53ee",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083400.036858,
+      "messageId": "02d490ac-4951-487d-b467-15d6daec53ee",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1139,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

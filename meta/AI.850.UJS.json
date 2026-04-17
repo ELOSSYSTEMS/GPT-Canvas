@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.850.UJS",
+  "names": [
+    "Unified-Journaling-System"
+  ],
+  "titles": [
+    "Unified-Journaling-System"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748037740.228346,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748037740.228346,
+    "messageId": "cdcce35c-9b14-42b7-9ce3-26b68a942f84",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748037740.228346,
+      "messageId": "cdcce35c-9b14-42b7-9ce3-26b68a942f84",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1436,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.500.MYT",
+  "names": [
+    "AIOS-Myth-Engine-Core"
+  ],
+  "titles": [
+    "AIOS-Myth-Engine-Core"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748033631.141496,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748033631.141496,
+    "messageId": "6a0e2c9d-4e27-42c3-b06b-59bd0166e51c",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748033631.141496,
+      "messageId": "6a0e2c9d-4e27-42c3-b06b-59bd0166e51c",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1695,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

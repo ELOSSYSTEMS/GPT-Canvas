@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.960.SIM",
+  "names": [
+    "AO.960.SIM – Simulation Feedback Layer"
+  ],
+  "titles": [
+    "AO.960.SIM – Simulation Feedback Layer"
+  ],
+  "conversations": [
+    "Bootloader Execution Summary"
+  ],
+  "latestTime": 1749329489.446515,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Execution Summary",
+    "createTime": 1749329489.446515,
+    "messageId": "6435cac7-7f24-4681-850f-0e8fbd1ca8a6",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749329489.446515,
+      "messageId": "6435cac7-7f24-4681-850f-0e8fbd1ca8a6",
+      "conversation": "Bootloader Execution Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1653,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos_Pro_Gating",
+  "names": [
+    "ELos_Pro_Gating"
+  ],
+  "titles": [
+    "ELos_Pro_Gating"
+  ],
+  "conversations": [
+    "ELos academy integration"
+  ],
+  "latestTime": 1748098704.228997,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos academy integration",
+    "createTime": 1748098704.228997,
+    "messageId": "e39ef8b3-4df7-4b4d-9dcd-c4936ef86adc",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748098704.228997,
+      "messageId": "e39ef8b3-4df7-4b4d-9dcd-c4936ef86adc",
+      "conversation": "ELos academy integration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1700,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Shipping-Notification-Hebrew-RTL",
+  "names": [
+    "Shipping Notification Hebrew RTL"
+  ],
+  "titles": [
+    "Shipping Notification Hebrew RTL"
+  ],
+  "conversations": [
+    "תרגום דוא\"ל לעברית"
+  ],
+  "latestTime": 1750256016.430919,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "תרגום דוא\"ל לעברית",
+    "createTime": 1750256016.430919,
+    "messageId": "b2be34c0-2148-4ad5-bde5-11d89174e06b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750256016.430919,
+      "messageId": "b2be34c0-2148-4ad5-bde5-11d89174e06b",
+      "conversation": "תרגום דוא\"ל לעברית",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 6317,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

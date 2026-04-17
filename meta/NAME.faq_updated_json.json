@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.faq_updated_json",
+  "names": [
+    "faq_updated_json"
+  ],
+  "titles": [
+    "faq_updated_json"
+  ],
+  "conversations": [
+    "Boot Sequence Overview"
+  ],
+  "latestTime": 1750163214.804082,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Boot Sequence Overview",
+    "createTime": 1750163214.804082,
+    "messageId": "a2fa725e-e282-4be6-a925-2ff5d43e7261",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750163160.846164,
+      "messageId": "a51516e8-2da1-41ce-8b21-090683667b5a",
+      "conversation": "Boot Sequence Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1407,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1750163214.804082,
+      "messageId": "a2fa725e-e282-4be6-a925-2ff5d43e7261",
+      "conversation": "Boot Sequence Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2396,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

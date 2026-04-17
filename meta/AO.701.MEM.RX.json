@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.701.MEM.RX",
+  "names": [
+    "AO.701.MEM.RX – Recursive Memory Reinforcement Protocol"
+  ],
+  "titles": [
+    "AO.701.MEM.RX – Recursive Memory Reinforcement Protocol"
+  ],
+  "conversations": [
+    "Bootloader Execution Summary"
+  ],
+  "latestTime": 1749329343.832423,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Execution Summary",
+    "createTime": 1749329343.832423,
+    "messageId": "8c49fa9b-5b4f-4bee-a97d-a34ec6e6349b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749329343.832423,
+      "messageId": "8c49fa9b-5b4f-4bee-a97d-a34ec6e6349b",
+      "conversation": "Bootloader Execution Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1221,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

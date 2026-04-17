@@ -1,0 +1,48 @@
+{
+  "previousSummary": {
+    "exportPath": "/home/elos/chatgpt-export-2026-02-16/conversations.json",
+    "recoveredArtifacts": 625,
+    "artifactKeysObserved": 626,
+    "fullBodyOperations": 1117,
+    "partialOperations": 176,
+    "parseFailures": 96,
+    "identifiersSeen": 1374,
+    "missingIdentifiers": 1034,
+    "conflictingArtifacts": 47
+  },
+  "currentSummary": {
+    "exportPath": "/home/elos/chatgpt-export-2026-02-16/conversations.json",
+    "recoveredArtifacts": 644,
+    "completeLatestBodies": 634,
+    "partialLatestBodies": 10,
+    "artifactKeysObserved": 645,
+    "totalOperations": 1335,
+    "fullBodyOperations": 1158,
+    "completeBodyOperations": 1136,
+    "partialBodyOperations": 22,
+    "appliedPartialOperations": 77,
+    "unresolvedPartialOperations": 96,
+    "regexErrors": 4,
+    "parseFailures": 54,
+    "identifiersSeen": 1374,
+    "missingIdentifiers": 1026,
+    "conflictingArtifacts": 49,
+    "previousSummary": {
+      "exportPath": "/home/elos/chatgpt-export-2026-02-16/conversations.json",
+      "recoveredArtifacts": 625,
+      "artifactKeysObserved": 626,
+      "fullBodyOperations": 1117,
+      "partialOperations": 176,
+      "parseFailures": 96,
+      "identifiersSeen": 1374,
+      "missingIdentifiers": 1034,
+      "conflictingArtifacts": 47
+    }
+  },
+  "delta": {
+    "recoveredArtifacts": 19,
+    "parseFailures": -42,
+    "missingIdentifiers": -8,
+    "conflictingArtifacts": 2
+  }
+}

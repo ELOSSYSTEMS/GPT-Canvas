@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tiered-Diff-Command-Logic",
+  "names": [
+    "ELos - Tiered Diff Command Logic"
+  ],
+  "titles": [
+    "ELos - Tiered Diff Command Logic"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083419.780057,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083419.780057,
+    "messageId": "0e961b11-8b8a-4883-bfdd-ca624c693e96",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083419.780057,
+      "messageId": "0e961b11-8b8a-4883-bfdd-ca624c693e96",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1051,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

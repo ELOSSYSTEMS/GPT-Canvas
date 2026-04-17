@@ -1,0 +1,52 @@
+{
+  "artifactKey": "DA.300.RTL-LITE",
+  "names": [
+    "DA.300.RTL-LITE"
+  ],
+  "titles": [
+    "DA.300.RTL-LITE"
+  ],
+  "conversations": [
+    "ChatGPT Prompts from Israel"
+  ],
+  "latestTime": 1747862095.895556,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "ChatGPT Prompts from Israel",
+    "createTime": 1747862095.895556,
+    "messageId": "edd2643d-6c47-421d-8747-e5565f5841b6",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747862035.711702,
+      "messageId": "b9348937-137b-405c-9167-79596eaafe10",
+      "conversation": "ChatGPT Prompts from Israel",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1264,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747862095.895556,
+      "messageId": "edd2643d-6c47-421d-8747-e5565f5841b6",
+      "conversation": "ChatGPT Prompts from Israel",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1154,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

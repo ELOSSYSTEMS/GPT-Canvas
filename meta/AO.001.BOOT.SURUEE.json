@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.001.BOOT.SURUEE",
+  "names": [
+    "AO.001.BOOT.SURUEE"
+  ],
+  "titles": [
+    "AO.001.BOOT.SURUEE"
+  ],
+  "conversations": [
+    "Command Input Initialization"
+  ],
+  "latestTime": 1748677318.992384,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Command Input Initialization",
+    "createTime": 1748677318.992384,
+    "messageId": "9ec69b3b-1680-42cb-b887-bb75eb7d3a94",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748677318.992384,
+      "messageId": "9ec69b3b-1680-42cb-b887-bb75eb7d3a94",
+      "conversation": "Command Input Initialization",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 582,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

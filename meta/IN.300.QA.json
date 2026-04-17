@@ -1,0 +1,64 @@
+{
+  "artifactKey": "IN.300.QA",
+  "names": [
+    "GPTOS – Risk & Contingency Matrix"
+  ],
+  "titles": [
+    "GPTOS – Risk & Contingency Matrix"
+  ],
+  "conversations": [
+    "NEW CHATPT OS APP"
+  ],
+  "latestTime": 1748029102.539329,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "NEW CHATPT OS APP",
+    "createTime": 1748029102.539329,
+    "messageId": "1295f871-b4c0-496c-9cfa-12ef5e821b2a",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748023009.143393,
+      "messageId": "354a97a4-05d1-4f5b-8eb6-dae550415280",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3110,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748028661.155022,
+      "messageId": "d9c4b00f-856d-4fcd-854d-e29498fe00ee",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3632,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748029102.539329,
+      "messageId": "1295f871-b4c0-496c-9cfa-12ef5e821b2a",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4216,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

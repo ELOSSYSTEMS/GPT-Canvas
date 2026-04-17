@@ -1,0 +1,53 @@
+{
+  "artifactKey": "AO.910.PRM",
+  "names": [
+    "AO.910.PRM.Vault"
+  ],
+  "titles": [
+    "AO.910.PRM.Vault"
+  ],
+  "conversations": [
+    "Bootloader Activation Summary",
+    "Prompt Library Overview"
+  ],
+  "latestTime": 1749496353.624776,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Library Overview",
+    "createTime": 1749496353.624776,
+    "messageId": "a3a21e1b-8e1c-425d-bdd2-f2250742a1dc",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 1,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749130976.937653,
+      "messageId": "0cf9c063-e372-42a7-8c5a-bc55ebbfe363",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 164,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": "Load all indexed canvases including AO\\.910\\.PRM\\.LIB_Full"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749496353.624776,
+      "messageId": "a3a21e1b-8e1c-425d-bdd2-f2250742a1dc",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 702,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

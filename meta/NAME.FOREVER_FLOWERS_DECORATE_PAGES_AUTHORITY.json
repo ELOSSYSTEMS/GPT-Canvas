@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.FOREVER_FLOWERS_DECORATE_PAGES_AUTHORITY",
+  "names": [
+    "FOREVER_FLOWERS_DECORATE_PAGES_AUTHORITY"
+  ],
+  "titles": [
+    "FOREVER_FLOWERS_DECORATE_PAGES_AUTHORITY"
+  ],
+  "conversations": [
+    "Forever Flowers Site Review"
+  ],
+  "latestTime": 1767994857.995538,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Forever Flowers Site Review",
+    "createTime": 1767994857.995538,
+    "messageId": "805e95c8-da81-4bdc-bce2-d473bdcf55a2",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1767994857.995538,
+      "messageId": "805e95c8-da81-4bdc-bce2-d473bdcf55a2",
+      "conversation": "Forever Flowers Site Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2419,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

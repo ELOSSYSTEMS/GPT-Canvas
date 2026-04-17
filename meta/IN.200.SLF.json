@@ -1,0 +1,52 @@
+{
+  "artifactKey": "IN.200.SLF",
+  "names": [
+    "AI OS – Who Am I Module"
+  ],
+  "titles": [
+    "AI OS – Who Am I Module"
+  ],
+  "conversations": [
+    "NEW CHATPT OS APP"
+  ],
+  "latestTime": 1748030736.597157,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "NEW CHATPT OS APP",
+    "createTime": 1748030736.597157,
+    "messageId": "3699849b-6d68-4b8a-9099-528057ffd13f",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748030391.183495,
+      "messageId": "998ccd53-8755-4e2c-b4e7-40a1b69776f9",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3149,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748030736.597157,
+      "messageId": "3699849b-6d68-4b8a-9099-528057ffd13f",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3472,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

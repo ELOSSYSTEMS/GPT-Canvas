@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tiered-Clear-Command-Logic",
+  "names": [
+    "ELos - Tiered Clear Command Logic"
+  ],
+  "titles": [
+    "ELos - Tiered Clear Command Logic"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083472.480739,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083472.480739,
+    "messageId": "03da449f-6a4b-45cf-b41a-3509d8399804",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083472.480739,
+      "messageId": "03da449f-6a4b-45cf-b41a-3509d8399804",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 990,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

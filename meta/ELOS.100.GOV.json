@@ -1,0 +1,40 @@
+{
+  "artifactKey": "ELOS.100.GOV",
+  "names": [
+    "The Governor"
+  ],
+  "titles": [
+    "The Governor"
+  ],
+  "conversations": [
+    "ELos Buildout Structure"
+  ],
+  "latestTime": 1748089745.261739,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Buildout Structure",
+    "createTime": 1748089745.261739,
+    "messageId": "1a07d8bc-0e38-49a4-9de2-9450897494dc",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748089745.261739,
+      "messageId": "1a07d8bc-0e38-49a4-9de2-9450897494dc",
+      "conversation": "ELos Buildout Structure",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1315,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

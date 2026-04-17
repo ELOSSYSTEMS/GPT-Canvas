@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.205.Training",
+  "names": [
+    "AI.205.Training"
+  ],
+  "titles": [
+    "AI.205.Training"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756306.733481,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756306.733481,
+    "messageId": "03632299-cc66-4a29-9e0d-107388741bb7",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756306.733481,
+      "messageId": "03632299-cc66-4a29-9e0d-107388741bb7",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 857,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

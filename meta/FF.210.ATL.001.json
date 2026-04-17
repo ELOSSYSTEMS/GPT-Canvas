@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.210.ATL.001",
+  "names": [
+    "FF.210.ATL.001 – Harvest Song Atelier Bouquet"
+  ],
+  "titles": [
+    "FF.210.ATL.001 – Harvest Song Atelier Bouquet"
+  ],
+  "conversations": [
+    "FF OS Brand Strategy"
+  ],
+  "latestTime": 1749710737.148138,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "FF OS Brand Strategy",
+    "createTime": 1749710737.148138,
+    "messageId": "cc7f76d9-5d7a-43e1-b73a-00fb4925104b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749710737.148138,
+      "messageId": "cc7f76d9-5d7a-43e1-b73a-00fb4925104b",
+      "conversation": "FF OS Brand Strategy",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1236,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "artifactKey": "NAME.logo_list_section",
+  "names": [
+    "logo_list_section"
+  ],
+  "titles": [
+    "logo_list_section"
+  ],
+  "conversations": [
+    "Logo List Adjustments"
+  ],
+  "latestTime": 1738489736.642888,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Logo List Adjustments",
+    "createTime": 1738489736.642888,
+    "messageId": "f1d671cd-efbc-4738-a977-e6e75d016513",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1738489323.790234,
+      "messageId": "7efceacf-e4cd-4a11-a56f-1971b740071b",
+      "conversation": "Logo List Adjustments",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3863,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1738489623.95818,
+      "messageId": "f36fbc33-01ad-42b5-a10d-91513fbe836d",
+      "conversation": "Logo List Adjustments",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4058,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1738489736.642888,
+      "messageId": "f1d671cd-efbc-4738-a977-e6e75d016513",
+      "conversation": "Logo List Adjustments",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4154,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.210.ATL.002",
+  "names": [
+    "FF.210.ATL.002 – מנגינה קצרה (Atelier Mini)"
+  ],
+  "titles": [
+    "FF.210.ATL.002 – מנגינה קצרה (Atelier Mini)"
+  ],
+  "conversations": [
+    "FF OS Brand Strategy"
+  ],
+  "latestTime": 1749711076.516025,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "FF OS Brand Strategy",
+    "createTime": 1749711076.516025,
+    "messageId": "06acc71c-1816-40b0-a78c-f8a04d77c813",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749711076.516025,
+      "messageId": "06acc71c-1816-40b0-a78c-f8a04d77c813",
+      "conversation": "FF OS Brand Strategy",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1165,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

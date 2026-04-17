@@ -1,0 +1,154 @@
+{
+  "artifactKey": "AO.911.IDE",
+  "names": [
+    "Intent Diff Engine",
+    "AO.911.IDE – Intelligent Design Engine",
+    "EL2.120.CommandGlossary"
+  ],
+  "titles": [
+    "Intent Diff Engine",
+    "AO.911.IDE – Intelligent Design Engine",
+    "EL2.120.CommandGlossary"
+  ],
+  "conversations": [
+    "Critical Prompt Routing Protocol",
+    "Bootloader Activation Summary",
+    "Bootloader Execution Summary"
+  ],
+  "latestTime": 1749329196.71264,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Execution Summary",
+    "createTime": 1749329196.71264,
+    "messageId": "8ee308dd-108b-45fd-b88b-e3ad07974863",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 5,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 5,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748203730.887211,
+      "messageId": "7cf85833-4f38-411b-a267-d76a0eee6dfd",
+      "conversation": "Critical Prompt Routing Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1935,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749131300.847335,
+      "messageId": "39a989c2-46f9-4fac-8740-93769b422805",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1801,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749131345.961235,
+      "messageId": "8201d9b2-c566-4f95-9b30-cf7ab9a29d3e",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2655,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749131389.188843,
+      "messageId": "732bc8a9-42cb-48d6-853b-c3d8e2834a93",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 124,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": "Activate ELoS Prompt Protocol v3\\.1-total-fireproofed \\(includes Stargate Protocol\\)"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749131393.39147,
+      "messageId": "6ec6bcaa-258f-47a7-a443-0eeb3934840c",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 124,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": "Activate ELoS Prompt Protocol v3\\.1-total-fireproofed \\(includes Stargate Protocol\\)"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749131400.604801,
+      "messageId": "d9feef6b-f82e-4211-b816-f7d3aed3c287",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 124,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": "Activate ELoS Prompt Protocol v3\\.1-total-fireproofed"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749131430.757234,
+      "messageId": "830583dd-f197-4376-ac06-93ff3e19a16b",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 122,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": "Activate ELoS Prompt Protocol v3\\.1-total-fireproofed \\(includes Stargate Protocol\\)"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749131433.687498,
+      "messageId": "c0b103c3-0aaf-46f7-9048-ce2398d141bf",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 122,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": "Activate ELoS Prompt Protocol v3\\.1.*?Stargate Protocol\\)"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749132299.340071,
+      "messageId": "66111ebc-e8d5-4e68-ae35-7f22718f37eb",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2673,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749329196.71264,
+      "messageId": "8ee308dd-108b-45fd-b88b-e3ad07974863",
+      "conversation": "Bootloader Execution Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2624,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

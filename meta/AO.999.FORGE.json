@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.999.FORGE",
+  "names": [
+    "AO.999.FORGE"
+  ],
+  "titles": [
+    "AO.999.FORGE"
+  ],
+  "conversations": [
+    "Recursive System Exploration"
+  ],
+  "latestTime": 1748204731.469769,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Recursive System Exploration",
+    "createTime": 1748204731.469769,
+    "messageId": "d67399e5-370e-4a8b-824d-8dcce8da72ac",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748204731.469769,
+      "messageId": "d67399e5-370e-4a8b-824d-8dcce8da72ac",
+      "conversation": "Recursive System Exploration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1993,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

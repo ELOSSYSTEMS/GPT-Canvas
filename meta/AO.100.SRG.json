@@ -1,0 +1,55 @@
+{
+  "artifactKey": "AO.100.SRG",
+  "names": [
+    "AO.100.SRG.PersonaCard",
+    "AO.100.SRG – Prompt Surgeon"
+  ],
+  "titles": [
+    "AO.100.SRG.PersonaCard",
+    "AO.100.SRG – Prompt Surgeon"
+  ],
+  "conversations": [
+    "PROMPT PROTOCOL OPTIMIZATION",
+    "Canvas List Retrieval"
+  ],
+  "latestTime": 1753972849.120253,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Canvas List Retrieval",
+    "createTime": 1753972849.120253,
+    "messageId": "e628b32e-580b-486f-9f2d-4be23b766dba",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748974734.365912,
+      "messageId": "977bd6e5-212b-45e6-b823-bdc85a3ac950",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 986,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753972849.120253,
+      "messageId": "e628b32e-580b-486f-9f2d-4be23b766dba",
+      "conversation": "Canvas List Retrieval",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1516,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Podcast-Jan-9-2019",
+  "names": [
+    "Podcast - Jan 9, 2019"
+  ],
+  "titles": [
+    "What We Control and What We Don’t"
+  ],
+  "conversations": [
+    "PODCAST TRANSCRIPTION"
+  ],
+  "latestTime": 1748031243.674758,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PODCAST TRANSCRIPTION",
+    "createTime": 1748031243.674758,
+    "messageId": "31205dff-51e9-4069-b54b-5727e14d85f2",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748031243.674758,
+      "messageId": "31205dff-51e9-4069-b54b-5727e14d85f2",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1839,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

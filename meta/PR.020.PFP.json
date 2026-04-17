@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.020.PFP",
+  "names": [
+    "PR.020.PFP_Prompt_Forge"
+  ],
+  "titles": [
+    "PR.020.PFP_Prompt_Forge"
+  ],
+  "conversations": [
+    "BUILDING THE WEBAPP"
+  ],
+  "latestTime": 1750596841.209145,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "BUILDING THE WEBAPP",
+    "createTime": 1750596841.209145,
+    "messageId": "bcad1ff5-3435-4df1-a9a3-d9a6d1bdbebc",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750596841.209145,
+      "messageId": "bcad1ff5-3435-4df1-a9a3-d9a6d1bdbebc",
+      "conversation": "BUILDING THE WEBAPP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1115,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

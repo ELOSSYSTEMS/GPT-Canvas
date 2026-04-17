@@ -1,0 +1,102 @@
+{
+  "artifactKey": "IN.100.SYS",
+  "names": [
+    "Allon OS – System Overview",
+    "GPTOS – Strategic Blind Spots & Pre-Build Alignment"
+  ],
+  "titles": [
+    "Allon OS – System Overview",
+    "GPTOS – Strategic Blind Spots & Pre-Build Alignment"
+  ],
+  "conversations": [
+    "NEW CHATPT OS APP"
+  ],
+  "latestTime": 1748027282.054968,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "NEW CHATPT OS APP",
+    "createTime": 1748027282.054968,
+    "messageId": "82b070ab-4301-4aa1-8fd1-eeee9d96fda6",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 2,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748014098.989498,
+      "messageId": "ecf3d923-995b-42fb-a383-6b63350a153a",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1581,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748014207.785837,
+      "messageId": "8f805e3b-dfb6-4a7c-b5b4-4b768bd98148",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 5,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Allon OS"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748014207.785837,
+      "messageId": "8f805e3b-dfb6-4a7c-b5b4-4b768bd98148",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 21,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "(?<=\\*\\*System Name:\\*\\* ).*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748014260.135089,
+      "messageId": "3fb9c121-dffa-4396-8caf-66efab6265ad",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1588,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748014364.559048,
+      "messageId": "5942cdd1-84cb-435b-b6b1-c66d7c7e0cf7",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2026,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748027282.054968,
+      "messageId": "82b070ab-4301-4aa1-8fd1-eeee9d96fda6",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2532,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

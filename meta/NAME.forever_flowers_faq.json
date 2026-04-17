@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.forever_flowers_faq",
+  "names": [
+    "forever_flowers_faq"
+  ],
+  "titles": [
+    "forever_flowers_faq"
+  ],
+  "conversations": [
+    "FAQ Page Creation"
+  ],
+  "latestTime": 1750656840.964035,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "FAQ Page Creation",
+    "createTime": 1750656840.964035,
+    "messageId": "af7dcbd9-c87d-4545-a09d-b82ded0c97f8",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750656840.964035,
+      "messageId": "af7dcbd9-c87d-4545-a09d-b82ded0c97f8",
+      "conversation": "FAQ Page Creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3668,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

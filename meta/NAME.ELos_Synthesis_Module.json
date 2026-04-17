@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos_Synthesis_Module",
+  "names": [
+    "ELos_Synthesis_Module"
+  ],
+  "titles": [
+    "ELos_Synthesis_Module"
+  ],
+  "conversations": [
+    "ELos Protocol Success Potential"
+  ],
+  "latestTime": 1748459594.492327,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Protocol Success Potential",
+    "createTime": 1748459594.492327,
+    "messageId": "37149867-b33a-4cfb-9f72-6c8e90e8b6e0",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748459594.492327,
+      "messageId": "37149867-b33a-4cfb-9f72-6c8e90e8b6e0",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1659,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

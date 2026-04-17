@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.290.ICL",
+  "names": [
+    "AO.290.ICL – Inner Circle Archive"
+  ],
+  "titles": [
+    "AO.290.ICL – Inner Circle Archive"
+  ],
+  "conversations": [
+    "PR.100 Canvases Search"
+  ],
+  "latestTime": 1748560797.624207,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PR.100 Canvases Search",
+    "createTime": 1748560797.624207,
+    "messageId": "1d83cc16-e3d6-4d1b-9f9c-a15b365e3764",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748560797.624207,
+      "messageId": "1d83cc16-e3d6-4d1b-9f9c-a15b365e3764",
+      "conversation": "PR.100 Canvases Search",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1353,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

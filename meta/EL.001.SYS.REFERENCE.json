@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.001.SYS.REFERENCE",
+  "names": [
+    "AO.300.BTL.ELosExtensionLink"
+  ],
+  "titles": [
+    "AO.300.BTL.ELosExtensionLink"
+  ],
+  "conversations": [
+    "NEW ELOS EXTENSION"
+  ],
+  "latestTime": 1749478522.228985,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "NEW ELOS EXTENSION",
+    "createTime": 1749478522.228985,
+    "messageId": "d64d191c-e114-4e9f-8541-411964471bbf",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749478522.228985,
+      "messageId": "d64d191c-e114-4e9f-8541-411964471bbf",
+      "conversation": "NEW ELOS EXTENSION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 218,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.702.Compute",
+  "names": [
+    "AI.702.Compute"
+  ],
+  "titles": [
+    "AI.702.Compute"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756495.790271,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756495.790271,
+    "messageId": "840b1693-4768-46f6-b993-a6027f6f33de",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756495.790271,
+      "messageId": "840b1693-4768-46f6-b993-a6027f6f33de",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 759,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

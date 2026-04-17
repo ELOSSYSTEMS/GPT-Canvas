@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.forever_flowers_full_deep_dive_master",
+  "names": [
+    "forever_flowers_full_deep_dive_master"
+  ],
+  "titles": [
+    "forever_flowers_full_deep_dive_master"
+  ],
+  "conversations": [
+    "Forever Flowers Meeting Itinerary"
+  ],
+  "latestTime": 1745938883.997831,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Forever Flowers Meeting Itinerary",
+    "createTime": 1745938883.997831,
+    "messageId": "4de57a57-0af2-4ee7-b0b3-e78f3f7cc0b0",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1745938883.997831,
+      "messageId": "4de57a57-0af2-4ee7-b0b3-e78f3f7cc0b0",
+      "conversation": "Forever Flowers Meeting Itinerary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 6120,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

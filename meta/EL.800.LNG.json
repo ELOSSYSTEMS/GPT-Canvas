@@ -1,0 +1,88 @@
+{
+  "artifactKey": "EL.800.LNG",
+  "names": [
+    "EL.900.LNG.UserLanguagePacks"
+  ],
+  "titles": [
+    "EL.900.LNG.UserLanguagePacks"
+  ],
+  "conversations": [
+    "BUILDING CANVAS MODULE"
+  ],
+  "latestTime": 1749321417.662721,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "BUILDING CANVAS MODULE",
+    "createTime": 1749321417.662721,
+    "messageId": "2827ae7e-5b93-47b8-ba74-6e3ac1cbb9aa",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 5,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749320414.690035,
+      "messageId": "935a9210-31f5-49d4-ab13-64ea7c3fd313",
+      "conversation": "BUILDING CANVAS MODULE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2301,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749321206.089142,
+      "messageId": "2fbfffe1-d364-4da3-8f40-2b9f21846089",
+      "conversation": "BUILDING CANVAS MODULE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1367,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749321243.438293,
+      "messageId": "b1d454d4-7d57-4148-b5bc-6165b916a34a",
+      "conversation": "BUILDING CANVAS MODULE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1164,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749321277.032882,
+      "messageId": "cac60c2e-3924-4ba9-9a9f-d0847449d399",
+      "conversation": "BUILDING CANVAS MODULE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2324,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749321417.662721,
+      "messageId": "2827ae7e-5b93-47b8-ba74-6e3ac1cbb9aa",
+      "conversation": "BUILDING CANVAS MODULE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3538,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

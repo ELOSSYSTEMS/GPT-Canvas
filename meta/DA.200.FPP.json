@@ -1,0 +1,40 @@
+{
+  "artifactKey": "DA.200.FPP",
+  "names": [
+    "New Approach to Dabroo AI Freemium Plus"
+  ],
+  "titles": [
+    "New Approach to Dabroo AI Freemium Plus"
+  ],
+  "conversations": [
+    "ChatGPT Prompts from Israel"
+  ],
+  "latestTime": 1747843125.308163,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ChatGPT Prompts from Israel",
+    "createTime": 1747843125.308163,
+    "messageId": "72d07aab-77f4-49fd-a2de-011d2d569917",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747843125.308163,
+      "messageId": "72d07aab-77f4-49fd-a2de-011d2d569917",
+      "conversation": "ChatGPT Prompts from Israel",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2326,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

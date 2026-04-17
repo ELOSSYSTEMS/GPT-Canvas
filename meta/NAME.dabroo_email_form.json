@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.dabroo_email_form",
+  "names": [
+    "dabroo_email_form"
+  ],
+  "titles": [
+    "dabroo_email_form"
+  ],
+  "conversations": [
+    "Mobile Icon Display Fix"
+  ],
+  "latestTime": 1747014917.937061,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mobile Icon Display Fix",
+    "createTime": 1747014917.937061,
+    "messageId": "b2515762-4364-4640-9d98-ed9020d0c4b9",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747014917.937061,
+      "messageId": "b2515762-4364-4640-9d98-ed9020d0c4b9",
+      "conversation": "Mobile Icon Display Fix",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1992,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

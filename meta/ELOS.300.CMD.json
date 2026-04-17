@@ -1,0 +1,79 @@
+{
+  "artifactKey": "ELOS.300.CMD",
+  "names": [
+    "ELos - Pro Tier: Sovereign Command Protocol",
+    "ELOS.300.CMD – Pro Tier: Sovereign Command Protocol"
+  ],
+  "titles": [
+    "ELos - Pro Tier: Sovereign Command Protocol (SCP)",
+    "Pro Tier: Sovereign Command Protocol"
+  ],
+  "conversations": [
+    "Recursive Guidance for Beginners",
+    "Bootloader Sequence Initiated"
+  ],
+  "latestTime": 1749162350.916013,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Sequence Initiated",
+    "createTime": 1749162306.784326,
+    "messageId": "16aab7e1-74e7-44bb-8bcc-14a63f8643fb",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 2,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748072391.699302,
+      "messageId": "915d4c63-c57d-4ce1-9fa5-7906d92ae6c6",
+      "conversation": "Recursive Guidance for Beginners",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2193,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749162306.784326,
+      "messageId": "16aab7e1-74e7-44bb-8bcc-14a63f8643fb",
+      "conversation": "Bootloader Sequence Initiated",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2946,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749162350.916013,
+      "messageId": "6d7764ec-9e68-4751-a3c2-1294c4b347c6",
+      "conversation": "Bootloader Sequence Initiated",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 220,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "```bash\\n/fireproof .*?\\n/translate .*?\\n/stargate .*?\\n/rewrite .*?\\n```"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749162350.916013,
+      "messageId": "6d7764ec-9e68-4751-a3c2-1294c4b347c6",
+      "conversation": "Bootloader Sequence Initiated",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 10,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "slash commands"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.700.MODE",
+  "names": [
+    "data2_stoicgov_upgrade"
+  ],
+  "titles": [
+    "data2_stoicgov_upgrade"
+  ],
+  "conversations": [
+    "Prompt Expansion Ready"
+  ],
+  "latestTime": 1749675142.828135,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Expansion Ready",
+    "createTime": 1749675142.828135,
+    "messageId": "ee7fa319-8e6c-4df4-99d6-6316c8242cb5",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749675142.828135,
+      "messageId": "ee7fa319-8e6c-4df4-99d6-6316c8242cb5",
+      "conversation": "Prompt Expansion Ready",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2938,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

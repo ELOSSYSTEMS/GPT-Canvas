@@ -1,0 +1,76 @@
+{
+  "artifactKey": "PR.100.ALL",
+  "names": [
+    "PR.100.ALL – Allon Personality Core"
+  ],
+  "titles": [
+    "PR.100.ALL – Allon Personality Core"
+  ],
+  "conversations": [
+    "PODCAST TRANSCRIPTION"
+  ],
+  "latestTime": 1747607130.094069,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "PODCAST TRANSCRIPTION",
+    "createTime": 1747607130.094069,
+    "messageId": "94a684a6-d066-4f1a-bff7-93f9b453db5e",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747606875.123621,
+      "messageId": "8ffe4e3a-9c92-406c-aba9-ee83191ccf56",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4590,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747606958.76315,
+      "messageId": "90621537-0017-4035-9235-05fce376d1ef",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5257,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747607086.537217,
+      "messageId": "47bf819a-aadb-4dc6-8a2a-a6a28c0daf68",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1538,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747607130.094069,
+      "messageId": "94a684a6-d066-4f1a-bff7-93f9b453db5e",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2475,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

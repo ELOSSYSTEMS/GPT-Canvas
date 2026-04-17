@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-System-Overview-v2.0",
+  "names": [
+    "ELos - System Overview v2.0"
+  ],
+  "titles": [
+    "ELos - System Overview v2.0"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748082590.263272,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748082590.263272,
+    "messageId": "85df0c2c-b0ed-45c8-a05b-09ebe2e47448",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748082590.263272,
+      "messageId": "85df0c2c-b0ed-45c8-a05b-09ebe2e47448",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2616,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

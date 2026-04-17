@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.000.IDX",
+  "names": [
+    "Persona Index: Inner & Functional"
+  ],
+  "titles": [
+    "Persona Index: Inner & Functional"
+  ],
+  "conversations": [
+    "Dabroo Power User Guide"
+  ],
+  "latestTime": 1747609399.4964,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo Power User Guide",
+    "createTime": 1747609399.4964,
+    "messageId": "a221dfe1-6455-4ccf-aa5a-b0114efd4835",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747609399.4964,
+      "messageId": "a221dfe1-6455-4ccf-aa5a-b0114efd4835",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1662,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

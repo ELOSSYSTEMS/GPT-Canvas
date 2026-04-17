@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.forever_flowers_loccitane",
+  "names": [
+    "forever_flowers_loccitane"
+  ],
+  "titles": [
+    "forever_flowers_loccitane"
+  ],
+  "conversations": [
+    "L'Occitane Brand Overview"
+  ],
+  "latestTime": 1739886848.260612,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "L'Occitane Brand Overview",
+    "createTime": 1739886848.260612,
+    "messageId": "60dba681-9143-44d7-bff2-e9c1cbf26096",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1739885976.562438,
+      "messageId": "c6208b5a-f5cb-4c9d-93fe-c1b5a5c7721f",
+      "conversation": "L'Occitane Brand Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2127,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1739886848.260612,
+      "messageId": "60dba681-9143-44d7-bff2-e9c1cbf26096",
+      "conversation": "L'Occitane Brand Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2282,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.unnamed",
+  "names": [
+    "איך זה מושך את הלקוחות הנכונים — הסבר משותף (אלון → שירן)"
+  ],
+  "titles": [
+    "איך זה מושך את הלקוחות הנכונים — הסבר משותף (אלון → שירן)"
+  ],
+  "conversations": [
+    "SUB WEB REBUILD"
+  ],
+  "latestTime": 1769481668.402046,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "SUB WEB REBUILD",
+    "createTime": 1769481668.402046,
+    "messageId": "182a68eb-78bb-41fe-b0fd-0e5f624d576f",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 1,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1769481631.129309,
+      "messageId": "9dfe0775-78ff-4d63-86a0-645e7cd3e910",
+      "conversation": "SUB WEB REBUILD",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 455,
+      "heuristic": "create-payload",
+      "parseMode": "regex-create-partial",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1769481668.402046,
+      "messageId": "182a68eb-78bb-41fe-b0fd-0e5f624d576f",
+      "conversation": "SUB WEB REBUILD",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2764,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

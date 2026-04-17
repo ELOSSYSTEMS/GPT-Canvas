@@ -1,0 +1,220 @@
+{
+  "artifactKey": "NAME.Shipping-Confirmation-Update",
+  "names": [
+    "Shipping Confirmation Update"
+  ],
+  "titles": [
+    "Shipping Confirmation Update"
+  ],
+  "conversations": [
+    "Code update confirmation"
+  ],
+  "latestTime": 1753634680.874439,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Code update confirmation",
+    "createTime": 1753634680.874439,
+    "messageId": "d58b4fe3-7621-49ed-b60d-7caacaf34171",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 13,
+  "partialBodyOps": 2,
+  "appliedPartialOps": 1,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753632871.120662,
+      "messageId": "2a35dd8c-b209-4326-9881-281fccdf28a9",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2046,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753633058.185221,
+      "messageId": "f629dc7d-071f-466b-ab83-1dfc46137a2e",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2483,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753633158.221253,
+      "messageId": "ac19efe2-764f-4a7e-9931-95d29cdedbcc",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2953,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753633418.356273,
+      "messageId": "40e86639-202b-443c-9b85-428ca297773f",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4052,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753633755.306218,
+      "messageId": "628a2844-1eae-48fc-85c0-226e439818d4",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 1757,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "regex-update-partial",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753633793.597882,
+      "messageId": "cbaf7557-a5c2-401b-ab1a-d242e8caa4fb",
+      "conversation": "Code update confirmation",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 12,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "בסטודיו שלנו בתל אביב"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753633893.343531,
+      "messageId": "cce350b4-d61e-465e-ab86-482ef2afdc86",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2436,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753634010.614319,
+      "messageId": "07127ae4-29ca-40c5-b17d-3fef03fae5d3",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2520,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753634079.488056,
+      "messageId": "06bae4a8-adb2-4da5-b2c6-f3f264ea4415",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2316,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753634138.69871,
+      "messageId": "7975af1c-a2b6-40c8-82ac-02e66466cd9f",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2874,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753634201.149619,
+      "messageId": "cbc70fda-e312-445d-8757-5fb0461506f7",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2790,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753634426.543977,
+      "messageId": "56896a4b-02e5-4338-8280-cebb405db882",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2529,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753634534.255632,
+      "messageId": "1032ca57-eaee-4219-acc5-c2e300edb4eb",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 2419,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "regex-update-partial",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753634563.539954,
+      "messageId": "1eedde64-407c-4e88-b107-e36261dd2ee3",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2643,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753634622.857173,
+      "messageId": "5a0e20c3-bb7b-4166-820a-7d969211354b",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3869,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753634680.874439,
+      "messageId": "d58b4fe3-7621-49ed-b60d-7caacaf34171",
+      "conversation": "Code update confirmation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3751,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

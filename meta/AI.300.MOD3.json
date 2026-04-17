@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.300.MOD3",
+  "names": [
+    "AI.300.MOD3"
+  ],
+  "titles": [
+    "AI.300.MOD3"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756190.967841,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756190.967841,
+    "messageId": "85411f4b-5457-4d5c-b467-571baa3a3f2c",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756190.967841,
+      "messageId": "85411f4b-5457-4d5c-b467-571baa3a3f2c",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 530,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

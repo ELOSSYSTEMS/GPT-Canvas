@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Rebrand-Step-3-Wireframe-Level-Page-Structures",
+  "names": [
+    "Rebrand Step 3 — Wireframe-Level Page Structures"
+  ],
+  "titles": [
+    "Rebrand Step 3 — Wireframe-Level Page Structures"
+  ],
+  "conversations": [
+    "SUB WEB REBUILD"
+  ],
+  "latestTime": 1769442562.233283,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "SUB WEB REBUILD",
+    "createTime": 1769442562.233283,
+    "messageId": "7504de6a-1325-4bdc-9481-f3166f11bd3f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1769442562.233283,
+      "messageId": "7504de6a-1325-4bdc-9481-f3166f11bd3f",
+      "conversation": "SUB WEB REBUILD",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3197,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

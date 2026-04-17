@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos_Onboarding_Beginner_Click",
+  "names": [
+    "ELos_Onboarding_Beginner_Click"
+  ],
+  "titles": [
+    "ELos_Onboarding_Beginner_Click"
+  ],
+  "conversations": [
+    "Builder Onboarding Step 4"
+  ],
+  "latestTime": 1748193645.443544,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Builder Onboarding Step 4",
+    "createTime": 1748193645.443544,
+    "messageId": "79c03a85-9bac-4321-a103-b4dea14d6a7b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748193645.443544,
+      "messageId": "79c03a85-9bac-4321-a103-b4dea14d6a7b",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2190,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

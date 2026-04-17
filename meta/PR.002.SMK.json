@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.002.SMK",
+  "names": [
+    "PR.002.SMK – Sharpening Kernel"
+  ],
+  "titles": [
+    "PR.002.SMK – Sharpening Kernel"
+  ],
+  "conversations": [
+    "Canvas List Retrieval"
+  ],
+  "latestTime": 1753972910.684203,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Canvas List Retrieval",
+    "createTime": 1753972910.684203,
+    "messageId": "5ffa6d93-4932-447f-a9b8-74b07a59adcd",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753972910.684203,
+      "messageId": "5ffa6d93-4932-447f-a9b8-74b07a59adcd",
+      "conversation": "Canvas List Retrieval",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1531,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.dabroo_prompt_studio",
+  "names": [
+    "dabroo_prompt_studio"
+  ],
+  "titles": [
+    "dabroo_prompt_studio"
+  ],
+  "conversations": [
+    "הצעות לפיתוח דף"
+  ],
+  "latestTime": 1747077974.336304,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "הצעות לפיתוח דף",
+    "createTime": 1747077974.336304,
+    "messageId": "610bc252-68a4-47df-9a0c-17eedf96b951",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747077753.307746,
+      "messageId": "dae48119-c8aa-4383-8258-a82b3fc7c777",
+      "conversation": "הצעות לפיתוח דף",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 7431,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747077974.336304,
+      "messageId": "610bc252-68a4-47df-9a0c-17eedf96b951",
+      "conversation": "הצעות לפיתוח דף",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 7504,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

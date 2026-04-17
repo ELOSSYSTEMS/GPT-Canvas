@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.WG.010.PanelStack",
+  "names": [
+    "WG.010.PanelStack"
+  ],
+  "titles": [
+    "WG.010.PanelStack"
+  ],
+  "conversations": [
+    "War Games"
+  ],
+  "latestTime": 1749799124.842699,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "War Games",
+    "createTime": 1749799124.842699,
+    "messageId": "6af8ecf1-669a-45da-9565-931659d9adf5",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749799124.842699,
+      "messageId": "6af8ecf1-669a-45da-9565-931659d9adf5",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1978,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

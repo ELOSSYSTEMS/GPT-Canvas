@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.elos_site_vercel",
+  "names": [
+    "elos_site_vercel"
+  ],
+  "titles": [
+    "elos_site_vercel"
+  ],
+  "conversations": [
+    "System Boot Initialization"
+  ],
+  "latestTime": 1749404116.764804,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "System Boot Initialization",
+    "createTime": 1749404116.764804,
+    "messageId": "591f44c8-37ef-48c9-9870-7d217899d97f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749404116.764804,
+      "messageId": "591f44c8-37ef-48c9-9870-7d217899d97f",
+      "conversation": "System Boot Initialization",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3358,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

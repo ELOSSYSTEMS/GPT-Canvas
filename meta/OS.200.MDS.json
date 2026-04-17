@@ -1,0 +1,40 @@
+{
+  "artifactKey": "OS.200.MDS",
+  "names": [
+    "Behavioral Mode Stack Protocol"
+  ],
+  "titles": [
+    "Behavioral Mode Stack Protocol"
+  ],
+  "conversations": [
+    "OS System Overview"
+  ],
+  "latestTime": 1748068018.19037,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "OS System Overview",
+    "createTime": 1748068018.19037,
+    "messageId": "98c60161-a5f4-4feb-a4de-dd1c366f6336",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748068018.19037,
+      "messageId": "98c60161-a5f4-4feb-a4de-dd1c366f6336",
+      "conversation": "OS System Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2172,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

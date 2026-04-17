@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos_Beginner_Training",
+  "names": [
+    "ELos_Beginner_Training"
+  ],
+  "titles": [
+    "ELos_Beginner_Training"
+  ],
+  "conversations": [
+    "ELos Academy Review"
+  ],
+  "latestTime": 1748101725.18454,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Academy Review",
+    "createTime": 1748101725.18454,
+    "messageId": "d7220f04-f776-4ead-9341-6d815035c29d",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748101725.18454,
+      "messageId": "d7220f04-f776-4ead-9341-6d815035c29d",
+      "conversation": "ELos Academy Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3575,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.ELos_Pricing_Model",
+  "names": [
+    "ELos_Pricing_Model"
+  ],
+  "titles": [
+    "ELos_Pricing_Model"
+  ],
+  "conversations": [
+    "Builder Onboarding Step 4"
+  ],
+  "latestTime": 1748197775.112813,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Builder Onboarding Step 4",
+    "createTime": 1748197775.112813,
+    "messageId": "1c277e16-5bdc-48c3-aceb-480bbf76fe6d",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748197563.841154,
+      "messageId": "5d929b76-b237-4c12-9b03-e079a036a6ce",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2573,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748197775.112813,
+      "messageId": "1c277e16-5bdc-48c3-aceb-480bbf76fe6d",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2951,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

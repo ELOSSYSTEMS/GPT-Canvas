@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.921.IMP",
+  "names": [
+    "Import Protocol Log"
+  ],
+  "titles": [
+    "Import Protocol Log"
+  ],
+  "conversations": [
+    "Critical Prompt Routing Protocol"
+  ],
+  "latestTime": 1748203864.690755,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Critical Prompt Routing Protocol",
+    "createTime": 1748203864.690755,
+    "messageId": "1c01b56d-0c27-476e-bb87-9966e65c24d5",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748203864.690755,
+      "messageId": "1c01b56d-0c27-476e-bb87-9966e65c24d5",
+      "conversation": "Critical Prompt Routing Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1404,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

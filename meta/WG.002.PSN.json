@@ -1,0 +1,128 @@
+{
+  "artifactKey": "WG.002.PSN",
+  "names": [
+    "WG.002.PSN.Darryl",
+    "WG.002.PSN.Darryl.v2",
+    "WG.002.PSN.Mattis.v2"
+  ],
+  "titles": [
+    "WG.002.PSN.Darryl",
+    "WG.002.PSN.Darryl.v2",
+    "WG.002.PSN.Mattis.v2"
+  ],
+  "conversations": [
+    "War Games"
+  ],
+  "latestTime": 1749803090.459919,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "War Games",
+    "createTime": 1749803090.459919,
+    "messageId": "83951ff5-fede-4dde-830c-d84e61576403",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 4,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749799111.272266,
+      "messageId": "ca8acba1-c6b7-4d57-94cd-ef28b43e3bef",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1173,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749799236.268349,
+      "messageId": "06620906-d669-4f24-8c0d-dab3ee90fffd",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1455,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749799341.447262,
+      "messageId": "2d074fb5-95c6-4c48-b605-294f02c3d9c0",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1455,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749799923.481416,
+      "messageId": "607e2690-0af1-4a58-8fcd-a9ed4046c795",
+      "conversation": "War Games",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 110,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "logSimulation\\(\\{ command: cleaned, response }\\);"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749799923.481416,
+      "messageId": "607e2690-0af1-4a58-8fcd-a9ed4046c795",
+      "conversation": "War Games",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 115,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "export function handleWarGamesCommand\\(rawInput\\) \\{"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749799929.116856,
+      "messageId": "a568e9ae-81fa-4b6f-a793-b08245798727",
+      "conversation": "War Games",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 110,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "logSimulation\\(\\{ command: cleaned, response \\}\\);"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749799929.116856,
+      "messageId": "a568e9ae-81fa-4b6f-a793-b08245798727",
+      "conversation": "War Games",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 115,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "export function handleWarGamesCommand\\(rawInput\\) \\{"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749803090.459919,
+      "messageId": "83951ff5-fede-4dde-830c-d84e61576403",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1598,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

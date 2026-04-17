@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.999.LOG",
+  "names": [
+    "AI-OS-Recursive-Genesis-Log"
+  ],
+  "titles": [
+    "AI-OS-Recursive-Genesis-Log"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748112690.634732,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748112690.634732,
+    "messageId": "c7b7f857-9d0b-47b4-8728-adfa1779bef7",
+    "heuristic": "create-payload",
+    "parseMode": "escaped-control-chars"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748112690.634732,
+      "messageId": "c7b7f857-9d0b-47b4-8728-adfa1779bef7",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1507,
+      "heuristic": "create-payload",
+      "parseMode": "escaped-control-chars",
+      "pattern": null
+    }
+  ]
+}

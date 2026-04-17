@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.contact_form_translatable",
+  "names": [
+    "contact_form_translatable"
+  ],
+  "titles": [
+    "contact_form_translatable"
+  ],
+  "conversations": [
+    "תרגום לעברית"
+  ],
+  "latestTime": 1750697243.973029,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "תרגום לעברית",
+    "createTime": 1750697243.973029,
+    "messageId": "909565fd-0516-4030-b360-cf8bfae9a8ec",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750697243.973029,
+      "messageId": "909565fd-0516-4030-b360-cf8bfae9a8ec",
+      "conversation": "תרגום לעברית",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4948,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

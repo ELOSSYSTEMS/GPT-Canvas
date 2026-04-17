@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.201.PLN",
+  "names": [
+    "PR.201.PLN"
+  ],
+  "titles": [
+    "PR.201.PLN"
+  ],
+  "conversations": [
+    "Mission Ready Status"
+  ],
+  "latestTime": 1747610533.342539,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mission Ready Status",
+    "createTime": 1747610533.342539,
+    "messageId": "536683b6-7b64-46c0-81c0-55f1cdc92948",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747610533.342539,
+      "messageId": "536683b6-7b64-46c0-81c0-55f1cdc92948",
+      "conversation": "Mission Ready Status",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2719,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "IN.600.POD-",
+  "names": [
+    "Podcast Transcripts – Jan 5 to Jan 10"
+  ],
+  "titles": [
+    "Podcast Transcripts – Jan 5 to Jan 10"
+  ],
+  "conversations": [
+    "Accessing Podcast Transcripts"
+  ],
+  "latestTime": 1748075592.160226,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Accessing Podcast Transcripts",
+    "createTime": 1748075592.160226,
+    "messageId": "151c1c5a-d608-4021-b77c-3555fbaaae40",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748075592.160226,
+      "messageId": "151c1c5a-d608-4021-b77c-3555fbaaae40",
+      "conversation": "Accessing Podcast Transcripts",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 910,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

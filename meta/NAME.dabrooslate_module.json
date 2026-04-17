@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.dabrooslate_module",
+  "names": [
+    "dabrooslate_module"
+  ],
+  "titles": [
+    "dabrooslate_module"
+  ],
+  "conversations": [
+    "Stargate Protocol Initialized"
+  ],
+  "latestTime": 1748678555.031289,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Stargate Protocol Initialized",
+    "createTime": 1748678555.031289,
+    "messageId": "4a279481-4e9c-4890-91f3-751f5162e10f",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748678526.934202,
+      "messageId": "c544151a-24d0-4019-85bb-744c0fe1bc28",
+      "conversation": "Stargate Protocol Initialized",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1573,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748678555.031289,
+      "messageId": "4a279481-4e9c-4890-91f3-751f5162e10f",
+      "conversation": "Stargate Protocol Initialized",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1608,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

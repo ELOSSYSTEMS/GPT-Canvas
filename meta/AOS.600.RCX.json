@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AOS.600.RCX",
+  "names": [
+    "Allon OS - Recursive Architect"
+  ],
+  "titles": [
+    "Allon OS - Recursive Architect"
+  ],
+  "conversations": [
+    "ELos Canvas Index Summary"
+  ],
+  "latestTime": 1748112076.464667,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Canvas Index Summary",
+    "createTime": 1748112076.464667,
+    "messageId": "bde27344-3ed8-49b7-85c7-0a5bee2fd972",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748112076.464667,
+      "messageId": "bde27344-3ed8-49b7-85c7-0a5bee2fd972",
+      "conversation": "ELos Canvas Index Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2308,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

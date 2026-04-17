@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.stargate_core",
+  "names": [
+    "stargate_core"
+  ],
+  "titles": [
+    "stargate_core"
+  ],
+  "conversations": [
+    "ELos Translate 2.0 Test"
+  ],
+  "latestTime": 1748716790.791392,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Translate 2.0 Test",
+    "createTime": 1748716790.791392,
+    "messageId": "ad1e1256-b5d0-49df-afc7-70b5c192d864",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748716790.791392,
+      "messageId": "ad1e1256-b5d0-49df-afc7-70b5c192d864",
+      "conversation": "ELos Translate 2.0 Test",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1610,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

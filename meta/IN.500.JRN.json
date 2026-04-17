@@ -1,0 +1,52 @@
+{
+  "artifactKey": "IN.500.JRN",
+  "names": [
+    "AI OS – The Journal"
+  ],
+  "titles": [
+    "AI OS – The Journal"
+  ],
+  "conversations": [
+    "NEW CHATPT OS APP"
+  ],
+  "latestTime": 1748028543.063889,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "NEW CHATPT OS APP",
+    "createTime": 1748028543.063889,
+    "messageId": "99478297-2138-40bb-a444-c88fefa30e70",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748028314.776303,
+      "messageId": "6cefbce1-d8d6-4b10-86be-5087a5984832",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2813,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748028543.063889,
+      "messageId": "99478297-2138-40bb-a444-c88fefa30e70",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3161,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

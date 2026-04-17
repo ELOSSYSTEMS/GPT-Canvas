@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.TNFRouter",
+  "names": [
+    "TNFRouter"
+  ],
+  "titles": [
+    "TNFRouter"
+  ],
+  "conversations": [
+    "translation 2.0 integration and expansion"
+  ],
+  "latestTime": 1749323260.835345,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "translation 2.0 integration and expansion",
+    "createTime": 1749323260.835345,
+    "messageId": "ecb59301-2944-4e83-a929-3e76681698fc",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749323260.835345,
+      "messageId": "ecb59301-2944-4e83-a929-3e76681698fc",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 902,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

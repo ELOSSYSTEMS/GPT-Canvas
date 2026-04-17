@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.FF-RTL-RH-Stylesheet-Prestige",
+  "names": [
+    "FF RTL + RH Stylesheet (Prestige)"
+  ],
+  "titles": [
+    "FF RTL + RH Stylesheet (Prestige)"
+  ],
+  "conversations": [
+    "Conversation Continuation"
+  ],
+  "latestTime": 1747988191.509472,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Conversation Continuation",
+    "createTime": 1747988191.509472,
+    "messageId": "be987f2c-a375-4096-85c5-90c036785581",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747988191.509472,
+      "messageId": "be987f2c-a375-4096-85c5-90c036785581",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1523,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

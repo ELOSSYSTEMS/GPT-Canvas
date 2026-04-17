@@ -1,0 +1,64 @@
+{
+  "artifactKey": "EL.320.MODE",
+  "names": [
+    "EL.320.MODE.Selector"
+  ],
+  "titles": [
+    "EL.320.MODE.Selector"
+  ],
+  "conversations": [
+    "Mode Forks: Text vs Voice"
+  ],
+  "latestTime": 1749360598.226893,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Mode Forks: Text vs Voice",
+    "createTime": 1749360598.226893,
+    "messageId": "2561ac67-320e-423b-beb0-1f3a6e16af11",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749360114.449662,
+      "messageId": "47bb5c6b-ae33-4c36-9989-f3226f966dbf",
+      "conversation": "Mode Forks: Text vs Voice",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1239,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749360384.506248,
+      "messageId": "1208277f-496f-4e46-bf4c-64b1bce0a5df",
+      "conversation": "Mode Forks: Text vs Voice",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1446,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749360598.226893,
+      "messageId": "2561ac67-320e-423b-beb0-1f3a6e16af11",
+      "conversation": "Mode Forks: Text vs Voice",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1543,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.001.EPP",
+  "names": [
+    "PR.001.EPP_Prompt_Protocol"
+  ],
+  "titles": [
+    "PR.001.EPP_Prompt_Protocol"
+  ],
+  "conversations": [
+    "BUILDING THE WEBAPP"
+  ],
+  "latestTime": 1750595578.325068,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "BUILDING THE WEBAPP",
+    "createTime": 1750595578.325068,
+    "messageId": "fc9411fe-51b3-42bd-96c3-67382d6077ed",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750595578.325068,
+      "messageId": "fc9411fe-51b3-42bd-96c3-67382d6077ed",
+      "conversation": "BUILDING THE WEBAPP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1161,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

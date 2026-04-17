@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AD.800.IMG",
+  "names": [
+    "AD.800.IMG.FireflyPromptEngine"
+  ],
+  "titles": [
+    "AD.800.IMG.FireflyPromptEngine"
+  ],
+  "conversations": [
+    "ELOS VISUALS OS"
+  ],
+  "latestTime": 1749200103.955883,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELOS VISUALS OS",
+    "createTime": 1749200103.955883,
+    "messageId": "2e588400-e400-4f84-920f-a312310a8ad2",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749200103.955883,
+      "messageId": "2e588400-e400-4f84-920f-a312310a8ad2",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 900,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "artifactKey": "NAME.dabroo_sidebar_chat",
+  "names": [
+    "dabroo_sidebar_chat"
+  ],
+  "titles": [
+    "dabroo_sidebar_chat"
+  ],
+  "conversations": [
+    "Sidebar Integration for Dabroo"
+  ],
+  "latestTime": 1747038880.45869,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Sidebar Integration for Dabroo",
+    "createTime": 1747038630.898756,
+    "messageId": "8fb1e7d1-1859-4ed0-a4c1-ab3e5f7a46c1",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 1,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747036879.600453,
+      "messageId": "2bc9f5c7-d5a3-43ef-86e1-6020e80f52e5",
+      "conversation": "Sidebar Integration for Dabroo",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5920,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747037040.335348,
+      "messageId": "81f4bb6b-b1c7-48a3-a076-9a88cef98e82",
+      "conversation": "Sidebar Integration for Dabroo",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 6079,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747038491.201328,
+      "messageId": "781c419a-a491-4a1a-9cb8-b7f397518159",
+      "conversation": "Sidebar Integration for Dabroo",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3785,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747038630.898756,
+      "messageId": "8fb1e7d1-1859-4ed0-a4c1-ab3e5f7a46c1",
+      "conversation": "Sidebar Integration for Dabroo",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 10013,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747038880.45869,
+      "messageId": "b561ea00-398f-4221-b4cd-807e83b38613",
+      "conversation": "Sidebar Integration for Dabroo",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 629,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "function typeIntoInput\\(text\\) \\{[\\s\\S]*?setTimeout\\(typeNext, 40\\);"
+    }
+  ]
+}

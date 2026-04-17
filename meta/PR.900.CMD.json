@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.900.CMD",
+  "names": [
+    "PR.900.CMD – Command Registry"
+  ],
+  "titles": [
+    "PR.900.CMD – Command Registry"
+  ],
+  "conversations": [
+    "Boot Sequence Execution"
+  ],
+  "latestTime": 1750565597.478965,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Boot Sequence Execution",
+    "createTime": 1750565597.478965,
+    "messageId": "b2752558-4b15-4280-b876-8c560c5c64be",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750565597.478965,
+      "messageId": "b2752558-4b15-4280-b876-8c560c5c64be",
+      "conversation": "Boot Sequence Execution",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 978,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

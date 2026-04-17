@@ -1,0 +1,40 @@
+{
+  "artifactKey": "IN.300.UX",
+  "names": [
+    "GPTOS – Uninstall Protocol & Exit UX"
+  ],
+  "titles": [
+    "GPTOS – Uninstall Protocol & Exit UX"
+  ],
+  "conversations": [
+    "NEW CHATPT OS APP"
+  ],
+  "latestTime": 1748023900.350311,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "NEW CHATPT OS APP",
+    "createTime": 1748023900.350311,
+    "messageId": "216a7563-92e3-4e77-b4b7-61b0dce0a503",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748023900.350311,
+      "messageId": "216a7563-92e3-4e77-b4b7-61b0dce0a503",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1961,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

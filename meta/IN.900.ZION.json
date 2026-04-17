@@ -1,0 +1,40 @@
+{
+  "artifactKey": "IN.900.ZION",
+  "names": [
+    "IN.900.ZION – Zionism & Israeli History Research Kernel"
+  ],
+  "titles": [
+    "Zionism & Israeli History Research Kernel"
+  ],
+  "conversations": [
+    "**FEAR AND LOATHING IN THE NEW JERUSALEM"
+  ],
+  "latestTime": 1748760348.750111,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+    "createTime": 1748760348.750111,
+    "messageId": "bbfde433-979b-4629-9e67-2365eb56b74a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748760348.750111,
+      "messageId": "bbfde433-979b-4629-9e67-2365eb56b74a",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2446,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

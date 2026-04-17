@@ -1,0 +1,54 @@
+{
+  "artifactKey": "AO.900.EL2",
+  "names": [
+    "AO.900.EL2.FireproofRoot",
+    "EL2.240.Wand"
+  ],
+  "titles": [
+    "AO.900.EL2.FireproofRoot",
+    "EL2.240.Wand"
+  ],
+  "conversations": [
+    "Recursive Persona System Design"
+  ],
+  "latestTime": 1748191134.907753,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Recursive Persona System Design",
+    "createTime": 1748191134.907753,
+    "messageId": "2ae0b51b-948d-42bc-8697-5fb22c7b9920",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748187020.994,
+      "messageId": "b84846bf-3a1c-4e90-8165-7c2c8e3ebb5d",
+      "conversation": "Recursive Persona System Design",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1616,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748191134.907753,
+      "messageId": "2ae0b51b-948d-42bc-8697-5fb22c7b9920",
+      "conversation": "Recursive Persona System Design",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2179,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "VV.999.MAP",
+  "names": [
+    "VV.999.MAP – vVerse Atlas Map"
+  ],
+  "titles": [
+    "VV.999.MAP – vVerse Atlas Map"
+  ],
+  "conversations": [
+    "Bootloader Activation Summary"
+  ],
+  "latestTime": 1749161914.344045,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749161914.344045,
+    "messageId": "c475c1b0-4dbe-4642-9cc3-81b25ba5a379",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749161914.344045,
+      "messageId": "c475c1b0-4dbe-4642-9cc3-81b25ba5a379",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3087,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

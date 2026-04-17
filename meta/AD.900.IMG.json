@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AD.900.IMG",
+  "names": [
+    "AD.900.IMG.3DSceneRouter"
+  ],
+  "titles": [
+    "AD.900.IMG.3DSceneRouter"
+  ],
+  "conversations": [
+    "ELOS VISUALS OS"
+  ],
+  "latestTime": 1749200120.161273,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELOS VISUALS OS",
+    "createTime": 1749200120.161273,
+    "messageId": "29d7e3d3-d81a-464c-a593-031219382fb8",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749200120.161273,
+      "messageId": "29d7e3d3-d81a-464c-a593-031219382fb8",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 834,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "artifactKey": "NAME.elos_translate_pipeline",
+  "names": [
+    "elos_translate_pipeline"
+  ],
+  "titles": [
+    "elos_translate_pipeline"
+  ],
+  "conversations": [
+    "Preview not working fix"
+  ],
+  "latestTime": 1750616851.25344,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Preview not working fix",
+    "createTime": 1750616851.25344,
+    "messageId": "6c49b35f-a439-4c4a-86e6-80559ba115bc",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750616149.845533,
+      "messageId": "a1d13438-b508-4ec3-993d-05177004c668",
+      "conversation": "Preview not working fix",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2151,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750616286.090592,
+      "messageId": "6d7d4604-1d63-4b14-ac6b-9d5b699a4310",
+      "conversation": "Preview not working fix",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2233,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1750616851.25344,
+      "messageId": "6c49b35f-a439-4c4a-86e6-80559ba115bc",
+      "conversation": "Preview not working fix",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1506,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.gpt_suggestion_layer",
+  "names": [
+    "gpt_suggestion_layer"
+  ],
+  "titles": [
+    "gpt_suggestion_layer"
+  ],
+  "conversations": [
+    "GPT Delegation Filter Design"
+  ],
+  "latestTime": 1748347158.152112,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "GPT Delegation Filter Design",
+    "createTime": 1748347158.152112,
+    "messageId": "0919136c-4f0f-4d5a-ba45-758b44b06896",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748346940.228748,
+      "messageId": "0e7a9163-9e53-41ec-8e69-7fb3259b293c",
+      "conversation": "GPT Delegation Filter Design",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1351,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748347158.152112,
+      "messageId": "0919136c-4f0f-4d5a-ba45-758b44b06896",
+      "conversation": "GPT Delegation Filter Design",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1387,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "artifactKey": "FF.100.TDL",
+  "names": [
+    "FF Rebrand – Next Action List"
+  ],
+  "titles": [
+    "FF Rebrand – Next Action List"
+  ],
+  "conversations": [
+    "Conversation Continuation"
+  ],
+  "latestTime": 1747991001.078117,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Conversation Continuation",
+    "createTime": 1747991001.078117,
+    "messageId": "c7f38d89-aaa4-4a46-ab47-258bf0ce007f",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 4,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747985361.329791,
+      "messageId": "68732cfd-a265-48a9-ac21-bba025fe615f",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1583,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747991001.078117,
+      "messageId": "c7f38d89-aaa4-4a46-ab47-258bf0ce007f",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1776,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748001345.256567,
+      "messageId": "3e9951a7-b4fb-40e8-bc9b-48d329502c1f",
+      "conversation": "Conversation Continuation",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 26,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "(?<=\\*\\*Hero Section:\\*\\*\\n- Full-width static image of current seasonal bouquet\\n- English Headline \\(1–3 words\\): )[^\\n]*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748001345.256567,
+      "messageId": "3e9951a7-b4fb-40e8-bc9b-48d329502c1f",
+      "conversation": "Conversation Continuation",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 34,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "(?<=\\n- Hebrew Subline: ).*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748001353.662938,
+      "messageId": "e2f7202b-a50b-4302-af9b-3ff62aeca7b0",
+      "conversation": "Conversation Continuation",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 19,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "(?<=\\*\\*Hero Section:\\*\\*\\n- Full-width static image of current seasonal bouquet\\n- English Headline \\(1–3 words\\): ).*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748001353.662938,
+      "messageId": "e2f7202b-a50b-4302-af9b-3ff62aeca7b0",
+      "conversation": "Conversation Continuation",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 34,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "(?<=\\n- Hebrew Subline: ).*"
+    }
+  ]
+}

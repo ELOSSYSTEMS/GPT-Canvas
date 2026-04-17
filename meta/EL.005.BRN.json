@@ -1,0 +1,52 @@
+{
+  "artifactKey": "EL.005.BRN",
+  "names": [
+    "EL.005.BRN – ELOS Prompt Brain (Protocol Orchestration Layer)"
+  ],
+  "titles": [
+    "EL.005.BRN – ELOS Prompt Brain (Protocol Orchestration Layer)"
+  ],
+  "conversations": [
+    "PROMPT PROTOCOL OPTIMIZATION"
+  ],
+  "latestTime": 1748973651.754917,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+    "createTime": 1748973651.754917,
+    "messageId": "d5a56d9b-10ca-4e43-b9f5-85f1410e1771",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748973624.515223,
+      "messageId": "29f90be0-5751-4923-a7c0-33c30c227622",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1088,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748973651.754917,
+      "messageId": "d5a56d9b-10ca-4e43-b9f5-85f1410e1771",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1403,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

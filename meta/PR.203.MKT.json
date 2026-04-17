@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.203.MKT",
+  "names": [
+    "PR.203.MKT"
+  ],
+  "titles": [
+    "PR.203.MKT"
+  ],
+  "conversations": [
+    "Mission Ready Status"
+  ],
+  "latestTime": 1747610716.74571,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mission Ready Status",
+    "createTime": 1747610716.74571,
+    "messageId": "4a34b179-b729-4e10-a58b-875a6148d934",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747610716.74571,
+      "messageId": "4a34b179-b729-4e10-a58b-875a6148d934",
+      "conversation": "Mission Ready Status",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2562,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

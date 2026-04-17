@@ -1,0 +1,40 @@
+{
+  "artifactKey": "DA.300.FRW",
+  "names": [
+    "Dabroo AI Extension Framework"
+  ],
+  "titles": [
+    "Dabroo AI Extension Framework"
+  ],
+  "conversations": [
+    "ChatGPT Prompts from Israel"
+  ],
+  "latestTime": 1747843417.442094,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ChatGPT Prompts from Israel",
+    "createTime": 1747843417.442094,
+    "messageId": "1c2073e1-ad7d-4094-851d-00f82e1187b5",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747843417.442094,
+      "messageId": "1c2073e1-ad7d-4094-851d-00f82e1187b5",
+      "conversation": "ChatGPT Prompts from Israel",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2173,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "WG.900.SIMLOG",
+  "names": [
+    "WG.900.SIMLOG"
+  ],
+  "titles": [
+    "WG.900.SIMLOG"
+  ],
+  "conversations": [
+    "War Games"
+  ],
+  "latestTime": 1749799154.847354,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "War Games",
+    "createTime": 1749799154.847354,
+    "messageId": "dc3cc98a-cc1f-4ed1-9ff1-6eb509dcc4d8",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749799154.847354,
+      "messageId": "dc3cc98a-cc1f-4ed1-9ff1-6eb509dcc4d8",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 521,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

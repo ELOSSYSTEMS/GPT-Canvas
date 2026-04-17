@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.930.WATCH",
+  "names": [
+    "AO.930.WATCH – Autonomous Self-Diagnostics Monitor"
+  ],
+  "titles": [
+    "AO.930.WATCH – Autonomous Self-Diagnostics Monitor"
+  ],
+  "conversations": [
+    "Bootloader Execution Summary"
+  ],
+  "latestTime": 1749329444.540487,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Execution Summary",
+    "createTime": 1749329444.540487,
+    "messageId": "8e39e048-ca1a-475e-b623-845c2714f0e2",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749329444.540487,
+      "messageId": "8e39e048-ca1a-475e-b623-845c2714f0e2",
+      "conversation": "Bootloader Execution Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1365,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

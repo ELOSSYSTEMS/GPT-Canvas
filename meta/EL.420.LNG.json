@@ -1,0 +1,136 @@
+{
+  "artifactKey": "EL.420.LNG",
+  "names": [
+    "EL.420.LNG.Rewriter.es",
+    "EL.420.LNG.Rewriter.fr",
+    "EL.420.LNG.Rewriter.de",
+    "EL.420.LNG.Rewriter.ja",
+    "EL.420.LNG.Rewriter.pt",
+    "EL.420.LNG.Rewriter.zh",
+    "EL.620.LNG.Router"
+  ],
+  "titles": [
+    "EL.420.LNG.Rewriter.es",
+    "EL.420.LNG.Rewriter.fr",
+    "EL.420.LNG.Rewriter.de",
+    "EL.420.LNG.Rewriter.ja",
+    "EL.420.LNG.Rewriter.pt",
+    "EL.420.LNG.Rewriter.zh",
+    "EL.620.LNG.Router"
+  ],
+  "conversations": [
+    "translation 2.0 integration and expansion"
+  ],
+  "latestTime": 1749326777.2592,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "translation 2.0 integration and expansion",
+    "createTime": 1749326777.2592,
+    "messageId": "20ed6966-7a34-49e7-a079-7163609e10b6",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 8,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749326528.294968,
+      "messageId": "52a2cf6f-72be-4c7b-b84e-4e944ac43ce4",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2044,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749326558.704191,
+      "messageId": "812ac90f-0945-49cc-a34c-b107988e3853",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1969,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749326566.487405,
+      "messageId": "ad307649-5261-4f24-be13-660608659db3",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1981,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749326574.731266,
+      "messageId": "281e104f-fd3a-46cb-b6ff-744504137438",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1651,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749326580.798635,
+      "messageId": "e0679118-8c04-48e4-9cda-025030e70758",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1872,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749326588.159062,
+      "messageId": "3a22b2cc-823b-477c-8935-1fe331787e5a",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1817,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749326651.455211,
+      "messageId": "d870f1b3-25d0-4dc0-b60d-638f21e28860",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1230,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749326777.2592,
+      "messageId": "20ed6966-7a34-49e7-a079-7163609e10b6",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1686,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

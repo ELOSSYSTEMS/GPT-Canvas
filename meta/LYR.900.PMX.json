@@ -1,0 +1,40 @@
+{
+  "artifactKey": "LYR.900.PMX",
+  "names": [
+    "Lyra Prompt Optimizer"
+  ],
+  "titles": [
+    "Lyra Prompt Optimizer"
+  ],
+  "conversations": [
+    "Scrape URL Request"
+  ],
+  "latestTime": 1752952497.25614,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Scrape URL Request",
+    "createTime": 1752952497.25614,
+    "messageId": "e5c22412-7e12-4904-9f48-a37f2fbbf033",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1752952497.25614,
+      "messageId": "e5c22412-7e12-4904-9f48-a37f2fbbf033",
+      "conversation": "Scrape URL Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2806,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

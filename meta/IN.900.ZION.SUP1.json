@@ -1,0 +1,40 @@
+{
+  "artifactKey": "IN.900.ZION.SUP1",
+  "names": [
+    "IN.900.ZION.SUP1"
+  ],
+  "titles": [
+    "Supplemental: War All the Time (1948–1982)"
+  ],
+  "conversations": [
+    "**FEAR AND LOATHING IN THE NEW JERUSALEM"
+  ],
+  "latestTime": 1748762516.920497,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+    "createTime": 1748762516.920497,
+    "messageId": "429bc40e-28b1-4663-8772-c743d28891fe",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748762516.920497,
+      "messageId": "429bc40e-28b1-4663-8772-c743d28891fe",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1003,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

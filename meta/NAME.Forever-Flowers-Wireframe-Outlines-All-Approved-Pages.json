@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.Forever-Flowers-Wireframe-Outlines-All-Approved-Pages",
+  "names": [
+    "Forever Flowers – Wireframe Outlines (All Approved Pages)"
+  ],
+  "titles": [
+    "Forever Flowers – Wireframe Outlines (All Approved Pages)"
+  ],
+  "conversations": [
+    "Forever Flowers Site Review"
+  ],
+  "latestTime": 1767993110.279617,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Forever Flowers Site Review",
+    "createTime": 1767992887.373811,
+    "messageId": "b455dd69-89f1-4387-922a-9cd28ac97246",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 1,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1767992887.373811,
+      "messageId": "b455dd69-89f1-4387-922a-9cd28ac97246",
+      "conversation": "Forever Flowers Site Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4298,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1767993110.279617,
+      "messageId": "ef13c5d5-915c-473e-98ce-6b42e801c087",
+      "conversation": "Forever Flowers Site Review",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 4818,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "[\\s\\S]*"
+    }
+  ]
+}

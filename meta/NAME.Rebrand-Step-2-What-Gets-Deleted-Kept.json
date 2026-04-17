@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Rebrand-Step-2-What-Gets-Deleted-Kept",
+  "names": [
+    "Rebrand Step 2 — What Gets Deleted / Kept"
+  ],
+  "titles": [
+    "Rebrand Step 2 — What Gets Deleted / Kept"
+  ],
+  "conversations": [
+    "SUB WEB REBUILD"
+  ],
+  "latestTime": 1769439233.736169,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "SUB WEB REBUILD",
+    "createTime": 1769439233.736169,
+    "messageId": "53d45b4a-1efd-46d5-99a8-f5402dda2b43",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1769439233.736169,
+      "messageId": "53d45b4a-1efd-46d5-99a8-f5402dda2b43",
+      "conversation": "SUB WEB REBUILD",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1865,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

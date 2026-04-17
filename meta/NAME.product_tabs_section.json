@@ -1,0 +1,76 @@
+{
+  "artifactKey": "NAME.product_tabs_section",
+  "names": [
+    "product_tabs_section"
+  ],
+  "titles": [
+    "product_tabs_section"
+  ],
+  "conversations": [
+    "סדנאות פרחים לקביעת דף"
+  ],
+  "latestTime": 1753095895.681943,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "סדנאות פרחים לקביעת דף",
+    "createTime": 1753095895.681943,
+    "messageId": "6aa54c41-1b6b-4a88-8e1a-d52dd8fb4511",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753095458.964086,
+      "messageId": "4e1ea5ff-4955-4f8c-9851-d63b1f415eea",
+      "conversation": "סדנאות פרחים לקביעת דף",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3042,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753095500.801335,
+      "messageId": "61654f3d-f396-45f2-b85a-97515511e699",
+      "conversation": "סדנאות פרחים לקביעת דף",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3051,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753095668.351848,
+      "messageId": "ef539fa0-d632-41b0-806a-e3229d9e7a1c",
+      "conversation": "סדנאות פרחים לקביעת דף",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3229,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753095895.681943,
+      "messageId": "6aa54c41-1b6b-4a88-8e1a-d52dd8fb4511",
+      "conversation": "סדנאות פרחים לקביעת דף",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3403,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

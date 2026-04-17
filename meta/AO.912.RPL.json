@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.912.RPL",
+  "names": [
+    "AO.912.RPL – Recursive Prompt Library Optimizer"
+  ],
+  "titles": [
+    "AO.912.RPL – Recursive Prompt Library Optimizer"
+  ],
+  "conversations": [
+    "Bootloader Execution Summary"
+  ],
+  "latestTime": 1749329338.371864,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Execution Summary",
+    "createTime": 1749329338.371864,
+    "messageId": "8ff592ed-0854-4f2c-9aac-95980e5d5ca4",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749329338.371864,
+      "messageId": "8ff592ed-0854-4f2c-9aac-95980e5d5ca4",
+      "conversation": "Bootloader Execution Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1342,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

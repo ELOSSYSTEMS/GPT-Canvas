@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.630.IMG",
+  "names": [
+    "EL.630.IMG.StyleModifier"
+  ],
+  "titles": [
+    "EL.630.IMG.StyleModifier"
+  ],
+  "conversations": [
+    "ELOS VISUALS OS"
+  ],
+  "latestTime": 1749200415.607752,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELOS VISUALS OS",
+    "createTime": 1749200415.607752,
+    "messageId": "89e1e4af-f6f2-4ea6-a4de-9d05c46b0097",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749200415.607752,
+      "messageId": "89e1e4af-f6f2-4ea6-a4de-9d05c46b0097",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 406,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

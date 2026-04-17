@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.410.TNF.BENCHMARK.LEGAL",
+  "names": [
+    "TNF_Benchmark_Legal_Bureaucracy"
+  ],
+  "titles": [
+    "TNF_Benchmark_Legal_Bureaucracy"
+  ],
+  "conversations": [
+    "translation 2.0 integration and expansion"
+  ],
+  "latestTime": 1749326117.54925,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "translation 2.0 integration and expansion",
+    "createTime": 1749326117.54925,
+    "messageId": "2786ae10-eab1-488c-8f10-4ada51ea0c96",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749326117.54925,
+      "messageId": "2786ae10-eab1-488c-8f10-4ada51ea0c96",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1004,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

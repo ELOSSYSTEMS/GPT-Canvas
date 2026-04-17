@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Podcast-Dave-8_29_18",
+  "names": [
+    "Podcast - Dave 8_29_18"
+  ],
+  "titles": [
+    "Podcast - Dave 8_29_18"
+  ],
+  "conversations": [
+    "PODCAST TRANSCRIPTION"
+  ],
+  "latestTime": 1748031364.498214,
+  "latestBodyComplete": false,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PODCAST TRANSCRIPTION",
+    "createTime": 1748031364.498214,
+    "messageId": "e89801fa-8608-43d8-bc8a-d65ef1a98b51",
+    "heuristic": "create-payload",
+    "parseMode": "regex-create-partial"
+  },
+  "completeBodyOps": 0,
+  "partialBodyOps": 1,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748031364.498214,
+      "messageId": "e89801fa-8608-43d8-bc8a-d65ef1a98b51",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 3934,
+      "heuristic": "create-payload",
+      "parseMode": "regex-create-partial",
+      "pattern": null
+    }
+  ]
+}

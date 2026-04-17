@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos_Visual_AdvancedModules",
+  "names": [
+    "ELos_Visual_AdvancedModules"
+  ],
+  "titles": [
+    "ELos_Visual_AdvancedModules"
+  ],
+  "conversations": [
+    "ELOS VISUALS OS"
+  ],
+  "latestTime": 1749207190.050814,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELOS VISUALS OS",
+    "createTime": 1749207190.050814,
+    "messageId": "17efc368-2771-4f50-a7f4-dbeaf25c254b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749207190.050814,
+      "messageId": "17efc368-2771-4f50-a7f4-dbeaf25c254b",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2079,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

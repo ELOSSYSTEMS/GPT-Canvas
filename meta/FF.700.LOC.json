@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.700.LOC",
+  "names": [
+    "FF_Branch_Directory_Arcaffe"
+  ],
+  "titles": [
+    "FF_Branch_Directory_Arcaffe"
+  ],
+  "conversations": [
+    "סניפים והזמנות שבועות"
+  ],
+  "latestTime": 1747820649.966942,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "סניפים והזמנות שבועות",
+    "createTime": 1747820649.966942,
+    "messageId": "88d3e0c2-00ec-4d2f-8e37-72298c5011c6",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747820649.966942,
+      "messageId": "88d3e0c2-00ec-4d2f-8e37-72298c5011c6",
+      "conversation": "סניפים והזמנות שבועות",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1082,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.500.ARC",
+  "names": [
+    "FF Past Seasons Archive"
+  ],
+  "titles": [
+    "FF Past Seasons Archive"
+  ],
+  "conversations": [
+    "Conversation Continuation"
+  ],
+  "latestTime": 1747984994.178026,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Conversation Continuation",
+    "createTime": 1747984994.178026,
+    "messageId": "71c7d9ca-7211-48e9-beb3-abf600dfde1d",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747984994.178026,
+      "messageId": "71c7d9ca-7211-48e9-beb3-abf600dfde1d",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1349,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

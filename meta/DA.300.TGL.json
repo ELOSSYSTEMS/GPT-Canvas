@@ -1,0 +1,40 @@
+{
+  "artifactKey": "DA.300.TGL",
+  "names": [
+    "Dabroo - Eden Prompt Replacement"
+  ],
+  "titles": [
+    "Replacement of Eden Prompt with Session-Based Dabroo Persona"
+  ],
+  "conversations": [
+    "PERSONA > EDEN PROMPT"
+  ],
+  "latestTime": 1747768562.690248,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PERSONA > EDEN PROMPT",
+    "createTime": 1747768562.690248,
+    "messageId": "f94d648c-7b93-48d6-9d4f-52b110f630cf",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747768562.690248,
+      "messageId": "f94d648c-7b93-48d6-9d4f-52b110f630cf",
+      "conversation": "PERSONA > EDEN PROMPT",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2091,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

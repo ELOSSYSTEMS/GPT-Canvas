@@ -1,0 +1,100 @@
+{
+  "artifactKey": "NAME.ELos-Pro-Gating-System",
+  "names": [
+    "ELos - Pro Gating System"
+  ],
+  "titles": [
+    "ELos - Pro Gating System"
+  ],
+  "conversations": [
+    "ELos Buildout Phases"
+  ],
+  "latestTime": 1748095776.293371,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "ELos Buildout Phases",
+    "createTime": 1748095776.293371,
+    "messageId": "9b06c3a2-5d29-4b86-845f-44969783ad14",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 6,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748092858.271656,
+      "messageId": "e3ca0f08-b5ac-40d6-b1fa-4eefcf3b428f",
+      "conversation": "ELos Buildout Phases",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2653,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748092915.039537,
+      "messageId": "c00444dd-8160-4d80-a678-c2e3ec9a44d9",
+      "conversation": "ELos Buildout Phases",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3666,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748093188.171908,
+      "messageId": "f33f94f8-08d9-4838-8339-92cf817fc7a3",
+      "conversation": "ELos Buildout Phases",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4756,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748095214.027023,
+      "messageId": "11dc6481-5552-4368-a68e-8a0435dc8813",
+      "conversation": "ELos Buildout Phases",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2523,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748095692.173609,
+      "messageId": "c7428ae7-6ba8-4761-9c5a-5c430e943de5",
+      "conversation": "ELos Buildout Phases",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3649,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748095776.293371,
+      "messageId": "9b06c3a2-5d29-4b86-845f-44969783ad14",
+      "conversation": "ELos Buildout Phases",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2989,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

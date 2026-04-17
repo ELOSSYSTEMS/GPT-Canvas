@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos_Prompt_Protocol_v2",
+  "names": [
+    "ELos_Prompt_Protocol_v2"
+  ],
+  "titles": [
+    "ELos_Prompt_Protocol_v2"
+  ],
+  "conversations": [
+    "ELos Protocol Success Potential"
+  ],
+  "latestTime": 1748459281.3864,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Protocol Success Potential",
+    "createTime": 1748459281.3864,
+    "messageId": "97faad70-ffe6-4ce5-8d31-58c9cd3fad1a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748459281.3864,
+      "messageId": "97faad70-ffe6-4ce5-8d31-58c9cd3fad1a",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1897,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

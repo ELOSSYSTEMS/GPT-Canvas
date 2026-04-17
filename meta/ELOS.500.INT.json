@@ -1,0 +1,40 @@
+{
+  "artifactKey": "ELOS.500.INT",
+  "names": [
+    "Intermediate Tier Interface Ruleset"
+  ],
+  "titles": [
+    "Intermediate Tier Interface Ruleset"
+  ],
+  "conversations": [
+    "ELos Buildout Structure"
+  ],
+  "latestTime": 1748090329.271705,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Buildout Structure",
+    "createTime": 1748090329.271705,
+    "messageId": "7838aa99-64e6-4845-9390-e81d461821cc",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748090329.271705,
+      "messageId": "7838aa99-64e6-4845-9390-e81d461821cc",
+      "conversation": "ELos Buildout Structure",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2056,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

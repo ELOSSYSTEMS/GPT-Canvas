@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.290.ARC",
+  "names": [
+    "AO.290.ARC – Archived Personas Log"
+  ],
+  "titles": [
+    "AO.290.ARC – Archived Personas Log"
+  ],
+  "conversations": [
+    "PR.100 Canvases Search"
+  ],
+  "latestTime": 1748560793.241221,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PR.100 Canvases Search",
+    "createTime": 1748560793.241221,
+    "messageId": "053e64fb-cd33-426b-8e56-b62c96af3f69",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748560793.241221,
+      "messageId": "053e64fb-cd33-426b-8e56-b62c96af3f69",
+      "conversation": "PR.100 Canvases Search",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1383,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

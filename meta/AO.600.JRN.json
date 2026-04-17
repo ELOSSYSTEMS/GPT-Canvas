@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.600.JRN",
+  "names": [
+    "Scribe + Journal Protocol"
+  ],
+  "titles": [
+    "Scribe + Journal Protocol"
+  ],
+  "conversations": [
+    "Memory Modularization Plan"
+  ],
+  "latestTime": 1748116134.287249,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Memory Modularization Plan",
+    "createTime": 1748116134.287249,
+    "messageId": "1fb2712e-19f3-48bb-9042-8e03693b23fb",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748116134.287249,
+      "messageId": "1fb2712e-19f3-48bb-9042-8e03693b23fb",
+      "conversation": "Memory Modularization Plan",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 840,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

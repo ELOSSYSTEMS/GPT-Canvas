@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.000.IDX",
+  "names": [
+    "AI.000.IDX"
+  ],
+  "titles": [
+    "AI.000.IDX"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748754753.194772,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748754753.194772,
+    "messageId": "2582e766-9ddf-4996-9194-17f1368336c1",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748754753.194772,
+      "messageId": "2582e766-9ddf-4996-9194-17f1368336c1",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1403,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

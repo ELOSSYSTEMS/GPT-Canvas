@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.001.BOOT.FUTURE",
+  "names": [
+    "AO.001.BOOT.FUTURE"
+  ],
+  "titles": [
+    "AO.001.BOOT.FUTURE"
+  ],
+  "conversations": [
+    "Command Input Initialization"
+  ],
+  "latestTime": 1748677343.165312,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Command Input Initialization",
+    "createTime": 1748677343.165312,
+    "messageId": "7e44d6aa-5dcd-475b-a691-41d0edd1e16a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748677343.165312,
+      "messageId": "7e44d6aa-5dcd-475b-a691-41d0edd1e16a",
+      "conversation": "Command Input Initialization",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 582,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

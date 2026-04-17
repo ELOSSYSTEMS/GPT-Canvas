@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Return-Label-Email-Hebrew-Rtl",
+  "names": [
+    "Return Label Email Hebrew Rtl"
+  ],
+  "titles": [
+    "Return Label Email Hebrew Rtl"
+  ],
+  "conversations": [
+    "תרגום דוא\"ל לעברית"
+  ],
+  "latestTime": 1750256429.623242,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "תרגום דוא\"ל לעברית",
+    "createTime": 1750256429.623242,
+    "messageId": "465310dd-52c5-4cd5-a454-13fedff03dd2",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750256429.623242,
+      "messageId": "465310dd-52c5-4cd5-a454-13fedff03dd2",
+      "conversation": "תרגום דוא\"ל לעברית",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 728,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "artifactKey": "IN.900.ZION.EP4",
+  "names": [
+    "IN.900.ZION.EP4 – Fear & Loathing in the New Jerusalem: Pt. 4",
+    "IN.900.ZION.EP4"
+  ],
+  "titles": [
+    "Fear & Loathing in the New Jerusalem – Pt. 4"
+  ],
+  "conversations": [
+    "**FEAR AND LOATHING IN THE NEW JERUSALEM"
+  ],
+  "latestTime": 1748761379.398732,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+    "createTime": 1748761379.398732,
+    "messageId": "4580da5a-d941-45d7-be99-cc01a7ebf17e",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748760562.077286,
+      "messageId": "bf53caf1-6593-4884-87e2-6913eca61f9b",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 857,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748761379.398732,
+      "messageId": "4580da5a-d941-45d7-be99-cc01a7ebf17e",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 833,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

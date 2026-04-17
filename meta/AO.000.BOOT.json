@@ -1,0 +1,36 @@
+{
+  "artifactKey": "AO.000.BOOT",
+  "names": [],
+  "titles": [],
+  "conversations": [
+    "Prompt Expansion Ready"
+  ],
+  "latestTime": 1749673086.463451,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Prompt Expansion Ready",
+    "createTime": 1749673086.463451,
+    "messageId": "923ea83c-41df-4591-bef5-9d3033c3f7d3",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749673086.463451,
+      "messageId": "923ea83c-41df-4591-bef5-9d3033c3f7d3",
+      "conversation": "Prompt Expansion Ready",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3140,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

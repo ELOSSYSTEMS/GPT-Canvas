@@ -1,0 +1,124 @@
+{
+  "artifactKey": "IN.100.ALL",
+  "names": [
+    "Allon OS – System Overview"
+  ],
+  "titles": [
+    "Allon OS – System Overview"
+  ],
+  "conversations": [
+    "NEW CHATPT OS APP"
+  ],
+  "latestTime": 1748030153.131123,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "NEW CHATPT OS APP",
+    "createTime": 1748030153.131123,
+    "messageId": "1fe6291c-037d-4070-8ceb-297aed89f581",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 6,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748029334.012266,
+      "messageId": "1ce611b5-9bb1-4f7e-bd58-944145b4db99",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1750,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748029562.16255,
+      "messageId": "4b5e391b-45e4-4639-b368-2f9e6758b260",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 16,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "^(\\s*-\\s)(Sharp Mode|Motherly Mode|Fatherly Mode|Teacher Persona|Prompt Surgeon|Stoic Governor|Consistency Auditor)"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748029563.461887,
+      "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 19,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "(?<=\\*\\*Behavior Mode Engine\\*\\*\\n- )Modes: "
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748029563.461887,
+      "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 26,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "(?<=\\*\\*Modular Governors\\*\\*\\n- )Prompt Surgeon"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748029563.461887,
+      "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 26,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "(?<=\\*\\*Modular Governors\\*\\*\\n- [^\\n]*\\n- )Stoic Governor"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748029563.461887,
+      "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 31,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "(?<=\\*\\*Modular Governors\\*\\*\\n- [^\\n]*\\n- [^\\n]*\\n- )Consistency Auditor"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748029563.461887,
+      "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 53,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "(?<=\\*\\*Persona Management\\*\\*\\n- )Activate default or user-created personas"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748030153.131123,
+      "messageId": "1fe6291c-037d-4070-8ceb-297aed89f581",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2221,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

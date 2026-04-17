@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.400.TXP",
+  "names": [
+    "ELOS_Translator_Expansion"
+  ],
+  "titles": [
+    "ELOS Multilingual Expansion and Recursive Evolution Plan"
+  ],
+  "conversations": [
+    "ELOS Extension Integration"
+  ],
+  "latestTime": 1748605024.742061,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELOS Extension Integration",
+    "createTime": 1748605024.742061,
+    "messageId": "fa8d4b53-1fbf-44ed-8ef7-5b9d9e97cbc9",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748605024.742061,
+      "messageId": "fa8d4b53-1fbf-44ed-8ef7-5b9d9e97cbc9",
+      "conversation": "ELOS Extension Integration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3026,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

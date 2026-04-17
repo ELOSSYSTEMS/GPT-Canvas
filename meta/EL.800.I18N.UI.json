@@ -1,0 +1,36 @@
+{
+  "artifactKey": "EL.800.I18N.UI",
+  "names": [],
+  "titles": [],
+  "conversations": [
+    "translation 2.0 integration and expansion"
+  ],
+  "latestTime": 1749327497.938848,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "translation 2.0 integration and expansion",
+    "createTime": 1749327497.938848,
+    "messageId": "8305ec8a-009f-4ca7-9e61-973c48b7e1a5",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749327497.938848,
+      "messageId": "8305ec8a-009f-4ca7-9e61-973c48b7e1a5",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1085,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

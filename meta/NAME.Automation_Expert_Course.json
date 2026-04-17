@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Automation_Expert_Course",
+  "names": [
+    "Automation_Expert_Course"
+  ],
+  "titles": [
+    "Automation_Expert_Course"
+  ],
+  "conversations": [
+    "GHL n8n Automation Breakdown"
+  ],
+  "latestTime": 1748858111.123596,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "GHL n8n Automation Breakdown",
+    "createTime": 1748858111.123596,
+    "messageId": "8ac35c8c-2836-4d3a-8610-7f4210666110",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748858111.123596,
+      "messageId": "8ac35c8c-2836-4d3a-8610-7f4210666110",
+      "conversation": "GHL n8n Automation Breakdown",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3689,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

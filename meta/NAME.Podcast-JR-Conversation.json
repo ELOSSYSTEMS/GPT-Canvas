@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Podcast-JR-Conversation",
+  "names": [
+    "Podcast - JR Conversation"
+  ],
+  "titles": [
+    "Meaning, Stoicism, and the Flow State"
+  ],
+  "conversations": [
+    "PODCAST TRANSCRIPTION"
+  ],
+  "latestTime": 1748031302.900882,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PODCAST TRANSCRIPTION",
+    "createTime": 1748031302.900882,
+    "messageId": "8f613489-c54a-4be0-a6aa-2fd6cbf5f942",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748031302.900882,
+      "messageId": "8f613489-c54a-4be0-a6aa-2fd6cbf5f942",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3239,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

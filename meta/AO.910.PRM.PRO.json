@@ -1,0 +1,52 @@
+{
+  "artifactKey": "AO.910.PRM.PRO",
+  "names": [
+    "AO.910.PRM.PRO – Prompt Protocol Index"
+  ],
+  "titles": [
+    "AO.910.PRM.PRO – Prompt Protocol Index"
+  ],
+  "conversations": [
+    "PROMPT PROTOCOL OPTIMIZATION"
+  ],
+  "latestTime": 1748972453.700087,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+    "createTime": 1748972453.700087,
+    "messageId": "fb8eed44-af8c-4ca9-9f67-76774302296d",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748972073.156517,
+      "messageId": "a2dac4bf-d25f-42c7-8eb8-9165439ceb19",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3533,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748972453.700087,
+      "messageId": "fb8eed44-af8c-4ca9-9f67-76774302296d",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3151,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

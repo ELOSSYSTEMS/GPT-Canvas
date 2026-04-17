@@ -1,0 +1,88 @@
+{
+  "artifactKey": "NAME.Translate.2.1.ExecutionStandard",
+  "names": [
+    "Translate.2.1.ExecutionStandard"
+  ],
+  "titles": [
+    "Translate.2.1.ExecutionStandard"
+  ],
+  "conversations": [
+    "translation 2.0 integration and expansion"
+  ],
+  "latestTime": 1749325092.700179,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "translation 2.0 integration and expansion",
+    "createTime": 1749325092.700179,
+    "messageId": "54a996a1-5ddd-4c6b-b8a5-4f68f8cbaf7d",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 5,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749324524.812236,
+      "messageId": "ff3d9e45-aa36-4e72-a479-c79634740b2c",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1896,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749324552.510062,
+      "messageId": "50aea48b-8ae4-4d49-b387-c1e80a9dd83c",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1595,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749324861.634443,
+      "messageId": "7fb26bf4-6a3b-4935-ad8b-0918e2392f42",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2284,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749325017.13541,
+      "messageId": "dc05ca90-5a0e-47c1-b4be-f1e8463e171a",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1829,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749325092.700179,
+      "messageId": "54a996a1-5ddd-4c6b-b8a5-4f68f8cbaf7d",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1632,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

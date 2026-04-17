@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Global-Language-UI-Correction",
+  "names": [
+    "ELos - Global Language & UI Correction"
+  ],
+  "titles": [
+    "ELos - Global Language & UI Correction"
+  ],
+  "conversations": [
+    "Dabroo vs ELos seperation"
+  ],
+  "latestTime": 1748104130.27024,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo vs ELos seperation",
+    "createTime": 1748104130.27024,
+    "messageId": "ac50e964-b4df-49a5-88be-e2fbb972325a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748104130.27024,
+      "messageId": "ac50e964-b4df-49a5-88be-e2fbb972325a",
+      "conversation": "Dabroo vs ELos seperation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1017,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

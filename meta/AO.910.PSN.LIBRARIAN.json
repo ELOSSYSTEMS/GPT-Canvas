@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.910.PSN.LIBRARIAN",
+  "names": [
+    "AO.910.PSN.LIBRARIAN"
+  ],
+  "titles": [
+    "Librarian Persona – Recursive Knowledge Navigator"
+  ],
+  "conversations": [
+    "System Boot Initialization"
+  ],
+  "latestTime": 1749405519.896447,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "System Boot Initialization",
+    "createTime": 1749405519.896447,
+    "messageId": "2fde31a8-1433-41b9-9f0a-711afdf1775b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749405519.896447,
+      "messageId": "2fde31a8-1433-41b9-9f0a-711afdf1775b",
+      "conversation": "System Boot Initialization",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2439,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

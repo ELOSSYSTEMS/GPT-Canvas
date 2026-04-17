@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.730.CVL",
+  "names": [
+    "Civilization-Loop-Core"
+  ],
+  "titles": [
+    "Civilization-Loop-Core"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748035214.440491,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748035214.440491,
+    "messageId": "603ee618-f9e9-4acb-8397-e8635764e7f4",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748035214.440491,
+      "messageId": "603ee618-f9e9-4acb-8397-e8635764e7f4",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3335,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

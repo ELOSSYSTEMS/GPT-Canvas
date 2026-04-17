@@ -1,0 +1,40 @@
+{
+  "artifactKey": "DA.300.DPL",
+  "names": [
+    "Dabroo Course Deployment Plan"
+  ],
+  "titles": [
+    "Dabroo Course Deployment Plan"
+  ],
+  "conversations": [
+    "Dabroo Power User Guide"
+  ],
+  "latestTime": 1747608598.535019,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo Power User Guide",
+    "createTime": 1747608598.535019,
+    "messageId": "38dce1a7-0be3-4bae-93c4-b743949a24b9",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747608598.535019,
+      "messageId": "38dce1a7-0be3-4bae-93c4-b743949a24b9",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2616,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

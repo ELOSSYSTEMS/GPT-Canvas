@@ -1,0 +1,77 @@
+{
+  "artifactKey": "IN.900.ZION.EP2",
+  "names": [
+    "IN.900.ZION.EP2 – Fear & Loathing: MartyrMade Pt.2",
+    "IN.900.ZION.EP2"
+  ],
+  "titles": [
+    "Fear & Loathing in the New Jerusalem – Pt. 2"
+  ],
+  "conversations": [
+    "**FEAR AND LOATHING IN THE NEW JERUSALEM"
+  ],
+  "latestTime": 1748762347.67636,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+    "createTime": 1748762347.67636,
+    "messageId": "7a02adbf-9cfa-4502-a57a-cf83f9a7abd1",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748760553.945727,
+      "messageId": "da263c5a-94b2-4c66-b321-f8e318ee0a23",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 881,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748761224.443607,
+      "messageId": "6c8d5fda-89a3-46e5-9a21-2b20ee2d7ae3",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 918,
+      "heuristic": "create-payload",
+      "parseMode": "escaped-control-chars",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748761593.72045,
+      "messageId": "e2016c40-21da-492b-b732-7791e57b4dcf",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 449,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748762347.67636,
+      "messageId": "7a02adbf-9cfa-4502-a57a-cf83f9a7abd1",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 911,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

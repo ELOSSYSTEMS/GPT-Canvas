@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.dabroo-chat-root",
+  "names": [
+    "dabroo-chat-root"
+  ],
+  "titles": [
+    "dabroo-chat-root"
+  ],
+  "conversations": [
+    "Liquid Page Breakdown Issues"
+  ],
+  "latestTime": 1747166578.906501,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Liquid Page Breakdown Issues",
+    "createTime": 1747166578.906501,
+    "messageId": "e47ad740-0095-4dcd-9562-ac9697867362",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747166578.906501,
+      "messageId": "e47ad740-0095-4dcd-9562-ac9697867362",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 896,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

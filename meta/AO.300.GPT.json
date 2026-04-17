@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.300.GPT",
+  "names": [
+    "GPTOS Product Blueprint"
+  ],
+  "titles": [
+    "GPTOS Product Blueprint"
+  ],
+  "conversations": [
+    "Memory Modularization Plan"
+  ],
+  "latestTime": 1748116111.462596,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Memory Modularization Plan",
+    "createTime": 1748116111.462596,
+    "messageId": "45da961e-2c02-4d34-8ee4-dfbad4c94878",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748116111.462596,
+      "messageId": "45da961e-2c02-4d34-8ee4-dfbad4c94878",
+      "conversation": "Memory Modularization Plan",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1035,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

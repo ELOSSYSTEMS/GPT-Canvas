@@ -1,0 +1,70 @@
+{
+  "artifactKey": "EL.400.AUD",
+  "names": [
+    "ELOS Translator Fireproofing Audit",
+    "EL.400.AUD",
+    "EL.400.AUD – Audit Layer"
+  ],
+  "titles": [
+    "ELOS Translator Fireproofing Audit & Reinforcement Plan",
+    "EL.400.AUD",
+    "EL.400.AUD – Audit Layer"
+  ],
+  "conversations": [
+    "ELOS Extension Integration",
+    "Greeting Protocol Verification",
+    "Canvas List Retrieval"
+  ],
+  "latestTime": 1753972966.011835,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Canvas List Retrieval",
+    "createTime": 1753972966.011835,
+    "messageId": "635c2241-55d1-4b22-ae34-cae45f4d1a5c",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748605238.825678,
+      "messageId": "7b430c41-c911-4b34-b6fd-855d566feba2",
+      "conversation": "ELOS Extension Integration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2621,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748699778.231672,
+      "messageId": "08f3c784-0b8e-43de-b245-f28efdf86910",
+      "conversation": "Greeting Protocol Verification",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 584,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753972966.011835,
+      "messageId": "635c2241-55d1-4b22-ae34-cae45f4d1a5c",
+      "conversation": "Canvas List Retrieval",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1682,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

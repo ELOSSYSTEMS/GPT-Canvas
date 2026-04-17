@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Stargate-Phase-1-Intent-Classifier",
+  "names": [
+    "Stargate Phase 1 Intent Classifier"
+  ],
+  "titles": [
+    "Stargate Phase 1 Intent Classifier"
+  ],
+  "conversations": [
+    "שיחה עם עוזר"
+  ],
+  "latestTime": 1748894704.885247,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "שיחה עם עוזר",
+    "createTime": 1748894704.885247,
+    "messageId": "0efe335c-a792-4dbf-9c69-185e88b22476",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748894704.885247,
+      "messageId": "0efe335c-a792-4dbf-9c69-185e88b22476",
+      "conversation": "שיחה עם עוזר",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 884,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

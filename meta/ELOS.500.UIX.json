@@ -1,0 +1,52 @@
+{
+  "artifactKey": "ELOS.500.UIX",
+  "names": [
+    "ELos - Tier Selector UI Hierarchy"
+  ],
+  "titles": [
+    "Choose Your Interface Depth"
+  ],
+  "conversations": [
+    "Recursive Guidance for Beginners"
+  ],
+  "latestTime": 1748073728.428193,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Recursive Guidance for Beginners",
+    "createTime": 1748073728.428193,
+    "messageId": "4acd0b89-eedf-40ce-a8d9-19240a60f8db",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748073105.551089,
+      "messageId": "da543261-8fcc-4843-8c99-f17a1ba7563d",
+      "conversation": "Recursive Guidance for Beginners",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2537,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748073728.428193,
+      "messageId": "4acd0b89-eedf-40ce-a8d9-19240a60f8db",
+      "conversation": "Recursive Guidance for Beginners",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2888,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

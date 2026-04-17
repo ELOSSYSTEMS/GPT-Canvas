@@ -1,0 +1,52 @@
+{
+  "artifactKey": "EL.100.ONB",
+  "names": [
+    "ELos Baseline Snapshot v1.0"
+  ],
+  "titles": [
+    "ELos Baseline Snapshot v1.0"
+  ],
+  "conversations": [
+    "Dabroo vs ELos seperation"
+  ],
+  "latestTime": 1748104330.866844,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo vs ELos seperation",
+    "createTime": 1748104330.866844,
+    "messageId": "e93defbc-bbcd-466d-8fe7-1f7f479e303a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748104323.53464,
+      "messageId": "c5e50190-c056-4abb-aaef-a44f03f22dcd",
+      "conversation": "Dabroo vs ELos seperation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1321,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748104330.866844,
+      "messageId": "e93defbc-bbcd-466d-8fe7-1f7f479e303a",
+      "conversation": "Dabroo vs ELos seperation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1320,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

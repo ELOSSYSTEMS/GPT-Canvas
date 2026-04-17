@@ -1,0 +1,52 @@
+{
+  "artifactKey": "WG.000.CMD",
+  "names": [
+    "WG.000.CMD – War Games Console Core"
+  ],
+  "titles": [
+    "WG.000.CMD – War Games Console Core"
+  ],
+  "conversations": [
+    "War Games"
+  ],
+  "latestTime": 1749800999.47732,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "War Games",
+    "createTime": 1749800999.47732,
+    "messageId": "a3386a31-df58-4246-a23c-b2c08628c09d",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749799054.326908,
+      "messageId": "bc0f3bf1-a7fc-4a0c-834a-f83f694bb8b8",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1999,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749800999.47732,
+      "messageId": "a3386a31-df58-4246-a23c-b2c08628c09d",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3152,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

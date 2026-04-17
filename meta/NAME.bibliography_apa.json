@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.bibliography_apa",
+  "names": [
+    "bibliography_apa"
+  ],
+  "titles": [
+    "bibliography_apa"
+  ],
+  "conversations": [
+    "APA Bibliography Formatting"
+  ],
+  "latestTime": 1740847093.26064,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "APA Bibliography Formatting",
+    "createTime": 1740847093.26064,
+    "messageId": "4b06055e-9916-4e0b-af51-d8c38a817ff5",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1740847093.26064,
+      "messageId": "4b06055e-9916-4e0b-af51-d8c38a817ff5",
+      "conversation": "APA Bibliography Formatting",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5656,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

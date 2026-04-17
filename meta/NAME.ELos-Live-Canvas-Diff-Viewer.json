@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Live-Canvas-Diff-Viewer",
+  "names": [
+    "ELos - Live Canvas Diff Viewer"
+  ],
+  "titles": [
+    "ELos - Live Canvas Diff Viewer"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748081989.465277,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748081989.465277,
+    "messageId": "7cf5632d-3c8e-4bfb-b949-283f18d5e8b2",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748081989.465277,
+      "messageId": "7cf5632d-3c8e-4bfb-b949-283f18d5e8b2",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 969,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

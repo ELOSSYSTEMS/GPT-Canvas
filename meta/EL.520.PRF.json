@@ -1,0 +1,70 @@
+{
+  "artifactKey": "EL.520.PRF",
+  "names": [
+    "Prompt Forge (EL.520.PRF)",
+    "Forensic Generator Prompt",
+    "EL.520.PRF – Prompt Forge"
+  ],
+  "titles": [
+    "Prompt Forge (EL.520.PRF)",
+    "Forensic Generator Prompt",
+    "EL.520.PRF – Prompt Forge"
+  ],
+  "conversations": [
+    "Scrape URL Request",
+    "Scrape prompt content",
+    "Canvas List Retrieval"
+  ],
+  "latestTime": 1753972788.104901,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Canvas List Retrieval",
+    "createTime": 1753972788.104901,
+    "messageId": "764cf927-2075-45ae-9f5c-89324f911cee",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1752953156.591896,
+      "messageId": "dc717d6c-ebd0-44ad-90dc-18766b8d3617",
+      "conversation": "Scrape URL Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2074,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753446019.438245,
+      "messageId": "398e1e6a-14be-4dc7-9331-a3ca59a18553",
+      "conversation": "Scrape prompt content",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2073,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753972788.104901,
+      "messageId": "764cf927-2075-45ae-9f5c-89324f911cee",
+      "conversation": "Canvas List Retrieval",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1796,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

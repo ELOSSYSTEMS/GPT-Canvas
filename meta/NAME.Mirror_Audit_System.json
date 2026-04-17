@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Mirror_Audit_System",
+  "names": [
+    "Mirror_Audit_System"
+  ],
+  "titles": [
+    "Mirror_Audit_System"
+  ],
+  "conversations": [
+    "Purpose Design Blueprint"
+  ],
+  "latestTime": 1748354070.654501,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Purpose Design Blueprint",
+    "createTime": 1748354070.654501,
+    "messageId": "71fa5c28-2d81-4164-ae10-8150640f67b6",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748354070.654501,
+      "messageId": "71fa5c28-2d81-4164-ae10-8150640f67b6",
+      "conversation": "Purpose Design Blueprint",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2450,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

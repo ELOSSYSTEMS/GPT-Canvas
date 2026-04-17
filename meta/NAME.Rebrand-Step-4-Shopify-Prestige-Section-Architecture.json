@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Rebrand-Step-4-Shopify-Prestige-Section-Architecture",
+  "names": [
+    "Rebrand Step 4 — Shopify Prestige Section Architecture"
+  ],
+  "titles": [
+    "Rebrand Step 4 — Shopify Prestige Section Architecture"
+  ],
+  "conversations": [
+    "SUB WEB REBUILD"
+  ],
+  "latestTime": 1769442909.642209,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "SUB WEB REBUILD",
+    "createTime": 1769442909.642209,
+    "messageId": "ecdd0c51-70c2-4349-820a-6b8b16eb9f55",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1769442909.642209,
+      "messageId": "ecdd0c51-70c2-4349-820a-6b8b16eb9f55",
+      "conversation": "SUB WEB REBUILD",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3852,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

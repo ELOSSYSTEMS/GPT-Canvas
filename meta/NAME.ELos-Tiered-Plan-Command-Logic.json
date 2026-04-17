@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tiered-Plan-Command-Logic",
+  "names": [
+    "ELos - Tiered Plan Command Logic"
+  ],
+  "titles": [
+    "ELos - Tiered Plan Command Logic"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083467.062481,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083467.062481,
+    "messageId": "dd566e5a-b7f6-464b-bc40-040f50104f4f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083467.062481,
+      "messageId": "dd566e5a-b7f6-464b-bc40-040f50104f4f",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1230,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

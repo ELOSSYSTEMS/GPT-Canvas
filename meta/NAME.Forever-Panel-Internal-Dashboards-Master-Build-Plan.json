@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Forever-Panel-Internal-Dashboards-Master-Build-Plan",
+  "names": [
+    "Forever Panel Internal Dashboards – Master Build Plan"
+  ],
+  "titles": [
+    "Forever Panel Internal Dashboards – Master Build Plan"
+  ],
+  "conversations": [
+    "Dashboard Scraping Overview"
+  ],
+  "latestTime": 1770043399.872527,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dashboard Scraping Overview",
+    "createTime": 1770043399.872527,
+    "messageId": "5364afde-58a1-4582-a967-ace7cc662911",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1770043399.872527,
+      "messageId": "5364afde-58a1-4582-a967-ace7cc662911",
+      "conversation": "Dashboard Scraping Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4983,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

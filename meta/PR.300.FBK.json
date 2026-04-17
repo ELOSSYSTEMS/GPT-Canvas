@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.300.FBK",
+  "names": [
+    "PR.300.FBK"
+  ],
+  "titles": [
+    "PR.300.FBK"
+  ],
+  "conversations": [
+    "Mission Ready Status"
+  ],
+  "latestTime": 1747611049.703826,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mission Ready Status",
+    "createTime": 1747611049.703826,
+    "messageId": "0ae446bc-576c-42ad-a347-38cf6f8304f4",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747611049.703826,
+      "messageId": "0ae446bc-576c-42ad-a347-38cf6f8304f4",
+      "conversation": "Mission Ready Status",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2526,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

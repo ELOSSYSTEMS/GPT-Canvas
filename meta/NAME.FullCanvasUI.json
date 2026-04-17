@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.FullCanvasUI",
+  "names": [
+    "FullCanvasUI"
+  ],
+  "titles": [
+    "FullCanvasUI"
+  ],
+  "conversations": [
+    "PROMPT SCRAPE IMPROVE AND STORE"
+  ],
+  "latestTime": 1749070738.378972,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "PROMPT SCRAPE IMPROVE AND STORE",
+    "createTime": 1749070738.378972,
+    "messageId": "ba23cfc5-fbfa-4f65-b0b7-7e5f15ac5895",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749062953.772795,
+      "messageId": "a26ed7c2-0092-4909-9362-cbabd6000e43",
+      "conversation": "PROMPT SCRAPE IMPROVE AND STORE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3714,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749070738.378972,
+      "messageId": "ba23cfc5-fbfa-4f65-b0b7-7e5f15ac5895",
+      "conversation": "PROMPT SCRAPE IMPROVE AND STORE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 8496,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

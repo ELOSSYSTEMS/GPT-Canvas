@@ -1,0 +1,55 @@
+{
+  "artifactKey": "FF.200.ETH",
+  "names": [
+    "FF Brand Ethos & Language",
+    "Canvas Master Index"
+  ],
+  "titles": [
+    "FF Brand Ethos & Language",
+    "Canvas Master Index"
+  ],
+  "conversations": [
+    "Dabroo Power User Guide",
+    "PR.100 Canvases Search"
+  ],
+  "latestTime": 1748559092.553444,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PR.100 Canvases Search",
+    "createTime": 1748559092.553444,
+    "messageId": "5e2beeec-0dd7-448d-acc8-69402ebe5473",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747609506.582083,
+      "messageId": "b8b79e2a-2978-45a0-9e7a-6b31ac1be92d",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1392,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748559092.553444,
+      "messageId": "5e2beeec-0dd7-448d-acc8-69402ebe5473",
+      "conversation": "PR.100 Canvases Search",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2688,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

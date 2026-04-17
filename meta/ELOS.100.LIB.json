@@ -1,0 +1,52 @@
+{
+  "artifactKey": "ELOS.100.LIB",
+  "names": [
+    "The Librarian"
+  ],
+  "titles": [
+    "The Librarian"
+  ],
+  "conversations": [
+    "ELos Buildout Structure"
+  ],
+  "latestTime": 1748089810.417221,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "ELos Buildout Structure",
+    "createTime": 1748089810.417221,
+    "messageId": "eaebbbf1-db87-43c8-99f7-6791525c1f2f",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748089685.325188,
+      "messageId": "eb94f4a7-b2ec-423f-a63d-44f71b8ea4da",
+      "conversation": "ELos Buildout Structure",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1361,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748089810.417221,
+      "messageId": "eaebbbf1-db87-43c8-99f7-6791525c1f2f",
+      "conversation": "ELos Buildout Structure",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1562,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

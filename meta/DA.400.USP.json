@@ -1,0 +1,40 @@
+{
+  "artifactKey": "DA.400.USP",
+  "names": [
+    "Dabroo: Mastering GPT Like a Power User"
+  ],
+  "titles": [
+    "Dabroo: Mastering GPT Like a Power User"
+  ],
+  "conversations": [
+    "Dabroo Power User Guide"
+  ],
+  "latestTime": 1747608617.391517,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo Power User Guide",
+    "createTime": 1747608617.391517,
+    "messageId": "38d8d437-9dfb-414d-921c-38b4cbc39326",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747608617.391517,
+      "messageId": "38d8d437-9dfb-414d-921c-38b4cbc39326",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2530,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

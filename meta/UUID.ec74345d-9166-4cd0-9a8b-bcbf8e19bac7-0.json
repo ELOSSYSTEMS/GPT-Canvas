@@ -1,0 +1,36 @@
+{
+  "artifactKey": "UUID.ec74345d-9166-4cd0-9a8b-bcbf8e19bac7-0",
+  "names": [],
+  "titles": [],
+  "conversations": [
+    "Beginner UI Redesign Ideas"
+  ],
+  "latestTime": 1748088636.200003,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Beginner UI Redesign Ideas",
+    "createTime": 1748088636.200003,
+    "messageId": "ec74345d-9166-4cd0-9a8b-bcbf8e19bac7",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748088636.200003,
+      "messageId": "ec74345d-9166-4cd0-9a8b-bcbf8e19bac7",
+      "conversation": "Beginner UI Redesign Ideas",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3396,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

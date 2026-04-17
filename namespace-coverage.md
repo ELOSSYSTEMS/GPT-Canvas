@@ -1,0 +1,162 @@
+# Namespace Coverage Report
+
+- recovered artifacts: 644
+- complete latest bodies: 634
+- partial latest bodies: 10
+- missing identifiers: 1026
+
+## Top-level namespaces
+
+- `AD`: recovered=3, missing=4
+- `AI`: recovered=54, missing=50
+- `AO`: recovered=61, missing=203
+- `AOS`: recovered=2, missing=0
+- `AOX`: recovered=0, missing=1
+- `API`: recovered=0, missing=1
+- `AUTH`: recovered=0, missing=2
+- `BILL`: recovered=0, missing=3
+- `DA`: recovered=17, missing=72
+- `DB`: recovered=0, missing=4
+- `EL`: recovered=67, missing=295
+- `ELOS`: recovered=18, missing=39
+- `ELS`: recovered=1, missing=3
+- `EN`: recovered=0, missing=2
+- `EO`: recovered=0, missing=7
+- `EUR`: recovered=0, missing=1
+- `EX`: recovered=0, missing=1
+- `FF`: recovered=24, missing=75
+- `FMF`: recovered=0, missing=4
+- `HX`: recovered=0, missing=6
+- `IC`: recovered=0, missing=1
+- `IN`: recovered=31, missing=31
+- `INT`: recovered=0, missing=8
+- `KRNL`: recovered=1, missing=0
+- `LOG`: recovered=1, missing=0
+- `LYR`: recovered=1, missing=0
+- `MD`: recovered=0, missing=1
+- `NAME`: recovered=287, missing=0
+- `OS`: recovered=8, missing=13
+- `PM`: recovered=0, missing=3
+- `PN`: recovered=0, missing=1
+- `PR`: recovered=40, missing=137
+- `PSN`: recovered=0, missing=1
+- `SY`: recovered=0, missing=1
+- `SYS`: recovered=1, missing=4
+- `TO`: recovered=0, missing=6
+- `TR`: recovered=0, missing=1
+- `UI`: recovered=0, missing=4
+- `UIX`: recovered=1, missing=0
+- `USR`: recovered=0, missing=3
+- `UUID`: recovered=8, missing=0
+- `UX`: recovered=1, missing=22
+- `VP`: recovered=2, missing=0
+- `VR`: recovered=0, missing=5
+- `VV`: recovered=7, missing=7
+- `WG`: recovered=6, missing=4
+- `▧ ELOS`: recovered=2, missing=0
+
+## Highest-coverage recovered families
+
+- `NAME.AI`: 28
+- `EL.420`: 10
+- `AO.910`: 9
+- `IN.100`: 9
+- `IN.900`: 9
+- `AI.100`: 8
+- `AO.001`: 8
+- `ELOS.100`: 8
+- `ELOS.500`: 7
+- `VV.999`: 7
+- `AO.100`: 6
+- `DA.300`: 6
+- `EL.410`: 6
+- `FF.500`: 6
+- `PR.100`: 6
+- `AO.920`: 5
+- `FF.200`: 5
+- `IN.300`: 5
+- `PR.001`: 5
+- `PR.300`: 5
+- `AO.930`: 4
+- `EL.100`: 4
+- `AI.500`: 3
+- `AI.700`: 3
+- `AI.999`: 3
+- `AO.200`: 3
+- `AO.300`: 3
+- `AO.900`: 3
+- `DA.100`: 3
+- `DA.200`: 3
+- `EL.003`: 3
+- `EL.400`: 3
+- `FF.100`: 3
+- `FF.700`: 3
+- `NAME.ACAD`: 3
+- `AI.850`: 2
+- `AO.000`: 2
+- `AO.290`: 2
+- `AO.911`: 2
+- `DA.700`: 2
+
+## Most-missing families
+
+- `EL.420`: 22
+- `DA.300`: 18
+- `PR.100`: 17
+- `AO.910`: 15
+- `AO.300`: 14
+- `EL.500`: 14
+- `EL.700`: 13
+- `AO.001`: 12
+- `AO.911`: 12
+- `EL.400`: 12
+- `AO.999`: 11
+- `EL.300`: 11
+- `PR.101`: 11
+- `AO.290`: 10
+- `DA.500`: 10
+- `EL.200`: 10
+- `EL.900`: 10
+- `ELOS.300`: 10
+- `PR.001`: 10
+- `DA.100`: 9
+- `DA.400`: 9
+- `DA.600`: 9
+- `EL.000`: 9
+- `EL.100`: 9
+- `EL.800`: 9
+- `FF.200`: 9
+- `PR.099`: 9
+- `PR.200`: 9
+- `AO.100`: 8
+- `AO.920`: 8
+- `EL.003`: 8
+- `FF.300`: 8
+- `AI.300`: 7
+- `AO.700`: 7
+- `EL.600`: 7
+- `FF.100`: 7
+- `FF.500`: 7
+- `FF.700`: 7
+- `FF.900`: 7
+- `AI.100`: 6
+- `AI.500`: 6
+- `AO.200`: 6
+- `AO.900`: 6
+- `DA.200`: 6
+- `DA.700`: 6
+- `EL.510`: 6
+- `AI.400`: 5
+- `AI.700`: 5
+- `AO.400`: 5
+- `AO.800`: 5
+- `EL.001`: 5
+- `EL.520`: 5
+- `EL.999`: 5
+- `ELOS.500`: 5
+- `PR.600`: 5
+- `AI.600`: 4
+- `AO.912`: 4
+- `AO.913`: 4
+- `AO.914`: 4
+- `EL.002`: 4

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.210.ALB",
+  "names": [
+    "PR.210.ALB"
+  ],
+  "titles": [
+    "PR.210.ALB"
+  ],
+  "conversations": [
+    "Mission Ready Status"
+  ],
+  "latestTime": 1747610811.401805,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mission Ready Status",
+    "createTime": 1747610811.401805,
+    "messageId": "f1758d89-8c5c-458b-b6e4-e8eb825c3928",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747610811.401805,
+      "messageId": "f1758d89-8c5c-458b-b6e4-e8eb825c3928",
+      "conversation": "Mission Ready Status",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1861,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

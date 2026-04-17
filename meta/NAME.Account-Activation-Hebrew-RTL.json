@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Account-Activation-Hebrew-RTL",
+  "names": [
+    "Account Activation Hebrew RTL"
+  ],
+  "titles": [
+    "Account Activation Hebrew RTL"
+  ],
+  "conversations": [
+    "תרגום דוא\"ל לעברית"
+  ],
+  "latestTime": 1750256132.671383,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "תרגום דוא\"ל לעברית",
+    "createTime": 1750256132.671383,
+    "messageId": "390472ae-5eab-4073-a743-ce6f7d6ef47a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750256132.671383,
+      "messageId": "390472ae-5eab-4073-a743-ce6f7d6ef47a",
+      "conversation": "תרגום דוא\"ל לעברית",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3235,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

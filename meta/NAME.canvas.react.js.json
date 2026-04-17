@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.canvas.react.js",
+  "names": [
+    "canvas.react.js"
+  ],
+  "titles": [
+    "canvas.react.js"
+  ],
+  "conversations": [
+    "BUILDING THE WEBAPP"
+  ],
+  "latestTime": 1750597414.85639,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "BUILDING THE WEBAPP",
+    "createTime": 1750597414.85639,
+    "messageId": "e3f92192-724f-4164-88a0-160408b541e7",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750597414.85639,
+      "messageId": "e3f92192-724f-4164-88a0-160408b541e7",
+      "conversation": "BUILDING THE WEBAPP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1586,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

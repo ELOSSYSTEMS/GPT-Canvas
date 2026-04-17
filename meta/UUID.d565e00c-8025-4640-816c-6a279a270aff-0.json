@@ -1,0 +1,36 @@
+{
+  "artifactKey": "UUID.d565e00c-8025-4640-816c-6a279a270aff-0",
+  "names": [],
+  "titles": [],
+  "conversations": [
+    "Dabroo vs ELos seperation"
+  ],
+  "latestTime": 1748104121.739853,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Dabroo vs ELos seperation",
+    "createTime": 1748104121.739853,
+    "messageId": "d565e00c-8025-4640-816c-6a279a270aff",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748104121.739853,
+      "messageId": "d565e00c-8025-4640-816c-6a279a270aff",
+      "conversation": "Dabroo vs ELos seperation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1017,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

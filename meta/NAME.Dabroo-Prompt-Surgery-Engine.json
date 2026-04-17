@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Dabroo-Prompt-Surgery-Engine",
+  "names": [
+    "Dabroo Prompt Surgery Engine"
+  ],
+  "titles": [
+    "Dabroo Prompt Surgery Engine"
+  ],
+  "conversations": [
+    "שיחה עם עוזר"
+  ],
+  "latestTime": 1748894852.600231,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "שיחה עם עוזר",
+    "createTime": 1748894852.600231,
+    "messageId": "f82e316c-1f2b-4c3b-a98b-0422e0c6bfc7",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748894852.600231,
+      "messageId": "f82e316c-1f2b-4c3b-a98b-0422e0c6bfc7",
+      "conversation": "שיחה עם עוזר",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1346,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

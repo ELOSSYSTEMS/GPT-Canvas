@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.100.CORE",
+  "names": [
+    "EL.100.CORE – ELos Extension Core Runtime"
+  ],
+  "titles": [
+    "ELos Extension Core Runtime – Canvas + Bootloader Control Layer"
+  ],
+  "conversations": [
+    "System Boot Initialization"
+  ],
+  "latestTime": 1749405028.2183,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "System Boot Initialization",
+    "createTime": 1749405028.2183,
+    "messageId": "31a8d5fb-603d-449d-a861-84a91c1812d1",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749405028.2183,
+      "messageId": "31a8d5fb-603d-449d-a861-84a91c1812d1",
+      "conversation": "System Boot Initialization",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3213,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Podcast-Jan-6-2019",
+  "names": [
+    "Podcast - Jan 6, 2019"
+  ],
+  "titles": [
+    "Daily Stoic Reflections & Purpose Clarity"
+  ],
+  "conversations": [
+    "PODCAST TRANSCRIPTION"
+  ],
+  "latestTime": 1748031206.991872,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PODCAST TRANSCRIPTION",
+    "createTime": 1748031206.991872,
+    "messageId": "f6fc885a-bcc5-46eb-be37-c1c0517b720f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748031206.991872,
+      "messageId": "f6fc885a-bcc5-46eb-be37-c1c0517b720f",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4438,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

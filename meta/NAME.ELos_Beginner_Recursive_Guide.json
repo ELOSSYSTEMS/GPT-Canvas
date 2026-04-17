@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos_Beginner_Recursive_Guide",
+  "names": [
+    "ELos_Beginner_Recursive_Guide"
+  ],
+  "titles": [
+    "ELos_Beginner_Recursive_Guide"
+  ],
+  "conversations": [
+    "Recursive Guidance for Beginners"
+  ],
+  "latestTime": 1748072195.788532,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Recursive Guidance for Beginners",
+    "createTime": 1748072195.788532,
+    "messageId": "d37d2639-1b3f-4c99-9933-e0a19a0928e7",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748072195.788532,
+      "messageId": "d37d2639-1b3f-4c99-9933-e0a19a0928e7",
+      "conversation": "Recursive Guidance for Beginners",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2416,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

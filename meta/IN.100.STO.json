@@ -1,0 +1,40 @@
+{
+  "artifactKey": "IN.100.STO",
+  "names": [
+    "Stoic Governor – Core Belief Pillars"
+  ],
+  "titles": [
+    "Stoic Governor – Core Belief Pillars"
+  ],
+  "conversations": [
+    "Stoic Core Beliefs Summary"
+  ],
+  "latestTime": 1748071790.544714,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Stoic Core Beliefs Summary",
+    "createTime": 1748071790.544714,
+    "messageId": "07eed48a-2e1e-4a18-b70f-6abbd635c40f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748071790.544714,
+      "messageId": "07eed48a-2e1e-4a18-b70f-6abbd635c40f",
+      "conversation": "Stoic Core Beliefs Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2146,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

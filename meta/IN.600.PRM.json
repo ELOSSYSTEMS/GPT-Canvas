@@ -1,0 +1,40 @@
+{
+  "artifactKey": "IN.600.PRM",
+  "names": [
+    "Allon OS – Prompt Arsenal"
+  ],
+  "titles": [
+    "Allon OS – Prompt Arsenal"
+  ],
+  "conversations": [
+    "NEW CHATPT OS APP"
+  ],
+  "latestTime": 1748030664.114994,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "NEW CHATPT OS APP",
+    "createTime": 1748030664.114994,
+    "messageId": "183e4429-f021-4474-a457-d9f318e8f091",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748030664.114994,
+      "messageId": "183e4429-f021-4474-a457-d9f318e8f091",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2249,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

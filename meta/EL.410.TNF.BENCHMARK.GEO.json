@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.410.TNF.BENCHMARK.GEO",
+  "names": [
+    "TNF_Benchmark_Geopolitical_StressTest"
+  ],
+  "titles": [
+    "TNF_Benchmark_Geopolitical_StressTest"
+  ],
+  "conversations": [
+    "translation 2.0 integration and expansion"
+  ],
+  "latestTime": 1749325775.648451,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "translation 2.0 integration and expansion",
+    "createTime": 1749325775.648451,
+    "messageId": "61dcb94a-42d8-4481-a89f-5479455aa310",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749325775.648451,
+      "messageId": "61dcb94a-42d8-4481-a89f-5479455aa310",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1074,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

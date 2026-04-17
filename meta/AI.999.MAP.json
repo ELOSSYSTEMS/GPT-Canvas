@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.999.MAP",
+  "names": [
+    "vVerse-Visual-Hierarchy-Map"
+  ],
+  "titles": [
+    "vVerse-Visual-Hierarchy-Map"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748114379.163901,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748114379.163901,
+    "messageId": "8d4ba788-8767-40d2-bb50-03c6b42e3247",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748114379.163901,
+      "messageId": "8d4ba788-8767-40d2-bb50-03c6b42e3247",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2274,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

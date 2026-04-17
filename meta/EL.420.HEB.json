@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.420.HEB",
+  "names": [
+    "ELOS Hebrew Lite Scaffold"
+  ],
+  "titles": [
+    "ELOS Hebrew Lite Scaffold"
+  ],
+  "conversations": [
+    "ELOS Extension Integration"
+  ],
+  "latestTime": 1748607597.569477,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELOS Extension Integration",
+    "createTime": 1748607597.569477,
+    "messageId": "b0ca555a-77a5-4dd3-b44f-cd77920ea9c2",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748607597.569477,
+      "messageId": "b0ca555a-77a5-4dd3-b44f-cd77920ea9c2",
+      "conversation": "ELOS Extension Integration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1751,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

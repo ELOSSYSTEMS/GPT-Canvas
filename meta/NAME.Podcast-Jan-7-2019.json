@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Podcast-Jan-7-2019",
+  "names": [
+    "Podcast - Jan 7, 2019"
+  ],
+  "titles": [
+    "Living with Intention & Recognizing the Voice Within"
+  ],
+  "conversations": [
+    "PODCAST TRANSCRIPTION"
+  ],
+  "latestTime": 1748031219.8749,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PODCAST TRANSCRIPTION",
+    "createTime": 1748031219.8749,
+    "messageId": "dd6b455d-43c3-4f14-a009-ea614c39cc5b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748031219.8749,
+      "messageId": "dd6b455d-43c3-4f14-a009-ea614c39cc5b",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2457,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

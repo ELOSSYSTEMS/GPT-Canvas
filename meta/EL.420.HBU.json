@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.420.HBU",
+  "names": [
+    "EL.420.HBU"
+  ],
+  "titles": [
+    "EL.420.HBU"
+  ],
+  "conversations": [
+    "Bootloader Sequence Initiated"
+  ],
+  "latestTime": 1749501411.500255,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Sequence Initiated",
+    "createTime": 1749501411.500255,
+    "messageId": "8e930742-f010-4ca1-9104-7e44a4c6c301",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749501411.500255,
+      "messageId": "8e930742-f010-4ca1-9104-7e44a4c6c301",
+      "conversation": "Bootloader Sequence Initiated",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1421,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

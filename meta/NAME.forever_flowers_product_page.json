@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.forever_flowers_product_page",
+  "names": [
+    "forever_flowers_product_page"
+  ],
+  "titles": [
+    "forever_flowers_product_page"
+  ],
+  "conversations": [
+    "Great Business Concepts Analysis"
+  ],
+  "latestTime": 1738348919.971015,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Great Business Concepts Analysis",
+    "createTime": 1738348919.971015,
+    "messageId": "2860ee78-fbef-404b-a3ee-a7f095b7116a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1738348919.971015,
+      "messageId": "2860ee78-fbef-404b-a3ee-a7f095b7116a",
+      "conversation": "Great Business Concepts Analysis",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4216,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

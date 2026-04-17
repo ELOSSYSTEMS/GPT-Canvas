@@ -1,0 +1,249 @@
+# Conflicting Artifact Signals
+
+Total artifacts with multiple names/titles: 49
+
+- `AI.700.DAO`
+  - names: DAEMON-Founders-OS-Core | MIND-OS-Core-Canvases
+  - titles: DAEMON-Founders-OS-Core | MIND-OS-Core-Canvases
+  - latest body: complete
+  - conversations: Psychometric Profile Analysis Request
+- `AI.800.RPA`
+  - names: Recursive-Persona-Architecture | Recursive-System-Builds-Pre-Consistency-Auditor | AI OS - Recursive Systems Archive
+  - titles: Recursive-Persona-Architecture | Recursive-System-Builds-Pre-Consistency-Auditor | AI OS - Recursive Systems Archive
+  - latest body: complete
+  - conversations: Psychometric Profile Analysis Request | ELos Canvas Index Summary
+- `AI.850.MOS`
+  - names: AI.850.MOS - Mind OS Master Architecture | AI.850.MOS – Mind OS Master Architecture
+  - titles: AI.850.MOS - Mind OS Master Architecture | AI.850.MOS – Mind OS Master Architecture
+  - latest body: complete
+  - conversations: Mind OS Meta-System Archive | Bootloader Activation Summary | Boot Sequence Execution
+- `AO.001.BOOT`
+  - names: AO.001.BOOT | AO.001.RBI
+  - titles: AO.001.BOOT | AO.001.RBI
+  - latest body: complete
+  - conversations: ELos Protocol Execution Status | Conversation summary request | Conversation Summary Request | Summarize and Title Request | vVerse AI Video Editing | Command Input Initialization
+- `AO.001.RBI`
+  - names: Recursive Bootloader Index | EL2.110.TriggerMap | AO.001.RBI | AO.001.BOOT | EL.800.LNG.StarfleetLanguagePack | ELos_Extension_Final_Form | ELoS.CommandRegistry | bootloader.json
+  - titles: Recursive Bootloader Index | EL2.110.TriggerMap | AO.001.RBI | AO.001.BOOT | EL.800.LNG.StarfleetLanguagePack | ELos_Extension_Final_Form | ELoS.CommandRegistry | bootloader.json
+  - latest body: complete
+  - conversations: PR.100 Canvases Search | ELos Protocol Execution Status | Conversation summary request | Fix Stargate Protocol | Conversation Summary Request | Summarize and Title Request
+- `AO.100.PSN`
+  - names: AO.100.PSN | ELos_Whitepaper_Master | AO.100.PSN – Comprehensive Personality Profile (Allon Schaham) | AO.100.PSN – Personas Master Index
+  - titles: AO.100.PSN | ELos_Whitepaper_Master | AO.100.PSN – Comprehensive Personality Profile (Allon Schaham) | AO.100.PSN – Personas Master Index
+  - latest body: complete
+  - conversations: Bootloader Execution Summary | Bootloader Command Summary | Canvas List Retrieval
+- `AO.100.SRG`
+  - names: AO.100.SRG.PersonaCard | AO.100.SRG – Prompt Surgeon
+  - titles: AO.100.SRG.PersonaCard | AO.100.SRG – Prompt Surgeon
+  - latest body: complete
+  - conversations: PROMPT PROTOCOL OPTIMIZATION | Canvas List Retrieval
+- `AO.200.PSN`
+  - names: ELos_Architect_Persona | Recursive_Personas_AllonOS | Persona Canvas Index | EL.999.ERK | Access_Layer_Protocols
+  - titles: ELos_Architect_Persona | Recursive_Personas_AllonOS | Persona Canvas Index | EL.999.ERK | Access_Layer_Protocols
+  - latest body: complete
+  - conversations: Builder Onboarding Step 4 | Recursive Persona Architecture | Librarian Assistance Request | Recursive System Exploration | AI Tools Breakdown
+- `AO.900.EL2`
+  - names: AO.900.EL2.FireproofRoot | EL2.240.Wand
+  - titles: AO.900.EL2.FireproofRoot | EL2.240.Wand
+  - latest body: complete
+  - conversations: Recursive Persona System Design
+- `AO.910.PRM.LIB`
+  - names: AO.910.PRM.LIB | AO.910.PRM.LIB_All_Prompts | AO.910.PRM.LIB_Full | EL.910.PRM.PersonalizedAgent | AO.911.RBI | PromptForge_v3_Protocol | AO.910.PRM.IDX | AO.910.PRM.META | AO.910.PRM.HIST
+  - titles: AO.910.PRM.LIB | AO.910.PRM.LIB_All_Prompts | AO.910.PRM.LIB_Full | EL.910.PRM.PersonalizedAgent | AO.911.RBI | PromptForge_v3_Protocol | AO.910.PRM.IDX | AO.910.PRM.META | AO.910.PRM.HIST
+  - latest body: complete
+  - conversations: PROMPT SCRAPE IMPROVE AND STORE | Bootloader Activation Summary | Mode Forks: Text vs Voice | Prompt Library Overview | NEW ELOS EXTENSION | Prompt Expansion Ready
+- `AO.910.PSN`
+  - names: AO.910.PSN.Assassin | AO.910.PSN.Architect | AO.910.PSN.Gate | AO.910.PSN.Builder | AO.910.PSN.DevOperator | AO.910.PSN.UXWatchdog | AO.910.PSN.Registrar | AO.910.PSN.SystemSynthesizer | EL2.200.UX.B1 | EL2.220.BehaviorSets | EL2.310.Builder.B1
+  - titles: AO.910.PSN.Assassin | AO.910.PSN.Architect | AO.910.PSN.Gate | AO.910.PSN.Builder | AO.910.PSN.DevOperator | AO.910.PSN.UXWatchdog | AO.910.PSN.Registrar | AO.910.PSN.SystemSynthesizer | EL2.200.UX.B1 | EL2.220.BehaviorSets | EL2.310.Builder.B1
+  - latest body: complete
+  - conversations: Recursive Persona System Design
+- `AO.911.IDE`
+  - names: Intent Diff Engine | AO.911.IDE – Intelligent Design Engine | EL2.120.CommandGlossary
+  - titles: Intent Diff Engine | AO.911.IDE – Intelligent Design Engine | EL2.120.CommandGlossary
+  - latest body: complete
+  - conversations: Critical Prompt Routing Protocol | Bootloader Activation Summary | Bootloader Execution Summary
+- `AO.920.PRM`
+  - names: prompt_modules_split | AO.920.PRM.AdaptiveStack | ELosInsightsDashboard | EL.920.PRM.BootValidation | AO.920.PRM.OSKernel
+  - titles: prompt_modules_split | AO.920.PRM.AdaptiveStack | ELosInsightsDashboard | EL.920.PRM.BootValidation | AO.920.PRM.OSKernel
+  - latest body: complete
+  - conversations: Bootloader Sequence Initialized | Prompt Library Overview | Prompt Expansion Ready
+- `AO.940.PRM`
+  - names: AO.940.PRM.PromptForge | AO.940.PRM.ScorecardSystem
+  - titles: AO.940.PRM.PromptForge | AO.940.PRM.ScorecardSystem
+  - latest body: complete
+  - conversations: Prompt Library Overview | Prompt Expansion Ready
+- `EL.400.AUD`
+  - names: ELOS Translator Fireproofing Audit | EL.400.AUD | EL.400.AUD – Audit Layer
+  - titles: ELOS Translator Fireproofing Audit & Reinforcement Plan | EL.400.AUD | EL.400.AUD – Audit Layer
+  - latest body: complete
+  - conversations: ELOS Extension Integration | Greeting Protocol Verification | Canvas List Retrieval
+- `EL.410.TNF`
+  - names: ELOS Native Tone Fidelity Layer | TNF_Hebrew_Enforcement_v1_3 | EL.410.TNF_Translate_2.0 | EPP2_patch_2025-07-01 | boardroom_instructions | EL.410.TNF – Tone Fidelity Layer
+  - titles: ELOS Native Tone Fidelity Layer – Audit Logic and User Feedback System | TNF_Hebrew_Enforcement_v1_3 | EL.410.TNF_Translate_2.0 | EPP2_patch_2025-07-01 | boardroom_instructions | EL.410.TNF – Tone Fidelity Layer
+  - latest body: complete
+  - conversations: ELOS Extension Integration | translation 2.0 integration and expansion | BUILDING THE WEBAPP | ELos Protocol Activation Query | BOARD ROOM | Canvas List Retrieval
+- `EL.420.HBR`
+  - names: Hebrew Tone Fidelity Engine | EL.001.SYS.REFERENCE
+  - titles: Hebrew Tone Fidelity Engine – Rewrite Logic Scaffold | EL.001.SYS.REFERENCE
+  - latest body: complete
+  - conversations: ELOS Extension Integration | NEW ELOS EXTENSION
+- `EL.420.LNG`
+  - names: EL.420.LNG.Rewriter.es | EL.420.LNG.Rewriter.fr | EL.420.LNG.Rewriter.de | EL.420.LNG.Rewriter.ja | EL.420.LNG.Rewriter.pt | EL.420.LNG.Rewriter.zh | EL.620.LNG.Router
+  - titles: EL.420.LNG.Rewriter.es | EL.420.LNG.Rewriter.fr | EL.420.LNG.Rewriter.de | EL.420.LNG.Rewriter.ja | EL.420.LNG.Rewriter.pt | EL.420.LNG.Rewriter.zh | EL.620.LNG.Router
+  - latest body: complete
+  - conversations: translation 2.0 integration and expansion
+- `EL.500.OBG`
+  - names: EL.500.OBG.RecommendationAura | EL.500.OBG.TutorialBubble | EL.500.OBG.TutorialMemoryEngine
+  - titles: EL.500.OBG.RecommendationAura | EL.500.OBG.TutorialBubble | EL.500.OBG.TutorialMemoryEngine
+  - latest body: complete
+  - conversations: Prompt Library Overview
+- `EL.500.OBG.TIP`
+  - names: PromoteInsightTutorial | EL.500.OBG.TIP.promoteInsight
+  - titles: PromoteInsightTutorial | EL.500.OBG.TIP.promoteInsight
+  - latest body: complete
+  - conversations: Prompt Library Overview
+- `EL.520.PRF`
+  - names: Prompt Forge (EL.520.PRF) | Forensic Generator Prompt | EL.520.PRF – Prompt Forge
+  - titles: Prompt Forge (EL.520.PRF) | Forensic Generator Prompt | EL.520.PRF – Prompt Forge
+  - latest body: complete
+  - conversations: Scrape URL Request | Scrape prompt content | Canvas List Retrieval
+- `EL.600.IMG`
+  - names: ELos_ImagePrompt_Engine | EL.600.IMG.CoreEngine
+  - titles: ELos_ImagePrompt_Engine | EL.600.IMG.CoreEngine
+  - latest body: complete
+  - conversations: ELOS VISUALS OS
+- `EL.602.FF.VIS`
+  - names: EL.602.FF.VIS.InvocationProtocol | EL.602.FF.VIS.Fingerprint
+  - titles: EL.602.FF.VIS.InvocationProtocol – Forever Flowers Visual Fingerprint Invocation Logic | EL.602.FF.VIS.Fingerprint
+  - latest body: complete
+  - conversations: ELOS VISUALS OS | NEW ELOS EXTENSION
+- `EL.620.IMG`
+  - names: EL.620.IMG.VisualRouter | Forever Flowers Rebrand | Visual OS
+  - titles: EL.620.IMG.VisualRouter | Forever Flowers Rebrand | Visual OS
+  - latest body: complete
+  - conversations: ELOS VISUALS OS | Forever Flowers Rebrand Request
+- `EL.900.AUD`
+  - names: EL.900.AUD.TutorialPolicy | EL.900.AUD.UserAffinityModel
+  - titles: EL.900.AUD.TutorialPolicy | EL.900.AUD.UserAffinityModel
+  - latest body: complete
+  - conversations: Prompt Library Overview
+- `EL.910.PRM`
+  - names: EL.910.PRM.Modules | EL.910.PRM.FeedEngine | EL.910.PRM.PersonalizedAgent | EL.910.PRM.StargateBridge | EL.910.PRM.FeedbackLoop
+  - titles: EL.910.PRM.Modules | EL.910.PRM.FeedEngine | EL.910.PRM.PersonalizedAgent | EL.910.PRM.StargateBridge | EL.910.PRM.FeedbackLoop
+  - latest body: complete
+  - conversations: Prompt Library Overview
+- `EL.920.PRM`
+  - names: EL.920.PRM.PersonaSyncLayer | EL.920.PRM.ModuleRatingHeatmap
+  - titles: EL.920.PRM.PersonaSyncLayer | EL.920.PRM.ModuleRatingHeatmap
+  - latest body: complete
+  - conversations: Prompt Library Overview
+- `ELOS.300.CMD`
+  - names: ELos - Pro Tier: Sovereign Command Protocol | ELOS.300.CMD – Pro Tier: Sovereign Command Protocol
+  - titles: ELos - Pro Tier: Sovereign Command Protocol (SCP) | Pro Tier: Sovereign Command Protocol
+  - latest body: complete
+  - conversations: Recursive Guidance for Beginners | Bootloader Sequence Initiated
+- `ELOS.300.KRN`
+  - names: ELos - Command Kernel & Execution Chains | Allon OS – Command QuickMenu UI | AO.500.CMD
+  - titles: ELos - Command Kernel & Execution Chains | Allon OS – Command QuickMenu UI
+  - latest body: complete
+  - conversations: Recursive Guidance for Beginners | Stargate v3.1 Boot
+- `FF.200.ETH`
+  - names: FF Brand Ethos & Language | Canvas Master Index
+  - titles: FF Brand Ethos & Language | Canvas Master Index
+  - latest body: complete
+  - conversations: Dabroo Power User Guide | PR.100 Canvases Search
+- `IN.100.SYS`
+  - names: Allon OS – System Overview | GPTOS – Strategic Blind Spots & Pre-Build Alignment
+  - titles: Allon OS – System Overview | GPTOS – Strategic Blind Spots & Pre-Build Alignment
+  - latest body: complete
+  - conversations: NEW CHATPT OS APP
+- `IN.110.IDE`
+  - names: IN.110.IDE_Identity_Engine | IN.110.IDE
+  - titles: Identity Engine – Belief Overrides, Embedded Narratives, Interrupt Protocols | IN.110.IDE
+  - latest body: complete
+  - conversations: Prompt Expansion Ready | Bootloader Function and Context
+- `IN.900.ZION.EP2`
+  - names: IN.900.ZION.EP2 – Fear & Loathing: MartyrMade Pt.2 | IN.900.ZION.EP2
+  - titles: Fear & Loathing in the New Jerusalem – Pt. 2
+  - latest body: complete
+  - conversations: **FEAR AND LOATHING IN THE NEW JERUSALEM
+- `IN.900.ZION.EP3`
+  - names: IN.900.ZION.EP3 – Nostalgia and Naivety in Honor Culture | IN.900.ZION.EP3
+  - titles: Fear & Loathing in the New Jerusalem – Pt. 3: Nostalgia & Naivety in Honor Culture | Fear & Loathing in the New Jerusalem – Pt. 3
+  - latest body: complete
+  - conversations: **FEAR AND LOATHING IN THE NEW JERUSALEM
+- `IN.900.ZION.EP4`
+  - names: IN.900.ZION.EP4 – Fear & Loathing in the New Jerusalem: Pt. 4 | IN.900.ZION.EP4
+  - titles: Fear & Loathing in the New Jerusalem – Pt. 4
+  - latest body: complete
+  - conversations: **FEAR AND LOATHING IN THE NEW JERUSALEM
+- `IN.900.ZION.EP5`
+  - names: IN.900.ZION.EP5 – Fear & Loathing: Zionist Power & U.S. Backing
+  - titles: Fear & Loathing in the New Jerusalem – Pt. 5: Zionist Power & U.S. Backing | Fear & Loathing in the New Jerusalem – Pt. 5
+  - latest body: complete
+  - conversations: **FEAR AND LOATHING IN THE NEW JERUSALEM
+- `IN.900.ZION.EP6`
+  - names: IN.900.ZION.EP6 – Fear & Loathing: Into the Modern Fire | IN.900.ZION.EP6
+  - titles: Fear & Loathing in the New Jerusalem – Pt. 6: Into the Modern Fire | Fear & Loathing in the New Jerusalem – Pt. 6
+  - latest body: complete
+  - conversations: **FEAR AND LOATHING IN THE NEW JERUSALEM
+- `PR.000.SPP`
+  - names: missing-elos-modules | PR.000.SPP – Silent Planning Protocol
+  - titles: missing-elos-modules | PR.000.SPP – Silent Planning Protocol
+  - latest body: complete
+  - conversations: Boot Sequence Execution | BUILDING THE WEBAPP | Canvas List Retrieval
+- `PR.001.EPP-2`
+  - names: ELoS-Prompt-Protocol-v2 | Prompt Library | PR.001.EPP-2 – Prompt Protocol v2.0
+  - titles: ELoS-Prompt-Protocol-v2 | Prompt Library | PR.001.EPP-2 – Prompt Protocol v2.0
+  - latest body: complete
+  - conversations: Hike Recommendation Request | ELos Protocol Activation Query | Bootloader status check | Canvas List Retrieval
+- `PR.003.SDE`
+  - names: PR.003.SDE_Socratic_Drip_Engine | PR.003.SDE – Socratic Drip Engine | EPP-HF.001 – Hallucination Firewall
+  - titles: PR.003.SDE_Socratic_Drip_Engine | PR.003.SDE – Socratic Drip Engine | EPP-HF.001 – Hallucination Firewall
+  - latest body: complete
+  - conversations: BUILDING THE WEBAPP | Canvas List Retrieval
+- `PR.100.PER`
+  - names: PR.100.PER – Prompts / Strategy / Persona | PR.100.PER
+  - titles: PR.100.PER – Prompts / Strategy / Persona | PR.100.PER
+  - latest body: complete
+  - conversations: Persona Crafter Creation | Fireproof Time Management Prompts
+- `PR.100.PRS`
+  - names: ▧ PR.100.PRS – Prompt Surgeon: Master Persona Profile | Core Assistant Persona – Sharpening Mode + Stoic Governor | Persona – The Scribe | Persona – The Daily Self-Journaler
+  - titles: ▧ PR.100.PRS – Prompt Surgeon: Master Persona Profile | Core Assistant Persona – Sharpening Mode + Stoic Governor | Persona – The Scribe | Persona – The Daily Self-Journaler
+  - latest body: complete
+  - conversations: Prompt Surgeon Persona Development | NEW CHATPT OS APP
+- `PR.100.PSN`
+  - names: Persona Archive - Full Catalog | PR.100.PSN – Persona Master Index | Persona Cards: Inner Circle | Persona Master Archive: Inner + Perfect Circle
+  - titles: Persona Archive - Full Catalog | PR.100.PSN – Persona Master Index | Persona Cards: Inner Circle | Persona Master Archive: Inner + Perfect Circle
+  - latest body: complete
+  - conversations: Mission Summary | PODCAST TRANSCRIPTION | Dabroo Power User Guide | Mission Ready Status
+- `PR.900.LMM`
+  - names: PR.900.LMM_Local_Memory_Matching | .test.json
+  - titles: PR.900.LMM_Local_Memory_Matching | .test.json
+  - latest body: complete
+  - conversations: BUILDING THE WEBAPP
+- `VP.901.FF`
+  - names: FF_Israeli_Luxury_Audit | FF_SoftStructure_IsraeliLuxury | ff_visual_fingerprint | EL.602.FF.VIS.Fingerprint
+  - titles: FF_Israeli_Luxury_Audit | FF_SoftStructure_IsraeliLuxury | ff_visual_fingerprint | EL.602.FF.VIS.Fingerprint
+  - latest body: complete
+  - conversations: ELOS VISUALS OS
+- `WG.001.PSN`
+  - names: WG.001.PSN.Jocko | WG.001.PSN.Jocko.v2 | WG.001.PSN.Jocko.v3
+  - titles: WG.001.PSN.Jocko | WG.001.PSN.Jocko.v2 | WG.001.PSN.Jocko.v3
+  - latest body: complete
+  - conversations: War Games
+- `WG.002.PSN`
+  - names: WG.002.PSN.Darryl | WG.002.PSN.Darryl.v2 | WG.002.PSN.Mattis.v2
+  - titles: WG.002.PSN.Darryl | WG.002.PSN.Darryl.v2 | WG.002.PSN.Mattis.v2
+  - latest body: complete
+  - conversations: War Games
+- `WG.011.PSN`
+  - names: WG.011.PSN.IDFCommanders.v2 | WG.011.PSN.milBarak.v2 | WG.011.PSN.diplEland.v2 | WG.011.PSN.homeNitzan.v2
+  - titles: WG.011.PSN.IDFCommanders.v2 | WG.011.PSN.milBarak.v2 | WG.011.PSN.diplEland.v2 | WG.011.PSN.homeNitzan.v2
+  - latest body: complete
+  - conversations: War Games
+- `WG.012.PSN`
+  - names: WG.012.PSN.CyberClarke.v2 | WG.012.PSN.Schelling.v2 | WG.012.PSN.Luttwak.v2 | WG.012.PSN.MetaDaniels.v2
+  - titles: WG.012.PSN.CyberClarke.v2 | WG.012.PSN.Schelling.v2 | WG.012.PSN.Luttwak.v2 | WG.012.PSN.MetaDaniels.v2
+  - latest body: complete
+  - conversations: War Games

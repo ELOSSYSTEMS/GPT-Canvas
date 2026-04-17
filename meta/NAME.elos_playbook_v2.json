@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.elos_playbook_v2",
+  "names": [
+    "elos_playbook_v2"
+  ],
+  "titles": [
+    "elos_playbook_v2"
+  ],
+  "conversations": [
+    "Frontend test prompt"
+  ],
+  "latestTime": 1756597936.707082,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Frontend test prompt",
+    "createTime": 1756597936.707082,
+    "messageId": "98164172-a7af-4cec-b93a-c1e4169fe605",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1756597936.707082,
+      "messageId": "98164172-a7af-4cec-b93a-c1e4169fe605",
+      "conversation": "Frontend test prompt",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4496,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "ELOS.100.GUI",
+  "names": [
+    "The Guide"
+  ],
+  "titles": [
+    "The Guide"
+  ],
+  "conversations": [
+    "ELos Buildout Structure"
+  ],
+  "latestTime": 1748089740.110349,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Buildout Structure",
+    "createTime": 1748089740.110349,
+    "messageId": "892f5a1d-9789-428d-8bd0-5db8ef40ec47",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748089740.110349,
+      "messageId": "892f5a1d-9789-428d-8bd0-5db8ef40ec47",
+      "conversation": "ELos Buildout Structure",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1238,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

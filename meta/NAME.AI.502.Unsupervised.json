@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.502.Unsupervised",
+  "names": [
+    "AI.502.Unsupervised"
+  ],
+  "titles": [
+    "AI.502.Unsupervised"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756435.444846,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756435.444846,
+    "messageId": "46166896-4c3b-4dd7-86cb-927fff4313db",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756435.444846,
+      "messageId": "46166896-4c3b-4dd7-86cb-927fff4313db",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 716,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

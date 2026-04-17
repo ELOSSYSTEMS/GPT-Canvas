@@ -1,0 +1,40 @@
+{
+  "artifactKey": "ELOS.500.TRS",
+  "names": [
+    "ELos Tour Branching System"
+  ],
+  "titles": [
+    "ELos Tour Branching System"
+  ],
+  "conversations": [
+    "ELos Buildout Structure"
+  ],
+  "latestTime": 1748090578.90549,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Buildout Structure",
+    "createTime": 1748090578.90549,
+    "messageId": "38d9d8b0-c66e-4af9-905c-9a754943cb1f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748090578.90549,
+      "messageId": "38d9d8b0-c66e-4af9-905c-9a754943cb1f",
+      "conversation": "ELos Buildout Structure",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1753,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

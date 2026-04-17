@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.100.PRS",
+  "names": [
+    "Prompt Surgeon System Logic"
+  ],
+  "titles": [
+    "Prompt Surgeon System Logic"
+  ],
+  "conversations": [
+    "Memory Modularization Plan"
+  ],
+  "latestTime": 1748116092.349326,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Memory Modularization Plan",
+    "createTime": 1748116092.349326,
+    "messageId": "4c040a05-fb66-4abc-b96c-cf85cea37f55",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748116092.349326,
+      "messageId": "4c040a05-fb66-4abc-b96c-cf85cea37f55",
+      "conversation": "Memory Modularization Plan",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1470,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

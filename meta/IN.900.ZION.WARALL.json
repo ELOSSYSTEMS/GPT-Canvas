@@ -1,0 +1,40 @@
+{
+  "artifactKey": "IN.900.ZION.WARALL",
+  "names": [
+    "IN.900.ZION.WARALL – War All the Time: 1948–1982 Deep Dive"
+  ],
+  "titles": [
+    "War All the Time: Israel vs. Palestine, 1948–1982"
+  ],
+  "conversations": [
+    "**FEAR AND LOATHING IN THE NEW JERUSALEM"
+  ],
+  "latestTime": 1748760572.248834,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+    "createTime": 1748760572.248834,
+    "messageId": "48542149-2ef9-4e5e-8bc4-ed3377f3d6d1",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748760572.248834,
+      "messageId": "48542149-2ef9-4e5e-8bc4-ed3377f3d6d1",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 935,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

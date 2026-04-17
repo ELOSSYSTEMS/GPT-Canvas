@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.206.FineTuning",
+  "names": [
+    "AI.206.FineTuning"
+  ],
+  "titles": [
+    "AI.206.FineTuning"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756317.27855,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756317.27855,
+    "messageId": "049ce81d-ed94-4b56-8263-1d0f2af8d249",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756317.27855,
+      "messageId": "049ce81d-ed94-4b56-8263-1d0f2af8d249",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 811,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

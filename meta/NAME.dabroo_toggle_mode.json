@@ -1,0 +1,64 @@
+{
+  "artifactKey": "NAME.dabroo_toggle_mode",
+  "names": [
+    "dabroo_toggle_mode"
+  ],
+  "titles": [
+    "dabroo_toggle_mode"
+  ],
+  "conversations": [
+    "Dabroo AI Hebrew Analysis"
+  ],
+  "latestTime": 1747661139.282513,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo AI Hebrew Analysis",
+    "createTime": 1747661139.282513,
+    "messageId": "1b806212-27eb-47ba-a28e-8c5724d7a60a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747657605.695521,
+      "messageId": "71f7e07c-6164-4b68-b09f-7e8216c1fe18",
+      "conversation": "Dabroo AI Hebrew Analysis",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3215,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747657750.288753,
+      "messageId": "3765fd85-fa35-4773-a4ea-f4be9af0cec4",
+      "conversation": "Dabroo AI Hebrew Analysis",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3398,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747661139.282513,
+      "messageId": "1b806212-27eb-47ba-a28e-8c5724d7a60a",
+      "conversation": "Dabroo AI Hebrew Analysis",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2879,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

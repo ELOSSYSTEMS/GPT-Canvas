@@ -1,0 +1,77 @@
+{
+  "artifactKey": "EL.003.DVR",
+  "names": [
+    "EL.003.DVR – DiVeRSe Prompt Protocol Integration"
+  ],
+  "titles": [
+    "EL.003.DVR – DiVeRSe Prompt Protocol Integration"
+  ],
+  "conversations": [
+    "PROMPT PROTOCOL OPTIMIZATION",
+    "Bootloader Activation Summary"
+  ],
+  "latestTime": 1749134312.500156,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749134312.500156,
+    "messageId": "d98ad41f-0ca6-4294-9e1c-3ef06fedad36",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748970399.159937,
+      "messageId": "4e56dadf-83d3-4c40-96e6-d8b8587e0359",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2737,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749134173.97186,
+      "messageId": "0c2ba4ea-118d-43a7-864e-5b60e3ae46c5",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2147,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749134248.827456,
+      "messageId": "797ac5ce-05b6-48cc-b17c-839cf4cf803b",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2664,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749134312.500156,
+      "messageId": "d98ad41f-0ca6-4294-9e1c-3ef06fedad36",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2909,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

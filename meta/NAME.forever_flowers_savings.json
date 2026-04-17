@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.forever_flowers_savings",
+  "names": [
+    "forever_flowers_savings"
+  ],
+  "titles": [
+    "forever_flowers_savings"
+  ],
+  "conversations": [
+    "Luxury Page Comparison Tips"
+  ],
+  "latestTime": 1750445315.756225,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Luxury Page Comparison Tips",
+    "createTime": 1750445315.756225,
+    "messageId": "469d5017-cd6c-43a9-95d5-f29636b4dec2",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750445137.548475,
+      "messageId": "6369a3f8-2d1f-44b2-be70-b4a89704ae4d",
+      "conversation": "Luxury Page Comparison Tips",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2550,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1750445315.756225,
+      "messageId": "469d5017-cd6c-43a9-95d5-f29636b4dec2",
+      "conversation": "Luxury Page Comparison Tips",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3556,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

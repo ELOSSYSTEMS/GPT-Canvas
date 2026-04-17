@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tiered-UX-Command-Bundle",
+  "names": [
+    "ELos - Tiered UX Command Bundle"
+  ],
+  "titles": [
+    "ELos - Tiered UX Command Bundle"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083274.441578,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083274.441578,
+    "messageId": "dcfee689-eaea-4a92-b54c-22a469631e4a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083274.441578,
+      "messageId": "dcfee689-eaea-4a92-b54c-22a469631e4a",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1222,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

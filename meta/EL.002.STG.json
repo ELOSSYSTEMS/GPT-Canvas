@@ -1,0 +1,163 @@
+{
+  "artifactKey": "EL.002.STG",
+  "names": [
+    "EL.002.STG.ModelSelector"
+  ],
+  "titles": [
+    "EL.002.STG.ModelSelector"
+  ],
+  "conversations": [
+    "ChatGPT Model Accuracy",
+    "PROMPT PROTOCOL OPTIMIZATION",
+    "Bootloader Activation Summary",
+    "Mode Forks: Text vs Voice"
+  ],
+  "latestTime": 1749360630.709776,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Mode Forks: Text vs Voice",
+    "createTime": 1749360630.709776,
+    "messageId": "3a5b079c-7f7e-4845-b614-fe8b8559955f",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 9,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 2,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748668048.045987,
+      "messageId": "af4e7e22-327a-4cd4-9f99-5c7b4701b774",
+      "conversation": "ChatGPT Model Accuracy",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1295,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748668065.307958,
+      "messageId": "bfbb0ef2-a55f-433c-be20-438ec4cdd4c0",
+      "conversation": "ChatGPT Model Accuracy",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1596,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748973841.300661,
+      "messageId": "bef06c39-36ca-4d2b-b43f-5105ba111b44",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1066,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748974629.982412,
+      "messageId": "30a461a6-7328-4cf1-b97f-2dd7bb72150e",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 783,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748974726.787398,
+      "messageId": "09b648a1-3fab-4fa7-a7f3-41a3aa48841a",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 841,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748974803.474742,
+      "messageId": "fde77449-9629-404d-9fc8-a85cd46a4281",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1092,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749134453.911086,
+      "messageId": "fe82ca7b-fda1-419b-a695-a42c2b18f87f",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2004,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749134711.19462,
+      "messageId": "a3b1e937-305b-42ce-a8b7-0d0ad0dd4a4a",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2293,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749134800.043693,
+      "messageId": "9b1c0271-81c7-427f-970a-6bf100909dcc",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 26,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "\"showPromptDiff\": true"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749134800.043693,
+      "messageId": "9b1c0271-81c7-427f-970a-6bf100909dcc",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 127,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "✅ Fully output-transparent — every prompt pass-through reveals its own mutation chain"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749360630.709776,
+      "messageId": "3a5b079c-7f7e-4845-b614-fe8b8559955f",
+      "conversation": "Mode Forks: Text vs Voice",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 660,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

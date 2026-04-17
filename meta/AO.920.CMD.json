@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.920.CMD",
+  "names": [
+    "AO.920.CMD.PromptOSCommandRegistry"
+  ],
+  "titles": [
+    "AO.920.CMD.PromptOSCommandRegistry"
+  ],
+  "conversations": [
+    "Prompt Expansion Ready"
+  ],
+  "latestTime": 1749673029.319174,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Expansion Ready",
+    "createTime": 1749673029.319174,
+    "messageId": "daba28ed-9dc5-4be6-b482-b84f12d7caeb",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749673029.319174,
+      "messageId": "daba28ed-9dc5-4be6-b482-b84f12d7caeb",
+      "conversation": "Prompt Expansion Ready",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4565,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

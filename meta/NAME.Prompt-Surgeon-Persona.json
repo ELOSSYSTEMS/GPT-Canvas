@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Prompt-Surgeon-Persona",
+  "names": [
+    "Prompt Surgeon Persona"
+  ],
+  "titles": [
+    "Prompt Surgeon Persona"
+  ],
+  "conversations": [
+    "Prompt Surgeon Persona Development"
+  ],
+  "latestTime": 1747610107.663913,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Surgeon Persona Development",
+    "createTime": 1747610107.663913,
+    "messageId": "1743435f-ce7d-46a6-a741-b586b4c41880",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747610107.663913,
+      "messageId": "1743435f-ce7d-46a6-a741-b586b4c41880",
+      "conversation": "Prompt Surgeon Persona Development",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5914,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

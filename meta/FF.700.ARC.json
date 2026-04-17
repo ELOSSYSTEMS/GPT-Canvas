@@ -1,0 +1,65 @@
+{
+  "artifactKey": "FF.700.ARC",
+  "names": [
+    "Arcaffe Shavuot Delivery Master"
+  ],
+  "titles": [
+    "Arcaffe Shavuot Delivery Master"
+  ],
+  "conversations": [
+    "Memory Modularization Plan",
+    "Bootloader Activation Summary"
+  ],
+  "latestTime": 1749132682.912933,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749132682.912933,
+    "messageId": "941b4e9d-93d4-4d75-a794-b672a0a70376",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 1,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748116141.481106,
+      "messageId": "9cf6a48d-814c-4ccc-b790-f33f90e9340c",
+      "conversation": "Memory Modularization Plan",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1182,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749132649.357084,
+      "messageId": "c70e683c-6d56-4011-a2ce-5e924f7c5009",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 2516,
+      "heuristic": "id-from-replacement",
+      "parseMode": "regex-update-partial",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749132682.912933,
+      "messageId": "941b4e9d-93d4-4d75-a794-b672a0a70376",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2029,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

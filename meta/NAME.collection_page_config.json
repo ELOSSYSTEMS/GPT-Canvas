@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.collection_page_config",
+  "names": [
+    "collection_page_config"
+  ],
+  "titles": [
+    "collection_page_config"
+  ],
+  "conversations": [
+    "Dining Room AI Setup"
+  ],
+  "latestTime": 1745524801.881481,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dining Room AI Setup",
+    "createTime": 1745524801.881481,
+    "messageId": "34e3d7ec-aa7d-4bb1-a626-468630ab3dec",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1745524801.881481,
+      "messageId": "34e3d7ec-aa7d-4bb1-a626-468630ab3dec",
+      "conversation": "Dining Room AI Setup",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 956,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

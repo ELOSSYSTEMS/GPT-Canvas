@@ -1,0 +1,36 @@
+{
+  "artifactKey": "EL.300.KRN",
+  "names": [],
+  "titles": [],
+  "conversations": [
+    "Mode Forks: Text vs Voice"
+  ],
+  "latestTime": 1749360633.139186,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Mode Forks: Text vs Voice",
+    "createTime": 1749360633.139186,
+    "messageId": "57cea62f-f848-4a54-9156-3d37fd12830c",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749360633.139186,
+      "messageId": "57cea62f-f848-4a54-9156-3d37fd12830c",
+      "conversation": "Mode Forks: Text vs Voice",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 570,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

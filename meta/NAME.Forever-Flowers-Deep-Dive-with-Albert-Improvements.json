@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.Forever-Flowers-Deep-Dive-with-Albert-Improvements",
+  "names": [
+    "Forever Flowers Deep Dive with Albert Improvements"
+  ],
+  "titles": [
+    "Forever Flowers Deep Dive with Albert Improvements"
+  ],
+  "conversations": [
+    "Forever Flowers Meeting Itinerary"
+  ],
+  "latestTime": 1745991220.627908,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Forever Flowers Meeting Itinerary",
+    "createTime": 1745991220.627908,
+    "messageId": "e1aae76d-4ccf-4b98-9d80-6305dfe1fc46",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1745991150.259921,
+      "messageId": "ccd748f4-db96-4717-8cf4-6b0266731d2b",
+      "conversation": "Forever Flowers Meeting Itinerary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3545,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1745991220.627908,
+      "messageId": "e1aae76d-4ccf-4b98-9d80-6305dfe1fc46",
+      "conversation": "Forever Flowers Meeting Itinerary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5127,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

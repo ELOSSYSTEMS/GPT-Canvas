@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.300.EXE",
+  "names": [
+    "Allon OS – Command Execution Layer"
+  ],
+  "titles": [
+    "Allon OS – Command Execution Layer"
+  ],
+  "conversations": [
+    "Recursive Guidance for Beginners"
+  ],
+  "latestTime": 1748074567.79191,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Recursive Guidance for Beginners",
+    "createTime": 1748074567.79191,
+    "messageId": "a4e06e7f-e377-4ef7-bbc0-fcd6cdfcddcd",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748074567.79191,
+      "messageId": "a4e06e7f-e377-4ef7-bbc0-fcd6cdfcddcd",
+      "conversation": "Recursive Guidance for Beginners",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2871,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

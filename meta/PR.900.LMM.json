@@ -1,0 +1,54 @@
+{
+  "artifactKey": "PR.900.LMM",
+  "names": [
+    "PR.900.LMM_Local_Memory_Matching",
+    ".test.json"
+  ],
+  "titles": [
+    "PR.900.LMM_Local_Memory_Matching",
+    ".test.json"
+  ],
+  "conversations": [
+    "BUILDING THE WEBAPP"
+  ],
+  "latestTime": 1750597427.672335,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "BUILDING THE WEBAPP",
+    "createTime": 1750597427.672335,
+    "messageId": "8ea523dc-1e6d-47aa-9a67-e1f3369a58bd",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750595584.938534,
+      "messageId": "7348317d-4ea2-48b1-a33c-b07c58c58eda",
+      "conversation": "BUILDING THE WEBAPP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1237,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750597427.672335,
+      "messageId": "8ea523dc-1e6d-47aa-9a67-e1f3369a58bd",
+      "conversation": "BUILDING THE WEBAPP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1168,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

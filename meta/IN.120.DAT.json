@@ -1,0 +1,52 @@
+{
+  "artifactKey": "IN.120.DAT",
+  "names": [
+    "Data+ Mode – Default Command Protocol"
+  ],
+  "titles": [
+    "Data+ Mode – Default Command Protocol"
+  ],
+  "conversations": [
+    "Sharp Mode Activated"
+  ],
+  "latestTime": 1749315798.626439,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Sharp Mode Activated",
+    "createTime": 1749315798.626439,
+    "messageId": "e6551d46-75a8-492a-a0d5-7d0ec8e5eb5f",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749315612.705034,
+      "messageId": "f3153713-a64b-4067-9efc-82a389e64259",
+      "conversation": "Sharp Mode Activated",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3084,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749315798.626439,
+      "messageId": "e6551d46-75a8-492a-a0d5-7d0ec8e5eb5f",
+      "conversation": "Sharp Mode Activated",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3580,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

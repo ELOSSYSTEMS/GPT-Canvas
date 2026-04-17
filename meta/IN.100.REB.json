@@ -1,0 +1,52 @@
+{
+  "artifactKey": "IN.100.REB",
+  "names": [
+    "ELos - Rebrand Execution"
+  ],
+  "titles": [
+    "ELos - Rebrand Execution"
+  ],
+  "conversations": [
+    "ELos Rebrand Proposal"
+  ],
+  "latestTime": 1748068314.825971,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Rebrand Proposal",
+    "createTime": 1748068314.825971,
+    "messageId": "a5115091-e70d-4575-8440-38049534babd",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748068306.446127,
+      "messageId": "8e51ce3b-0841-4806-a8b0-896e099066be",
+      "conversation": "ELos Rebrand Proposal",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1832,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748068314.825971,
+      "messageId": "a5115091-e70d-4575-8440-38049534babd",
+      "conversation": "ELos Rebrand Proposal",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1832,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

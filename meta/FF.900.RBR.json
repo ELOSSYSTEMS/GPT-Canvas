@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.900.RBR",
+  "names": [
+    "FF.900.RBR"
+  ],
+  "titles": [
+    "Forever Flowers – Rebrand Master Canvas"
+  ],
+  "conversations": [
+    "Forever Flowers OS Overview"
+  ],
+  "latestTime": 1749669319.11027,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Forever Flowers OS Overview",
+    "createTime": 1749669319.11027,
+    "messageId": "69270311-6062-42df-bcca-23d12f683d24",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749669319.11027,
+      "messageId": "69270311-6062-42df-bcca-23d12f683d24",
+      "conversation": "Forever Flowers OS Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2282,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

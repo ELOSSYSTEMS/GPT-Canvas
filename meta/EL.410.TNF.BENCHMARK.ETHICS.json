@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.410.TNF.BENCHMARK.ETHICS",
+  "names": [
+    "TNF_Benchmark_Ethical_Dilemma"
+  ],
+  "titles": [
+    "TNF_Benchmark_Ethical_Dilemma"
+  ],
+  "conversations": [
+    "translation 2.0 integration and expansion"
+  ],
+  "latestTime": 1749326047.328825,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "translation 2.0 integration and expansion",
+    "createTime": 1749326047.328825,
+    "messageId": "3401362c-9841-43f5-bb5b-85b37ca3924f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749326047.328825,
+      "messageId": "3401362c-9841-43f5-bb5b-85b37ca3924f",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1208,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "artifactKey": "EL.920.PRM",
+  "names": [
+    "EL.920.PRM.PersonaSyncLayer",
+    "EL.920.PRM.ModuleRatingHeatmap"
+  ],
+  "titles": [
+    "EL.920.PRM.PersonaSyncLayer",
+    "EL.920.PRM.ModuleRatingHeatmap"
+  ],
+  "conversations": [
+    "Prompt Library Overview"
+  ],
+  "latestTime": 1749497164.46775,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Library Overview",
+    "createTime": 1749497164.46775,
+    "messageId": "ae97e505-aa7c-4ad6-b23e-269ee001230c",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749497148.710799,
+      "messageId": "12c5b047-5d9d-4ba6-8849-4aba47f5b730",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 867,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749497164.46775,
+      "messageId": "ae97e505-aa7c-4ad6-b23e-269ee001230c",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 718,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

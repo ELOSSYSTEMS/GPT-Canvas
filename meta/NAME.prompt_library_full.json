@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.prompt_library_full",
+  "names": [
+    "prompt_library_full"
+  ],
+  "titles": [
+    "prompt_library_full"
+  ],
+  "conversations": [
+    "PROMPT SCRAPE IMPROVE AND STORE"
+  ],
+  "latestTime": 1754497313.697165,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PROMPT SCRAPE IMPROVE AND STORE",
+    "createTime": 1754497313.697165,
+    "messageId": "44a71bd7-29da-4485-a7b8-c38f02cbf8af",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1754497313.697165,
+      "messageId": "44a71bd7-29da-4485-a7b8-c38f02cbf8af",
+      "conversation": "PROMPT SCRAPE IMPROVE AND STORE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 6108,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

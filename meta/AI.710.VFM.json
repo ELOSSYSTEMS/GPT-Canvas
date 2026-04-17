@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.710.VFM",
+  "names": [
+    "vFamily-System-Core"
+  ],
+  "titles": [
+    "vFamily-System-Core"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748034472.078665,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748034472.078665,
+    "messageId": "f9209cb1-8e86-443a-a078-6d3418d7f0fc",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748034472.078665,
+      "messageId": "f9209cb1-8e86-443a-a078-6d3418d7f0fc",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3251,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

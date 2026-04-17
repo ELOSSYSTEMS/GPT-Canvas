@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.899.MSI",
+  "names": [
+    "AI.899.MSI - Meta-System Index"
+  ],
+  "titles": [
+    "AI.899.MSI - Meta-System Index"
+  ],
+  "conversations": [
+    "Mind OS Meta-System Archive"
+  ],
+  "latestTime": 1748562199.14278,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mind OS Meta-System Archive",
+    "createTime": 1748562199.14278,
+    "messageId": "05a0435c-5c86-4e30-9af8-1ac7de1e4349",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748562199.14278,
+      "messageId": "05a0435c-5c86-4e30-9af8-1ac7de1e4349",
+      "conversation": "Mind OS Meta-System Archive",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1770,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

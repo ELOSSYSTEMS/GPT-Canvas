@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.501.Supervised",
+  "names": [
+    "AI.501.Supervised"
+  ],
+  "titles": [
+    "AI.501.Supervised"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756430.449836,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756430.449836,
+    "messageId": "2ca3c6cc-712d-41f0-8452-e85147b20fd3",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756430.449836,
+      "messageId": "2ca3c6cc-712d-41f0-8452-e85147b20fd3",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 738,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

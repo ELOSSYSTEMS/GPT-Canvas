@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.930.FORGE",
+  "names": [
+    "AO.930.FORGE.SocraticDripForge"
+  ],
+  "titles": [
+    "AO.930.FORGE.SocraticDripForge"
+  ],
+  "conversations": [
+    "Prompt Expansion Ready"
+  ],
+  "latestTime": 1749673273.133638,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Expansion Ready",
+    "createTime": 1749673273.133638,
+    "messageId": "c0d4d39a-efa7-40e4-b614-f363bb9d6f95",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749673273.133638,
+      "messageId": "c0d4d39a-efa7-40e4-b614-f363bb9d6f95",
+      "conversation": "Prompt Expansion Ready",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2065,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

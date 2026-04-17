@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.854.PAD",
+  "names": [
+    "AI.854.PAD – Persona Adaptation Driver"
+  ],
+  "titles": [
+    "AI.854.PAD – Persona Adaptation Driver"
+  ],
+  "conversations": [
+    "Bootloader Activation Summary"
+  ],
+  "latestTime": 1749133435.727006,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749133435.727006,
+    "messageId": "156e491c-ed7d-4326-a18b-f153bc16156a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749133435.727006,
+      "messageId": "156e491c-ed7d-4326-a18b-f153bc16156a",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2975,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

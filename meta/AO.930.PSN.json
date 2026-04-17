@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.930.PSN",
+  "names": [
+    "AO.930.PSN.Workers"
+  ],
+  "titles": [
+    "AO.930.PSN.Workers"
+  ],
+  "conversations": [
+    "Recursive Persona System Design"
+  ],
+  "latestTime": 1748186599.807143,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Recursive Persona System Design",
+    "createTime": 1748186599.807143,
+    "messageId": "ef0c6198-e9b2-478e-96b7-972b69cf16bd",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748186599.807143,
+      "messageId": "ef0c6198-e9b2-478e-96b7-972b69cf16bd",
+      "conversation": "Recursive Persona System Design",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2625,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

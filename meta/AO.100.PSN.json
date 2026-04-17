@@ -1,0 +1,84 @@
+{
+  "artifactKey": "AO.100.PSN",
+  "names": [
+    "AO.100.PSN",
+    "ELos_Whitepaper_Master",
+    "AO.100.PSN – Comprehensive Personality Profile (Allon Schaham)",
+    "AO.100.PSN – Personas Master Index"
+  ],
+  "titles": [
+    "AO.100.PSN",
+    "ELos_Whitepaper_Master",
+    "AO.100.PSN – Comprehensive Personality Profile (Allon Schaham)",
+    "AO.100.PSN – Personas Master Index"
+  ],
+  "conversations": [
+    "Bootloader Execution Summary",
+    "Bootloader Command Summary",
+    "Canvas List Retrieval"
+  ],
+  "latestTime": 1753973260.260105,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Canvas List Retrieval",
+    "createTime": 1753973260.260105,
+    "messageId": "c5e5385a-7085-4c27-a937-2c1443c42190",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749329924.298791,
+      "messageId": "bb6e4168-8ee5-4733-81d1-1435fd048514",
+      "conversation": "Bootloader Execution Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3159,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749330399.242719,
+      "messageId": "0181f59e-6a57-477c-85e7-8fc28d5747ef",
+      "conversation": "Bootloader Execution Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4458,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750583787.142912,
+      "messageId": "516e64e4-d1d3-435d-a323-654e95a27a40",
+      "conversation": "Bootloader Command Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4315,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753973260.260105,
+      "messageId": "c5e5385a-7085-4c27-a937-2c1443c42190",
+      "conversation": "Canvas List Retrieval",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2134,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

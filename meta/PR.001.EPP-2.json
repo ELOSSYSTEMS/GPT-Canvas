@@ -1,0 +1,95 @@
+{
+  "artifactKey": "PR.001.EPP-2",
+  "names": [
+    "ELoS-Prompt-Protocol-v2",
+    "Prompt Library",
+    "PR.001.EPP-2 – Prompt Protocol v2.0"
+  ],
+  "titles": [
+    "ELoS-Prompt-Protocol-v2",
+    "Prompt Library",
+    "PR.001.EPP-2 – Prompt Protocol v2.0"
+  ],
+  "conversations": [
+    "Hike Recommendation Request",
+    "ELos Protocol Activation Query",
+    "Bootloader status check",
+    "Canvas List Retrieval"
+  ],
+  "latestTime": 1753972431.874632,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Canvas List Retrieval",
+    "createTime": 1753972431.874632,
+    "messageId": "e43feb36-3bd1-429b-b786-a81618ca92dc",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 5,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1751405474.499094,
+      "messageId": "b7b7ed0a-25e4-41da-9388-ba556958060b",
+      "conversation": "Hike Recommendation Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1635,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1751406573.618421,
+      "messageId": "47b68fb4-18af-4507-b5cd-62bd6f930a08",
+      "conversation": "ELos Protocol Activation Query",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1591,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753934839.162585,
+      "messageId": "8e52ff86-62bb-430d-bf56-a518dfc4d497",
+      "conversation": "Bootloader status check",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2826,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753939638.328288,
+      "messageId": "e7a7d6a2-f069-4c2c-9911-458b9ec89d40",
+      "conversation": "Bootloader status check",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2826,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753972431.874632,
+      "messageId": "e43feb36-3bd1-429b-b786-a81618ca92dc",
+      "conversation": "Canvas List Retrieval",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1967,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Memory-Save-Directive",
+  "names": [
+    "Memory Save Directive"
+  ],
+  "titles": [
+    "Memory Save Directive"
+  ],
+  "conversations": [
+    "Boot Sequence Initiated"
+  ],
+  "latestTime": 1749827158.016096,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Boot Sequence Initiated",
+    "createTime": 1749827158.016096,
+    "messageId": "f09a35ef-2fff-40ff-b2bf-ab39b403f22e",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749827158.016096,
+      "messageId": "f09a35ef-2fff-40ff-b2bf-ab39b403f22e",
+      "conversation": "Boot Sequence Initiated",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 262,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

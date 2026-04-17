@@ -1,0 +1,148 @@
+{
+  "artifactKey": "DA.300.LOG",
+  "names": [
+    "Dabroo Free Tier Prompt Logic"
+  ],
+  "titles": [
+    "Dabroo Free Tier Prompt Logic & Visibility Gate"
+  ],
+  "conversations": [
+    "Dabroo AI Packaging Design"
+  ],
+  "latestTime": 1747613079.441252,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Dabroo AI Packaging Design",
+    "createTime": 1747613043.049538,
+    "messageId": "1c186cc0-c19e-4c8b-ba48-eefd8c634904",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 1,
+  "unresolvedPartialOps": 7,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747612947.682878,
+      "messageId": "c19e6663-f6bd-40d9-a5aa-b49ba485c9ea",
+      "conversation": "Dabroo AI Packaging Design",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1987,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747613043.049538,
+      "messageId": "1c186cc0-c19e-4c8b-ba48-eefd8c634904",
+      "conversation": "Dabroo AI Packaging Design",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2620,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747613079.441252,
+      "messageId": "77569de2-4501-4422-b5b3-1947e59cb9f3",
+      "conversation": "Dabroo AI Packaging Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 21,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Lightning Bolt Icon"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747613166.70805,
+      "messageId": "55a54f2b-4758-4247-8f61-c3d1fcc8c211",
+      "conversation": "Dabroo AI Packaging Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 33,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Icon: minimalist lightning bolt"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747613166.70805,
+      "messageId": "55a54f2b-4758-4247-8f61-c3d1fcc8c211",
+      "conversation": "Dabroo AI Packaging Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 64,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747613170.884918,
+      "messageId": "b97cf4b0-76bb-4708-8aa6-eb706dc1d670",
+      "conversation": "Dabroo AI Packaging Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 33,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Icon: minimalist lightning bolt"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747613170.884918,
+      "messageId": "b97cf4b0-76bb-4708-8aa6-eb706dc1d670",
+      "conversation": "Dabroo AI Packaging Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 64,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747613178.799428,
+      "messageId": "c003a7d4-2e09-4287-b294-3101875a102c",
+      "conversation": "Dabroo AI Packaging Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 64,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747613184.938814,
+      "messageId": "5b7a4547-b74e-440d-86c6-7d4749312884",
+      "conversation": "Dabroo AI Packaging Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 64,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747613192.004644,
+      "messageId": "5029d5dd-2a9d-4e57-a873-11ca1823c38c",
+      "conversation": "Dabroo AI Packaging Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 64,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol"
+    }
+  ]
+}

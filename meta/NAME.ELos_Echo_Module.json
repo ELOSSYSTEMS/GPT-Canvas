@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos_Echo_Module",
+  "names": [
+    "ELos_Echo_Module"
+  ],
+  "titles": [
+    "ELos_Echo_Module"
+  ],
+  "conversations": [
+    "ELos Protocol Success Potential"
+  ],
+  "latestTime": 1748459645.065132,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Protocol Success Potential",
+    "createTime": 1748459645.065132,
+    "messageId": "455228ef-2320-461b-92a8-d9026dcd64dc",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748459645.065132,
+      "messageId": "455228ef-2320-461b-92a8-d9026dcd64dc",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1544,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

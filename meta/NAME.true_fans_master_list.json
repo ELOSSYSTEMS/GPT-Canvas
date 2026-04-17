@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.true_fans_master_list",
+  "names": [
+    "true_fans_master_list"
+  ],
+  "titles": [
+    "true_fans_master_list"
+  ],
+  "conversations": [
+    "1000 True Fans strategy"
+  ],
+  "latestTime": 1764691932.736813,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "1000 True Fans strategy",
+    "createTime": 1764691932.736813,
+    "messageId": "dc8cc734-75c8-445c-8eea-4205357c51c2",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1764691932.736813,
+      "messageId": "dc8cc734-75c8-445c-8eea-4205357c51c2",
+      "conversation": "1000 True Fans strategy",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3158,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "artifactKey": "PR.003.SDE",
+  "names": [
+    "PR.003.SDE_Socratic_Drip_Engine",
+    "PR.003.SDE – Socratic Drip Engine",
+    "EPP-HF.001 – Hallucination Firewall"
+  ],
+  "titles": [
+    "PR.003.SDE_Socratic_Drip_Engine",
+    "PR.003.SDE – Socratic Drip Engine",
+    "EPP-HF.001 – Hallucination Firewall"
+  ],
+  "conversations": [
+    "BUILDING THE WEBAPP",
+    "Canvas List Retrieval"
+  ],
+  "latestTime": 1753972685.236589,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Canvas List Retrieval",
+    "createTime": 1753972685.236589,
+    "messageId": "933bde9a-47e9-4154-9be8-5b869fcb9df9",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750596824.664832,
+      "messageId": "479547d0-ef96-4e2a-b3b4-b0caf03d49cb",
+      "conversation": "BUILDING THE WEBAPP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1188,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753972614.504113,
+      "messageId": "aa1ebb8c-1f0c-4c9e-b6d2-08af0e2a4620",
+      "conversation": "Canvas List Retrieval",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1810,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753972685.236589,
+      "messageId": "933bde9a-47e9-4154-9be8-5b869fcb9df9",
+      "conversation": "Canvas List Retrieval",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1926,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.960.VCT",
+  "names": [
+    "vCathedral-System-Blueprint"
+  ],
+  "titles": [
+    "vCathedral-System-Blueprint"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748035673.012134,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748035673.012134,
+    "messageId": "c39fbd87-92ec-4587-8d74-6a158cfda834",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748035673.012134,
+      "messageId": "c39fbd87-92ec-4587-8d74-6a158cfda834",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2929,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

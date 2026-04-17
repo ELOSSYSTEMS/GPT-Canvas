@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.ACAD.BGN.ADD",
+  "names": [
+    "ACAD.BGN.ADD"
+  ],
+  "titles": [
+    "ACAD.BGN.ADD"
+  ],
+  "conversations": [
+    "Builder Onboarding Step 4"
+  ],
+  "latestTime": 1748196772.219272,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Builder Onboarding Step 4",
+    "createTime": 1748196772.219272,
+    "messageId": "6845e44c-e3bc-4948-b0b9-fff5c170f765",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748196669.25786,
+      "messageId": "25632930-7468-4bc1-a199-a1ec18365bde",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2028,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748196772.219272,
+      "messageId": "6845e44c-e3bc-4948-b0b9-fff5c170f765",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2025,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

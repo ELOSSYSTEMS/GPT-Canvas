@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.TNF.Translate.ExecutionContract",
+  "names": [
+    "TNF.Translate.ExecutionContract"
+  ],
+  "titles": [
+    "TNF.Translate.ExecutionContract"
+  ],
+  "conversations": [
+    "translation 2.0 integration and expansion"
+  ],
+  "latestTime": 1749324212.303517,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "translation 2.0 integration and expansion",
+    "createTime": 1749324212.303517,
+    "messageId": "531204f2-209d-4a26-a248-2de79a423d2e",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749324212.303517,
+      "messageId": "531204f2-209d-4a26-a248-2de79a423d2e",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1693,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

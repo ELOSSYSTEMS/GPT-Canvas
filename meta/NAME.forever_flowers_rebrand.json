@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.forever_flowers_rebrand",
+  "names": [
+    "forever_flowers_rebrand"
+  ],
+  "titles": [
+    "forever_flowers_rebrand"
+  ],
+  "conversations": [
+    "Rebrand Forever Flowers"
+  ],
+  "latestTime": 1735894807.591299,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Rebrand Forever Flowers",
+    "createTime": 1735894807.591299,
+    "messageId": "b6d5b0fd-6247-4b01-b1cd-be271bc106d6",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1735894807.591299,
+      "messageId": "b6d5b0fd-6247-4b01-b1cd-be271bc106d6",
+      "conversation": "Rebrand Forever Flowers",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4096,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

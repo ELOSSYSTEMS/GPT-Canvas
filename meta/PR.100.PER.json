@@ -1,0 +1,67 @@
+{
+  "artifactKey": "PR.100.PER",
+  "names": [
+    "PR.100.PER – Prompts / Strategy / Persona",
+    "PR.100.PER"
+  ],
+  "titles": [
+    "PR.100.PER – Prompts / Strategy / Persona",
+    "PR.100.PER"
+  ],
+  "conversations": [
+    "Persona Crafter Creation",
+    "Fireproof Time Management Prompts"
+  ],
+  "latestTime": 1748882933.059786,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Fireproof Time Management Prompts",
+    "createTime": 1748882933.059786,
+    "messageId": "c1dccfcf-7e48-47d5-8513-00892f096cda",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 1,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747820100.499449,
+      "messageId": "9d1d4797-606c-4fe6-8198-ab231b77a9e1",
+      "conversation": "Persona Crafter Creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2202,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748874992.059579,
+      "messageId": "94e9466e-7af1-471e-947a-16ad116b3263",
+      "conversation": "Fireproof Time Management Prompts",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 2384,
+      "heuristic": "create-payload",
+      "parseMode": "regex-create-partial",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748882933.059786,
+      "messageId": "c1dccfcf-7e48-47d5-8513-00892f096cda",
+      "conversation": "Fireproof Time Management Prompts",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2505,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

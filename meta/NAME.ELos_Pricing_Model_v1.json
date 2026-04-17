@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos_Pricing_Model_v1",
+  "names": [
+    "ELos_Pricing_Model_v1"
+  ],
+  "titles": [
+    "ELos_Pricing_Model_v1"
+  ],
+  "conversations": [
+    "Bootloader Execution Summary"
+  ],
+  "latestTime": 1749396731.706448,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Execution Summary",
+    "createTime": 1749396731.706448,
+    "messageId": "16d1ea7b-9518-4a14-a4e3-be90a9415d65",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749396731.706448,
+      "messageId": "16d1ea7b-9518-4a14-a4e3-be90a9415d65",
+      "conversation": "Bootloader Execution Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2791,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

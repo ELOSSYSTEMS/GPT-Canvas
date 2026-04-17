@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.204.BRD",
+  "names": [
+    "PR.204.BRD"
+  ],
+  "titles": [
+    "PR.204.BRD"
+  ],
+  "conversations": [
+    "Mission Ready Status"
+  ],
+  "latestTime": 1747610729.54256,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mission Ready Status",
+    "createTime": 1747610729.54256,
+    "messageId": "88cd51af-75dc-40db-86ad-56a4ad6bd991",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747610729.54256,
+      "messageId": "88cd51af-75dc-40db-86ad-56a4ad6bd991",
+      "conversation": "Mission Ready Status",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2276,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

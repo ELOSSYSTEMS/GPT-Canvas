@@ -1,0 +1,40 @@
+{
+  "artifactKey": "VV.999.MIN",
+  "names": [
+    "VV.999.MIN – vVerse MiniHUD Sidebar Overlay"
+  ],
+  "titles": [
+    "VV.999.MIN – vVerse MiniHUD Sidebar Overlay"
+  ],
+  "conversations": [
+    "Bootloader Activation Summary"
+  ],
+  "latestTime": 1749162210.934053,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749162210.934053,
+    "messageId": "4541ec0a-a339-4896-86db-7defb752e3a5",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749162210.934053,
+      "messageId": "4541ec0a-a339-4896-86db-7defb752e3a5",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2278,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

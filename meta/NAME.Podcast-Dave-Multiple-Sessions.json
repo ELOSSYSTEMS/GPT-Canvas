@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Podcast-Dave-Multiple-Sessions",
+  "names": [
+    "Podcast - Dave (Multiple Sessions)"
+  ],
+  "titles": [
+    "Podcast - Dave (Multiple Sessions)"
+  ],
+  "conversations": [
+    "PODCAST TRANSCRIPTION"
+  ],
+  "latestTime": 1748031452.698317,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PODCAST TRANSCRIPTION",
+    "createTime": 1748031452.698317,
+    "messageId": "f2971782-2ca9-4d69-b18a-0f99965adf28",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748031452.698317,
+      "messageId": "f2971782-2ca9-4d69-b18a-0f99965adf28",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3230,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

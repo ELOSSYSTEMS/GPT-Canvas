@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.851.ALC",
+  "names": [
+    "AI.851.ALC – Alignment Calibration Engine"
+  ],
+  "titles": [
+    "AI.851.ALC – Alignment Calibration Engine"
+  ],
+  "conversations": [
+    "Bootloader Activation Summary"
+  ],
+  "latestTime": 1749133071.200682,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749133071.200682,
+    "messageId": "bf7c1720-6b7f-48f3-8b17-c5f72e34d963",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749133071.200682,
+      "messageId": "bf7c1720-6b7f-48f3-8b17-c5f72e34d963",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3125,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

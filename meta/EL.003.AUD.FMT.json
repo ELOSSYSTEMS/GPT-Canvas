@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.003.AUD.FMT",
+  "names": [
+    "Stargate_Audit_Format"
+  ],
+  "titles": [
+    "Stargate_Audit_Format"
+  ],
+  "conversations": [
+    "Bootloader Execution Summary"
+  ],
+  "latestTime": 1749075004.263367,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Execution Summary",
+    "createTime": 1749075004.263367,
+    "messageId": "468b28ea-401b-4455-b7de-3eb78bf684be",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749075004.263367,
+      "messageId": "468b28ea-401b-4455-b7de-3eb78bf684be",
+      "conversation": "Bootloader Execution Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 560,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

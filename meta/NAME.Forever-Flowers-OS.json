@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Forever-Flowers-OS",
+  "names": [
+    "Forever Flowers OS"
+  ],
+  "titles": [
+    "Forever Flowers OS"
+  ],
+  "conversations": [
+    "Load Forever Flowers OS"
+  ],
+  "latestTime": 1748518662.066818,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Load Forever Flowers OS",
+    "createTime": 1748518662.066818,
+    "messageId": "bd3a8332-c5fc-45eb-991e-57dd2a6ea695",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748518662.066818,
+      "messageId": "bd3a8332-c5fc-45eb-991e-57dd2a6ea695",
+      "conversation": "Load Forever Flowers OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1221,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

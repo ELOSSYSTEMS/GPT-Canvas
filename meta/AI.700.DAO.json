@@ -1,0 +1,54 @@
+{
+  "artifactKey": "AI.700.DAO",
+  "names": [
+    "DAEMON-Founders-OS-Core",
+    "MIND-OS-Core-Canvases"
+  ],
+  "titles": [
+    "DAEMON-Founders-OS-Core",
+    "MIND-OS-Core-Canvases"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748113351.907003,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748113351.907003,
+    "messageId": "d4784d9c-ccd4-4ca0-9ea1-e4a4e81ef6f6",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748034451.428573,
+      "messageId": "0e171993-cb3f-44d4-9b6d-73efd7e15e86",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3690,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748113351.907003,
+      "messageId": "d4784d9c-ccd4-4ca0-9ea1-e4a4e81ef6f6",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1487,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

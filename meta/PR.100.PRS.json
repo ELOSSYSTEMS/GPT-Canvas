@@ -1,0 +1,95 @@
+{
+  "artifactKey": "PR.100.PRS",
+  "names": [
+    "▧ PR.100.PRS – Prompt Surgeon: Master Persona Profile",
+    "Core Assistant Persona – Sharpening Mode + Stoic Governor",
+    "Persona – The Scribe",
+    "Persona – The Daily Self-Journaler"
+  ],
+  "titles": [
+    "▧ PR.100.PRS – Prompt Surgeon: Master Persona Profile",
+    "Core Assistant Persona – Sharpening Mode + Stoic Governor",
+    "Persona – The Scribe",
+    "Persona – The Daily Self-Journaler"
+  ],
+  "conversations": [
+    "Prompt Surgeon Persona Development",
+    "NEW CHATPT OS APP"
+  ],
+  "latestTime": 1748013112.813092,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "NEW CHATPT OS APP",
+    "createTime": 1748013112.813092,
+    "messageId": "90e6fff8-525e-48ca-bec0-468e81a3e44c",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 5,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747610643.758941,
+      "messageId": "a31297b4-1c28-4cd1-8ab5-9e22323102f4",
+      "conversation": "Prompt Surgeon Persona Development",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3030,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748012501.188474,
+      "messageId": "317e52bf-063f-4b60-98f8-33921e57b617",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1674,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748012731.142414,
+      "messageId": "7225fad2-9657-4aad-9dce-11c811e38519",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 914,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748012988.46958,
+      "messageId": "b9a12924-c7a4-4b99-bac3-8872d66ea050",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1418,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748013112.813092,
+      "messageId": "90e6fff8-525e-48ca-bec0-468e81a3e44c",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1901,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

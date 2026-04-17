@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.FF-SEO-Titles-Meta-Descriptions-Products",
+  "names": [
+    "FF | SEO Titles + Meta Descriptions (Products)"
+  ],
+  "titles": [
+    "FF | SEO Titles + Meta Descriptions (Products)"
+  ],
+  "conversations": [
+    "Shopping Campaign Bidding Guide"
+  ],
+  "latestTime": 1770402997.972571,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Shopping Campaign Bidding Guide",
+    "createTime": 1770402997.972571,
+    "messageId": "59643be6-2840-4126-b565-73b152163dc4",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1770402997.972571,
+      "messageId": "59643be6-2840-4126-b565-73b152163dc4",
+      "conversation": "Shopping Campaign Bidding Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 9129,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

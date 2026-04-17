@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.820.RJF",
+  "names": [
+    "Recursive-Journaling-Framework"
+  ],
+  "titles": [
+    "Recursive-Journaling-Framework"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748036726.126591,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748036726.126591,
+    "messageId": "fd2fde1e-97b3-4718-a16b-55fd7c68234f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748036726.126591,
+      "messageId": "fd2fde1e-97b3-4718-a16b-55fd7c68234f",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4222,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

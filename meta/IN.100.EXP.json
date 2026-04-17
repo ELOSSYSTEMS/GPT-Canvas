@@ -1,0 +1,40 @@
+{
+  "artifactKey": "IN.100.EXP",
+  "names": [
+    "AI OS – Expansion Opportunities & Missing Systems"
+  ],
+  "titles": [
+    "AI OS – Expansion Opportunities & Missing Systems"
+  ],
+  "conversations": [
+    "NEW CHATPT OS APP"
+  ],
+  "latestTime": 1748028860.83103,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "NEW CHATPT OS APP",
+    "createTime": 1748028860.83103,
+    "messageId": "fbf89aba-259d-4f8b-ba86-876802a17dcf",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748028860.83103,
+      "messageId": "fbf89aba-259d-4f8b-ba86-876802a17dcf",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2525,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

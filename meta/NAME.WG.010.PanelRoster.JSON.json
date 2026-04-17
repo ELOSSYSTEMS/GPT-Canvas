@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.WG.010.PanelRoster.JSON",
+  "names": [
+    "WG.010.PanelRoster.JSON"
+  ],
+  "titles": [
+    "WG.010.PanelRoster.JSON"
+  ],
+  "conversations": [
+    "War Games"
+  ],
+  "latestTime": 1749800950.863501,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "War Games",
+    "createTime": 1749800950.863501,
+    "messageId": "112044eb-06fb-4734-80bd-2b07a166352b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749800936.767146,
+      "messageId": "fd052e08-1652-4983-8bbb-73b41c59fd08",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2799,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749800950.863501,
+      "messageId": "112044eb-06fb-4734-80bd-2b07a166352b",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2799,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Stargate-Phase-3-Post-Processing",
+  "names": [
+    "Stargate Phase 3 Post Processing"
+  ],
+  "titles": [
+    "Stargate Phase 3 Post Processing"
+  ],
+  "conversations": [
+    "שיחה עם עוזר"
+  ],
+  "latestTime": 1748894726.127246,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "שיחה עם עוזר",
+    "createTime": 1748894726.127246,
+    "messageId": "d4792050-716a-49ca-83e9-e0166bcdeb9d",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748894726.127246,
+      "messageId": "d4792050-716a-49ca-83e9-e0166bcdeb9d",
+      "conversation": "שיחה עם עוזר",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 655,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

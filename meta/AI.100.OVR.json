@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.100.OVR",
+  "names": [
+    "AI OS - Canvas Index (Legacy)"
+  ],
+  "titles": [
+    "AI OS - Canvas Index (Legacy)"
+  ],
+  "conversations": [
+    "ELos Canvas Index Summary"
+  ],
+  "latestTime": 1748112200.498471,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Canvas Index Summary",
+    "createTime": 1748112200.498471,
+    "messageId": "4ee80af8-e2cf-4abc-a716-13628308ac7d",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748112200.498471,
+      "messageId": "4ee80af8-e2cf-4abc-a716-13628308ac7d",
+      "conversation": "ELos Canvas Index Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1662,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

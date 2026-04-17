@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.200.PLN",
+  "names": [
+    "Planner Persona – Scheduling Logic"
+  ],
+  "titles": [
+    "Planner Persona – Scheduling Logic"
+  ],
+  "conversations": [
+    "Memory Modularization Plan"
+  ],
+  "latestTime": 1748116128.318201,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Memory Modularization Plan",
+    "createTime": 1748116128.318201,
+    "messageId": "f6893379-d3e2-4206-b7ae-04d7a870cd2f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748116128.318201,
+      "messageId": "f6893379-d3e2-4206-b7ae-04d7a870cd2f",
+      "conversation": "Memory Modularization Plan",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 814,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

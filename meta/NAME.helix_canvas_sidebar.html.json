@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.helix_canvas_sidebar.html",
+  "names": [
+    "helix_canvas_sidebar.html"
+  ],
+  "titles": [
+    "helix_canvas_sidebar.html"
+  ],
+  "conversations": [
+    "Creating AI Agents"
+  ],
+  "latestTime": 1749985851.016119,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Creating AI Agents",
+    "createTime": 1749985851.016119,
+    "messageId": "e7bc9808-ed02-425f-9991-24bffd2745ec",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749985851.016119,
+      "messageId": "e7bc9808-ed02-425f-9991-24bffd2745ec",
+      "conversation": "Creating AI Agents",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 8175,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

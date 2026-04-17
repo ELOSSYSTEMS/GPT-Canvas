@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.208.FPR",
+  "names": [
+    "Persona - Fireproof Engine"
+  ],
+  "titles": [
+    "Persona - Fireproof Engine"
+  ],
+  "conversations": [
+    "Librarian Assistance Request"
+  ],
+  "latestTime": 1748202495.257037,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Librarian Assistance Request",
+    "createTime": 1748202495.257037,
+    "messageId": "05bff66a-fa9f-4cef-97e9-9786cd1587be",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748202495.257037,
+      "messageId": "05bff66a-fa9f-4cef-97e9-9786cd1587be",
+      "conversation": "Librarian Assistance Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1535,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

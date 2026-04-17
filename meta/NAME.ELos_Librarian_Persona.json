@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos_Librarian_Persona",
+  "names": [
+    "ELos_Librarian_Persona"
+  ],
+  "titles": [
+    "ELos_Librarian_Persona"
+  ],
+  "conversations": [
+    "NEW ELOS EXTENSION"
+  ],
+  "latestTime": 1749405398.523018,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "NEW ELOS EXTENSION",
+    "createTime": 1749405398.523018,
+    "messageId": "886c5930-f593-4422-9197-9f82aae9e16b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749405398.523018,
+      "messageId": "886c5930-f593-4422-9197-9f82aae9e16b",
+      "conversation": "NEW ELOS EXTENSION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2557,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

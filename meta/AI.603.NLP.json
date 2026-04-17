@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.603.NLP",
+  "names": [
+    "AI.603.NLP"
+  ],
+  "titles": [
+    "AI.603.NLP"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756476.59015,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756476.59015,
+    "messageId": "50e80e83-c087-4c9d-a680-2828cfd11e03",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756476.59015,
+      "messageId": "50e80e83-c087-4c9d-a680-2828cfd11e03",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 719,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

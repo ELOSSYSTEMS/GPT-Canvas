@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.900.PRT",
+  "names": [
+    "AO.900.PRT – StackGate Protocol Index"
+  ],
+  "titles": [
+    "AO.900.PRT – StackGate Protocol Index"
+  ],
+  "conversations": [
+    "PR.100 Canvases Search"
+  ],
+  "latestTime": 1748561241.825287,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PR.100 Canvases Search",
+    "createTime": 1748561241.825287,
+    "messageId": "49b367d3-f7d6-4290-a114-ed8fba5fbcfb",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748561241.825287,
+      "messageId": "49b367d3-f7d6-4290-a114-ed8fba5fbcfb",
+      "conversation": "PR.100 Canvases Search",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1955,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

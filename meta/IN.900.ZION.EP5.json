@@ -1,0 +1,53 @@
+{
+  "artifactKey": "IN.900.ZION.EP5",
+  "names": [
+    "IN.900.ZION.EP5 – Fear & Loathing: Zionist Power & U.S. Backing"
+  ],
+  "titles": [
+    "Fear & Loathing in the New Jerusalem – Pt. 5: Zionist Power & U.S. Backing",
+    "Fear & Loathing in the New Jerusalem – Pt. 5"
+  ],
+  "conversations": [
+    "**FEAR AND LOATHING IN THE NEW JERUSALEM"
+  ],
+  "latestTime": 1748761382.173565,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+    "createTime": 1748761382.173565,
+    "messageId": "6fcbe834-414a-4a20-986d-bf043e39e641",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748760565.774932,
+      "messageId": "81f62979-0b1a-4efb-8eff-96fed49d9391",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 766,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748761382.173565,
+      "messageId": "6fcbe834-414a-4a20-986d-bf043e39e641",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 821,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

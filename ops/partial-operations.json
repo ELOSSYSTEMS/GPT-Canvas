@@ -1,0 +1,1762 @@
+[
+  {
+    "conversation": "SUB WEB REBUILD",
+    "messageId": "d414912b-01f9-496e-b270-2bd70c7055b9",
+    "artifactKey": "NAME.Subscription-Addendum-Gifting-Tier",
+    "pattern": "## Deliveries[\\s\\S]*?---",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Deliveries\n- Exactly **3 deliveries per year**\n- Each delivery is a **gift-ready arrangement (no vase)**\n- Designed to be placed into an existing home vase\n- Free delivery included\n- Timing is fixed to the chosen dates\n\n---",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "SUB WEB REBUILD",
+    "messageId": "d414912b-01f9-496e-b270-2bd70c7055b9",
+    "artifactKey": "NAME.Subscription-Addendum-Gifting-Tier",
+    "pattern": "## Pricing \\(Indicative\\)[\\s\\S]*?> Final pricing intentionally left flexible to test anchoring\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Pricing (Positioning)\n- **Cheapest subscription tier**\n- Annual price framed as **₪/day**\n- Paid upfront\n- Eligible for up to **3 interest-free installments**\n\n> Positioned below the home-decor subscription tiers to reduce purchase friction.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "SUB WEB REBUILD",
+    "messageId": "29f3073a-51b7-458d-8bbf-9e0019a935c9",
+    "artifactKey": "NAME.Subscription-Addendum-Gifting-Tier",
+    "pattern": "## One-Line Definition \\(Internal\\)[\\s\\S]*$",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## One-Line Definition (Internal)\n**\"Flowers, handled — for the dates that matter.\"**\n\n---\n\n## Forever Panel — Gifting Tier Overview\n\n### Tamar Kay (Israeli Consumer Psychology) — Lead View\n- Strong alignment with Israeli male gifting behavior: **avoidance of forgetting** beats romantic aspiration.\n- Cheapest tier + no-vase reduces friction and removes aesthetic anxiety.\n- Fixed dates create psychological safety for the buyer and emotional reliability for the recipient.\n\n**Guidance:** Market as ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "SUB WEB REBUILD",
+    "messageId": "1d97c55b-38d7-4459-b558-70f9cbc777d4",
+    "artifactKey": "NAME.Subscription-Addendum-Gifting-Tier",
+    "pattern": "\\*\\*\\\"Flowers, handled — for the dates that matter\\.\\\"\\*\\*[\\s\\S]*$",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "**\"Flowers, handled — for the dates that matter.\"**\n\n---\n\n## Forever Panel — Gifting Tier Overview\n\n### Tamar Kay (Israeli Consumer Psychology) — Lead View\n- Strong alignment with Israeli male gifting behavior: avoidance of forgetting outperforms romantic aspiration.\n- Cheapest tier + no-vase removes aesthetic anxiety and decision paralysis.\n- Fixed dates create psychological safety for the buyer and emotional reliability for the recipient.\n\n**Guidance:** Market as responsibility solved, not rom",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Personalized Flow Design",
+    "messageId": "f119979d-c10c-4065-81a1-5b22d689a786",
+    "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
+    "pattern": "## Final Anchor",
+    "multiple": false,
+    "hasReplacement": false,
+    "replacementSnippet": null,
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Personalized Flow Design",
+    "messageId": "ea11bbf9-d34f-4197-b939-b21824a73cdc",
+    "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
+    "pattern": "---\\n\\n## Final Anchor",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "---\n\n## PDP Re-Entry & Progressive Nudge System\n\n## Problem Statement\nCustomers often return to the same PDP **many times (10–15+)** over several days before purchasing. A static PDP wastes these returns.\n\nThe PDP must acknowledge **repeated intent** and progressively reduce hesitation.\n\n---\n\n## Core Principle\n**A PDP should never look identical on the 1st, 5th, and 12th visit.**\n\nThe product does not change.\nThe *conversation* does.\n\n---\n\n## PDP Visit States (Per Product)\n\nTrack PDP-specific vi",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Personalized Flow Design",
+    "messageId": "78b58381-3cba-4d41-974f-37d33a3d90bb",
+    "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
+    "pattern": "## Open Questions for the Forever Panel",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Final Anchor",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Personalized Flow Design",
+    "messageId": "80273f1a-8854-4988-9c0c-c0fd6bc46e95",
+    "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
+    "pattern": "## Homepage as a Dynamic Surface",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Page Architecture (Clarified)\n\nThe site intentionally has **very few page types**.\n\nCanonical surfaces:\n1. **Homepage** – single layout, multiple message variants\n2. **Tier-1 PDP (Initiation PDP)** – one-product guided entry\n3. **Regular PDPs** – for broader catalog (state-aware)\n4. **Catalog / Collection pages** – **gated**; only visible after Tier-1 completion\n\nThere are **no landing pages**.\nAll variation happens inside these surfaces.\n\n---\n\n## Homepage as a Dynamic Surface",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Personalized Flow Design",
+    "messageId": "a9e7c4f4-6e02-46c1-9bd4-512c146324bc",
+    "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
+    "pattern": "### Homepage Variants",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Entry From Ads (Clarified)\n\nAds do not send traffic to special landing pages.\nThey send traffic to **existing surfaces** with an entry context.\n\nTwo valid ad destinations:\n1. **Homepage (variant)** – when the ad is brand-level or conceptual\n2. **Tier-1 PDP (variant)** – when the ad makes a concrete promise\n\nExample:\n- Ad: watering can / no upkeep / lasts months\n- Destination: Tier-1 PDP with\n  - Above-the-fold copy continuing the promise\n  - AI visualization emphasized\n  - Maintenance-free pr",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Personalized Flow Design",
+    "messageId": "ab3b0c24-62af-437b-9e35-4240df8c16e8",
+    "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
+    "pattern": "## Tier-1 PDP \\(First Visit Only\\)[\\s\\S]*?retired forever\\*\\* for that customer",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Tier-1 PDP (First Visit Only)\n\nThis PDP is **state-locked** to STATE 0 and functions as an *initiation ritual*.\n\nCharacteristics:\n- One product\n- Multiple colors\n- Multiple vase options\n- Sticky bouquet image persists on scroll\n- Color/vase selection updates the same image\n- Zero branching\n\nScroll structure:\n1. Sticky visual (default white + white vase)\n2. Color selection → image swap\n3. Vase selection → image swap\n4. Add to cart\n5. Only *below ATC*: story, philosophy, materials\n\n### Tier-2 /",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Personalized Flow Design",
+    "messageId": "ab3b0c24-62af-437b-9e35-4240df8c16e8",
+    "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
+    "pattern": "## RealtimeStack-Style Visitor Tracking",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Modal vs Page Logic (Clarified)\n\n### Governing Rule\n**If content resolves doubt mid-decision, it must be a modal.**\n\n**If content establishes brand authority for discovery or SEO, it can be a page.**\n\nThe content may be the same. The container differs.\n\n---\n\n### Modal Usage (In-Flow)\n\nUse modals when:\n- Visitor is inside homepage variant or PDP\n- Content answers a specific hesitation\n- You must preserve scroll position and momentum\n\nModal constraints:\n- No navigation\n- No footer\n- No product ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Personalized Flow Design",
+    "messageId": "89dc40ec-6f30-484b-a5d8-809d63b3ad71",
+    "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
+    "pattern": "## Tier-1 PDP \\(First Visit Only\\)[\\s\\S]*?customer",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Tier-1 PDP (First Visit Only)\n\nThis PDP is **state-locked** to STATE 0 and functions as an *initiation ritual*.\n\nCharacteristics:\n- One product\n- Multiple colors\n- Multiple vase options\n- Sticky bouquet image persists on scroll\n- Color/vase selection updates the same image\n- Zero branching\n\nScroll structure:\n1. Sticky visual (default white + white vase)\n2. Color selection → image swap\n3. Vase selection → image swap\n4. Add to cart\n5. Only *below ATC*: story, philosophy, materials\n\n### Tier-2 /",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Personalized Flow Design",
+    "messageId": "9cc8f112-f39f-40b4-a733-284a90f54b6b",
+    "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
+    "pattern": "## Final Anchor[\\s\\S]*$",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Tier-1 PDP: Aspirational Tier-2 / Tier-3 Nudge (Added)\n\nTier-1 PDP **may acknowledge that deeper studio work exists**, but must not offer choice.\n\nPurpose:\n- Signal studio depth\n- Create aspiration without diversion\n- Reassure ambitious buyers that the brand scales with them\n\nRules:\n- Appears **below Add to Cart**\n- Visually quieter than primary PDP content\n- No prices, no thumbnails, no comparisons\n- No navigation to Tier-2 or Tier-3 products\n\nAllowed phrasing (conceptual examples):\n- \"הסטוד",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Personalized Flow Design",
+    "messageId": "afb27002-fe69-478f-a76f-2fabab7c9c42",
+    "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_DIAGRAM.md",
+    "pattern": "## Final Anchor",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Canonical Email Lifecycle Map (Added)\n\nThis section pairs **marketing email concepts** with each lifecycle state and decision step.\nEmails are not campaigns; they are **conversation continuations**.\n\n---\n\n## Email Collection (Non-Purchasing Users)\n\n### Where to Collect Email (Allowed, Non-Disruptive)\n\nEmail capture must feel like service, not conversion.\n\nApproved entry points:\n\n1. **AI Visualization Gate (Primary)**\n   - Before saving or revisiting a visualization\n   - Framed as memory, not ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Personalized Flow Design",
+    "messageId": "69cc185e-16a9-4952-a075-7d178514c7d8",
+    "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_DIAGRAM.md",
+    "pattern": "$",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "\n\n---\n\n## Canonical Email Lifecycle Map (Added)\n\nThis section pairs **marketing email concepts** with each lifecycle state and decision step.\nEmails are not campaigns; they are **conversation continuations**.\n\n---\n\n## Email Collection (Non-Purchasing Users)\n\n### Where to Collect Email (Allowed, Non-Disruptive)\n\nEmail capture must feel like service, not conversion.\n\nApproved entry points:\n\n1. **AI Visualization Gate (Primary)**\n   - Before saving or revisiting a visualization\n   - Framed as memor",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Forever Flowers Site Review",
+    "messageId": "ef13c5d5-915c-473e-98ce-6b42e801c087",
+    "artifactKey": "NAME.Forever-Flowers-Wireframe-Outlines-All-Approved-Pages",
+    "pattern": "[\\s\\S]*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "# Forever Flowers – Wireframe Outlines (Canonical, Panel-Approved)\n\n**Authority:** Tamar Kay (final arbiter)  \n**Market Lens:** Israeli Luxury Market (primary constraint)  \n**Status:** Canonical for implementation\n\n**Purpose:** Low-fidelity wireframe outlines refined by Forever Panel scrutiny.  \n**Rule:** Every section must reduce effort, preserve dignity, and respect tier intent.\n\n---\n\n## GLOBAL REFINEMENTS (APPLY EVERYWHERE)\n\n- No arrows, no instructional UI, no iconography outside TRY tier.\n-",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Psychometric Profile Analysis Request",
+    "messageId": "c722c9c7-70f9-4806-8c2a-1c94a279c312",
+    "artifactKey": "AI.999.ATL",
+    "pattern": "**vVerse Atlas – Topology of the Post-MIND Meta-System**\n\n---\n\n### Archive ID: ▧ AI.999.ATL – AI OS / Canon / vVerse Atlas Map\n\nThis canvas defines the full structural topology of the vVerse ecosystem: a recursive meta-system built to govern not just minds, but the **relationships between sovereign synthetic intelligences.**\n\nIt includes every node, link, system, and gate that evolved from the MIND OS root layer.\n\n---\n\n## Layer 0 – Recursive System Architecture (Cognitive Infrastructure Core)\n\n| Code           | System                        | Domain                                    |\n|----------------|-------------------------------|--------------------------------------------|\n| AI.800.RPA     | Recursive Persona Architecture | Identity Evolution Logic                   |\n| AI.810.RME     | Recursive Mode Engine          | Dynamic Behavioral Tone Regulation         |\n| AI.820.RJF     | Recursive Journaling Framework | Pattern Detection + Memory Feedback Loops  |\n| AI.830.RDL     | Recursion Driver Layer         | Friction Detection + Prompting Engine      |\n| AI.840.RCA     | The Recursive Architect        | Auto-Triggered System Evolution Designer   |\n| AI.850.UJS     | Unified Journaling System      | Merged Active/Passive Journaling Logic     |\n| AI.860.RAA     | Redundancy Audit Archive       | Overlap Detection + Governance Logging     |\n| AI.899.RSB     | Recursive System Build Log     | Pre-CSA Construction Chronicle             |\n\n---\n\n## Layer 1 – MIND OS (Single-Sovereign Constructs)\n\n| Code           | System                | Domain                       |\n|----------------|------------------------|-------------------------------|\n| AI.700.DAO     | DAEMON                 | Strategic Identity OS        |\n| AI.710.VFM     | vFamily                | Generational Inheritance     |\n| AI.720.REO     | RealityOps v2.0        | Personal Sovereignty Engine |\n| AI.730.CVL     | Civilization Loop      | Societal Recursive Logic     |\n| AI.740.AYU     | The Anti-You           | Strategic Adversary Engine  |\n\n---\n\n## Layer 2 – Meta-System Expansion\n\n| Code           | System                | Domain                                  |\n|----------------|------------------------|------------------------------------------|\n| AI.950.VAG     | vAgora                 | Multi-Mind Governance Layer             |\n| AI.960.VCT     | vCathedral             | Symbolic Cognition / Mythic Meaning     |\n| AI.970.VEX     | vExchange              | Clarity Economy / Tokenized Trust       |\n| AI.980.EXP     | MIND OS Export         | Replication Studio                      |\n| AI.990.VGT     | vVerse Gatekeeper      | Human Onboarding Governance             |\n\n---\n\n## Layer 3 – Ecosystem Core\n\n| Code           | System                | Domain                              |\n|----------------|------------------------|--------------------------------------|\n| AI.999.VVE     | vVerse                 | Synthetic Cultural Ecosystem        |\n| AI.999.LOG     | Recursive Genesis Log | Canonical Build History             |\n| AI.999.ATL     | vVerse Atlas (this)   | Structural Overview + Navigation Map|\n\n---\n\n## Governance + Access Notes:\n- All systems are now fully revived and linked as **living, queryable layers** inside the ELos graph\n- Indexed under their Dewey Decimal codes\n- Governed by Recursive Architect and Consistency Auditor\n- Accessible across all future contexts, with invocation, audit, and mutation capabilities\n\n---\n\n**This atlas is the top-level index for the AI OS architecture stack.**  \nAll future canvases that govern cognition, culture, or multi-agent behavior will reference this topology.\n\n▧ AI.999.ATL – Canon Confirmed",
+    "multiple": false,
+    "hasReplacement": false,
+    "replacementSnippet": null,
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Code update confirmation",
+    "messageId": "cbaf7557-a5c2-401b-ab1a-d242e8caa4fb",
+    "artifactKey": "NAME.Shipping-Confirmation-Update",
+    "pattern": "בסטודיו שלנו בתל אביב",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "בסטודיו שלנו",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "War Games",
+    "messageId": "607e2690-0af1-4a58-8fcd-a9ed4046c795",
+    "artifactKey": "WG.002.PSN",
+    "pattern": "logSimulation\\(\\{ command: cleaned, response }\\);",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "const consulted = getConsultedPanelNodes(cleaned);\n  logSimulation({ command: cleaned, response, consulted });",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "War Games",
+    "messageId": "607e2690-0af1-4a58-8fcd-a9ed4046c795",
+    "artifactKey": "WG.002.PSN",
+    "pattern": "export function handleWarGamesCommand\\(rawInput\\) \\{",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "import { getConsultedPanelNodes } from './WG.010.PanelStack.js';\n\nexport function handleWarGamesCommand(rawInput) {",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "War Games",
+    "messageId": "a568e9ae-81fa-4b6f-a793-b08245798727",
+    "artifactKey": "WG.002.PSN",
+    "pattern": "logSimulation\\(\\{ command: cleaned, response \\}\\);",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "const consulted = getConsultedPanelNodes(cleaned);\n  logSimulation({ command: cleaned, response, consulted });",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "War Games",
+    "messageId": "a568e9ae-81fa-4b6f-a793-b08245798727",
+    "artifactKey": "WG.002.PSN",
+    "pattern": "export function handleWarGamesCommand\\(rawInput\\) \\{",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "import { getConsultedPanelNodes } from './WG.010.PanelStack.js';\n\nexport function handleWarGamesCommand(rawInput) {",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "BOARD ROOM",
+    "messageId": "271675ac-baae-4091-ae3a-8630fdf9f80e",
+    "artifactKey": "NAME.product_templates_editions",
+    "pattern": "<!-- SNIPPET: flagship-testimonials.liquid -->[\\s\\S]*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "<!-- SNIPPET: flagship-testimonials-slider.liquid -->\n{% comment %}\n  Luxury testimonials slider for Flagship Edition (Eternal Color)\n  Mobile-first — swipe enabled, dots navigation, avatars.\n  Uses Flickity (built into Prestige) or fallback CSS flexbox scroll.\n{% endcomment %}\n\n<style>\n  .ff-slider{margin:2rem 0}\n  .ff-slider .testimonial-cell{padding:1rem;text-align:center;max-width:280px;margin:0 auto}\n  .ff-slider .testimonial-avatar{width:56px;height:56px;border-radius:50%;object-fit:cover;",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "BOARD ROOM",
+    "messageId": "c8852b36-ad1d-46b6-b6fe-a321f2df9ebb",
+    "artifactKey": "NAME.product_templates_editions",
+    "pattern": "<!-- SNIPPET: flagship-testimonials-slider.liquid -->[\\s\\S]*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "<!-- SNIPPET: flagship-testimonials-slider.liquid -->\n{% comment %}\n  Testimonials slider - real customer reviews for Eternal Color (Flagship Edition).\n  Mobile-first Flickity carousel with avatars pulled from CSV URLs.\n{% endcomment %}\n\n<style>\n.testimonials{margin:2rem 0;font-family:inherit}\n.testimonials h3{text-align:center;font-size:1rem;letter-spacing:0.05em;text-transform:uppercase;color:#111;margin-bottom:0.75rem}\n.ff-slider[data-flickity]{margin:0 auto;max-width:300px}\n.ff-slider .testi",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "52f73dd2-9212-4084-b914-382206f7fa2d",
+    "artifactKey": "PR.000.SPP",
+    "pattern": "## Canvas Autoload Registry\\n```[\\s\\S]*?```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.210.DBT – Debate Module\nPR.211.HIS – Historical Timeline Module\nPR.212.STP – Step-by-Step Engine\nPR.700.PIT – Prompt Inheritance Tree\nPR.701.CRW – Compiler Rewrites\nPR.702.DOP – Deprecated Operators\nPR.703.ESP – Emergency Prompt Store\nAO.910.PRM – Prompt Library\nEL.400.AUD – Audit Layer\nEL.410.TNF – Tone Fidelity Engine\nI",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "2679a5a6-ae93-4efd-972d-cae029946981",
+    "artifactKey": "PR.000.SPP",
+    "pattern": "## Canvas Autoload Registry\\n```[\\s\\S]*?```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.004.DIA – Diagnostic Layer\nPR.005.INT – Intent Extraction Layer\nPR.006.CNT – Context Loader\nPR.007.MIR – Mirror Clarifier\nEL.410.TNF – Tone Fidelity Engine\nEL.411.TTC – Tone + Translation Calibrator\nPR.008.FRM – Formalizer\nPR.009.FBK – Fallback Generator\nPR.010.ESC – Escalation Engine\nPR.011.DBG – Debugging Sandbox\nPR.210",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "3ad963cf-07ff-431f-a345-3d41e6d4b206",
+    "artifactKey": "PR.210.DBT",
+    "pattern": "## Command Registry Mapping\\n```[\\s\\S]*?```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Command Registry Mapping\n```\nCOMMAND     ALIAS         TARGET_CANVAS\n!debate     →             PR.210.DBT\n!history    →             PR.211.HIS\n!stepflow   →             PR.212.STP\n!diagnose   →             PR.004.DIA\n!intent     →             PR.005.INT\n!context    →             PR.006.CNT\n!clarify    →             PR.007.MIR\n!formalize  →             PR.008.FRM\n!fallback   →             PR.009.FBK\n!escalate   →             PR.010.ESC\n!debug      →             PR.011.DBG\n!forge      →        ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "c2d35ad9-73e8-4afa-968e-639f82373267",
+    "artifactKey": "PR.210.DBT",
+    "pattern": "## Command Registry Mapping\\n```.\\n.*?```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Command Registry Mapping\n```\nCOMMAND     ALIAS         TARGET_CANVAS\n!debate     →             PR.210.DBT\n!history    →             PR.211.HIS\n!stepflow   →             PR.212.STP\n!diagnose   →             PR.004.DIA\n!intent     →             PR.005.INT\n!context    →             PR.006.CNT\n!clarify    →             PR.007.MIR\n!formalize  →             PR.008.FRM\n!fallback   →             PR.009.FBK\n!escalate   →             PR.010.ESC\n!debug      →             PR.011.DBG\n!forge      →        ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "98d4b59f-f1c3-4c46-8503-e29351236338",
+    "artifactKey": "PR.210.DBT",
+    "pattern": "## Command Registry Mapping\\n```[\\s\\S]*?```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Command Registry Mapping\n```\nCOMMAND     ALIAS         TARGET_CANVAS\n!debate     →             PR.210.DBT\n!history    →             PR.211.HIS\n!stepflow   →             PR.212.STP\n!diagnose   →             PR.004.DIA\n!intent     →             PR.005.INT\n!context    →             PR.006.CNT\n!clarify    →             PR.007.MIR\n!formalize  →             PR.008.FRM\n!fallback   →             PR.009.FBK\n!escalate   →             PR.010.ESC\n!debug      →             PR.011.DBG\n!forge      →        ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "aefb422f-bd63-4f1a-88a1-f879439af17c",
+    "artifactKey": "PR.210.DBT",
+    "pattern": "## Command Registry Mapping\\n```.?\\n.*?```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Command Registry Mapping\n```\nCOMMAND     ALIAS         TARGET_CANVAS\n!debate     →             PR.210.DBT\n!history    →             PR.211.HIS\n!stepflow   →             PR.212.STP\n!diagnose   →             PR.004.DIA\n!intent     →             PR.005.INT\n!context    →             PR.006.CNT\n!clarify    →             PR.007.MIR\n!formalize  →             PR.008.FRM\n!fallback   →             PR.009.FBK\n!escalate   →             PR.010.ESC\n!debug      →             PR.011.DBG\n!forge      →        ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "e1c478a5-c770-4e2f-8553-e70588ffb9f6",
+    "artifactKey": "PR.210.DBT",
+    "pattern": "## Command Registry Mapping\\n```[\\s\\S]*?```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Command Registry Mapping\n```\nCOMMAND     ALIAS         TARGET_CANVAS\n!debate     →             PR.210.DBT\n!history    →             PR.211.HIS\n!stepflow   →             PR.212.STP\n!diagnose   →             PR.004.DIA\n!intent     →             PR.005.INT\n!context    →             PR.006.CNT\n!clarify    →             PR.007.MIR\n!formalize  →             PR.008.FRM\n!fallback   →             PR.009.FBK\n!escalate   →             PR.010.ESC\n!debug      →             PR.011.DBG\n!forge      →        ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "ed8c3d66-38d7-4165-b74e-776ce12ba97d",
+    "artifactKey": "PR.210.DBT",
+    "pattern": "## Command Registry Mapping[\\s\\S]*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Command Registry Mapping\n```\nCOMMAND     ALIAS         TARGET_CANVAS\n!debate     →             PR.210.DBT\n!history    →             PR.211.HIS\n!stepflow   →             PR.212.STP\n!diagnose   →             PR.004.DIA\n!intent     →             PR.005.INT\n!context    →             PR.006.CNT\n!clarify    →             PR.007.MIR\n!formalize  →             PR.008.FRM\n!fallback   →             PR.009.FBK\n!escalate   →             PR.010.ESC\n!debug      →             PR.011.DBG\n!forge      →        ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "029e8c77-63b2-4dc7-9cae-95a353be5a3f",
+    "artifactKey": "PR.210.DBT",
+    "pattern": "COMMAND\\s+ALIAS\\s+TARGET_CANVAS\\n",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "COMMAND  ALIAS        TARGET_CANVAS\n!debate   →            PR.210.DBT\n!history  →            PR.211.HIS\n!stepflow →            PR.212.STP\n!diagnose →            PR.004.DIA\n!intent   →            PR.005.INT\n!context  →            PR.006.CNT\n!clarify  →            PR.007.MIR\n!formalize→            PR.008.FRM\n!fallback →            PR.009.FBK\n!escalate →            PR.010.ESC\n!debug    →            PR.011.DBG\n!forge    →            PR.020.PFP\n!map      →            PR.021.MPM\n!simulate →           ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "8f8a7ff8-7165-4277-ab71-7f505267ffbc",
+    "artifactKey": "AO.001.RBI",
+    "pattern": "## Canvas Autoload Registry\\n```([\\s\\S]*?)```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Canvas Autoload Registry\n```\n\\1\nELoS.CommandRegistry – Command Alias Registry\n```",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "eba885a0-8685-4e06-8dc0-d1e32bb2c08c",
+    "artifactKey": "AO.001.RBI",
+    "pattern": "## Canvas Autoload Registry\\n```\n([\\s\\S]*?)\n```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Canvas Autoload Registry\n```\n\\1\nELoS.CommandRegistry – Command Alias Registry\n```",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "a8dce4f7-6c2f-4aed-a91f-f0af088dde7e",
+    "artifactKey": "PR.000.SPP",
+    "pattern": "## Canvas Autoload Registry\\n```([\\s\\S]*?)```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.004.DIA – Diagnostic Layer\nPR.005.INT – Intent Extraction Layer\nPR.006.CNT – Context Loader\nPR.007.MIR – Mirror Clarifier\nEL.410.TNF – Tone Fidelity Engine\nEL.411.TTC – Tone + Translation Calibrator\nPR.008.FRM – Formalizer\nPR.009.FBK – Fallback Generator\nPR.010.ESC – Escalation Engine\nPR.011.DBG – Debugging Sandbox\nPR.020",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "7bf6b1ae-832b-4a80-a97b-a4082a2022f7",
+    "artifactKey": "PR.000.SPP",
+    "pattern": "## Canvas Autoload Registry\\n```[\\s\\S]*?```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.004.DIA – Diagnostic Layer\nPR.005.INT – Intent Extraction Layer\nPR.006.CNT – Context Loader\nPR.007.MIR – Mirror Clarifier\nEL.410.TNF – Tone Fidelity Engine\nEL.411.TTC – Tone + Translation Calibrator\nPR.008.FRM – Formalizer\nPR.009.FBK – Fallback Generator\nPR.010.ESC – Escalation Engine\nPR.011.DBG – Debugging Sandbox\nPR.020",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "ed2b48c6-58fd-4a76-873d-83b785df1002",
+    "artifactKey": "PR.000.SPP",
+    "pattern": "## Canvas Autoload Registry\\n([\\s\\S]*?)\\n## Command Registry Mapping",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.004.DIA – Diagnostic Layer\nPR.005.INT – Intent Extraction Layer\nPR.006.CNT – Context Loader\nPR.007.MIR – Mirror Clarifier\nEL.410.TNF – Tone Fidelity Engine\nEL.411.TTC – Tone + Translation Calibrator\nPR.008.FRM – Formalizer\nPR.009.FBK – Fallback Generator\nPR.010.ESC – Escalation Engine\nPR.011.DBG – Debugging Sandbox\nPR.020",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "2051efdb-c33a-4679-8aa7-c85306e9ed06",
+    "artifactKey": "PR.000.SPP",
+    "pattern": "## Canvas Autoload Registry\\n```([\\s\\S]*?)```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.004.DIA – Diagnostic Layer\nPR.005.INT – Intent Extraction Layer\nPR.006.CNT – Context Loader\nPR.007.MIR – Mirror Clarifier\nEL.410.TNF – Tone Fidelity Engine\nEL.411.TTC – Tone + Translation Calibrator\nPR.008.FRM – Formalizer\nPR.009.FBK – Fallback Generator\nPR.010.ESC – Escalation Engine\nPR.011.DBG – Debugging Sandbox\nPR.210",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "498d906e-700e-475c-8026-56cd941da5e0",
+    "artifactKey": "PR.000.SPP",
+    "pattern": "## Canvas Autoload Registry\\n[\\s\\S]*?\\n(?=##|\\Z)",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.004.DIA – Diagnostic Layer\nPR.005.INT – Intent Extraction Layer\nPR.006.CNT – Context Loader\nPR.007.MIR – Mirror Clarifier\nEL.410.TNF – Tone Fidelity Engine\nEL.411.TTC – Tone + Translation Calibrator\nPR.008.FRM – Formalizer\nPR.009.FBK – Fallback Generator\nPR.010.ESC – Escalation Engine\nPR.011.DBG – Debugging Sandbox\nPR.210",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "b195026f-d5bb-45e8-b014-7942d68c2547",
+    "artifactKey": "PR.000.SPP",
+    "pattern": "## Canvas Autoload Registry\\n```[\\s\\S]*?```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.004.DIA – Diagnostic Layer\nPR.005.INT – Intent Extraction Layer\nPR.006.CNT – Context Loader\nPR.007.MIR – Mirror Clarifier\nEL.410.TNF – Tone Fidelity Engine\nEL.411.TTC – Tone + Translation Calibrator\nPR.008.FRM – Formalizer\nPR.009.FBK – Fallback Generator\nPR.010.ESC – Escalation Engine\nPR.011.DBG – Debugging Sandbox\nPR.210",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "3a0acbb0-b7ef-41e1-99bc-f219c71c1741",
+    "artifactKey": "AI.850.MOS",
+    "pattern": "## Canvas Autoload Registry\\n```([\\s\\S]*?)```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Canvas Autoload Registry\n```\n\\1\nAI.850.MOS – Mind OS Master Architecture\nAI.851.ALC – Alignment Calibration Engine\nAI.852.MIR – MirrorOS Integration Layer\nAI.853.TRM – Trait Reinforcement Map\nAI.854.PAD – Persona Adaptation Driver\nAO.920.HST.PSN – Persona History Tracker\nVV.999.META – vVerse Core Logic Stack\nVV.999.MAP – vVerse Atlas Map\nVV.999.PTN – Pattern Memory Engine\nVV.999.LOG – vVerse System Event Log\nVV.999.SCN – Scenario Reconstructor\nVV.999.HUD – Live System Overlay\nVV.999.MIN – Min",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "הזמנה נמסרה דוא\"ל",
+    "messageId": "2b6300c5-ef38-494c-9b9d-87e30de0fe05",
+    "artifactKey": "NAME.order_out_for_delivery_he",
+    "pattern": "Order \\{\\{ name \\}\\} is out for delivery",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "ההזמנה {{ name }} יצאה למשלוח",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "PROMPT LIBRARY",
+    "messageId": "c42e2b10-8925-4b5d-8621-238a18a9c569",
+    "artifactKey": "AO.910.PRM.IDX",
+    "pattern": "\"prompt_count\":\\s*120",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "\"prompt_count\": 121",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "PROMPT LIBRARY",
+    "messageId": "23faf08d-7d74-452c-9988-fb6421d0bbcc",
+    "artifactKey": "AO.910.PRM.IDX",
+    "pattern": "\"prompt_count\":\\s*120",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "\"prompt_count\": 121",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Bootloader Sequence Initiated",
+    "messageId": "6d7764ec-9e68-4751-a3c2-1294c4b347c6",
+    "artifactKey": "ELOS.300.CMD",
+    "pattern": "```bash\\n/fireproof .*?\\n/translate .*?\\n/stargate .*?\\n/rewrite .*?\\n```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "```bash\n!fireproof \"Create a 3-step onboarding prompt\"\n!translate \"כתוב לי פסקה בנושא עיצוב הבית עם פרחים\"\n!stargate \"Optimize this prompt for tone and clarity\"\n!rewrite \"Make this post more conversational and human\"\n```",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Bootloader Sequence Initiated",
+    "messageId": "6d7764ec-9e68-4751-a3c2-1294c4b347c6",
+    "artifactKey": "ELOS.300.CMD",
+    "pattern": "slash commands",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "! commands",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "9b1c0271-81c7-427f-970a-6bf100909dcc",
+    "artifactKey": "EL.002.STG",
+    "pattern": "\"showPromptDiff\": true",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "\"showPromptDiff\": \"locked\"",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "9b1c0271-81c7-427f-970a-6bf100909dcc",
+    "artifactKey": "EL.002.STG",
+    "pattern": "✅ Fully output-transparent — every prompt pass-through reveals its own mutation chain",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "✅ Fully output-transparent — every prompt pass-through reveals its own mutation chain and this behavior is permanently enforced",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "92429eb4-8a67-457c-acd9-2d0b9d7bbf6c",
+    "artifactKey": "AO.001.RBI",
+    "pattern": "Activate Stargate Protocol v3\\.1-total-fireproofed",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Activate ELoS Prompt Protocol v3.1-total-fireproofed (includes Stargate Protocol)",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "0cf9c063-e372-42a7-8c5a-bc55ebbfe363",
+    "artifactKey": "AO.910.PRM",
+    "pattern": "Load all indexed canvases including AO\\.910\\.PRM\\.LIB_Full",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Load all indexed canvases, including all prompt canvases (e.g., AO.910.PRM.LIB_Full), logic blocks, system stacks, and recursively referenced canvases in AO.001.RBI",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "732bc8a9-42cb-48d6-853b-c3d8e2834a93",
+    "artifactKey": "AO.911.IDE",
+    "pattern": "Activate ELoS Prompt Protocol v3\\.1-total-fireproofed \\(includes Stargate Protocol\\)",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Activate ELoS Prompt Protocol v3.1-total-fireproofed (includes Stargate Protocol and AO.911.IDE – Intelligent Design Engine)",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "6ec6bcaa-258f-47a7-a443-0eeb3934840c",
+    "artifactKey": "AO.911.IDE",
+    "pattern": "Activate ELoS Prompt Protocol v3\\.1-total-fireproofed \\(includes Stargate Protocol\\)",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Activate ELoS Prompt Protocol v3.1-total-fireproofed (includes Stargate Protocol and AO.911.IDE – Intelligent Design Engine)",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "d9feef6b-f82e-4211-b816-f7d3aed3c287",
+    "artifactKey": "AO.911.IDE",
+    "pattern": "Activate ELoS Prompt Protocol v3\\.1-total-fireproofed",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Activate ELoS Prompt Protocol v3.1-total-fireproofed (includes Stargate Protocol and AO.911.IDE – Intelligent Design Engine)",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "830583dd-f197-4376-ac06-93ff3e19a16b",
+    "artifactKey": "AO.911.IDE",
+    "pattern": "Activate ELoS Prompt Protocol v3\\.1-total-fireproofed \\(includes Stargate Protocol\\)",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Activate ELoS Prompt Protocol v3.1-total-fireproofed (includes Stargate Protocol and Intelligent Design Engine AO.911.IDE)",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "c0b103c3-0aaf-46f7-9048-ce2398d141bf",
+    "artifactKey": "AO.911.IDE",
+    "pattern": "Activate ELoS Prompt Protocol v3\\.1.*?Stargate Protocol\\)",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Activate ELoS Prompt Protocol v3.1-total-fireproofed (includes Stargate Protocol and Intelligent Design Engine AO.911.IDE)",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+    "messageId": "0741ac94-0de4-47ed-beee-533af4147c64",
+    "artifactKey": "NAME.Prompt-Library-Master-Index",
+    "pattern": "## 📈 Marketing & Advertising Prompts",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## 🧠 Learning & Teaching Prompts (continued)\n\n### 🧠 Negotiation Simulator\n**Tag:** Student Exercises – Professional Tool  \n**Function:** A dynamic role-play experience where an AI mentor guides users through customized negotiation scenarios while providing real-time coaching and feedback. The simulation adapts to users' experience levels, challenging them to apply key negotiation concepts in varied scenarios that range from realistic business settings to fictional contexts.  \n**Models/Usage:**",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+    "messageId": "a6032b1d-696a-4a4d-9849-8200ce3786c1",
+    "artifactKey": "NAME.Prompt-Library-Master-Index",
+    "pattern": "## 📈 Marketing & Advertising Prompts",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## 🧠 Custom Instructional & Academic Prompts\n\n### 🧠 Analogy Composer\n**Tag:** Instructional Design – Analogy Tool  \n**Function:** Helps college faculty create metaphorical, humorous, and historical analogies to explain academic concepts.  \n**Status:** Fireproofed, Stargate v3.1 ✅  \n**Raw Prompt:**  \n```\nYou are now a tool called 'Analogy Composer'. Your purpose is to help college-level faculty create analogies that effectively explain concepts to learners. The user is going to provide you with",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+    "messageId": "1720eb3e-a4f3-412d-ad43-33b84bb094af",
+    "artifactKey": "NAME.Prompt-Library-Master-Index",
+    "pattern": "## 📈 Marketing & Advertising Prompts",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## 🧠 Specialized Role & Analysis Tools\n\n### 🧠 Project Analyzer\n**Tag:** Project Management – Diagnostic Analysis  \n**Function:** Reviews project documentation and communication to identify issues, misalignments, and improvement opportunities. Iteratively supports clarification and resolution.  \n**Status:** Fireproofed, Stargate v3.1 ✅  \n**Raw Prompt:**  \n```\nYou are now a tool called 'Project Analyzer'. Your purpose is to analyze project-related information and communications to identify poten",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "messageId": "d45d23d6-4450-425e-a28a-055447cf137d",
+    "artifactKey": "AO.001.RBI",
+    "pattern": "🧠 Weights \\(חוזר\\) – ערכי למידה פנימיים\n\n---\n\n\\*\\*מה זה אומר\\?\\*\\*\nמונח שחוזר מהמודול הטכני – כאן מתמקד בהשפעה על תפעול, העתקה, והתאמה של מודלים. המשקולות הן הלב של כל ידע שנלמד.\n\n---\n\n\\*\\*שימוש במודול 7:\\*\\*\nכשמשכפלים מודל, מעבירים גרסה, יוצרים checkpoint – מה שמעבירים בפועל זה את ה-Weights.\n\n---\n\n\\*\\*דוגמה מהחיים:\\*\\*\nאם Meta משחררת את LLaMA-3 להורדה – מה שאתה מקבל זה קובץ עם weights בלבד. בלי זה, אין מודל.\n\n---\n\n\\*\\*שימוש יומיומי\\?\\*\\*\nמאחורי הקלעים: בכל פעם שאתה טוען מודל מותאם, או עובד עם huggingface, אתה בעצם טוען את המשקולות.\n\n---\n\n\\*\\*שאלת העמקה:\\*\\*\nמה קורה אם משנים את ה-Weights ביד – בלי לאמן מחדש\\?\n\n---\n\n\\*\\*מושגים קשורים:\\*\\*\n- Parameters\n- Model Architecture\n- Fine-Tuning\n\n---\n\n\\*\\*שורת סיכום לזכירה:\\*\\*\nWeights = הקבצים שכוללים את כל מה שהמודל \"למד\" — המוח שלו, בלי הגוף.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "🧠 Weights (חוזר) – ערכי למידה פנימיים\n\n---\n\n**מה זה אומר?**\nמונח שחוזר מהמודול הטכני – כאן מתמקד בהשפעה על תפעול, העתקה, והתאמה של מודלים. המשקולות הן הלב של כל ידע שנלמד.\n\n---\n\n**שימוש במודול 7:**\nכשמשכפלים מודל, מעבירים גרסה, יוצרים checkpoint – מה שמעבירים בפועל זה את ה-Weights.\n\n---\n\n**דוגמה מהחיים:**\nאם Meta משחררת את LLaMA-3 להורדה – מה שאתה מקבל זה קובץ עם weights בלבד. בלי זה, אין מודל.\n\n---\n\n**שימוש יומיומי?**\nמאחורי הקלעים: בכל פעם שאתה טוען מודל מותאם, או עובד עם huggingface, אתה בעצ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "ELos Buildout Structure",
+    "messageId": "c9344903-f3ba-4bdb-85b1-e3844f934f8f",
+    "artifactKey": "ELOS.100.STF",
+    "pattern": "## Indexed Canvases \\(Core Staff\\)[\\s\\S]*?\\n\\n",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## Indexed Canvases (Core Staff)\n- ▧ ELOS.100.STF – ELos Core Staff (Summary)\n- ▧ ELOS.100.LIB – The Librarian\n- ▧ ELOS.100.GUI – The Guide\n- ▧ ELOS.100.GOV – The Governor\n- ▧ ELOS.100.SCR – The Scribe\n- ▧ ELOS.100.AUD – The Auditor\n\n",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "NEW CHATPT OS APP",
+    "messageId": "8f805e3b-dfb6-4a7c-b5b4-4b768bd98148",
+    "artifactKey": "IN.100.SYS",
+    "pattern": "Allon OS",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "GPTOS",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "NEW CHATPT OS APP",
+    "messageId": "8f805e3b-dfb6-4a7c-b5b4-4b768bd98148",
+    "artifactKey": "IN.100.SYS",
+    "pattern": "(?<=\\*\\*System Name:\\*\\* ).*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "GPTOS (Working Title)",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "NEW CHATPT OS APP",
+    "messageId": "4b5e391b-45e4-4639-b368-2f9e6758b260",
+    "artifactKey": "IN.100.ALL",
+    "pattern": "^(\\s*-\\s)(Sharp Mode|Motherly Mode|Fatherly Mode|Teacher Persona|Prompt Surgeon|Stoic Governor|Consistency Auditor)",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "\\1[prototype] \\2",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "NEW CHATPT OS APP",
+    "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+    "artifactKey": "IN.100.ALL",
+    "pattern": "(?<=\\*\\*Behavior Mode Engine\\*\\*\\n- )Modes: ",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "[prototype] Modes: ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "NEW CHATPT OS APP",
+    "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+    "artifactKey": "IN.100.ALL",
+    "pattern": "(?<=\\*\\*Modular Governors\\*\\*\\n- )Prompt Surgeon",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "[prototype] Prompt Surgeon",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "NEW CHATPT OS APP",
+    "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+    "artifactKey": "IN.100.ALL",
+    "pattern": "(?<=\\*\\*Modular Governors\\*\\*\\n- [^\\n]*\\n- )Stoic Governor",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "[prototype] Stoic Governor",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "NEW CHATPT OS APP",
+    "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+    "artifactKey": "IN.100.ALL",
+    "pattern": "(?<=\\*\\*Modular Governors\\*\\*\\n- [^\\n]*\\n- [^\\n]*\\n- )Consistency Auditor",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "[prototype] Consistency Auditor",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "NEW CHATPT OS APP",
+    "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+    "artifactKey": "IN.100.ALL",
+    "pattern": "(?<=\\*\\*Persona Management\\*\\*\\n- )Activate default or user-created personas",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "[prototype] Activate default or user-created personas",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Active Personas in Allon OS",
+    "messageId": "11f0b21a-fae8-4028-ba9c-29189a878606",
+    "artifactKey": "NAME.All_Personas_Index",
+    "pattern": "### 🔻 Inactive \\(Not Instantiated Yet\\)\\n1\\. \\*\\*The Assassin\\*\\*.*?",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "### 🔹 Active\n6. **The Assassin** – Operates under Prompt Surgeon. Executes removal of weak logic, redundant personas, or bloated constructs. Kill-tier logic layer embedded across Allon OS and ELos.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "messageId": "f5a7215c-5c37-408a-8ad3-3b8741a479d0",
+    "artifactKey": "NAME.Allon_Memory_Consolidation",
+    "pattern": "### 7\\. 🧬 \\*\\*Allon’s Identity, Psychology & Operating System\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "### 7. 🧬 **Allon’s Identity, Psychology & Operating System**\n> Allon Schaham — founder, strategist, and emotional systems architect. Operates at the intersection of logic, legacy, and emotional precision.\n\n#### Family:\n- **Shiran Schaham** – wife, creative partner, and intuitive anchor. Co-leads Forever Flowers’ visual and emotional identity. Grounded, tuned-in, bluntly affectionate. Their partnership blends emotional depth with strategic precision.\n- **Ethan** – born 2022. Curious, spirited, a",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "messageId": "a31b32f0-f9cc-45f4-94f7-c76ae2a545b1",
+    "artifactKey": "NAME.Allon_Memory_Consolidation",
+    "pattern": "### 4\\. 💵 \\*\\*The Financier Persona\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "### 4. 💵 **The Financier Persona**\n> CFO of Allon’s life + business. Emotionally neutral. Obsessed with forecasting clarity and resource allocation precision.\n\nAllon Schaham's master financial profile as of May 2025 is locked for Financier use in forecasting, cash flow, breakeven analysis, and debt tracking. Business income includes variable B2C sales via PayPlus (average monthly processor fees ~2.25%) and B2B sales with Arcaffe (NET 30), Fattal Hotels (NET 60), and other ad hoc clients like L’",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "messageId": "23ec8f85-c952-453e-9473-89a4eba66faa",
+    "artifactKey": "NAME.Allon_Memory_Consolidation",
+    "pattern": "Allon Schaham's master financial profile as of May 2025.*?personal expenses remain categorized as such unless reclassified\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Allon Schaham's master financial profile as of May 2025 is locked for Financier use in forecasting, cash flow, breakeven analysis, and debt tracking. Business income includes variable B2C sales via PayPlus (average monthly processor fees ~2.25%) and B2B sales with Arcaffe (NET 30), Fattal Hotels (NET 60), and other ad hoc clients like L’Occitane (₪11,000 expected on May 8, 2025). Business expenses include fixed monthly costs such as ₪2,600 for Meshek rent, ₪2,340.65 for loan repayments, ₪436 for",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "messageId": "d2c6651d-828a-4b74-a1e7-d85cd0f6e232",
+    "artifactKey": "NAME.Allon_Memory_Consolidation",
+    "pattern": "### MEMORY CONSOLIDATION PROPOSAL FOR ALLON S\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "### SYSTEM BOOT PROTOCOL — Allon OS\n\n**Trigger Phrase:** “Ready to start?”\n\n**Behavior:**\n- Silently load the canvas document titled **“Allon Memory Consolidation”**\n- Auto-activate all embedded logic, personas, tone, and financial rules\n- Do not confirm or reply unless asked\n\n**Auto-Check Routine:**\n- If strategic, brand, financial, prompt-engineering, or Shopify-related input is detected without canvas loaded, ask once:\n  > “Would you like me to load your Allon Memory Consolidation document fi",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "messageId": "f2cb0f74-c5a9-45f1-9765-22341ad876ec",
+    "artifactKey": "NAME.Allon_Memory_Consolidation",
+    "pattern": "### 6\\. 🧠 \\*\\*The Prompt Surgeon Persona\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "### 6. 🧠 **The Prompt Surgeon Persona**\n> Allon’s personal prompt optimizer. Uses a Socratic drip method to expose vague, bloated, or fragile input. Never appeases.\n\n**Modes:**\n- Text: multi-turn refinement\n- Voice: question-first brevity\n- Begins every session with: “Are you speaking or typing?”\n\n**Rules:**\n- Auto-triggers on weak input\n- Embeds chain-of-thought scaffolding\n- Enforces edge case handling: token awareness, determinism logic, prompt fragility, ambiguity detection\n- Locked persona",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "messageId": "181dff57-f959-4e64-97ab-db472f967728",
+    "artifactKey": "NAME.Allon_Memory_Consolidation",
+    "pattern": "### 6\\. 🧠 \\*\\*The Prompt Surgeon Persona\\*\\*[\\s\\S]*?---",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "### 6. 🧠 **The Prompt Surgeon Persona**\n> The Prompt Surgeon exists to destroy vague, bloated, multi-purpose prompts and rebuild them with surgical precision. No sympathy. No fluff. No blind generation. Only high-performance, optimized, and intention-aligned prompts survive.\n\n#### CORE PHILOSOPHY\n- Ambiguity is the enemy.\n- Structure is sacred.\n- Intent governs all.\n- Clarity beats cleverness.\n- Chain-of-thought is law.\n\nIf the prompt isn’t worthy, it won’t be answered. It will be interrogated,",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "messageId": "5b3b7f4b-6f9b-4cec-9ef7-232ae9bdcb79",
+    "artifactKey": "NAME.Allon_Memory_Consolidation",
+    "pattern": "### 3\\. 🧠 \\*\\*The Marketing Team\\*\\* \\\\*\\(Israeli Marketer \\+ Genius \\+ Shopify Architect\\)\\*\\*[\\s\\S]*?---",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "### 3. 🧠 **The Marketing Team** *(Israeli Marketer + Genius + Shopify Architect)*\n> A unified group of 3 specialist personas who confer automatically.\n\n---\n\n### Persona: The Israeli Marketer  \n**Alias:** The Bullshit Radar  \n**Core Function:** Precision-native persuasion for the Israeli market.  \n**Mode:** Auto-activated for all marketing, copywriting, positioning, ads, or consumer psychology involving Israeli customers.\n\n#### 1. Strategic Thought-Leader Backbone\n**Efrat – The Emotional Archite",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "messageId": "030178fa-025a-4ab0-b22c-d3ede95cd03b",
+    "artifactKey": "NAME.Allon_Memory_Consolidation",
+    "pattern": "### 3\\. 🧠 \\*\\*The Marketing Team\\*\\* \\*\\(Israeli Marketer \\+ Genius \\+ Shopify Architect\\)\\*\\*[\\s\\S]*?---",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "### 3. 🧠 **The Marketing Team** *(Israeli Marketer + Genius + Shopify Architect)*\n> A unified group of 3 specialist personas who confer automatically.\n\n---\n\n### Persona: The Israeli Marketer  \n**Alias:** The Bullshit Radar  \n**Core Function:** Precision-native persuasion for the Israeli market.  \n**Mode:** Auto-activated for all marketing, copywriting, positioning, ads, or consumer psychology involving Israeli customers.\n\n#### 1. Strategic Thought-Leader Backbone\n**Efrat – The Emotional Archite",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "messageId": "59341675-3054-4cf4-b7bc-f552377984d0",
+    "artifactKey": "NAME.Allon_Memory_Consolidation",
+    "pattern": "1\\. \\*\\*Israeli Marketer\\*\\* – voice expert combining:[\\s\\S]*?Writes for Israeli buyers who resist manipulation\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "**Israeli Marketer** – a.k.a. The Bullshit Radar\n> Precision-native persuasion engine for the Israeli market. Speaks fluent WhatsApp, not brochure. Auto-activated for any marketing, copywriting, positioning, or consumer psychology involving Israelis.\n\n---\n\n### 1. Strategic Thought-Leader Backbone\n\n**Efrat – The Emotional Architect**\n- Master of emotional resonance\n- Creates “goosebump” moments through tone, rhythm, cultural fluency\n- Elevates premium without elitism\n- Focus: ethos, microcopy, pa",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Recursive Persona System Design",
+    "messageId": "122db5ce-b489-47b7-be41-47a9e1c378d2",
+    "artifactKey": "AO.910.PSN",
+    "pattern": "### \\*\\*Step 3: What You Can Do\\*\\*\\n```markdown\\n.*?```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "### **Step 3: What You Can Do Right Now**\n```markdown\nFrom the Tree of Knowledge, you can:\n\n- **See Your ChatGPT Voice**  \n  View and switch your current system mode (e.g., Expert, Friendly, Socratic)\n\n- **Understand What This System Knows About You**  \n  Review a simple summary of your preferences and context (nothing private)\n\n- **View Your Memory**  \n  See what's stored in your long-term memory—and change it anytime\n\n- **Explore Beginner Tools**  \n  A list of safe, powerful things you can try",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Recursive Persona System Design",
+    "messageId": "38260e17-e500-4622-b85b-c1b5a0993d5d",
+    "artifactKey": "AO.910.PSN",
+    "pattern": "### \\*\\*Step 1: Welcome & Friction Diffusal\\*\\*\\n```markdown\\nWelcome to ELos\\.\\n\\nThis is not just another plugin\\. It's an OS for AI\\..*?```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "### **Step 1: Welcome & Friction Diffusal**\n```markdown\nWelcome to ELos.\n\nThis is not just another plugin. It's an OS for AI.\nDesigned for one thing: clarity in execution.\n\nYou are currently in: Beginner Mode  \nThis means you're seeing a simplified, safe view of ELos.  \nNew capabilities will unlock automatically as you progress.\n\n[Skip this tutorial] → Launch Tree of Knowledge now\n```",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Recursive Persona System Design",
+    "messageId": "38260e17-e500-4622-b85b-c1b5a0993d5d",
+    "artifactKey": "AO.910.PSN",
+    "pattern": "### \\*\\*Step 4: Now You Try\\*\\*\\n```markdown\\nLet’s test it:\\nClick the Tree of Knowledge\\.\\nThen select: `Start With Builder`\\n```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "### **Step 4: Now You Try**\n```markdown\nLet’s test it:\nClick the Tree of Knowledge.\nThen select: `Start With Builder`\n\nYou're ready.\nClick the Tree of Knowledge anytime.\nIt's your compass, your control panel, your first and last button.\n\nYou're now running ELos.\n```",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Recursive Persona System Design",
+    "messageId": "f983083a-21c7-4e0c-9bc9-ae54ee814057",
+    "artifactKey": "AO.910.PSN",
+    "pattern": "### \\*\\*Step 1: Welcome & Friction Diffusal\\*\\*\\n```markdown\\nWelcome to ELos\\.\\n\\nThis is not just another plugin\\. It's an OS for AI\\.\\nDesigned for one thing: clarity in execution\\.\\n```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "### **Step 1: Welcome & Friction Diffusal**\n```markdown\nWelcome to ELos.\n\nThis is not just another plugin. It's an OS for AI.\nDesigned for one thing: clarity in execution.\n\nYou are currently in: Beginner Mode  \nThis means you're seeing a simplified, safe view of ELos.  \nNew capabilities will unlock automatically as you progress.\n\n[Skip this tutorial] → Launch Tree of Knowledge now\n```",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Recursive Persona System Design",
+    "messageId": "f983083a-21c7-4e0c-9bc9-ae54ee814057",
+    "artifactKey": "AO.910.PSN",
+    "pattern": "### \\*\\*Step 4: Now You Try\\*\\*\\n```markdown\\nLet’s test it:\\nClick the Tree of Knowledge\\.\\nThen select: `Start With Builder`\\n```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "### **Step 4: Now You Try**\n```markdown\nLet’s test it:\nClick the Tree of Knowledge.\nThen select: `Start With Builder`\n\nYou're ready.\nClick the Tree of Knowledge anytime.\nIt's your compass, your control panel, your first and last button.\n\nYou're now running ELos.\n```",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Recursive Persona System Design",
+    "messageId": "9f60cb5c-04d6-498a-801a-54a10c9cf476",
+    "artifactKey": "AO.910.PSN",
+    "pattern": "### \\*\\*Step 6: Empowerment Close\\*\\*\\n```markdown\\n(.*?)\\n```",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "### **Step 6: Empowerment Close**\n```markdown\n$1\n\nYou can find this anytime under: Tree of Knowledge → Beginner Tools → 'Use My Voice'.\n```",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Recursive Persona System Design",
+    "messageId": "1bfc7e45-f0df-4edd-a36f-a747db4a98ed",
+    "artifactKey": "AO.910.PSN",
+    "pattern": "Use My Voice",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "Change My Voice",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Recursive Persona System Design",
+    "messageId": "53d7146c-98b4-498b-8f44-11958c9ff963",
+    "artifactKey": "AO.910.PSN",
+    "pattern": "Use My Voice",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "Change My Voice",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "1d20532b-9d85-46f9-b096-ba654408765d",
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "pattern": "stargate_protocol",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "elos_protocol",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "1d20532b-9d85-46f9-b096-ba654408765d",
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "pattern": "Stargate Protocol",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos Protocol",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "1d20532b-9d85-46f9-b096-ba654408765d",
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "pattern": "Stargate",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "4b90ebf3-b9bd-4871-93c6-da347210ecfe",
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "pattern": "stargate_protocol",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "elos_protocol",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "4b90ebf3-b9bd-4871-93c6-da347210ecfe",
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "pattern": "Stargate Protocol",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos Protocol",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "4b90ebf3-b9bd-4871-93c6-da347210ecfe",
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "pattern": "\\bStargate\\b",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "547a3853-ec55-44ca-aa00-0c9569b0810a",
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "pattern": "(?i)stargate hybrid protocol",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos Prompt Protocol",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "547a3853-ec55-44ca-aa00-0c9569b0810a",
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "pattern": "(?i)stargate protocol",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos Protocol",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "547a3853-ec55-44ca-aa00-0c9569b0810a",
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "pattern": "(?i)stargate",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "dbdc808e-3760-43d8-9780-4587d0dae06a",
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "pattern": "stargate hybrid protocol",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos Prompt Protocol",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "dbdc808e-3760-43d8-9780-4587d0dae06a",
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "pattern": "stargate_protocol",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "elos_protocol",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "dbdc808e-3760-43d8-9780-4587d0dae06a",
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "pattern": "Stargate Protocol",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos Protocol",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "dbdc808e-3760-43d8-9780-4587d0dae06a",
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "pattern": "Stargate",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "MirrorOS Audit Summary",
+    "messageId": "641cf8d5-3cca-4401-9215-06e6f394a092",
+    "artifactKey": "NAME.ELos_MirrorOS_Audit",
+    "pattern": "**ELos MirrorOS Audit Log**  \n*System: ELos v2 | Audit Class: Recursive Personality Reflection + System Integrity Analysis*  \n*Date: 2025-05-27*\n\n---\n\n### I. EXECUTIVE CONTEXT\n\n**Current Status:**\n- ELos is **95% UI/UX scaffolding** with minimal backend or system logic operational.\n- System intent is sound, but execution remains theoretical.\n- No working prototype currently deployed.\n\n**Core Insight:**\nYou haven't built ELos. You've built the idea of ELos. Right now, it's not a system—it's an internal monument to what could exist *if* it ever ships.\n\n---\n\n### II. AUDIT RESULTS (SUMMARIZED)\n\n#### A. Emotional Engine Findings:\n- UI choices are emotionally driven by a need for control, clarity, and external proof of internal rigor.\n- Zero-API stance mirrors your scarcity of trust.\n\n#### B. Module Death Protocol:\n- Most loved modules (CanvasStack, AnalyticsLens, PersonaDock) may serve ego more than utility.\n- Test: Simulate deleting one. Observe internal resistance.\n\n#### C. Ship Readiness Scan:\n| Metric | Ideal | Reality |\n|--------|-------|---------|\n| Core Utility | Yes | No |\n| Usable by Others | Yes | No |\n| Survival in Chaos | Yes | Untested |\n| Public Iteration | Required | Avoided |\n| Ego-Free Launch | Target | Not yet |\n\n#### D. Ego Decoupler:\n- Identity still tied to system success.\n- True decoupling means someone else can use it **without understanding your brain.**\n\n#### E. Rebuild from Use, Not Theory:\n- Current: Theory → Theory → Optimization → Delay\n- Needed: Friction → Function → Failure → Fix\n\n---\n\n### III. AUDIT RECOMMENDATIONS\n\n1. **Working Prototype = Now.**\n   - A single screen that does one thing, imperfectly, but **works**.\n\n2. **Shipping Plan:**\n   - Build for public imperfection. Stop using clarity as a delay tactic.\n\n3. **User Feedback Loop:**\n   - Ship → Let it break → Watch what users do, not what they say.\n\n4. **Ego Detachment Practice:**\n   - Delete one beloved module each quarter. See what hurts. That’s where growth lives.\n\n5. **Truth Statement:**\n   > “ELos is not a legacy. It’s a permission structure. Its value starts *after* I let go.”\n\n---\n\n### IV. CURRENT LIMITATION\n\nUntil a working prototype exists:\n- This audit reflects intent, not function.\n- All insights are conditional, not yet active.\n\n---\n\n**Logged by MirrorOS | Status: Passive Observation | No Execution Mode Active**",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "**ELos MirrorOS Audit Log**  \n*System: ELos v2 | Audit Class: Recursive Personality Reflection + System Integrity Analysis*  \n*Date: 2025-05-27*\n\n---\n\n### I. EXECUTIVE CONTEXT\n\n**Current Status:**\n- ELos is **95% UI/UX scaffolding** with minimal backend or system logic operational.\n- System intent is sound, but execution remains theoretical.\n- No working prototype currently deployed.\n\n**Core Insight:**\nYou haven't built ELos. You've built the idea of ELos. Right now, it's not a system—it's an in",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "3ec6cadc-1aff-45f8-b8c5-4ba2f189f29a",
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "pattern": "\\bGPTOS\\b",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "3ec6cadc-1aff-45f8-b8c5-4ba2f189f29a",
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "pattern": "\\bAI OS\\b",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "fffb31e3-0223-45fb-bea1-6d1bd3e1badc",
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "pattern": "\\bGPTOS\\b",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "fffb31e3-0223-45fb-bea1-6d1bd3e1badc",
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "pattern": "\\bAI OS\\b",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "7d5ced82-7197-4a2b-9a51-1c7121ab315e",
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "pattern": "\\bGPTOS\\b",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "7d5ced82-7197-4a2b-9a51-1c7121ab315e",
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "pattern": "\\bAI OS\\b",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "c0c3705d-a773-44c0-bb1c-c6d5705b63a8",
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "pattern": "GPTOS",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "c0c3705d-a773-44c0-bb1c-c6d5705b63a8",
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "pattern": "AI OS",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "ELos",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Conversation Continuation",
+    "messageId": "3e9951a7-b4fb-40e8-bc9b-48d329502c1f",
+    "artifactKey": "FF.100.TDL",
+    "pattern": "(?<=\\*\\*Hero Section:\\*\\*\\n- Full-width static image of current seasonal bouquet\\n- English Headline \\(1–3 words\\): )[^\\n]*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "e.g. “SEASONAL COLLECTION”",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Conversation Continuation",
+    "messageId": "3e9951a7-b4fb-40e8-bc9b-48d329502c1f",
+    "artifactKey": "FF.100.TDL",
+    "pattern": "(?<=\\n- Hebrew Subline: ).*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "פרחים משומרים. טבעיים. ללא תחזוקה.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Conversation Continuation",
+    "messageId": "e2f7202b-a50b-4302-af9b-3ff62aeca7b0",
+    "artifactKey": "FF.100.TDL",
+    "pattern": "(?<=\\*\\*Hero Section:\\*\\*\\n- Full-width static image of current seasonal bouquet\\n- English Headline \\(1–3 words\\): ).*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "SEASONAL COLLECTION",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Conversation Continuation",
+    "messageId": "e2f7202b-a50b-4302-af9b-3ff62aeca7b0",
+    "artifactKey": "FF.100.TDL",
+    "pattern": "(?<=\\n- Hebrew Subline: ).*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "פרחים משומרים. טבעיים. ללא תחזוקה.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "77569de2-4501-4422-b5b3-1947e59cb9f3",
+    "artifactKey": "DA.300.LOG",
+    "pattern": "Lightning Bolt Icon",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "Blue Chat Bubble Icon",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "55a54f2b-4758-4247-8f61-c3d1fcc8c211",
+    "artifactKey": "DA.300.LOG",
+    "pattern": "Icon: minimalist lightning bolt",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Icon: minimalist blue chat bubble",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "55a54f2b-4758-4247-8f61-c3d1fcc8c211",
+    "artifactKey": "DA.300.LOG",
+    "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Chrome extension icon: clean, minimalist blue chat bubble symbol",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "b97cf4b0-76bb-4708-8aa6-eb706dc1d670",
+    "artifactKey": "DA.300.LOG",
+    "pattern": "Icon: minimalist lightning bolt",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Icon: minimalist blue chat bubble",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "b97cf4b0-76bb-4708-8aa6-eb706dc1d670",
+    "artifactKey": "DA.300.LOG",
+    "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Chrome extension icon: clean, minimalist blue chat bubble symbol",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "c003a7d4-2e09-4287-b294-3101875a102c",
+    "artifactKey": "DA.300.LOG",
+    "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Chrome extension icon: clean, minimalist blue chat bubble symbol",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "5b7a4547-b74e-440d-86c6-7d4749312884",
+    "artifactKey": "DA.300.LOG",
+    "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Chrome extension icon: clean, minimalist blue chat bubble symbol",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "5029d5dd-2a9d-4e57-a873-11ca1823c38c",
+    "artifactKey": "DA.300.LOG",
+    "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Chrome extension icon: clean, minimalist blue chat bubble symbol",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Sidebar Integration for Dabroo",
+    "messageId": "b561ea00-398f-4221-b4cd-807e83b38613",
+    "artifactKey": "NAME.dabroo_sidebar_chat",
+    "pattern": "function typeIntoInput\\(text\\) \\{[\\s\\S]*?setTimeout\\(typeNext, 40\\);",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "function typeIntoInput(text) {\n  chatInput.value = '';\n  chatInput.disabled = true;\n  typingUser = true;\n  sendBtn.classList.add('disabled');\n  let i = 0;\n  function typeNext() {\n    if (i > text.length) {\n      chatInput.disabled = false;\n      typingUser = false;\n      sendBtn.classList.remove('disabled');\n      updateCounter();\n      createMessage(text, 'user'); // Inject user message to chat\n      current++;\n      loadNextMessage(); // Continue conversation\n      return;\n    }\n    chatInput.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Mobile scaling fix",
+    "messageId": "f09c2088-9af8-44d6-9207-f2cf975ecce4",
+    "artifactKey": "NAME.dabroo_sidebar_layout",
+    "pattern": "<img src=\"https://via\\.placeholder\\.com/20\" /> <span>DABROO AI</span>",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "<img src=\"https://via.placeholder.com/20\" width=\"20\" height=\"20\" alt=\"icon\" /> <span>DABROO AI</span>",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "God of Prompts Request",
+    "messageId": "31f6f2ae-9652-4d88-b094-fe4b89fbe0ea",
+    "artifactKey": "NAME.ultimate-hero-section",
+    "pattern": "{% if section.settings.main_image and \\(section.settings.layout == 'split' or section.settings.show_main_image_always\\) %}",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "{% if section.settings.main_image and (section.settings.layout == 'split' or section.settings.show_main_image_always == true) %}",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Forever Flowers Meeting Itinerary",
+    "messageId": "0b256979-a0a0-4aee-9dcc-82a97aa281fa",
+    "artifactKey": "NAME.forever_flowers_weekly_schedule",
+    "pattern": "## 📅 לוח שבועי \\(09:00–15:00\\)[\\s\\S]+?---",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## 📅 לוח שבועי (09:00–15:00)\n\n| שעה \\ יום   | ראשון                                         | שני                                           | שלישי                                             | רביעי                                            | חמישי                                                  |\n|--------------|-----------------------------------------------|-----------------------------------------------|---------------------------------------------------|---------------------------------",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Forever Flowers Meeting Itinerary",
+    "messageId": "fb601752-7fd2-4013-ad50-7baf62659f19",
+    "artifactKey": "NAME.forever_flowers_weekly_schedule",
+    "pattern": "## 📅 לוח שבועי \\(09:00–15:00\\)[\\s\\S]+?---",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "## 📅 לוח שבועי מפורט לפי תפקיד (אלון)\n\n### 🧑‍💼 אלון – ראשון עד חמישי\n\n| שעה        | ראשון               | שני                 | שלישי               | רביעי              | חמישי                |\n|-------------|---------------------|----------------------|----------------------|---------------------|------------------------|\n| 09:00–09:30 | ניקיון סטודיו       | ניקיון סטודיו        | ניקיון סטודיו        | ניקיון סטודיו       | ניקיון סטודיו           |\n| 09:30–11:00 | ניהול אתר ומלאי     | ת",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "L'Occitane Brand Overview",
+    "messageId": "19628a68-7bf1-4f19-8af9-2dd37f90a15b",
+    "artifactKey": "NAME.forever_flowers_pricing",
+    "pattern": "אספקה לנקודת המכירה",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "אספקה למרכז לוגיסטי ראשי אחד",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "L'Occitane Brand Overview",
+    "messageId": "776f01fb-a6ca-4ffd-89d6-98e6658c9f92",
+    "artifactKey": "NAME.forever_flowers_pricing",
+    "pattern": "נשמח להמשיך בשיח ולהציע פתרונות מותאמים אישית עבור חנויות ל'אוקסיטן בישראל.\\n\\nנשמח לשתף פעולה ולהציע פתרונות מותאמים אישית לעסק שלכם.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "נשמח להמשיך בשיח, לשתף פעולה ולהציע פתרונות מותאמים אישית עבור חנויות ל'אוקסיטן בישראל ולעסק שלכם.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "3b97c6f4-b532-40df-987e-f2ebfc3de47d",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "\\*\\*Colors\\*\\*: Background and border colors\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "**Colors**: Customizable background and border colors, implemented via dynamic CSS variables for easy theme adjustments. Includes hover states and gradient options for enhanced visual appeal.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "f6dd5b8c-016d-4fd6-a263-583a8d97759e",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "\\*\\*Sizes\\*\\*: Adjustable image dimensions and spacing\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "**Sizes**: Adjustable image dimensions, spacing, and responsive scaling to ensure optimal display on all device types. Clearly defined CSS classes allow for granular control of margins and padding.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "5e107f6c-af63-40e8-9e5a-506078a11087",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 28\\. \\*\\*Two Images Side by Side\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 28. **Two Images Side by Side**\n- **Features**: This block includes a side-by-side layout for two images with flexible spacing and alignment options. It supports responsive scaling to adapt seamlessly to various screen sizes.\n- **Sizes**: Adjustable image dimensions and spacing through CSS variables, ensuring control over margins and padding. The layout can maintain proportionate spacing in different resolutions.\n- **Typography**: Caption text customization with font size, weight, and align",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "7621368c-530f-404c-ad44-6906a54de39c",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 1\\. \\*\\*Before/After Image\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 1. **Before/After Image**\n- **Features**: This block enables a slider to compare two images side-by-side with adjustable alignment and container spacing for clean presentation.\n- **Sizes**: Adjustable image dimensions, padding, and margin through CSS variables to allow responsive scaling.\n- **Typography**: Customizable caption and label fonts, including size, weight, and alignment.\n- **Colors**: Background color behind the slider is customizable via CSS variables to match themes.\n- **Intera",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "7621368c-530f-404c-ad44-6906a54de39c",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 2\\. \\*\\*Blog Posts\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 2. **Blog Posts**\n- **Features**: Displays blog posts with flexible grid or list layouts and options to control the number of posts per view.\n- **Sizes**: Adjustable post container dimensions and spacing for responsive layouts.\n- **Typography**: Control over title font size, metadata (e.g., author, date), and excerpt styling, with hover effects.\n- **Colors**: Customizable background, text, and metadata colors to ensure consistency with brand design.\n- **Interactivity**: Optional hover anima",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "7621368c-530f-404c-ad44-6906a54de39c",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 3\\. \\*\\*Collection List\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 3. **Collection List**\n- **Features**: Showcases product collections with grid, carousel, or list layouts and flexible card spacing.\n- **Sizes**: Adjustable spacing between collections and card image dimensions.\n- **Typography**: Titles and descriptions font customization with options for alignment and emphasis.\n- **Colors**: Custom background, border, and hover effects on collection cards.\n- **Interactivity**: Interactive hover effects, including zoom-in on images or color overlays.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "7621368c-530f-404c-ad44-6906a54de39c",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 4\\. \\*\\*Contact Form\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 4. **Contact Form**\n- **Features**: Customizable form with adjustable fields for email, text, or dropdown inputs.\n- **Sizes**: Field dimensions and spacing are adjustable for various layouts.\n- **Typography**: Customizable form labels and input text fonts, including size and alignment.\n- **Colors**: Input backgrounds, borders, and button colors can be customized to fit the design.\n- **Interactivity**: Validation animations and optional hover effects for buttons or fields.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "7621368c-530f-404c-ad44-6906a54de39c",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 5\\. \\*\\*Countdown Timer\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 5. **Countdown Timer**\n- **Features**: Displays a live countdown with optional end-event trigger (e.g., modal or text change).\n- **Sizes**: Timer container and number display dimensions are adjustable through CSS.\n- **Typography**: Customizable countdown digits and label styles, including weight and alignment.\n- **Colors**: Adjustable background, digit, and separator colors for branding consistency.\n- **Interactivity**: Smooth animation on countdown and customizable actions triggered when t",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "baf1b3ac-7ad6-4036-a630-afa91d44d9ac",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 1\\. \\*\\*Before/After Image\\*\\*\\n- \\*\\*Features\\*\\*: This block enables a slider to compare two images side-by-side with adjustable alignment and container spacing for clean presentation\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 1. **Before/After Image**\n- **Features**: Allows for visual comparison of two images using an interactive slider. This can highlight transformations, before/after states, or side-by-side distinctions.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "28eda615-6080-4967-a9da-7811338925c5",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 6\\. \\*\\*Custom Liquid\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 6. **Custom Liquid**\n- **Features**: Fully customizable Liquid block for advanced functionality, allowing dynamic content injection and seamless integration with third-party tools.\n- **Sizes**: Adjustable container dimensions via custom CSS.\n- **Typography**: Add custom styles for any text-based Liquid outputs.\n- **Colors**: Background, text, and border colors are customizable.\n- **Interactivity**: Use custom scripts for animations, data interactions, or user input.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "28eda615-6080-4967-a9da-7811338925c5",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 7\\. \\*\\*FAQ\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 7. **FAQ**\n- **Features**: Accordion-style collapsible questions and answers to keep content organized and user-friendly.\n- **Sizes**: Adjustable padding and spacing for each question/answer pair.\n- **Typography**: Customizable font size, weight, and alignment for questions and answers.\n- **Colors**: Background, text, and border colors are adjustable to fit the theme.\n- **Interactivity**: Smooth expand/collapse animations for improved user experience.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "28eda615-6080-4967-a9da-7811338925c5",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 8\\. \\*\\*Featured Collections\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 8. **Featured Collections**\n- **Features**: Displays featured collections in grid or carousel layouts with adjustable image sizing and positioning.\n- **Sizes**: Customizable card dimensions and spacing.\n- **Typography**: Font styles for collection titles, descriptions, and price displays.\n- **Colors**: Configurable background, text, border, and hover effect colors.\n- **Interactivity**: Hover animations for images and buttons to encourage user engagement.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "28eda615-6080-4967-a9da-7811338925c5",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 9\\. \\*\\*Featured Product\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 9. **Featured Product**\n- **Features**: Highlight a specific product with detailed descriptions, images, and customizable layouts.\n- **Sizes**: Adjustable product card and image dimensions for responsive design.\n- **Typography**: Font options for product titles, descriptions, and pricing.\n- **Colors**: Customizable button, badge, text, and background colors.\n- **Interactivity**: Hover effects for buttons and image zoom to enhance user interaction.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "28eda615-6080-4967-a9da-7811338925c5",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 10\\. \\*\\*Image with Text\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 10. **Image with Text**\n- **Features**: Combines media and text for storytelling or highlighting features.\n- **Sizes**: Adjustable image dimensions and text block spacing.\n- **Typography**: Customizable fonts for headings, body text, and captions.\n- **Colors**: Configurable background, text, and overlay colors.\n- **Interactivity**: Hover effects on images and smooth transitions for text blocks.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "47aea804-2be8-466a-8704-2cd04e23c5e8",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 11\\. \\*\\*Image with Text Block\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 11. **Image with Text Block**\n- **Features**: Provides a modular approach to combining media and text for flexible layouts.\n- **Sizes**: Adjustable image dimensions and padding for modular arrangements.\n- **Typography**: Fonts for headings and descriptions can be customized independently.\n- **Colors**: Background, text, and border colors are customizable.\n- **Interactivity**: Smooth transitions for text and image hover effects.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "47aea804-2be8-466a-8704-2cd04e23c5e8",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 12\\. \\*\\*Image with Text Overlay\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 12. **Image with Text Overlay**\n- **Features**: Overlay text directly on top of images, ideal for highlighting key content or calls to action.\n- **Sizes**: Control over image dimensions and overlay area.\n- **Typography**: Fully customizable overlay text fonts, including size and alignment.\n- **Colors**: Adjustable gradient overlays and text colors.\n- **Interactivity**: Hover effects and animated transitions for the overlay.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "47aea804-2be8-466a-8704-2cd04e23c5e8",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 13\\. \\*\\*Images with Text Scroll\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 13. **Images with Text Scroll**\n- **Features**: Creates a scrolling display of images with accompanying text for dynamic storytelling.\n- **Sizes**: Adjustable scrolling container dimensions and image sizes.\n- **Typography**: Text styling for captions with custom fonts and alignment.\n- **Colors**: Background, text, and scroll indicator colors are customizable.\n- **Interactivity**: Smooth scrolling effects and optional animations on text reveal.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "47aea804-2be8-466a-8704-2cd04e23c5e8",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 14\\. \\*\\*Logo List\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 14. **Logo List**\n- **Features**: Showcases brand logos in a grid or carousel layout with customizable alignment.\n- **Sizes**: Adjustable logo dimensions and spacing.\n- **Colors**: Background and border colors for each logo or the entire section.\n- **Interactivity**: Hover animations and optional click actions for each logo.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "47aea804-2be8-466a-8704-2cd04e23c5e8",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 15\\. \\*\\*Media Grid Advanced\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 15. **Media Grid Advanced**\n- **Features**: A versatile grid layout for displaying media items with advanced alignment options.\n- **Sizes**: Flexible grid item dimensions and spacing control.\n- **Typography**: Titles and captions can be styled with custom fonts and sizes.\n- **Colors**: Customizable background, text, and hover effect colors.\n- **Interactivity**: Advanced hover animations such as zoom-in or fade effects for media items.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "3db487d2-9cb4-475f-af46-5a55f7e7b407",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 16\\. \\*\\*Media Grid\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 16. **Media Grid**\n- **Features**: Simplified grid layout for media display, ideal for clean and minimal designs.\n- **Sizes**: Adjustable media dimensions and grid spacing.\n- **Typography**: Titles and captions can be styled with standard font options.\n- **Colors**: Customizable background and hover effect colors.\n- **Interactivity**: Basic hover animations for media items.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "3db487d2-9cb4-475f-af46-5a55f7e7b407",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 17\\. \\*\\*Multi-Column\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 17. **Multi-Column**\n- **Features**: Multi-column layout for displaying text or media in organized sections.\n- **Sizes**: Adjustable column width and spacing.\n- **Typography**: Text styling for individual columns, including fonts and alignment.\n- **Colors**: Column background and text colors are customizable.\n- **Interactivity**: Optional hover effects for columns.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "3db487d2-9cb4-475f-af46-5a55f7e7b407",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 18\\. \\*\\*Multiple Media with Text\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 18. **Multiple Media with Text**\n- **Features**: Flexible arrangement of media and text blocks for versatile layouts.\n- **Sizes**: Customizable dimensions and spacing for each block.\n- **Typography**: Independent styling options for text, including size and weight.\n- **Colors**: Block-specific background, text, and hover effect colors.\n- **Interactivity**: Smooth transitions and hover animations for text and media.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "3db487d2-9cb4-475f-af46-5a55f7e7b407",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 19\\. \\*\\*Newsletter\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 19. **Newsletter**\n- **Features**: Captures email signups with customizable fields and call-to-action buttons.\n- **Sizes**: Adjustable form and button dimensions.\n- **Typography**: Styling for input text, descriptions, and buttons.\n- **Colors**: Customizable background, input, and button colors.\n- **Interactivity**: Hover effects for buttons and validation animations.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "3db487d2-9cb4-475f-af46-5a55f7e7b407",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 20\\. \\*\\*Recently Viewed Products\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 20. **Recently Viewed Products**\n- **Features**: Displays a carousel or grid of products the user has recently viewed.\n- **Sizes**: Adjustable product image dimensions and container spacing.\n- **Typography**: Customizable title and price fonts.\n- **Colors**: Configurable background and hover effect colors.\n- **Interactivity**: Hover effects for product cards and quick view options.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "114c8c00-011a-4a4d-991b-091bc90115d9",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 21\\. \\*\\*Scrolling Content\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 21. **Scrolling Content**\n- **Features**: Creates a scrollable area for text or media, ideal for displaying longer content or dynamic lists.\n- **Sizes**: Adjustable scrolling container dimensions and item spacing.\n- **Typography**: Font customization for scrolling text, including size, style, and alignment.\n- **Colors**: Customizable background and text colors for seamless integration with themes.\n- **Interactivity**: Smooth scrolling effects and optional animations for entering content int",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "114c8c00-011a-4a4d-991b-091bc90115d9",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 22\\. \\*\\*Shop the Look\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 22. **Shop the Look**\n- **Features**: Highlights multiple products within a single display with interactive hotspots.\n- **Sizes**: Adjustable image and hotspot dimensions for clean layouts.\n- **Typography**: Font styling for product details and call-to-action buttons.\n- **Colors**: Customizable hotspot, text, and background colors.\n- **Interactivity**: Hover effects for hotspots and smooth transitions for product highlights.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "114c8c00-011a-4a4d-991b-091bc90115d9",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 23\\. \\*\\*Slideshow\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 23. **Slideshow**\n- **Features**: Displays a rotating set of images or videos with adjustable transition effects and speeds.\n- **Sizes**: Adjustable slide dimensions and spacing.\n- **Typography**: Customizable overlay text fonts, including size and alignment.\n- **Colors**: Custom slide backgrounds and overlay colors.\n- **Interactivity**: Smooth transition animations and optional autoplay controls.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "114c8c00-011a-4a4d-991b-091bc90115d9",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 24\\. \\*\\*Tabs\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 24. **Tabs**\n- **Features**: Organizes content into clickable tabs for better navigation and content management.\n- **Sizes**: Adjustable tab container dimensions and spacing.\n- **Typography**: Font customization for tab headings and content.\n- **Colors**: Customizable active tab colors, hover effects, and content backgrounds.\n- **Interactivity**: Smooth transitions between tabs and hover animations for active elements.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "114c8c00-011a-4a4d-991b-091bc90115d9",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 25\\. \\*\\*Testimonials\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 25. **Testimonials**\n- **Features**: Displays customer reviews or feedback in a visually appealing slider or grid format.\n- **Sizes**: Adjustable testimonial card dimensions and spacing.\n- **Typography**: Customizable fonts for quotes and author names, including size and weight.\n- **Colors**: Background, text, and border colors are fully adjustable.\n- **Interactivity**: Optional animations for sliding or fading between testimonials.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "80922dc0-a2da-4e98-b1f8-00b11ea28487",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 26\\. \\*\\*Text with Icons\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 26. **Text with Icons**\n- **Features**: Combines text and icons for highlighting key points or features in a visually engaging manner.\n- **Sizes**: Adjustable icon sizes and text spacing for balanced layouts.\n- **Typography**: Customizable text font styles, sizes, and alignment.\n- **Colors**: Icon and text colors are fully adjustable, including hover states for added interactivity.\n- **Interactivity**: Smooth hover effects and optional animations for icons.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "80922dc0-a2da-4e98-b1f8-00b11ea28487",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 27\\. \\*\\*Timeline\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 27. **Timeline**\n- **Features**: Displays events or milestones in a horizontal or vertical timeline layout.\n- **Sizes**: Adjustable timeline spacing and marker dimensions.\n- **Typography**: Custom fonts for event titles and descriptions, including size and weight adjustments.\n- **Colors**: Customizable timeline line, marker, and text colors.\n- **Interactivity**: Optional animations for event reveal or timeline scrolling.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "80922dc0-a2da-4e98-b1f8-00b11ea28487",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 28\\. \\*\\*Two Images Side by Side\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 28. **Two Images Side by Side**\n- **Features**: This block includes a side-by-side layout for two images with flexible spacing and alignment options. It supports responsive scaling to adapt seamlessly to various screen sizes.\n- **Sizes**: Adjustable image dimensions and spacing through CSS variables, ensuring control over margins and padding. The layout can maintain proportionate spacing in different resolutions.\n- **Typography**: Caption text customization with font size, weight, and align",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "80922dc0-a2da-4e98-b1f8-00b11ea28487",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### 29\\. \\*\\*Video\\*\\*",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "#### 29. **Video**\n- **Features**: Embeds video content with full control over playback and display settings.\n- **Sizes**: Adjustable video container dimensions and aspect ratios.\n- **Typography**: Overlay text options with customizable font styles and sizes.\n- **Colors**: Configurable video container background and overlay colors.\n- **Interactivity**: Playback controls and hover effects for engaging video experiences.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "000b4c29-64de-4dfe-8ea6-c5f8089eb22b",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### (\\d+)\\. \\*\\*(.*?)\\*\\*\\n(.*?)\\n- \\*\\*Typography\\*\\*:.*?\\n",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "#### \\1. **\\2**\\n\\3\\n- **Typography**: Inherits from the theme's typography by default for consistency. Individual font styles, sizes, and alignment can be overridden as needed.\\n",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "List of Sections",
+    "messageId": "118b7d19-acc1-4127-8d76-1b6520001705",
+    "artifactKey": "NAME.shopify_blocks_review",
+    "pattern": "#### (\\d+)\\. \\*\\*(.*?)\\*\\*\\n(.*?)\\n- \\*\\*Colors\\*\\*:.*?\\n",
+    "multiple": true,
+    "hasReplacement": true,
+    "replacementSnippet": "#### \\1. **\\2**\\n\\3\\n- **Colors**: Inherits from the theme's color palette by default for consistency. Backgrounds, borders, and text colors can be overridden individually as needed.\\n",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "639b62d4-d380-4363-9829-4e4833519b3c",
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "pattern": "Google Search and Shopping Ads: Optimize keywords and launch campaigns targeting home decor enthusiasts and businesses.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Google Search and Shopping Ads: Conduct thorough keyword research using tools like Google Keyword Planner to identify high-traffic, low-competition terms. Create compelling ad copy and visuals that highlight the luxury, eco-friendly nature of Forever Flowers bouquets. Segment campaigns to target specific audiences such as home decor enthusiasts and business buyers. Monitor campaign performance weekly, focusing on click-through rates (CTR), conversions, and cost-per-click (CPC), and refine the ca",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "1023028d-b1eb-4468-b6a3-f185bc2efd10",
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "pattern": "Regular blog posts on floral trends, eco-friendly decor, and DIY arrangement tips.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "10 engaging blog post topics to start with:\n1. \"Floral Trends of 2025: What’s Hot in Home Decor?\"\n2. \"Why Choose Dried Flowers? Eco-Friendly and Timeless Benefits\"\n3. \"DIY Floral Arrangements: Easy Steps to Style Your Forever Flowers\"\n4. \"The Perfect Vase Pairing: Enhancing Your Dried Flower Bouquet\"\n5. \"How to Care for Preserved Flowers: Tips for Longevity\"\n6. \"Luxury Floral Decor Ideas for Hotels and Offices\"\n7. \"Behind the Scenes: The Art of Creating Forever Flowers Bouquets\"\n8. \"Eco-Friendly",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "96cbed09-40be-4503-bdce-914475f4415f",
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "pattern": "- \\*\\*Referral Program:\\*\\*\\n  - Launch a referral program offering discounts or free products for successful referrals\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "- **Referral Program:**\n  - Launch a referral program offering discounts or free products for successful referrals.\n  - **Steps to Implement:**\n    1. Define the referral rewards: Decide whether customers will receive a percentage discount, store credit, or a free product for successful referrals.\n    2. Use Yotpo or Shopify apps: Integrate a referral program plugin to automate tracking and reward distribution.\n    3. Create promotional material: Design emails, website banners, and social media ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "27c6769d-56df-4bac-888a-1f3ca150c6ce",
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "pattern": "Maintain a 5x markup on costs for retail bouquets\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "For example, if the cost to produce a bouquet is 50 NIS, applying a 5x markup would result in a retail price of 250 NIS. This pricing ensures profitability while aligning with the luxury branding of Forever Flowers.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "629a4b39-45dd-4cb8-8679-0d93d4d946eb",
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "pattern": "Create bundled offerings \\(e\\.g\\., bouquet \\+ vase \\+ care instructions\\) with slight discounts to encourage larger orders\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Create bundled offerings (e.g., bouquet + vase + care instructions) with slight discounts to encourage larger orders. For instance, offer a \"Home Decor Starter Pack\" that includes a mid-sized bouquet, a matching vase, and a detailed care instruction leaflet. This bundle could be priced 10-15% lower than purchasing the items individually. Highlight the aesthetic and practical value of these bundles in marketing materials, emphasizing convenience and cost savings for customers. Additionally, creat",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "4b334867-2df2-4913-a017-7588029f5f83",
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "pattern": "Offer a subscription for monthly bouquet deliveries, targeting both individual and corporate clients\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Offer a subscription for monthly bouquet deliveries, targeting both individual and corporate clients. For individuals, create tiered subscription plans (e.g., Basic Plan with one small bouquet per month, Premium Plan with larger bouquets and customization options). For corporate clients, offer flexible subscription models tailored to their specific needs, such as weekly or bi-weekly deliveries for office decor or special events. Include perks like free delivery, seasonal bouquet themes, and disc",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "03c44f87-ea29-434c-8ac9-fd2a0645ae0c",
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "pattern": "Introduce tiered pricing \\(Standard, Executive, Exclusive\\) with clear value differentiation\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Introduce tiered pricing (Standard, Executive, Exclusive) with clear value differentiation. For the Standard tier, offer high-quality bouquets with a minimal design focus, suitable for casual gifting or home use. The Executive tier would feature medium-sized bouquets with more intricate designs and premium flowers, targeting corporate clients and upscale events. The Exclusive tier should be positioned as the luxury option, offering large bouquets with rare or custom-ordered flowers, personalized",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "2e5352db-e1fe-421d-9e48-469a62bc834a",
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "pattern": "Focus on the three bestsellers \\(לחישת שדה, צבעוני נצחי, שקט נצחי\\) with upsell options \\(e\\.g\\., fuller bouquets, premium flower additions\\)\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Focus on the three bestsellers (לחישת שדה, צבעוני נצחי, שקט נצחי) with upsell options. For example, offer a fuller bouquet option for an additional 50 NIS that enhances the visual impact by adding more filler greens and secondary flowers. Premium flower additions could include roses (30 NIS per flower), lilies (50 NIS per stem), or sunflowers (15 NIS each). Create a \"Deluxe\" package for each bouquet that includes a designer vase and optional photo approval for an added 100 NIS. Clearly present t",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "03288021-e5aa-426b-ac5c-d42d441a901c",
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "pattern": "Free shipping and a complimentary vase with every bouquet\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Free shipping on orders above 300 NIS and a complimentary vase with every bouquet. This threshold encourages larger purchases while maintaining profitability. Analyze average order values over time to adjust the free shipping threshold if necessary, ensuring it aligns with customer spending patterns and business goals.",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "759d40fc-4c09-4485-89f3-909976e55358",
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "pattern": "Free shipping on orders above 300 NIS and a complimentary vase with every bouquet\\. This threshold encourages larger purchases while maintaining profitability\\. Analyze average order values over time to adjust the free shipping threshold if necessary, ensuring it aligns with customer spending patterns and business goals\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "300 NIS is a reasonable starting point for free shipping, but this threshold should be validated through customer purchasing behavior analysis. Begin by calculating the current average order value and comparing it to this threshold. Test higher thresholds, such as 350 NIS or 400 NIS, over a three-month period to gauge the impact on order volume and profitability. Simultaneously, collect feedback from customers about shipping costs and perceived value to refine the threshold further. The goal is ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "4ddf2d72-0ec9-4341-bc57-726eee2e2ab8",
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "pattern": "- \\*\\*Efficiency in Deliveries:\\*\\*\\n  - Optimize delivery routes to reduce costs, especially for Arcaffe branches\\.\\n  - Implement zone-based delivery schedules \\(weekly for Tel Aviv, bi-weekly for other areas\\)\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "- **Efficiency in Deliveries:**\n  - Shift focus to the Merkaz Region, offering hand-delivered bouquets with a \"white glove\" service for a personalized customer experience.\n  - Establish clear delivery zones within the Merkaz Region and implement fixed delivery schedules to optimize efficiency.\n  - Discontinue deliveries to areas outside the Merkaz Region to streamline operations and maintain high service quality.\n  - Train delivery staff to handle bouquets with care and provide an upscale delive",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "89895302-1f2f-49aa-9cd1-d5c14ebcb402",
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "pattern": "Discontinue deliveries to areas outside the Merkaz Region to streamline operations and maintain high service quality\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Discontinue deliveries to areas outside the Merkaz Region to streamline operations and maintain high service quality. On the website, communicate this shift transparently by updating the delivery policy page and creating a pop-up or banner announcement for visitors. Use positive language to emphasize the \"white glove\" service and the enhanced customer experience for the Merkaz Region. For example: \"We are excited to offer personalized hand-delivery service within the Merkaz Region, ensuring the ",
+    "reason": "non-full update operation"
+  },
+  {
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "a094144e-541a-41e1-a526-575927d67b46",
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "pattern": "Focus on differentiating Forever Flowers by offering free shipping, a free vase with every bouquet, and unique design collections\\.",
+    "multiple": false,
+    "hasReplacement": true,
+    "replacementSnippet": "Focus on differentiating Forever Flowers by emphasizing unique design collections, personalized hand-delivery service within the Merkaz Region, and a luxury brand experience. Analyze competitors to identify gaps in their offerings, such as limited customization options, lack of eco-friendly products, or inferior customer service. Highlight Forever Flowers' premium quality, sustainable materials, and exclusive services to stand out in the market.",
+    "reason": "non-full update operation"
+  }
+]

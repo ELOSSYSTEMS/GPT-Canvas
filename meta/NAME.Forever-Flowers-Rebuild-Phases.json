@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Forever-Flowers-Rebuild-Phases",
+  "names": [
+    "Forever Flowers Rebuild Phases"
+  ],
+  "titles": [
+    "Forever Flowers Rebuild Phases"
+  ],
+  "conversations": [
+    "SUB WEB REBUILD"
+  ],
+  "latestTime": 1769484247.033316,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "SUB WEB REBUILD",
+    "createTime": 1769484247.033316,
+    "messageId": "dd9fd8a0-c433-4919-812d-e8eb92bc936f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1769484247.033316,
+      "messageId": "dd9fd8a0-c433-4919-812d-e8eb92bc936f",
+      "conversation": "SUB WEB REBUILD",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2235,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

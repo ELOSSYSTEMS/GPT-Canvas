@@ -1,0 +1,160 @@
+{
+  "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
+  "names": [
+    "FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md"
+  ],
+  "titles": [
+    "FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md"
+  ],
+  "conversations": [
+    "Personalized Flow Design"
+  ],
+  "latestTime": 1768038941.976112,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Personalized Flow Design",
+    "createTime": 1768037514.88159,
+    "messageId": "f1d1bed0-8266-483a-aabd-757099db79c5",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 8,
+  "unresolvedPartialOps": 1,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1768037054.427975,
+      "messageId": "c1d882bf-9c3f-4132-a8a7-9eb73a4768cd",
+      "conversation": "Personalized Flow Design",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 6632,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1768037145.533383,
+      "messageId": "f119979d-c10c-4065-81a1-5b22d689a786",
+      "conversation": "Personalized Flow Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 0,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## Final Anchor"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1768037168.260819,
+      "messageId": "ea11bbf9-d34f-4197-b939-b21824a73cdc",
+      "conversation": "Personalized Flow Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 3013,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "---\\n\\n## Final Anchor"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1768037492.78313,
+      "messageId": "78b58381-3cba-4d41-974f-37d33a3d90bb",
+      "conversation": "Personalized Flow Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 15,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## Open Questions for the Forever Panel"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1768037514.88159,
+      "messageId": "f1d1bed0-8266-483a-aabd-757099db79c5",
+      "conversation": "Personalized Flow Design",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 8316,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1768038404.958611,
+      "messageId": "80273f1a-8854-4988-9c0c-c0fd6bc46e95",
+      "conversation": "Personalized Flow Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 484,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## Homepage as a Dynamic Surface"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1768038409.919307,
+      "messageId": "a9e7c4f4-6e02-46c1-9bd4-512c146324bc",
+      "conversation": "Personalized Flow Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 594,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "### Homepage Variants"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1768038886.925014,
+      "messageId": "ab3b0c24-62af-437b-9e35-4240df8c16e8",
+      "conversation": "Personalized Flow Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 1284,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## Tier-1 PDP \\(First Visit Only\\)[\\s\\S]*?retired forever\\*\\* for that customer"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1768038886.925014,
+      "messageId": "ab3b0c24-62af-437b-9e35-4240df8c16e8",
+      "conversation": "Personalized Flow Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 976,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## RealtimeStack-Style Visitor Tracking"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1768038903.552553,
+      "messageId": "89dc40ec-6f30-484b-a5d8-809d63b3ad71",
+      "conversation": "Personalized Flow Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 1284,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## Tier-1 PDP \\(First Visit Only\\)[\\s\\S]*?customer"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1768038941.976112,
+      "messageId": "9cc8f112-f39f-40b4-a733-284a90f54b6b",
+      "conversation": "Personalized Flow Design",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 2244,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## Final Anchor[\\s\\S]*$"
+    }
+  ]
+}

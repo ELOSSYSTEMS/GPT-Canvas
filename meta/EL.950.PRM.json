@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.950.PRM",
+  "names": [
+    "EL.950.PRM.DynamicPromptTagger"
+  ],
+  "titles": [
+    "EL.950.PRM.DynamicPromptTagger"
+  ],
+  "conversations": [
+    "Prompt Library Overview"
+  ],
+  "latestTime": 1749497334.60803,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Library Overview",
+    "createTime": 1749497334.60803,
+    "messageId": "a4770ca9-92a5-4b16-9bb3-9fed87831295",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749497334.60803,
+      "messageId": "a4770ca9-92a5-4b16-9bb3-9fed87831295",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 840,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

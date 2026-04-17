@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.601.RAG",
+  "names": [
+    "AI.601.RAG"
+  ],
+  "titles": [
+    "AI.601.RAG"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756465.354494,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756465.354494,
+    "messageId": "60a8bf36-9307-48cf-a5ce-dc7bb036838f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756465.354494,
+      "messageId": "60a8bf36-9307-48cf-a5ce-dc7bb036838f",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 770,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

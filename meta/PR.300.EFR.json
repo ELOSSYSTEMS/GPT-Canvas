@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.300.EFR",
+  "names": [
+    "The Emotional Architect (Efrat)"
+  ],
+  "titles": [
+    "The Emotional Architect (Efrat)"
+  ],
+  "conversations": [
+    "Dabroo Power User Guide"
+  ],
+  "latestTime": 1747609864.322428,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo Power User Guide",
+    "createTime": 1747609864.322428,
+    "messageId": "54d2c959-ec4e-4700-ae9e-df1d72c36144",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747609864.322428,
+      "messageId": "54d2c959-ec4e-4700-ae9e-df1d72c36144",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 910,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

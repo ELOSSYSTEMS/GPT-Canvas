@@ -1,0 +1,64 @@
+{
+  "artifactKey": "PR.100.CVR",
+  "names": [
+    "PR.100.CVR – Persona / Conversion Expert"
+  ],
+  "titles": [
+    "PR.100.CVR – Persona / Conversion Expert"
+  ],
+  "conversations": [
+    "Dabroo AI Framework Overview"
+  ],
+  "latestTime": 1747847671.839911,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Dabroo AI Framework Overview",
+    "createTime": 1747847671.839911,
+    "messageId": "7756a6d8-4422-4823-93a7-8db63e319595",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747847561.629899,
+      "messageId": "df3d88bc-2dbd-4bd4-ae40-fe5495b23210",
+      "conversation": "Dabroo AI Framework Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1526,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747847630.094558,
+      "messageId": "aa070406-8746-46d4-b550-d6ea17068889",
+      "conversation": "Dabroo AI Framework Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2378,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747847671.839911,
+      "messageId": "7756a6d8-4422-4823-93a7-8db63e319595",
+      "conversation": "Dabroo AI Framework Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1564,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

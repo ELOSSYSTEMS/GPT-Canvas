@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.208.IMA",
+  "names": [
+    "PR.208.IMA"
+  ],
+  "titles": [
+    "PR.208.IMA"
+  ],
+  "conversations": [
+    "Mission Ready Status"
+  ],
+  "latestTime": 1747610787.163386,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mission Ready Status",
+    "createTime": 1747610787.163386,
+    "messageId": "b5d4bb16-5698-43f1-b622-fb72e8d60ece",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747610787.163386,
+      "messageId": "b5d4bb16-5698-43f1-b622-fb72e8d60ece",
+      "conversation": "Mission Ready Status",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1864,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

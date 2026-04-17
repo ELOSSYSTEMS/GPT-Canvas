@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.command_canvas",
+  "names": [
+    "command_canvas"
+  ],
+  "titles": [
+    "command_canvas"
+  ],
+  "conversations": [
+    "Boot Sequence Initialized"
+  ],
+  "latestTime": 1748700066.736976,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Boot Sequence Initialized",
+    "createTime": 1748700066.736976,
+    "messageId": "f4cf3ef3-e2be-4d61-a198-e04387bca2b8",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748700066.736976,
+      "messageId": "f4cf3ef3-e2be-4d61-a198-e04387bca2b8",
+      "conversation": "Boot Sequence Initialized",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 937,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.email_fulfillment_hebrew",
+  "names": [
+    "email_fulfillment_hebrew"
+  ],
+  "titles": [
+    "email_fulfillment_hebrew"
+  ],
+  "conversations": [
+    "Boot Sequence Summary"
+  ],
+  "latestTime": 1750166878.576313,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Boot Sequence Summary",
+    "createTime": 1750166878.576313,
+    "messageId": "628aa2a8-fc68-4a71-bc7d-ba9426382dc3",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750166807.513899,
+      "messageId": "d12724fc-be8b-42d9-a9d7-03fd6624a190",
+      "conversation": "Boot Sequence Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1823,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1750166878.576313,
+      "messageId": "628aa2a8-fc68-4a71-bc7d-ba9426382dc3",
+      "conversation": "Boot Sequence Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5918,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

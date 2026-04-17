@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Israeli-Centric-Use-Cases",
+  "names": [
+    "Israeli Centric Use Cases"
+  ],
+  "titles": [
+    "Israeli Centric Use Cases"
+  ],
+  "conversations": [
+    "ChatGPT Prompts from Israel"
+  ],
+  "latestTime": 1747831580.000009,
+  "latestBodyComplete": false,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ChatGPT Prompts from Israel",
+    "createTime": 1747831580.000009,
+    "messageId": "cebe3b6f-9c8e-49b8-8275-421122bab765",
+    "heuristic": "create-payload",
+    "parseMode": "regex-create-partial"
+  },
+  "completeBodyOps": 0,
+  "partialBodyOps": 1,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747831580.000009,
+      "messageId": "cebe3b6f-9c8e-49b8-8275-421122bab765",
+      "conversation": "ChatGPT Prompts from Israel",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 1892,
+      "heuristic": "create-payload",
+      "parseMode": "regex-create-partial",
+      "pattern": null
+    }
+  ]
+}

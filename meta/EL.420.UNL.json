@@ -1,0 +1,52 @@
+{
+  "artifactKey": "EL.420.UNL",
+  "names": [
+    "ELos_Intermediate_Unlock_Protocol"
+  ],
+  "titles": [
+    "ELos_Intermediate_Unlock_Protocol"
+  ],
+  "conversations": [
+    "Builder Onboarding Step 4"
+  ],
+  "latestTime": 1748199305.561827,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Builder Onboarding Step 4",
+    "createTime": 1748199305.561827,
+    "messageId": "f5940c2c-30c9-412b-af0d-b5b98be12683",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748197982.895567,
+      "messageId": "d47b277e-4eb6-4537-b97e-b6b04c503be6",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2497,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748199305.561827,
+      "messageId": "f5940c2c-30c9-412b-af0d-b5b98be12683",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2652,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

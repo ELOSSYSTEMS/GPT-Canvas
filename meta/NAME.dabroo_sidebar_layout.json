@@ -1,0 +1,148 @@
+{
+  "artifactKey": "NAME.dabroo_sidebar_layout",
+  "names": [
+    "dabroo_sidebar_layout"
+  ],
+  "titles": [
+    "dabroo_sidebar_layout"
+  ],
+  "conversations": [
+    "Mobile scaling fix"
+  ],
+  "latestTime": 1747036449.494117,
+  "latestBodyComplete": false,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Mobile scaling fix",
+    "createTime": 1747036449.494117,
+    "messageId": "142e64bb-4856-4ed7-a715-82c1269f52ba",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "regex-update-partial"
+  },
+  "completeBodyOps": 7,
+  "partialBodyOps": 2,
+  "appliedPartialOps": 1,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747034763.914193,
+      "messageId": "d7fde8c4-49b6-4712-819d-2811765c3205",
+      "conversation": "Mobile scaling fix",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3555,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747034877.455574,
+      "messageId": "752ced7c-25ff-4264-9a48-14084dc1c5f1",
+      "conversation": "Mobile scaling fix",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4560,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747035032.116098,
+      "messageId": "c90815e5-ccfb-40d2-9e48-836ae4524df1",
+      "conversation": "Mobile scaling fix",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5105,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747035174.609422,
+      "messageId": "f09c2088-9af8-44d6-9207-f2cf975ecce4",
+      "conversation": "Mobile scaling fix",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 101,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "<img src=\"https://via\\.placeholder\\.com/20\" /> <span>DABROO AI</span>"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747035258.122844,
+      "messageId": "d7c7612b-ffeb-4fbc-86d4-18e7a2436dd7",
+      "conversation": "Mobile scaling fix",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5562,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747035432.56686,
+      "messageId": "5a891c86-319a-4734-951c-93004a704530",
+      "conversation": "Mobile scaling fix",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 6058,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747035643.788323,
+      "messageId": "eae1fe4d-b6f1-4cdf-bb8a-fce575474247",
+      "conversation": "Mobile scaling fix",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 6746,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747036014.044349,
+      "messageId": "f675879a-c806-4ba5-a54e-6adf4486ca39",
+      "conversation": "Mobile scaling fix",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4891,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747036190.479116,
+      "messageId": "2076359d-1fc6-41bb-b80e-5dd1335f9ac8",
+      "conversation": "Mobile scaling fix",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 469,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "regex-update-partial",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747036449.494117,
+      "messageId": "142e64bb-4856-4ed7-a715-82c1269f52ba",
+      "conversation": "Mobile scaling fix",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 4803,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "regex-update-partial",
+      "pattern": ".*"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.401.Chatbot",
+  "names": [
+    "AI.401.Chatbot"
+  ],
+  "titles": [
+    "AI.401.Chatbot"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756385.518213,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756385.518213,
+    "messageId": "3a1aafdb-6a78-4a0f-babc-91783157022b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756385.518213,
+      "messageId": "3a1aafdb-6a78-4a0f-babc-91783157022b",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 711,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

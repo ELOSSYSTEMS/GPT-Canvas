@@ -1,0 +1,53 @@
+{
+  "artifactKey": "DA.100.MNF",
+  "names": [
+    "Dabroo AI - Canvas Index"
+  ],
+  "titles": [
+    "Dabroo AI - Canvas Index"
+  ],
+  "conversations": [
+    "Dabroo Power User Guide",
+    "Mission Summary"
+  ],
+  "latestTime": 1747611590.778177,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mission Summary",
+    "createTime": 1747611590.778177,
+    "messageId": "d8d47b88-b30e-4ae2-bc58-5271bba1de16",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747609970.1465,
+      "messageId": "d6741983-04e6-42e8-a3a9-6ed717915a2f",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2020,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747611590.778177,
+      "messageId": "d8d47b88-b30e-4ae2-bc58-5271bba1de16",
+      "conversation": "Mission Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1652,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

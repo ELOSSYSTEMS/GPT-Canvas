@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.PRM.FRG.LifeCoach",
+  "names": [
+    "PRM.FRG.LifeCoach"
+  ],
+  "titles": [
+    "PRM.FRG.LifeCoach"
+  ],
+  "conversations": [
+    "Prompt Library Overview"
+  ],
+  "latestTime": 1749498614.62857,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Library Overview",
+    "createTime": 1749498614.62857,
+    "messageId": "53a508e6-a61d-475e-bfba-61bb25684a5f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749498614.62857,
+      "messageId": "53a508e6-a61d-475e-bfba-61bb25684a5f",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3387,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "artifactKey": "OS.800.POD",
+  "names": [],
+  "titles": [],
+  "conversations": [
+    "PODCAST TRANSCRIPTION"
+  ],
+  "latestTime": 1748031077.201828,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "PODCAST TRANSCRIPTION",
+    "createTime": 1748031077.201828,
+    "messageId": "1ec32cfb-d2e8-4917-8afb-53ba2d40d5a2",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748031039.137023,
+      "messageId": "a8a5275e-5d52-4e53-bd3c-221590bd4cc1",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3500,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748031077.201828,
+      "messageId": "1ec32cfb-d2e8-4917-8afb-53ba2d40d5a2",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3564,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

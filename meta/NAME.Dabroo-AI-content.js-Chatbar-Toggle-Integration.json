@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Dabroo-AI-content.js-Chatbar-Toggle-Integration",
+  "names": [
+    "Dabroo AI - content.js (Chatbar Toggle Integration)"
+  ],
+  "titles": [
+    "Dabroo AI - content.js (Chatbar Toggle Integration)"
+  ],
+  "conversations": [
+    "Dabroo Toggle Location Adjustment"
+  ],
+  "latestTime": 1747693357.948944,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo Toggle Location Adjustment",
+    "createTime": 1747693357.948944,
+    "messageId": "9cb48da9-00f0-4f99-bd0f-74db37d6d8dc",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747693357.948944,
+      "messageId": "9cb48da9-00f0-4f99-bd0f-74db37d6d8dc",
+      "conversation": "Dabroo Toggle Location Adjustment",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4586,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Pro-Tier-System-Overview",
+  "names": [
+    "ELos - Pro Tier System Overview"
+  ],
+  "titles": [
+    "ELos - Pro Tier System Overview"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083067.974606,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083067.974606,
+    "messageId": "11e561c1-d55e-431f-824d-5c6b68a1734a",
+    "heuristic": "create-payload",
+    "parseMode": "escaped-control-chars"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083067.974606,
+      "messageId": "11e561c1-d55e-431f-824d-5c6b68a1734a",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1796,
+      "heuristic": "create-payload",
+      "parseMode": "escaped-control-chars",
+      "pattern": null
+    }
+  ]
+}

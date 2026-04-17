@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.media_grid_advanced",
+  "names": [
+    "media_grid_advanced"
+  ],
+  "titles": [
+    "media_grid_advanced"
+  ],
+  "conversations": [
+    "Media Grid Customization"
+  ],
+  "latestTime": 1737550963.987941,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Media Grid Customization",
+    "createTime": 1737550963.987941,
+    "messageId": "c7e67319-f21f-4bac-9b63-42cf9b9f296a",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1737550169.945555,
+      "messageId": "5f1aae25-98c8-4d33-80b0-cca11393be9d",
+      "conversation": "Media Grid Customization",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 7683,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1737550963.987941,
+      "messageId": "c7e67319-f21f-4bac-9b63-42cf9b9f296a",
+      "conversation": "Media Grid Customization",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 8530,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

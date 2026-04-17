@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Phase2-Precision-Rewrite",
+  "names": [
+    "Phase2 Precision Rewrite"
+  ],
+  "titles": [
+    "Phase2 Precision Rewrite"
+  ],
+  "conversations": [
+    "שיחה עם עוזר"
+  ],
+  "latestTime": 1748894607.840353,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "שיחה עם עוזר",
+    "createTime": 1748894607.840353,
+    "messageId": "e36df47c-e334-4c6e-8ce9-592eedee8bdc",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748894607.840353,
+      "messageId": "e36df47c-e334-4c6e-8ce9-592eedee8bdc",
+      "conversation": "שיחה עם עוזר",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1739,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

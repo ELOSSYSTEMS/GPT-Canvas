@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Super-Prompts",
+  "names": [
+    "Super Prompts"
+  ],
+  "titles": [
+    "Super Prompts"
+  ],
+  "conversations": [
+    "AI Prompt Collection"
+  ],
+  "latestTime": 1752520889.934004,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "AI Prompt Collection",
+    "createTime": 1752520889.934004,
+    "messageId": "bdde9015-a8f3-4cb4-a0fb-6a974536e753",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1752520889.934004,
+      "messageId": "bdde9015-a8f3-4cb4-a0fb-6a974536e753",
+      "conversation": "AI Prompt Collection",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4795,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

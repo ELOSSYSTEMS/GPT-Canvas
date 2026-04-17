@@ -1,0 +1,64 @@
+{
+  "artifactKey": "FF.500.HMP",
+  "names": [
+    "FF Homepage Layout"
+  ],
+  "titles": [
+    "FF Homepage Layout"
+  ],
+  "conversations": [
+    "Conversation Continuation"
+  ],
+  "latestTime": 1748001360.270672,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Conversation Continuation",
+    "createTime": 1748001360.270672,
+    "messageId": "5c177b25-1ff6-4229-ba77-139e2701e0e1",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747984265.750782,
+      "messageId": "08e97365-9e27-4a01-92c6-78c94525a412",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1611,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747990993.503137,
+      "messageId": "f9fa4d37-2f0e-408a-b04e-a29f24c1aaef",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1806,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748001360.270672,
+      "messageId": "5c177b25-1ff6-4229-ba77-139e2701e0e1",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1816,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

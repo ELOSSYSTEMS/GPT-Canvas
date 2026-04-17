@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.300.CRT",
+  "names": [
+    "The Critic"
+  ],
+  "titles": [
+    "The Critic"
+  ],
+  "conversations": [
+    "Dabroo Power User Guide"
+  ],
+  "latestTime": 1747609876.146749,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo Power User Guide",
+    "createTime": 1747609876.146749,
+    "messageId": "2479aec7-978d-4d07-a514-fb27ca5ebb36",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747609876.146749,
+      "messageId": "2479aec7-978d-4d07-a514-fb27ca5ebb36",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 850,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

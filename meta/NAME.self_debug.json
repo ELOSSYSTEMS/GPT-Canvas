@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.self_debug",
+  "names": [
+    "self_debug"
+  ],
+  "titles": [
+    "self_debug"
+  ],
+  "conversations": [
+    "ELos Translate 2.0 Test"
+  ],
+  "latestTime": 1748716800.912886,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Translate 2.0 Test",
+    "createTime": 1748716800.912886,
+    "messageId": "29be8d97-c0f5-400b-9245-c0caf12d52b2",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748716800.912886,
+      "messageId": "29be8d97-c0f5-400b-9245-c0caf12d52b2",
+      "conversation": "ELos Translate 2.0 Test",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 191,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

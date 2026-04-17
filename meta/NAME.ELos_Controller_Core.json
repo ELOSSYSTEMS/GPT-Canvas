@@ -1,0 +1,184 @@
+{
+  "artifactKey": "NAME.ELos_Controller_Core",
+  "names": [
+    "ELos_Controller_Core"
+  ],
+  "titles": [
+    "ELos_Controller_Core"
+  ],
+  "conversations": [
+    "ELos Protocol Success Potential"
+  ],
+  "latestTime": 1748461315.148761,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "ELos Protocol Success Potential",
+    "createTime": 1748461315.148761,
+    "messageId": "698247e4-2b4b-4ee1-931a-3bb0c4a7d5fa",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 13,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748459653.876338,
+      "messageId": "8a06bae8-1b21-4d74-8448-4d218e61e33c",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1177,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748459710.371032,
+      "messageId": "91295222-f125-49d0-8b99-ed5c57ec6d68",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1644,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748459710.371032,
+      "messageId": "91295222-f125-49d0-8b99-ed5c57ec6d68",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1535,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748459710.371032,
+      "messageId": "91295222-f125-49d0-8b99-ed5c57ec6d68",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1163,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748459752.267143,
+      "messageId": "6bb31fc0-caef-4a52-9034-0841a3923307",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1624,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748459752.267143,
+      "messageId": "6bb31fc0-caef-4a52-9034-0841a3923307",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1153,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748459812.311127,
+      "messageId": "4c4de8e8-a379-46c5-ab0c-05c66b4c17d1",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1535,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748460004.403547,
+      "messageId": "0ed9ce95-c8a1-47c6-b675-8061fc15c697",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2886,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748460296.665462,
+      "messageId": "b133faf4-8803-4888-b722-6b5d08c79355",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2485,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748460627.131128,
+      "messageId": "7e73c0f5-d4c4-49d3-a89c-4825cc27d682",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3979,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748460950.045703,
+      "messageId": "caf25707-8b32-4d97-9eb4-7e1e13a522f0",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4634,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748461237.138374,
+      "messageId": "5b6b5ccb-de28-419f-b33e-c1df5723bee7",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2439,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748461315.148761,
+      "messageId": "698247e4-2b4b-4ee1-931a-3bb0c4a7d5fa",
+      "conversation": "ELos Protocol Success Potential",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2846,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

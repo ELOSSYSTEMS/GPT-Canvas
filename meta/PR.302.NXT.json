@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.302.NXT",
+  "names": [
+    "PR.302.NXT"
+  ],
+  "titles": [
+    "PR.302.NXT"
+  ],
+  "conversations": [
+    "Mission Ready Status"
+  ],
+  "latestTime": 1747611191.268001,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mission Ready Status",
+    "createTime": 1747611191.268001,
+    "messageId": "dea90906-ba36-4fe3-b1f8-e75cbd70b8c4",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747611191.268001,
+      "messageId": "dea90906-ba36-4fe3-b1f8-e75cbd70b8c4",
+      "conversation": "Mission Ready Status",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2311,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.005.43-ELO.2025",
+  "names": [
+    "005.43 ELO.2025"
+  ],
+  "titles": [
+    "005.43 ELO.2025"
+  ],
+  "conversations": [
+    "Canvas ELO 2025"
+  ],
+  "latestTime": 1748367367.909344,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Canvas ELO 2025",
+    "createTime": 1748367367.909344,
+    "messageId": "26bd59c8-d5f7-4c54-a55b-9cca97f24b08",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748367367.909344,
+      "messageId": "26bd59c8-d5f7-4c54-a55b-9cca97f24b08",
+      "conversation": "Canvas ELO 2025",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2132,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

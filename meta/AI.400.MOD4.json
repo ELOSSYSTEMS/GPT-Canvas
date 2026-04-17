@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.400.MOD4",
+  "names": [
+    "AI.400.MOD4"
+  ],
+  "titles": [
+    "AI.400.MOD4"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756194.832716,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756194.832716,
+    "messageId": "4064cf10-2d6f-4894-9a00-c79ce386dbf7",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756194.832716,
+      "messageId": "4064cf10-2d6f-4894-9a00-c79ce386dbf7",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 426,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

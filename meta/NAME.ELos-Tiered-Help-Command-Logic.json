@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tiered-Help-Command-Logic",
+  "names": [
+    "ELos - Tiered Help Command Logic"
+  ],
+  "titles": [
+    "ELos - Tiered Help Command Logic"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083187.939077,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083187.939077,
+    "messageId": "aa7c9cdd-094b-4252-ba36-2ab1d89c9484",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083187.939077,
+      "messageId": "aa7c9cdd-094b-4252-ba36-2ab1d89c9484",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1630,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.632.IMG",
+  "names": [
+    "EL.632.IMG.PlatformConstraints"
+  ],
+  "titles": [
+    "EL.632.IMG.PlatformConstraints"
+  ],
+  "conversations": [
+    "ELOS VISUALS OS"
+  ],
+  "latestTime": 1749200425.487882,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELOS VISUALS OS",
+    "createTime": 1749200425.487882,
+    "messageId": "b90dac6c-19a3-4218-9db5-34da1a697f3c",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749200425.487882,
+      "messageId": "b90dac6c-19a3-4218-9db5-34da1a697f3c",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1207,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.elos_pipeline_simulator",
+  "names": [
+    "elos_pipeline_simulator"
+  ],
+  "titles": [
+    "elos_pipeline_simulator"
+  ],
+  "conversations": [
+    "Preview not working fix"
+  ],
+  "latestTime": 1750618558.226502,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Preview not working fix",
+    "createTime": 1750618558.226502,
+    "messageId": "6a069a42-20ef-4842-951e-33652e7cfa8b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750618558.226502,
+      "messageId": "6a069a42-20ef-4842-951e-33652e7cfa8b",
+      "conversation": "Preview not working fix",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2500,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

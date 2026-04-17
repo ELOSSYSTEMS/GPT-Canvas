@@ -1,0 +1,40 @@
+{
+  "artifactKey": "DA.300.FRE",
+  "names": [
+    "Dabroo - Free Tier Extension Plan"
+  ],
+  "titles": [
+    "Dabroo - Free Tier Extension Plan"
+  ],
+  "conversations": [
+    "Dabroo trigger issues"
+  ],
+  "latestTime": 1747672125.92832,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo trigger issues",
+    "createTime": 1747672125.92832,
+    "messageId": "9dd6e4d7-b3af-4c56-ab90-6294ced9836c",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747672125.92832,
+      "messageId": "9dd6e4d7-b3af-4c56-ab90-6294ced9836c",
+      "conversation": "Dabroo trigger issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1898,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

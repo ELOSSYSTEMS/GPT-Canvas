@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.900.VVR",
+  "names": [
+    "vVerse-System-Final-Blueprint"
+  ],
+  "titles": [
+    "vVerse-System-Final-Blueprint"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748034017.065282,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748034017.065282,
+    "messageId": "24be296e-77be-4111-a925-aceea3fbb407",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748034017.065282,
+      "messageId": "24be296e-77be-4111-a925-aceea3fbb407",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5234,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

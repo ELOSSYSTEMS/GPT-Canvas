@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.forever_flowers_core_principles",
+  "names": [
+    "forever_flowers_core_principles"
+  ],
+  "titles": [
+    "forever_flowers_core_principles"
+  ],
+  "conversations": [
+    "Forever Flowers Meeting Itinerary"
+  ],
+  "latestTime": 1745931157.762162,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Forever Flowers Meeting Itinerary",
+    "createTime": 1745931157.762162,
+    "messageId": "a4277b41-b54c-478e-99b5-5d9e49ae345e",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1745931157.762162,
+      "messageId": "a4277b41-b54c-478e-99b5-5d9e49ae345e",
+      "conversation": "Forever Flowers Meeting Itinerary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4984,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

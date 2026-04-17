@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.shipping_confirmation_template",
+  "names": [
+    "shipping_confirmation_template"
+  ],
+  "titles": [
+    "shipping_confirmation_template"
+  ],
+  "conversations": [
+    "Order Confirmation Code Audit"
+  ],
+  "latestTime": 1753632849.157458,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Order Confirmation Code Audit",
+    "createTime": 1753632849.157458,
+    "messageId": "733f47df-2a96-4ca5-9bbb-4778b0908550",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753632849.157458,
+      "messageId": "733f47df-2a96-4ca5-9bbb-4778b0908550",
+      "conversation": "Order Confirmation Code Audit",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 301,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

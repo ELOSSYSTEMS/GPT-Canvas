@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.200.MOD2",
+  "names": [
+    "AI.200.MOD2"
+  ],
+  "titles": [
+    "AI.200.MOD2"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756186.777856,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756186.777856,
+    "messageId": "b919f89a-ca76-42a3-8840-52a5e7ab42fb",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756186.777856,
+      "messageId": "b919f89a-ca76-42a3-8840-52a5e7ab42fb",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 508,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

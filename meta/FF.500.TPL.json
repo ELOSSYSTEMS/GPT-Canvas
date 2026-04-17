@@ -1,0 +1,88 @@
+{
+  "artifactKey": "FF.500.TPL",
+  "names": [
+    "FF Product Page Template"
+  ],
+  "titles": [
+    "FF Product Page Template"
+  ],
+  "conversations": [
+    "Conversation Continuation"
+  ],
+  "latestTime": 1747984805.869767,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Conversation Continuation",
+    "createTime": 1747984805.869767,
+    "messageId": "46683219-b4a5-4ce8-b59c-92d25fd938cf",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 5,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747984055.722271,
+      "messageId": "4167ccb3-d650-4539-8104-4b163d28932b",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1138,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747984165.703384,
+      "messageId": "3507dead-211d-451e-aa14-081e32c4b15e",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1525,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747984237.493712,
+      "messageId": "74fbe0d4-534d-46b2-8479-e870e27b932f",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1754,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747984640.350128,
+      "messageId": "baac9815-8b24-42e0-8f68-e99e855b25e3",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1940,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747984805.869767,
+      "messageId": "46683219-b4a5-4ce8-b59c-92d25fd938cf",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2139,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

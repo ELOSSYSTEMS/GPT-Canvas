@@ -1,0 +1,52 @@
+{
+  "artifactKey": "ELOS.100.STF",
+  "names": [
+    "ELos - Core Staff"
+  ],
+  "titles": [
+    "ELos - Core Staff"
+  ],
+  "conversations": [
+    "ELos Buildout Structure"
+  ],
+  "latestTime": 1748089670.582454,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Buildout Structure",
+    "createTime": 1748089670.582454,
+    "messageId": "a96e83a3-dac8-40f0-8448-9ed99055ab4d",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 1,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748089670.582454,
+      "messageId": "a96e83a3-dac8-40f0-8448-9ed99055ab4d",
+      "conversation": "ELos Buildout Structure",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1901,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748089853.349543,
+      "messageId": "c9344903-f3ba-4bdb-85b1-e3844f934f8f",
+      "conversation": "ELos Buildout Structure",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 234,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": "## Indexed Canvases \\(Core Staff\\)[\\s\\S]*?\\n\\n"
+    }
+  ]
+}

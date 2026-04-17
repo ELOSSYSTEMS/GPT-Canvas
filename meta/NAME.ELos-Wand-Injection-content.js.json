@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Wand-Injection-content.js",
+  "names": [
+    "ELos Wand Injection - content.js"
+  ],
+  "titles": [
+    "ELos Wand Injection - content.js"
+  ],
+  "conversations": [
+    "Dabroo vs ELos seperation"
+  ],
+  "latestTime": 1748104716.655759,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo vs ELos seperation",
+    "createTime": 1748104716.655759,
+    "messageId": "8fbefa72-1202-4ab6-824a-94cee199ea37",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748104716.655759,
+      "messageId": "8fbefa72-1202-4ab6-824a-94cee199ea37",
+      "conversation": "Dabroo vs ELos seperation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1849,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

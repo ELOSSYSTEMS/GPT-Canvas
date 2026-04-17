@@ -1,0 +1,68 @@
+{
+  "artifactKey": "AI.850.MOS",
+  "names": [
+    "AI.850.MOS - Mind OS Master Architecture",
+    "AI.850.MOS – Mind OS Master Architecture"
+  ],
+  "titles": [
+    "AI.850.MOS - Mind OS Master Architecture",
+    "AI.850.MOS – Mind OS Master Architecture"
+  ],
+  "conversations": [
+    "Mind OS Meta-System Archive",
+    "Bootloader Activation Summary",
+    "Boot Sequence Execution"
+  ],
+  "latestTime": 1749132938.158501,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749132938.158501,
+    "messageId": "e1176104-5d8f-4d72-a80b-42e8aab7da4a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 1,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748562188.246365,
+      "messageId": "6c6717dc-525c-435e-8962-829a26e628d8",
+      "conversation": "Mind OS Meta-System Archive",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2554,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749132938.158501,
+      "messageId": "e1176104-5d8f-4d72-a80b-42e8aab7da4a",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3035,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1750566355.90319,
+      "messageId": "3a0acbb0-b7ef-41e1-99bc-f219c71c1741",
+      "conversation": "Boot Sequence Execution",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 524,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": "## Canvas Autoload Registry\\n```([\\s\\S]*?)```"
+    }
+  ]
+}

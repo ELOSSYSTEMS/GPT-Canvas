@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.500.GRD",
+  "names": [
+    "FF Signature Grid Layout"
+  ],
+  "titles": [
+    "FF Signature Grid Layout"
+  ],
+  "conversations": [
+    "Conversation Continuation"
+  ],
+  "latestTime": 1747983104.675481,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Conversation Continuation",
+    "createTime": 1747983104.675481,
+    "messageId": "1d6100a4-3865-402d-b12f-dfdb78e2bebf",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747983104.675481,
+      "messageId": "1d6100a4-3865-402d-b12f-dfdb78e2bebf",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1818,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

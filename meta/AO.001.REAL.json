@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.001.REAL",
+  "names": [
+    "AO.001.REAL"
+  ],
+  "titles": [
+    "AO.001.REAL"
+  ],
+  "conversations": [
+    "Fix Stargate Protocol"
+  ],
+  "latestTime": 1748589164.674851,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Fix Stargate Protocol",
+    "createTime": 1748589164.674851,
+    "messageId": "f3b12c06-9066-4e90-928e-62ecbccbf4c2",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748589164.674851,
+      "messageId": "f3b12c06-9066-4e90-928e-62ecbccbf4c2",
+      "conversation": "Fix Stargate Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1148,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

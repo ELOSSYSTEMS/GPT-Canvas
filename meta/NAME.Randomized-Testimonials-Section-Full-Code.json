@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Randomized-Testimonials-Section-Full-Code",
+  "names": [
+    "Randomized Testimonials Section (Full Code)"
+  ],
+  "titles": [
+    "Randomized Testimonials Section (Full Code)"
+  ],
+  "conversations": [
+    "Remove testimonial slider dots"
+  ],
+  "latestTime": 1768915372.403273,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Remove testimonial slider dots",
+    "createTime": 1768915372.403273,
+    "messageId": "2f31536b-736e-4dc2-8d50-d5d9dbe0504f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1768915372.403273,
+      "messageId": "2f31536b-736e-4dc2-8d50-d5d9dbe0504f",
+      "conversation": "Remove testimonial slider dots",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 11877,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

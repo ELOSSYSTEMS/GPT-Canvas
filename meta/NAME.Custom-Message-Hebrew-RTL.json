@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Custom-Message-Hebrew-RTL",
+  "names": [
+    "Custom Message Hebrew RTL"
+  ],
+  "titles": [
+    "Custom Message Hebrew RTL"
+  ],
+  "conversations": [
+    "תרגום דוא\"ל לעברית"
+  ],
+  "latestTime": 1750256248.044481,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "תרגום דוא\"ל לעברית",
+    "createTime": 1750256248.044481,
+    "messageId": "730573bb-e5af-4007-992b-8b36e00d06d5",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750256248.044481,
+      "messageId": "730573bb-e5af-4007-992b-8b36e00d06d5",
+      "conversation": "תרגום דוא\"ל לעברית",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2264,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

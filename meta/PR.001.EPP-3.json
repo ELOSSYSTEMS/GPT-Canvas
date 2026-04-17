@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.001.EPP-3",
+  "names": [
+    "PR.001.EPP-3 – Dynamic Intent Feedback Layer"
+  ],
+  "titles": [
+    "PR.001.EPP-3 – Dynamic Intent Feedback Layer"
+  ],
+  "conversations": [
+    "Canvas List Retrieval"
+  ],
+  "latestTime": 1753972513.102044,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Canvas List Retrieval",
+    "createTime": 1753972513.102044,
+    "messageId": "7f570fcd-4d7a-4575-8f44-2853643ff855",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753972513.102044,
+      "messageId": "7f570fcd-4d7a-4575-8f44-2853643ff855",
+      "conversation": "Canvas List Retrieval",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1919,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

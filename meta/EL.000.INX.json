@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.000.INX",
+  "names": [
+    "EL.000.INX – ELoS Master Index"
+  ],
+  "titles": [
+    "EL.000.INX – ELoS Master Index"
+  ],
+  "conversations": [
+    "Canvas List Retrieval"
+  ],
+  "latestTime": 1753973062.707805,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Canvas List Retrieval",
+    "createTime": 1753973062.707805,
+    "messageId": "d79883da-0abd-4368-8833-cd1b92a0788b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753973062.707805,
+      "messageId": "d79883da-0abd-4368-8833-cd1b92a0788b",
+      "conversation": "Canvas List Retrieval",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1731,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

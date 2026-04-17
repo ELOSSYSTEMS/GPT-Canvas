@@ -1,0 +1,36 @@
+{
+  "artifactKey": "UUID.ad708119-6b5a-4f79-a08d-67ae444d89cc-0",
+  "names": [],
+  "titles": [],
+  "conversations": [
+    "Dabroo AI Homepage Design"
+  ],
+  "latestTime": 1747074915.806624,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Dabroo AI Homepage Design",
+    "createTime": 1747074915.806624,
+    "messageId": "ad708119-6b5a-4f79-a08d-67ae444d89cc",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747074915.806624,
+      "messageId": "ad708119-6b5a-4f79-a08d-67ae444d89cc",
+      "conversation": "Dabroo AI Homepage Design",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2999,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

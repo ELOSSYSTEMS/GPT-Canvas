@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.order_confirmation_audit",
+  "names": [
+    "order_confirmation_audit"
+  ],
+  "titles": [
+    "order_confirmation_audit"
+  ],
+  "conversations": [
+    "Order Confirmation Code Audit"
+  ],
+  "latestTime": 1753623239.974365,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Order Confirmation Code Audit",
+    "createTime": 1753623239.974365,
+    "messageId": "72316ebe-0ffa-4ce8-92cb-bc71d41e03a1",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753623209.445559,
+      "messageId": "e62be522-0a12-4e1d-861f-ac2635686a12",
+      "conversation": "Order Confirmation Code Audit",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 280,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1753623239.974365,
+      "messageId": "72316ebe-0ffa-4ce8-92cb-bc71d41e03a1",
+      "conversation": "Order Confirmation Code Audit",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2443,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

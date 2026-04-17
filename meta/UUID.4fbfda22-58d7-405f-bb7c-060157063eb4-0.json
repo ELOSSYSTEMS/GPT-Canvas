@@ -1,0 +1,36 @@
+{
+  "artifactKey": "UUID.4fbfda22-58d7-405f-bb7c-060157063eb4-0",
+  "names": [],
+  "titles": [],
+  "conversations": [
+    "ELos academy integration"
+  ],
+  "latestTime": 1748098684.519891,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "ELos academy integration",
+    "createTime": 1748098684.519891,
+    "messageId": "4fbfda22-58d7-405f-bb7c-060157063eb4",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748098684.519891,
+      "messageId": "4fbfda22-58d7-405f-bb7c-060157063eb4",
+      "conversation": "ELos academy integration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1700,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

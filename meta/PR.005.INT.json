@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.005.INT",
+  "names": [
+    "PR.005.INT_Intent_Parser"
+  ],
+  "titles": [
+    "PR.005.INT_Intent_Parser"
+  ],
+  "conversations": [
+    "BUILDING THE WEBAPP"
+  ],
+  "latestTime": 1750596833.104765,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "BUILDING THE WEBAPP",
+    "createTime": 1750596833.104765,
+    "messageId": "8a28f85a-9099-44aa-bdd9-68cbce8673f4",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750596833.104765,
+      "messageId": "8a28f85a-9099-44aa-bdd9-68cbce8673f4",
+      "conversation": "BUILDING THE WEBAPP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1077,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

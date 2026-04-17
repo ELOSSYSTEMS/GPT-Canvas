@@ -1,0 +1,40 @@
+{
+  "artifactKey": "DA.100.CRS",
+  "names": [
+    "Dabroo Master Course"
+  ],
+  "titles": [
+    "Dabroo Master Course"
+  ],
+  "conversations": [
+    "Dabroo Power User Guide"
+  ],
+  "latestTime": 1747608290.418665,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo Power User Guide",
+    "createTime": 1747608290.418665,
+    "messageId": "c2db8b29-9e2e-4e23-ae29-e33cca9f72b5",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747608290.418665,
+      "messageId": "c2db8b29-9e2e-4e23-ae29-e33cca9f72b5",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4882,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "IN.500.UX",
+  "names": [
+    "AI OS – Onboarding Logic & User Tier Trees"
+  ],
+  "titles": [
+    "AI OS – Onboarding Logic & User Tier Trees"
+  ],
+  "conversations": [
+    "NEW CHATPT OS APP"
+  ],
+  "latestTime": 1748028162.865171,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "NEW CHATPT OS APP",
+    "createTime": 1748028162.865171,
+    "messageId": "598f99fd-f062-4aa2-8c06-41ba4b60cb63",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748028162.865171,
+      "messageId": "598f99fd-f062-4aa2-8c06-41ba4b60cb63",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2835,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

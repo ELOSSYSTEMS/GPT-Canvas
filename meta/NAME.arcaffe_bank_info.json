@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.arcaffe_bank_info",
+  "names": [
+    "arcaffe_bank_info"
+  ],
+  "titles": [
+    "arcaffe_bank_info"
+  ],
+  "conversations": [
+    "Arcaffe Bank Info Document"
+  ],
+  "latestTime": 1737882235.751538,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Arcaffe Bank Info Document",
+    "createTime": 1737882235.751538,
+    "messageId": "e47af88e-c011-43e1-94cb-2f622bb1cf6a",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1737882081.254765,
+      "messageId": "d95a2075-3c4d-4216-b9a3-9d4f164da7d3",
+      "conversation": "Arcaffe Bank Info Document",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 930,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1737882235.751538,
+      "messageId": "e47af88e-c011-43e1-94cb-2f622bb1cf6a",
+      "conversation": "Arcaffe Bank Info Document",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 727,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

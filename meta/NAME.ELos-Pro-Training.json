@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Pro-Training",
+  "names": [
+    "ELos Pro Training"
+  ],
+  "titles": [
+    "ELos Pro Training"
+  ],
+  "conversations": [
+    "ELos Academy Review"
+  ],
+  "latestTime": 1748101937.462659,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Academy Review",
+    "createTime": 1748101937.462659,
+    "messageId": "3d2fd4cf-2592-4dd3-91d2-cd8aac78dbd9",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748101937.462659,
+      "messageId": "3d2fd4cf-2592-4dd3-91d2-cd8aac78dbd9",
+      "conversation": "ELos Academy Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2298,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

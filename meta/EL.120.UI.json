@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.120.UI",
+  "names": [
+    "EL.120.UI.ModuleViewerPanel"
+  ],
+  "titles": [
+    "EL.120.UI.ModuleViewerPanel"
+  ],
+  "conversations": [
+    "BUILDING CANVAS MODULE"
+  ],
+  "latestTime": 1749321853.959272,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "BUILDING CANVAS MODULE",
+    "createTime": 1749321853.959272,
+    "messageId": "251cacfb-8123-4be7-bcff-2f3ee59bedfa",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749321853.959272,
+      "messageId": "251cacfb-8123-4be7-bcff-2f3ee59bedfa",
+      "conversation": "BUILDING CANVAS MODULE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 993,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

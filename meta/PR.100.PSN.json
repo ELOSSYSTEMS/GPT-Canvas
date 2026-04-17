@@ -1,0 +1,133 @@
+{
+  "artifactKey": "PR.100.PSN",
+  "names": [
+    "Persona Archive - Full Catalog",
+    "PR.100.PSN – Persona Master Index",
+    "Persona Cards: Inner Circle",
+    "Persona Master Archive: Inner + Perfect Circle"
+  ],
+  "titles": [
+    "Persona Archive - Full Catalog",
+    "PR.100.PSN – Persona Master Index",
+    "Persona Cards: Inner Circle",
+    "Persona Master Archive: Inner + Perfect Circle"
+  ],
+  "conversations": [
+    "Mission Summary",
+    "PODCAST TRANSCRIPTION",
+    "Dabroo Power User Guide",
+    "Mission Ready Status"
+  ],
+  "latestTime": 1747610871.566091,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Mission Ready Status",
+    "createTime": 1747610871.566091,
+    "messageId": "5c8d2bf5-76de-459e-a94d-ea6d252cca0b",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 7,
+  "partialBodyOps": 1,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747605923.487394,
+      "messageId": "3e64fac9-bd4c-4a92-a054-b9de0e04aff3",
+      "conversation": "Mission Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4056,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747606035.488488,
+      "messageId": "cee513b2-a018-4770-8d6f-525c48a75eba",
+      "conversation": "Mission Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4631,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747606187.244388,
+      "messageId": "cc6d1317-5604-4d48-b79d-1b134fedda7f",
+      "conversation": "Mission Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5755,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747606628.646853,
+      "messageId": "d131453a-c174-47cc-b439-d601f6e7460f",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 4940,
+      "heuristic": "create-payload",
+      "parseMode": "regex-create-partial",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747606740.62975,
+      "messageId": "462d0205-a393-4f86-b2b2-cd54e6df09c6",
+      "conversation": "Mission Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5585,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747609516.97417,
+      "messageId": "c7c7bb53-30bd-4438-9127-4d6407311970",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1436,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747609738.715175,
+      "messageId": "7e180de1-be9b-453b-a7ef-9440cf607e72",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3170,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747610871.566091,
+      "messageId": "5c8d2bf5-76de-459e-a94d-ea6d252cca0b",
+      "conversation": "Mission Ready Status",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1254,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

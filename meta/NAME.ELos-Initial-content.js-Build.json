@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Initial-content.js-Build",
+  "names": [
+    "ELos - Initial content.js Build"
+  ],
+  "titles": [
+    "ELos - Initial content.js Build"
+  ],
+  "conversations": [
+    "ELos Build and Testing"
+  ],
+  "latestTime": 1748096323.990961,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Build and Testing",
+    "createTime": 1748096323.990961,
+    "messageId": "f8eee767-17fd-4a06-a0b3-37371c6d6282",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748096323.990961,
+      "messageId": "f8eee767-17fd-4a06-a0b3-37371c6d6282",
+      "conversation": "ELos Build and Testing",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3375,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

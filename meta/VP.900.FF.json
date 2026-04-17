@@ -1,0 +1,40 @@
+{
+  "artifactKey": "VP.900.FF",
+  "names": [
+    "FF_SoftStructure_Fingerprint"
+  ],
+  "titles": [
+    "FF_SoftStructure_Fingerprint"
+  ],
+  "conversations": [
+    "ELOS VISUALS OS"
+  ],
+  "latestTime": 1749208478.401031,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELOS VISUALS OS",
+    "createTime": 1749208478.401031,
+    "messageId": "bdaa25bc-faa1-4614-b9b4-5e452a43c273",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749208478.401031,
+      "messageId": "bdaa25bc-faa1-4614-b9b4-5e452a43c273",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3576,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

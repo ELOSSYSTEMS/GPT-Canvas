@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.contact_page_upgrade",
+  "names": [
+    "contact_page_upgrade"
+  ],
+  "titles": [
+    "contact_page_upgrade"
+  ],
+  "conversations": [
+    "תרגום לעברית"
+  ],
+  "latestTime": 1750695129.981505,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "תרגום לעברית",
+    "createTime": 1750695129.981505,
+    "messageId": "a7bf501a-5224-4ec6-a518-84bfc3ad925c",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750695129.981505,
+      "messageId": "a7bf501a-5224-4ec6-a518-84bfc3ad925c",
+      "conversation": "תרגום לעברית",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2642,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "DA.200.TIP",
+  "names": [
+    "Dabroo Tips & Tricks Bank"
+  ],
+  "titles": [
+    "Dabroo Tips & Tricks Bank"
+  ],
+  "conversations": [
+    "Dabroo Power User Guide"
+  ],
+  "latestTime": 1747608466.724138,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo Power User Guide",
+    "createTime": 1747608466.724138,
+    "messageId": "643212a4-e6bf-484c-ac44-700ebbe40d22",
+    "heuristic": "create-payload",
+    "parseMode": "escaped-control-chars"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747608466.724138,
+      "messageId": "643212a4-e6bf-484c-ac44-700ebbe40d22",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3580,
+      "heuristic": "create-payload",
+      "parseMode": "escaped-control-chars",
+      "pattern": null
+    }
+  ]
+}

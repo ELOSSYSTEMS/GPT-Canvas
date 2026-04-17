@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Canvas-Index-Managed-by-The-Librarian",
+  "names": [
+    "Canvas Index - Managed by The Librarian"
+  ],
+  "titles": [
+    "Canvas Index - Managed by The Librarian"
+  ],
+  "conversations": [
+    "Mission Summary"
+  ],
+  "latestTime": 1747605328.522278,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mission Summary",
+    "createTime": 1747605328.522278,
+    "messageId": "4fc15c8f-9926-4e8e-8f05-dfd6b56e8882",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747605328.522278,
+      "messageId": "4fc15c8f-9926-4e8e-8f05-dfd6b56e8882",
+      "conversation": "Mission Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1201,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.dabroo_chat_label",
+  "names": [
+    "dabroo_chat_label"
+  ],
+  "titles": [
+    "dabroo_chat_label"
+  ],
+  "conversations": [
+    "Dabroo AI Hebrew Analysis"
+  ],
+  "latestTime": 1747660920.563054,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo AI Hebrew Analysis",
+    "createTime": 1747660920.563054,
+    "messageId": "d025bba8-967b-4d90-a97a-801915582331",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747660920.563054,
+      "messageId": "d025bba8-967b-4d90-a97a-801915582331",
+      "conversation": "Dabroo AI Hebrew Analysis",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3660,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

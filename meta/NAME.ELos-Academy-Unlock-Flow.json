@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Academy-Unlock-Flow",
+  "names": [
+    "ELos Academy Unlock Flow"
+  ],
+  "titles": [
+    "ELos Academy Unlock Flow"
+  ],
+  "conversations": [
+    "ELos academy integration"
+  ],
+  "latestTime": 1748103015.116408,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos academy integration",
+    "createTime": 1748103015.116408,
+    "messageId": "cd495caf-dcca-4846-8290-3e59cac26f7a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748103015.116408,
+      "messageId": "cd495caf-dcca-4846-8290-3e59cac26f7a",
+      "conversation": "ELos academy integration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1958,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

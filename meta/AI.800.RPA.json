@@ -1,0 +1,81 @@
+{
+  "artifactKey": "AI.800.RPA",
+  "names": [
+    "Recursive-Persona-Architecture",
+    "Recursive-System-Builds-Pre-Consistency-Auditor",
+    "AI OS - Recursive Systems Archive"
+  ],
+  "titles": [
+    "Recursive-Persona-Architecture",
+    "Recursive-System-Builds-Pre-Consistency-Auditor",
+    "AI OS - Recursive Systems Archive"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request",
+    "ELos Canvas Index Summary"
+  ],
+  "latestTime": 1748112114.891278,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Canvas Index Summary",
+    "createTime": 1748112114.891278,
+    "messageId": "590f7d89-74f6-408e-a4e9-85bc3dc3b499",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748036441.966775,
+      "messageId": "e28933de-a78c-4c16-a891-7e1f19f1fd49",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4209,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748036680.113095,
+      "messageId": "6a2a2413-cedd-4c34-ad4c-cc405e3a0185",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4479,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748111008.160217,
+      "messageId": "8d713994-afae-42d4-8a70-8b1a1a04f31c",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1874,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748112114.891278,
+      "messageId": "590f7d89-74f6-408e-a4e9-85bc3dc3b499",
+      "conversation": "ELos Canvas Index Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1712,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

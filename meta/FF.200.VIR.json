@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.200.VIR",
+  "names": [
+    "FF Creative Hierarchy – Abloh Model"
+  ],
+  "titles": [
+    "FF Creative Hierarchy – Abloh Model"
+  ],
+  "conversations": [
+    "Conversation Continuation"
+  ],
+  "latestTime": 1747985155.405555,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Conversation Continuation",
+    "createTime": 1747985155.405555,
+    "messageId": "de6acac9-7af1-445d-869e-98dd8d312e6e",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747985155.405555,
+      "messageId": "de6acac9-7af1-445d-869e-98dd8d312e6e",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1576,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

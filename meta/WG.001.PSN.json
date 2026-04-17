@@ -1,0 +1,68 @@
+{
+  "artifactKey": "WG.001.PSN",
+  "names": [
+    "WG.001.PSN.Jocko",
+    "WG.001.PSN.Jocko.v2",
+    "WG.001.PSN.Jocko.v3"
+  ],
+  "titles": [
+    "WG.001.PSN.Jocko",
+    "WG.001.PSN.Jocko.v2",
+    "WG.001.PSN.Jocko.v3"
+  ],
+  "conversations": [
+    "War Games"
+  ],
+  "latestTime": 1749803066.533473,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "War Games",
+    "createTime": 1749803066.533473,
+    "messageId": "f83ad9c6-d0d1-499d-934b-2f81bb3083e2",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749799083.983662,
+      "messageId": "12e27eba-d557-4f2f-879e-ee355eb16087",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 967,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749799302.16143,
+      "messageId": "ff5e706f-92b6-4465-b7a9-6368943afc4f",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2026,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749803066.533473,
+      "messageId": "f83ad9c6-d0d1-499d-934b-2f81bb3083e2",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1514,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

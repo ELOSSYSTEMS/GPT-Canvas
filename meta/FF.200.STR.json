@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.200.STR",
+  "names": [
+    "FF.200.STR – Brand Story & Narrative"
+  ],
+  "titles": [
+    "FF.200.STR – Brand Story & Narrative"
+  ],
+  "conversations": [
+    "Fear and Loathing Transcripts"
+  ],
+  "latestTime": 1749073202.877368,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Fear and Loathing Transcripts",
+    "createTime": 1749073202.877368,
+    "messageId": "e70b2a00-33f8-4ed1-b58d-79cb5d771a21",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749073202.877368,
+      "messageId": "e70b2a00-33f8-4ed1-b58d-79cb5d771a21",
+      "conversation": "Fear and Loathing Transcripts",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2915,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

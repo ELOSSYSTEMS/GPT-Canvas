@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.930.PRM",
+  "names": [
+    "AO.930.PRM.PromptFeedbackTracker"
+  ],
+  "titles": [
+    "AO.930.PRM.PromptFeedbackTracker"
+  ],
+  "conversations": [
+    "Prompt Library Overview"
+  ],
+  "latestTime": 1749497345.017565,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Library Overview",
+    "createTime": 1749497345.017565,
+    "messageId": "650014b2-e5e4-4743-910f-e6b42d8eb8f3",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749497345.017565,
+      "messageId": "650014b2-e5e4-4743-910f-e6b42d8eb8f3",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 818,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

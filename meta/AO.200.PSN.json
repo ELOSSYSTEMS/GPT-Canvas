@@ -1,0 +1,124 @@
+{
+  "artifactKey": "AO.200.PSN",
+  "names": [
+    "ELos_Architect_Persona",
+    "Recursive_Personas_AllonOS",
+    "Persona Canvas Index",
+    "EL.999.ERK",
+    "Access_Layer_Protocols"
+  ],
+  "titles": [
+    "ELos_Architect_Persona",
+    "Recursive_Personas_AllonOS",
+    "Persona Canvas Index",
+    "EL.999.ERK",
+    "Access_Layer_Protocols"
+  ],
+  "conversations": [
+    "Builder Onboarding Step 4",
+    "Recursive Persona Architecture",
+    "Librarian Assistance Request",
+    "Recursive System Exploration",
+    "AI Tools Breakdown"
+  ],
+  "latestTime": 1748205267.785891,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "AI Tools Breakdown",
+    "createTime": 1748205267.785891,
+    "messageId": "b45e2a01-32cf-4ced-af65-61051473f4a8",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 7,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748196329.390801,
+      "messageId": "d38bfe8e-8f1f-421f-b7b8-9055636a707d",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1520,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748201591.458433,
+      "messageId": "9b330049-ae47-4ef7-919f-c20e3e368efa",
+      "conversation": "Recursive Persona Architecture",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2075,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748202422.579811,
+      "messageId": "25253d40-cfb7-4328-bf48-9193d20248b9",
+      "conversation": "Librarian Assistance Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1710,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748202461.021524,
+      "messageId": "993e2ab0-607c-40bc-8e35-1adf2a54611d",
+      "conversation": "Librarian Assistance Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2323,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748204133.871815,
+      "messageId": "f323fd2f-eb60-43dc-902c-e4b3e8e94177",
+      "conversation": "Recursive System Exploration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2617,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748204194.38552,
+      "messageId": "5f579cd8-7362-4714-8d66-731064392999",
+      "conversation": "Recursive System Exploration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2620,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748205267.785891,
+      "messageId": "b45e2a01-32cf-4ced-af65-61051473f4a8",
+      "conversation": "AI Tools Breakdown",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2124,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

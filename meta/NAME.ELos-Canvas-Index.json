@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Canvas-Index",
+  "names": [
+    "ELos Canvas Index"
+  ],
+  "titles": [
+    "ELos Canvas Index"
+  ],
+  "conversations": [
+    "ELos Canvas Index Summary"
+  ],
+  "latestTime": 1748111654.881738,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Canvas Index Summary",
+    "createTime": 1748111654.881738,
+    "messageId": "e06e9955-b3bc-4904-9a3b-e8553f4e0473",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748111654.881738,
+      "messageId": "e06e9955-b3bc-4904-9a3b-e8553f4e0473",
+      "conversation": "ELos Canvas Index Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1979,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

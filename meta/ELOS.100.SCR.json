@@ -1,0 +1,40 @@
+{
+  "artifactKey": "ELOS.100.SCR",
+  "names": [
+    "The Scribe"
+  ],
+  "titles": [
+    "The Scribe"
+  ],
+  "conversations": [
+    "ELos Buildout Structure"
+  ],
+  "latestTime": 1748089752.21338,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Buildout Structure",
+    "createTime": 1748089752.21338,
+    "messageId": "742107fa-08d8-4e9a-9230-594db19d16ee",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748089752.21338,
+      "messageId": "742107fa-08d8-4e9a-9230-594db19d16ee",
+      "conversation": "ELos Buildout Structure",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1183,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.elos-core-modules",
+  "names": [
+    "elos-core-modules"
+  ],
+  "titles": [
+    "elos-core-modules"
+  ],
+  "conversations": [
+    "BUILDING THE WEBAPP"
+  ],
+  "latestTime": 1750601445.615782,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "BUILDING THE WEBAPP",
+    "createTime": 1750601445.615782,
+    "messageId": "d78be666-4027-4ce3-bdad-74fb6c338e19",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750601445.615782,
+      "messageId": "d78be666-4027-4ce3-bdad-74fb6c338e19",
+      "conversation": "BUILDING THE WEBAPP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2963,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

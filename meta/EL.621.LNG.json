@@ -1,0 +1,52 @@
+{
+  "artifactKey": "EL.621.LNG",
+  "names": [
+    "EL.621.LNG.DebugView"
+  ],
+  "titles": [
+    "EL.621.LNG.DebugView"
+  ],
+  "conversations": [
+    "translation 2.0 integration and expansion"
+  ],
+  "latestTime": 1749326739.294544,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "translation 2.0 integration and expansion",
+    "createTime": 1749326739.294544,
+    "messageId": "d1ccabf5-f730-4f7e-b2f6-81eff8c2f180",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749326699.530368,
+      "messageId": "883dca24-20ef-4dde-b2c7-30ff62818cff",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1163,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749326739.294544,
+      "messageId": "d1ccabf5-f730-4f7e-b2f6-81eff8c2f180",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1374,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

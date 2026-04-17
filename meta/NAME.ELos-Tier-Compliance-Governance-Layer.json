@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tier-Compliance-Governance-Layer",
+  "names": [
+    "ELos - Tier Compliance Governance Layer"
+  ],
+  "titles": [
+    "ELos - Tier Compliance Governance Layer"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748082891.647504,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748082891.647504,
+    "messageId": "e5f14553-6042-481d-b217-40b8da4e5d30",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748082891.647504,
+      "messageId": "e5f14553-6042-481d-b217-40b8da4e5d30",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1497,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,3231 @@
+# Recovered Canvas Canonical Index
+
+- export scanned: `/home/elos/chatgpt-export-2026-02-16/conversations.json`
+- total recovered artifacts: 644
+- complete latest bodies: 634
+- partial latest bodies: 10
+- identifiers seen in corpus: 1374
+- identifiers not yet reconstructed: 1026
+
+## Recovered Artifacts
+
+- `▧ ELOS.400.USG` - ELos – Token Throttle + Prompt Injection Refactor
+  - status: complete
+  - raw: `raw/ELOS.400.USG.md`
+  - meta: `meta/ELOS.400.USG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `▧ ELOS.800.RPA` - ELos – Recursive Modules (Refactored from Epoch I)
+  - status: complete
+  - raw: `raw/ELOS.800.RPA.md`
+  - meta: `meta/ELOS.800.RPA.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AD.800.IMG` - AD.800.IMG.FireflyPromptEngine
+  - status: complete
+  - raw: `raw/AD.800.IMG.md`
+  - meta: `meta/AD.800.IMG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AD.801.IMG` - AD.801.IMG.CanvaPromptEngine
+  - status: complete
+  - raw: `raw/AD.801.IMG.md`
+  - meta: `meta/AD.801.IMG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AD.900.IMG` - AD.900.IMG.3DSceneRouter
+  - status: complete
+  - raw: `raw/AD.900.IMG.md`
+  - meta: `meta/AD.900.IMG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.000.IDX` - AI.000.IDX
+  - status: complete
+  - raw: `raw/AI.000.IDX.md`
+  - meta: `meta/AI.000.IDX.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.100.MOD1` - AI.100.MOD1
+  - status: complete
+  - raw: `raw/AI.100.MOD1.md`
+  - meta: `meta/AI.100.MOD1.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.100.OVL` - Allon-Psych-Overlay-vMe
+  - status: complete
+  - raw: `raw/AI.100.OVL.md`
+  - meta: `meta/AI.100.OVL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.100.OVL.V10` - Allon-Psych-Overlay-v10
+  - status: complete
+  - raw: `raw/AI.100.OVL.V10.md`
+  - meta: `meta/AI.100.OVL.V10.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.100.OVL.V7` - Allon-Psych-Overlay-v7
+  - status: complete
+  - raw: `raw/AI.100.OVL.V7.md`
+  - meta: `meta/AI.100.OVL.V7.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.100.OVL.V8` - Allon-Psych-Overlay-v8
+  - status: complete
+  - raw: `raw/AI.100.OVL.V8.md`
+  - meta: `meta/AI.100.OVL.V8.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.100.OVL.V9` - Allon-Psych-Overlay-v9
+  - status: complete
+  - raw: `raw/AI.100.OVL.V9.md`
+  - meta: `meta/AI.100.OVL.V9.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.100.OVR` - AI OS - Canvas Index (Legacy)
+  - status: complete
+  - raw: `raw/AI.100.OVR.md`
+  - meta: `meta/AI.100.OVR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.100.WHO` - Who Am I – Psychometric Prompt
+  - status: complete
+  - raw: `raw/AI.100.WHO.md`
+  - meta: `meta/AI.100.WHO.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.101.AGI` - AI.101.AGI
+  - status: complete
+  - raw: `raw/AI.101.AGI.md`
+  - meta: `meta/AI.101.AGI.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.103.LLM` - AI.103.LLM
+  - status: complete
+  - raw: `raw/AI.103.LLM.md`
+  - meta: `meta/AI.103.LLM.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.104.ML` - AI.104.ML
+  - status: complete
+  - raw: `raw/AI.104.ML.md`
+  - meta: `meta/AI.104.ML.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.200.MOD2` - AI.200.MOD2
+  - status: complete
+  - raw: `raw/AI.200.MOD2.md`
+  - meta: `meta/AI.200.MOD2.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.201.NN` - AI.201.NN
+  - status: complete
+  - raw: `raw/AI.201.NN.md`
+  - meta: `meta/AI.201.NN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.300.MOD3` - AI.300.MOD3
+  - status: complete
+  - raw: `raw/AI.300.MOD3.md`
+  - meta: `meta/AI.300.MOD3.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.400.MOD4` - AI.400.MOD4
+  - status: complete
+  - raw: `raw/AI.400.MOD4.md`
+  - meta: `meta/AI.400.MOD4.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.402.CV` - AI.402.CV
+  - status: complete
+  - raw: `raw/AI.402.CV.md`
+  - meta: `meta/AI.402.CV.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.500.MOD5` - AI.500.MOD5
+  - status: complete
+  - raw: `raw/AI.500.MOD5.md`
+  - meta: `meta/AI.500.MOD5.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.500.MYT` - AIOS-Myth-Engine-Core
+  - status: complete
+  - raw: `raw/AI.500.MYT.md`
+  - meta: `meta/AI.500.MYT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.500.NAR` - AIOS-Narrative-Mode-Core
+  - status: complete
+  - raw: `raw/AI.500.NAR.md`
+  - meta: `meta/AI.500.NAR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.600.MOD6` - AI.600.MOD6
+  - status: complete
+  - raw: `raw/AI.600.MOD6.md`
+  - meta: `meta/AI.600.MOD6.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.601.RAG` - AI.601.RAG
+  - status: complete
+  - raw: `raw/AI.601.RAG.md`
+  - meta: `meta/AI.601.RAG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.602.MCP` - AI.602.MCP
+  - status: complete
+  - raw: `raw/AI.602.MCP.md`
+  - meta: `meta/AI.602.MCP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.603.NLP` - AI.603.NLP
+  - status: complete
+  - raw: `raw/AI.603.NLP.md`
+  - meta: `meta/AI.603.NLP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.700.DAO` - DAEMON-Founders-OS-Core
+  - status: complete
+  - raw: `raw/AI.700.DAO.md`
+  - meta: `meta/AI.700.DAO.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.700.MOD7` - AI.700.MOD7
+  - status: complete
+  - raw: `raw/AI.700.MOD7.md`
+  - meta: `meta/AI.700.MOD7.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.700.MODE` - data2_stoicgov_upgrade
+  - status: complete
+  - raw: `raw/AI.700.MODE.md`
+  - meta: `meta/AI.700.MODE.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.701.TPU` - AI.701.TPU
+  - status: complete
+  - raw: `raw/AI.701.TPU.md`
+  - meta: `meta/AI.701.TPU.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.710.VFM` - vFamily-System-Core
+  - status: complete
+  - raw: `raw/AI.710.VFM.md`
+  - meta: `meta/AI.710.VFM.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.720.REO` - RealityOps-Core
+  - status: complete
+  - raw: `raw/AI.720.REO.md`
+  - meta: `meta/AI.720.REO.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.730.CVL` - Civilization-Loop-Core
+  - status: complete
+  - raw: `raw/AI.730.CVL.md`
+  - meta: `meta/AI.730.CVL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.740.AYU` - AntiYou-Core-System
+  - status: complete
+  - raw: `raw/AI.740.AYU.md`
+  - meta: `meta/AI.740.AYU.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.800.RPA` - Recursive-Persona-Architecture
+  - status: complete
+  - raw: `raw/AI.800.RPA.md`
+  - meta: `meta/AI.800.RPA.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.810.RME` - Recursive-Mode-Engine
+  - status: complete
+  - raw: `raw/AI.810.RME.md`
+  - meta: `meta/AI.810.RME.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.820.RJF` - Recursive-Journaling-Framework
+  - status: complete
+  - raw: `raw/AI.820.RJF.md`
+  - meta: `meta/AI.820.RJF.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.830.RDL` - Recursion-Driver-Layer
+  - status: complete
+  - raw: `raw/AI.830.RDL.md`
+  - meta: `meta/AI.830.RDL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.840.RCA` - Recursive-Architect-Persona
+  - status: complete
+  - raw: `raw/AI.840.RCA.md`
+  - meta: `meta/AI.840.RCA.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.850.MOS` - AI.850.MOS - Mind OS Master Architecture
+  - status: complete
+  - raw: `raw/AI.850.MOS.md`
+  - meta: `meta/AI.850.MOS.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=1
+- `AI.850.UJS` - Unified-Journaling-System
+  - status: complete
+  - raw: `raw/AI.850.UJS.md`
+  - meta: `meta/AI.850.UJS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.851.ALC` - AI.851.ALC – Alignment Calibration Engine
+  - status: complete
+  - raw: `raw/AI.851.ALC.md`
+  - meta: `meta/AI.851.ALC.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.852.MIR` - AI.852.MIR – MirrorOS Integration Layer
+  - status: complete
+  - raw: `raw/AI.852.MIR.md`
+  - meta: `meta/AI.852.MIR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.853.TRM` - AI.853.TRM – Trait Reinforcement Map
+  - status: complete
+  - raw: `raw/AI.853.TRM.md`
+  - meta: `meta/AI.853.TRM.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.854.PAD` - AI.854.PAD – Persona Adaptation Driver
+  - status: complete
+  - raw: `raw/AI.854.PAD.md`
+  - meta: `meta/AI.854.PAD.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.860.RAA` - Redundancy-Audit-Archive
+  - status: complete
+  - raw: `raw/AI.860.RAA.md`
+  - meta: `meta/AI.860.RAA.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.899.MSI` - AI.899.MSI - Meta-System Index
+  - status: complete
+  - raw: `raw/AI.899.MSI.md`
+  - meta: `meta/AI.899.MSI.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.900.VVR` - vVerse-System-Final-Blueprint
+  - status: complete
+  - raw: `raw/AI.900.VVR.md`
+  - meta: `meta/AI.900.VVR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.950.VAG` - vAgora-System-Blueprint
+  - status: complete
+  - raw: `raw/AI.950.VAG.md`
+  - meta: `meta/AI.950.VAG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.960.VCT` - vCathedral-System-Blueprint
+  - status: complete
+  - raw: `raw/AI.960.VCT.md`
+  - meta: `meta/AI.960.VCT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.970.VEX` - vExchange-System-Blueprint
+  - status: complete
+  - raw: `raw/AI.970.VEX.md`
+  - meta: `meta/AI.970.VEX.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.980.EXP` - MIND-OS-Export-Protocol
+  - status: complete
+  - raw: `raw/AI.980.EXP.md`
+  - meta: `meta/AI.980.EXP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.990.VGT` - vVerse-Gatekeeper-Layer
+  - status: complete
+  - raw: `raw/AI.990.VGT.md`
+  - meta: `meta/AI.990.VGT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.999.ATL` - vVerse-Atlas
+  - status: complete
+  - raw: `raw/AI.999.ATL.md`
+  - meta: `meta/AI.999.ATL.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=1
+- `AI.999.LOG` - AI-OS-Recursive-Genesis-Log
+  - status: complete
+  - raw: `raw/AI.999.LOG.md`
+  - meta: `meta/AI.999.LOG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AI.999.MAP` - vVerse-Visual-Hierarchy-Map
+  - status: complete
+  - raw: `raw/AI.999.MAP.md`
+  - meta: `meta/AI.999.MAP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.000.BOOT`
+  - status: complete
+  - raw: `raw/AO.000.BOOT.md`
+  - meta: `meta/AO.000.BOOT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.000.IDX`
+  - status: complete
+  - raw: `raw/AO.000.IDX.md`
+  - meta: `meta/AO.000.IDX.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.001.BOOT` - AO.001.BOOT
+  - status: complete
+  - raw: `raw/AO.001.BOOT.md`
+  - meta: `meta/AO.001.BOOT.json`
+  - ops: complete=18, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.001.BOOT.FUTURE` - AO.001.BOOT.FUTURE
+  - status: complete
+  - raw: `raw/AO.001.BOOT.FUTURE.md`
+  - meta: `meta/AO.001.BOOT.FUTURE.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.001.BOOT.SURUEE` - AO.001.BOOT.SURUEE
+  - status: complete
+  - raw: `raw/AO.001.BOOT.SURUEE.md`
+  - meta: `meta/AO.001.BOOT.SURUEE.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.001.INDEX` - AO.001.INDEX
+  - status: complete
+  - raw: `raw/AO.001.INDEX.md`
+  - meta: `meta/AO.001.INDEX.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.001.RBI` - Recursive Bootloader Index
+  - status: complete
+  - raw: `raw/AO.001.RBI.md`
+  - meta: `meta/AO.001.RBI.json`
+  - ops: complete=37, partialBodies=0, appliedPartials=1, unresolvedPartials=3
+- `AO.001.RBI.CANVAS.ALL` - AO.001.RBI.CANVAS.ALL
+  - status: complete
+  - raw: `raw/AO.001.RBI.CANVAS.ALL.md`
+  - meta: `meta/AO.001.RBI.CANVAS.ALL.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.001.REAL` - AO.001.REAL
+  - status: complete
+  - raw: `raw/AO.001.REAL.md`
+  - meta: `meta/AO.001.REAL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.001.SHARP` - AO.001.SHARP
+  - status: complete
+  - raw: `raw/AO.001.SHARP.md`
+  - meta: `meta/AO.001.SHARP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.100.OVL` - Allon-Psych-Overlay-v2.1
+  - status: complete
+  - raw: `raw/AO.100.OVL.md`
+  - meta: `meta/AO.100.OVL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.100.OVL.V3` - Allon-Psych-Overlay-v3-to-v6
+  - status: complete
+  - raw: `raw/AO.100.OVL.V3.md`
+  - meta: `meta/AO.100.OVL.V3.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.100.PRS` - Prompt Surgeon System Logic
+  - status: complete
+  - raw: `raw/AO.100.PRS.md`
+  - meta: `meta/AO.100.PRS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.100.PSN` - AO.100.PSN
+  - status: complete
+  - raw: `raw/AO.100.PSN.md`
+  - meta: `meta/AO.100.PSN.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.100.SRG` - AO.100.SRG.PersonaCard
+  - status: complete
+  - raw: `raw/AO.100.SRG.md`
+  - meta: `meta/AO.100.SRG.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.100.WHO`
+  - status: complete
+  - raw: `raw/AO.100.WHO.md`
+  - meta: `meta/AO.100.WHO.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.101.PSN` - AO.101.PSN.Registry
+  - status: complete
+  - raw: `raw/AO.101.PSN.md`
+  - meta: `meta/AO.101.PSN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.200.CNS` - Consistency Auditor Persona
+  - status: complete
+  - raw: `raw/AO.200.CNS.md`
+  - meta: `meta/AO.200.CNS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.200.PLN` - Planner Persona – Scheduling Logic
+  - status: complete
+  - raw: `raw/AO.200.PLN.md`
+  - meta: `meta/AO.200.PLN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.200.PSN` - ELos_Architect_Persona
+  - status: complete
+  - raw: `raw/AO.200.PSN.md`
+  - meta: `meta/AO.200.PSN.json`
+  - ops: complete=7, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.208.FPR` - Persona - Fireproof Engine
+  - status: complete
+  - raw: `raw/AO.208.FPR.md`
+  - meta: `meta/AO.208.FPR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.290.ARC` - AO.290.ARC – Archived Personas Log
+  - status: complete
+  - raw: `raw/AO.290.ARC.md`
+  - meta: `meta/AO.290.ARC.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.290.ICL` - AO.290.ICL – Inner Circle Archive
+  - status: complete
+  - raw: `raw/AO.290.ICL.md`
+  - meta: `meta/AO.290.ICL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.300.EXE` - Allon OS – Command Execution Layer
+  - status: complete
+  - raw: `raw/AO.300.EXE.md`
+  - meta: `meta/AO.300.EXE.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.300.GPT` - GPTOS Product Blueprint
+  - status: complete
+  - raw: `raw/AO.300.GPT.md`
+  - meta: `meta/AO.300.GPT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.300.OS3` - Allon OS Chrome Extension v3
+  - status: complete
+  - raw: `raw/AO.300.OS3.md`
+  - meta: `meta/AO.300.OS3.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.600.JRN` - Scribe + Journal Protocol
+  - status: complete
+  - raw: `raw/AO.600.JRN.md`
+  - meta: `meta/AO.600.JRN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.700.MEM` - Legacy Memory Archive
+  - status: complete
+  - raw: `raw/AO.700.MEM.md`
+  - meta: `meta/AO.700.MEM.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.701.MEM.RX` - AO.701.MEM.RX – Recursive Memory Reinforcement Protocol
+  - status: complete
+  - raw: `raw/AO.701.MEM.RX.md`
+  - meta: `meta/AO.701.MEM.RX.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.900.EL2` - AO.900.EL2.FireproofRoot
+  - status: complete
+  - raw: `raw/AO.900.EL2.md`
+  - meta: `meta/AO.900.EL2.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.900.PRT` - AO.900.PRT – StackGate Protocol Index
+  - status: complete
+  - raw: `raw/AO.900.PRT.md`
+  - meta: `meta/AO.900.PRT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.900.RPT` - System_Tools_Deployment
+  - status: complete
+  - raw: `raw/AO.900.RPT.md`
+  - meta: `meta/AO.900.RPT.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.901.VVR` - vVerse Core Runtime
+  - status: complete
+  - raw: `raw/AO.901.VVR.md`
+  - meta: `meta/AO.901.VVR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.902.RAC` - Routing Audit Canvas
+  - status: complete
+  - raw: `raw/AO.902.RAC.md`
+  - meta: `meta/AO.902.RAC.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.910.FPR` - AO.910.FPR_Fireproof_Engine
+  - status: complete
+  - raw: `raw/AO.910.FPR.md`
+  - meta: `meta/AO.910.FPR.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.910.OS` - AO.910.OS.PersonaWorkers
+  - status: complete
+  - raw: `raw/AO.910.OS.md`
+  - meta: `meta/AO.910.OS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.910.PRM` - AO.910.PRM.Vault
+  - status: complete
+  - raw: `raw/AO.910.PRM.md`
+  - meta: `meta/AO.910.PRM.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=1
+- `AO.910.PRM.IDX` - AO.910.PRM.IDX – Prompt Protocol Index
+  - status: complete
+  - raw: `raw/AO.910.PRM.IDX.md`
+  - meta: `meta/AO.910.PRM.IDX.json`
+  - ops: complete=5, partialBodies=1, appliedPartials=0, unresolvedPartials=2
+- `AO.910.PRM.LIB` - AO.910.PRM.LIB
+  - status: complete
+  - raw: `raw/AO.910.PRM.LIB.md`
+  - meta: `meta/AO.910.PRM.LIB.json`
+  - ops: complete=24, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `AO.910.PRM.PRO` - AO.910.PRM.PRO – Prompt Protocol Index
+  - status: complete
+  - raw: `raw/AO.910.PRM.PRO.md`
+  - meta: `meta/AO.910.PRM.PRO.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.910.PSN` - AO.910.PSN.Assassin
+  - status: complete
+  - raw: `raw/AO.910.PSN.md`
+  - meta: `meta/AO.910.PSN.json`
+  - ops: complete=14, partialBodies=0, appliedPartials=1, unresolvedPartials=7
+- `AO.910.PSN.LIBRARIAN` - Librarian Persona – Recursive Knowledge Navigator
+  - status: complete
+  - raw: `raw/AO.910.PSN.LIBRARIAN.md`
+  - meta: `meta/AO.910.PSN.LIBRARIAN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.910.SGTOOLS` - StackGate Enforcement Toolkit
+  - status: complete
+  - raw: `raw/AO.910.SGTOOLS.md`
+  - meta: `meta/AO.910.SGTOOLS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.911.IDE` - Intent Diff Engine
+  - status: complete
+  - raw: `raw/AO.911.IDE.md`
+  - meta: `meta/AO.911.IDE.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=0, unresolvedPartials=5
+- `AO.911.STG` - AO.911.STG.Logbook
+  - status: complete
+  - raw: `raw/AO.911.STG.md`
+  - meta: `meta/AO.911.STG.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.912.RPL` - AO.912.RPL – Recursive Prompt Library Optimizer
+  - status: complete
+  - raw: `raw/AO.912.RPL.md`
+  - meta: `meta/AO.912.RPL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.913.GAT.LOG` - AO.915.PersonaWorkerMap
+  - status: complete
+  - raw: `raw/AO.913.GAT.LOG.md`
+  - meta: `meta/AO.913.GAT.LOG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.920.CMD` - AO.920.CMD.PromptOSCommandRegistry
+  - status: complete
+  - raw: `raw/AO.920.CMD.md`
+  - meta: `meta/AO.920.CMD.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.920.HST.PSN` - AO.920.HST.PSN – Persona History Tracker
+  - status: complete
+  - raw: `raw/AO.920.HST.PSN.md`
+  - meta: `meta/AO.920.HST.PSN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.920.IA1` - Import Auditor Persona
+  - status: complete
+  - raw: `raw/AO.920.IA1.md`
+  - meta: `meta/AO.920.IA1.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.920.PRM` - prompt_modules_split
+  - status: complete
+  - raw: `raw/AO.920.PRM.md`
+  - meta: `meta/AO.920.PRM.json`
+  - ops: complete=12, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.920.PSN` - Bootloader_Persona_Expansion
+  - status: complete
+  - raw: `raw/AO.920.PSN.md`
+  - meta: `meta/AO.920.PSN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.921.IMP` - Import Protocol Log
+  - status: complete
+  - raw: `raw/AO.921.IMP.md`
+  - meta: `meta/AO.921.IMP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.930.FORGE` - AO.930.FORGE.SocraticDripForge
+  - status: complete
+  - raw: `raw/AO.930.FORGE.md`
+  - meta: `meta/AO.930.FORGE.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.930.PRM` - AO.930.PRM.PromptFeedbackTracker
+  - status: complete
+  - raw: `raw/AO.930.PRM.md`
+  - meta: `meta/AO.930.PRM.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.930.PSN` - AO.930.PSN.Workers
+  - status: complete
+  - raw: `raw/AO.930.PSN.md`
+  - meta: `meta/AO.930.PSN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.930.WATCH` - AO.930.WATCH – Autonomous Self-Diagnostics Monitor
+  - status: complete
+  - raw: `raw/AO.930.WATCH.md`
+  - meta: `meta/AO.930.WATCH.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.940.PRM` - AO.940.PRM.PromptForge
+  - status: complete
+  - raw: `raw/AO.940.PRM.md`
+  - meta: `meta/AO.940.PRM.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.960.SIM` - AO.960.SIM – Simulation Feedback Layer
+  - status: complete
+  - raw: `raw/AO.960.SIM.md`
+  - meta: `meta/AO.960.SIM.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.990.EL1` - AO.990.EL1.LegacyArchive
+  - status: complete
+  - raw: `raw/AO.990.EL1.md`
+  - meta: `meta/AO.990.EL1.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AO.999.FORGE` - AO.999.FORGE
+  - status: complete
+  - raw: `raw/AO.999.FORGE.md`
+  - meta: `meta/AO.999.FORGE.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AOS.600.RCX` - Allon OS - Recursive Architect
+  - status: complete
+  - raw: `raw/AOS.600.RCX.md`
+  - meta: `meta/AOS.600.RCX.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `AOS.800.RSM` - Recursive Systems Summary - ELos & Allon OS
+  - status: complete
+  - raw: `raw/AOS.800.RSM.md`
+  - meta: `meta/AOS.800.RSM.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.000.IDX` - Dabroo Canvas Index
+  - status: complete
+  - raw: `raw/DA.000.IDX.md`
+  - meta: `meta/DA.000.IDX.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.100.CRS` - Dabroo Master Course
+  - status: complete
+  - raw: `raw/DA.100.CRS.md`
+  - meta: `meta/DA.100.CRS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.100.MNF` - Dabroo AI - Canvas Index
+  - status: complete
+  - raw: `raw/DA.100.MNF.md`
+  - meta: `meta/DA.100.MNF.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.100.USI` - Israeli-Centric Use Cases
+  - status: complete
+  - raw: `raw/DA.100.USI.md`
+  - meta: `meta/DA.100.USI.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.200.FPP` - New Approach to Dabroo AI Freemium Plus
+  - status: complete
+  - raw: `raw/DA.200.FPP.md`
+  - meta: `meta/DA.200.FPP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.200.PKG` - DABROO AI - Packaging & Presentation
+  - status: complete
+  - raw: `raw/DA.200.PKG.md`
+  - meta: `meta/DA.200.PKG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.200.TIP` - Dabroo Tips & Tricks Bank
+  - status: complete
+  - raw: `raw/DA.200.TIP.md`
+  - meta: `meta/DA.200.TIP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.300.DPL` - Dabroo Course Deployment Plan
+  - status: complete
+  - raw: `raw/DA.300.DPL.md`
+  - meta: `meta/DA.300.DPL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.300.FRE` - Dabroo - Free Tier Extension Plan
+  - status: complete
+  - raw: `raw/DA.300.FRE.md`
+  - meta: `meta/DA.300.FRE.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.300.FRW` - Dabroo AI Extension Framework
+  - status: complete
+  - raw: `raw/DA.300.FRW.md`
+  - meta: `meta/DA.300.FRW.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.300.LOG` - Dabroo Free Tier Prompt Logic & Visibility Gate
+  - status: complete
+  - raw: `raw/DA.300.LOG.md`
+  - meta: `meta/DA.300.LOG.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=1, unresolvedPartials=7
+- `DA.300.RTL-LITE` - DA.300.RTL-LITE
+  - status: complete
+  - raw: `raw/DA.300.RTL-LITE.md`
+  - meta: `meta/DA.300.RTL-LITE.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.300.TGL` - Replacement of Eden Prompt with Session-Based Dabroo Persona
+  - status: complete
+  - raw: `raw/DA.300.TGL.md`
+  - meta: `meta/DA.300.TGL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.400.USP` - Dabroo: Mastering GPT Like a Power User
+  - status: complete
+  - raw: `raw/DA.400.USP.md`
+  - meta: `meta/DA.400.USP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.500.IDE` - ELos - Tiered Log Command Logic
+  - status: complete
+  - raw: `raw/DA.500.IDE.md`
+  - meta: `meta/DA.500.IDE.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `DA.700.ROU` - DA.700.ROU - Dabroo Staff / Ops / Arcaffe Branch Map
+  - status: partial
+  - raw: `raw/DA.700.ROU.md`
+  - meta: `meta/DA.700.ROU.json`
+  - ops: complete=0, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `DA.700.TSK` - Dabroo Free Extension Build Plan
+  - status: complete
+  - raw: `raw/DA.700.TSK.md`
+  - meta: `meta/DA.700.TSK.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.000.INX` - EL.000.INX – ELoS Master Index
+  - status: complete
+  - raw: `raw/EL.000.INX.md`
+  - meta: `meta/EL.000.INX.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.000.LNG`
+  - status: complete
+  - raw: `raw/EL.000.LNG.md`
+  - meta: `meta/EL.000.LNG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.001.ENV` - EL.001.ENV.Model
+  - status: complete
+  - raw: `raw/EL.001.ENV.md`
+  - meta: `meta/EL.001.ENV.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.001.SYS.REFERENCE` - AO.300.BTL.ELosExtensionLink
+  - status: complete
+  - raw: `raw/EL.001.SYS.REFERENCE.md`
+  - meta: `meta/EL.001.SYS.REFERENCE.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.002.STG` - EL.002.STG.ModelSelector
+  - status: complete
+  - raw: `raw/EL.002.STG.md`
+  - meta: `meta/EL.002.STG.json`
+  - ops: complete=9, partialBodies=0, appliedPartials=2, unresolvedPartials=0
+- `EL.003.AUD.FMT` - Stargate_Audit_Format
+  - status: complete
+  - raw: `raw/EL.003.AUD.FMT.md`
+  - meta: `meta/EL.003.AUD.FMT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.003.DVR` - EL.003.DVR – DiVeRSe Prompt Protocol Integration
+  - status: complete
+  - raw: `raw/EL.003.DVR.md`
+  - meta: `meta/EL.003.DVR.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.003.EXP` - EL.003.EXP – Experimental Prompt Protocol Layer
+  - status: complete
+  - raw: `raw/EL.003.EXP.md`
+  - meta: `meta/EL.003.EXP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.005.BRN` - EL.005.BRN – ELOS Prompt Brain (Protocol Orchestration Layer)
+  - status: complete
+  - raw: `raw/EL.005.BRN.md`
+  - meta: `meta/EL.005.BRN.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.005.MOD.HUMANSEO` - EL.005.MOD.HUMANSEO
+  - status: complete
+  - raw: `raw/EL.005.MOD.HUMANSEO.md`
+  - meta: `meta/EL.005.MOD.HUMANSEO.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.006.SCN` - EL.006.PatchStack
+  - status: complete
+  - raw: `raw/EL.006.SCN.md`
+  - meta: `meta/EL.006.SCN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.007.SMA` - EL.007.PatchSuite
+  - status: complete
+  - raw: `raw/EL.007.SMA.md`
+  - meta: `meta/EL.007.SMA.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.100.BLD` - elos_canvas_index
+  - status: complete
+  - raw: `raw/EL.100.BLD.md`
+  - meta: `meta/EL.100.BLD.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.100.CORE` - ELos Extension Core Runtime – Canvas + Bootloader Control Layer
+  - status: complete
+  - raw: `raw/EL.100.CORE.md`
+  - meta: `meta/EL.100.CORE.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.100.INIT` - EL.100.INIT.InstallConsent
+  - status: complete
+  - raw: `raw/EL.100.INIT.md`
+  - meta: `meta/EL.100.INIT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.100.ONB` - ELos Baseline Snapshot v1.0
+  - status: complete
+  - raw: `raw/EL.100.ONB.md`
+  - meta: `meta/EL.100.ONB.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.110.LOG` - EL.110.LOG.InstallTracker
+  - status: complete
+  - raw: `raw/EL.110.LOG.md`
+  - meta: `meta/EL.110.LOG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.120.UI` - EL.120.UI.ModuleViewerPanel
+  - status: complete
+  - raw: `raw/EL.120.UI.md`
+  - meta: `meta/EL.120.UI.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.130.GRD` - EL.130.GRD.SessionValidator
+  - status: complete
+  - raw: `raw/EL.130.GRD.md`
+  - meta: `meta/EL.130.GRD.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.300.KRN`
+  - status: complete
+  - raw: `raw/EL.300.KRN.md`
+  - meta: `meta/EL.300.KRN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.320.MODE` - EL.320.MODE.Selector
+  - status: complete
+  - raw: `raw/EL.320.MODE.md`
+  - meta: `meta/EL.320.MODE.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.400.AUD` - ELOS Translator Fireproofing Audit & Reinforcement Plan
+  - status: complete
+  - raw: `raw/EL.400.AUD.md`
+  - meta: `meta/EL.400.AUD.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.400.BL1` - EL.400.BL1 - Build Phase 1 Code Bundle
+  - status: complete
+  - raw: `raw/EL.400.BL1.md`
+  - meta: `meta/EL.400.BL1.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.400.TXP` - ELOS Multilingual Expansion and Recursive Evolution Plan
+  - status: complete
+  - raw: `raw/EL.400.TXP.md`
+  - meta: `meta/EL.400.TXP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.410.PRC` - ELOS Protocol Lite & Pro Design Specification
+  - status: complete
+  - raw: `raw/EL.410.PRC.md`
+  - meta: `meta/EL.410.PRC.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.410.TNF` - ELOS Native Tone Fidelity Layer – Audit Logic and User Feedback System
+  - status: complete
+  - raw: `raw/EL.410.TNF.md`
+  - meta: `meta/EL.410.TNF.json`
+  - ops: complete=10, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.410.TNF.BENCHMARK.ETHICS` - TNF_Benchmark_Ethical_Dilemma
+  - status: complete
+  - raw: `raw/EL.410.TNF.BENCHMARK.ETHICS.md`
+  - meta: `meta/EL.410.TNF.BENCHMARK.ETHICS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.410.TNF.BENCHMARK.GEO` - TNF_Benchmark_Geopolitical_StressTest
+  - status: complete
+  - raw: `raw/EL.410.TNF.BENCHMARK.GEO.md`
+  - meta: `meta/EL.410.TNF.BENCHMARK.GEO.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.410.TNF.BENCHMARK.LEGAL` - TNF_Benchmark_Legal_Bureaucracy
+  - status: complete
+  - raw: `raw/EL.410.TNF.BENCHMARK.LEGAL.md`
+  - meta: `meta/EL.410.TNF.BENCHMARK.LEGAL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.410.TNF.BENCHMARK.SOCIAL` - TNF_Benchmark_Social_Identity
+  - status: complete
+  - raw: `raw/EL.410.TNF.BENCHMARK.SOCIAL.md`
+  - meta: `meta/EL.410.TNF.BENCHMARK.SOCIAL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.420.BBL`
+  - status: complete
+  - raw: `raw/EL.420.BBL.md`
+  - meta: `meta/EL.420.BBL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.420.DBR` - EL.420.DBR – Dabroo Intent Engine for ELOS Translate
+  - status: complete
+  - raw: `raw/EL.420.DBR.md`
+  - meta: `meta/EL.420.DBR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.420.HBA` - Hebrew Tone Fidelity Fireproofing Audit
+  - status: complete
+  - raw: `raw/EL.420.HBA.md`
+  - meta: `meta/EL.420.HBA.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.420.HBR` - Hebrew Tone Fidelity Engine – Rewrite Logic Scaffold
+  - status: complete
+  - raw: `raw/EL.420.HBR.md`
+  - meta: `meta/EL.420.HBR.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.420.HBU` - EL.420.HBU
+  - status: complete
+  - raw: `raw/EL.420.HBU.md`
+  - meta: `meta/EL.420.HBU.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.420.HBV` - EL.420.HBV
+  - status: complete
+  - raw: `raw/EL.420.HBV.md`
+  - meta: `meta/EL.420.HBV.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.420.HBX` - EL.420.HBX
+  - status: complete
+  - raw: `raw/EL.420.HBX.md`
+  - meta: `meta/EL.420.HBX.json`
+  - ops: complete=1, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `EL.420.HEB` - ELOS Hebrew Lite Scaffold
+  - status: complete
+  - raw: `raw/EL.420.HEB.md`
+  - meta: `meta/EL.420.HEB.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.420.LNG` - EL.420.LNG.Rewriter.es
+  - status: complete
+  - raw: `raw/EL.420.LNG.md`
+  - meta: `meta/EL.420.LNG.json`
+  - ops: complete=8, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.420.UNL` - ELos_Intermediate_Unlock_Protocol
+  - status: complete
+  - raw: `raw/EL.420.UNL.md`
+  - meta: `meta/EL.420.UNL.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.421.HBR.EXT` - EL.421.HBR.EXT
+  - status: complete
+  - raw: `raw/EL.421.HBR.EXT.md`
+  - meta: `meta/EL.421.HBR.EXT.json`
+  - ops: complete=7, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.440.LOC` - ELos_Local_Only_Feature_Map
+  - status: complete
+  - raw: `raw/EL.440.LOC.md`
+  - meta: `meta/EL.440.LOC.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.450.FNC` - ELos_Core_Functions_Tiers
+  - status: complete
+  - raw: `raw/EL.450.FNC.md`
+  - meta: `meta/EL.450.FNC.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.460.PHA` - ELos_Phase_Logic_By_Tier
+  - status: complete
+  - raw: `raw/EL.460.PHA.md`
+  - meta: `meta/EL.460.PHA.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.500.OBG` - EL.500.OBG.RecommendationAura
+  - status: complete
+  - raw: `raw/EL.500.OBG.md`
+  - meta: `meta/EL.500.OBG.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.500.OBG.TIP` - PromoteInsightTutorial
+  - status: complete
+  - raw: `raw/EL.500.OBG.TIP.md`
+  - meta: `meta/EL.500.OBG.TIP.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.510.MOD` - EL.510.MOD.CanvasModule
+  - status: complete
+  - raw: `raw/EL.510.MOD.md`
+  - meta: `meta/EL.510.MOD.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.520.PRF` - Prompt Forge (EL.520.PRF)
+  - status: complete
+  - raw: `raw/EL.520.PRF.md`
+  - meta: `meta/EL.520.PRF.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.600.IMG` - ELos_ImagePrompt_Engine
+  - status: complete
+  - raw: `raw/EL.600.IMG.md`
+  - meta: `meta/EL.600.IMG.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.602.FF.VIS` - EL.602.FF.VIS.InvocationProtocol – Forever Flowers Visual Fingerprint Invocation Logic
+  - status: complete
+  - raw: `raw/EL.602.FF.VIS.md`
+  - meta: `meta/EL.602.FF.VIS.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.610.IMG` - EL.610.IMG.FusionEngine
+  - status: complete
+  - raw: `raw/EL.610.IMG.md`
+  - meta: `meta/EL.610.IMG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.620.IMG` - EL.620.IMG.VisualRouter
+  - status: complete
+  - raw: `raw/EL.620.IMG.md`
+  - meta: `meta/EL.620.IMG.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.621.LNG` - EL.621.LNG.DebugView
+  - status: complete
+  - raw: `raw/EL.621.LNG.md`
+  - meta: `meta/EL.621.LNG.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.630.IMG` - EL.630.IMG.StyleModifier
+  - status: complete
+  - raw: `raw/EL.630.IMG.md`
+  - meta: `meta/EL.630.IMG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.631.IMG` - EL.631.IMG.BrandPersona
+  - status: complete
+  - raw: `raw/EL.631.IMG.md`
+  - meta: `meta/EL.631.IMG.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.632.IMG` - EL.632.IMG.PlatformConstraints
+  - status: complete
+  - raw: `raw/EL.632.IMG.md`
+  - meta: `meta/EL.632.IMG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.650.IMG` - EL.650.IMG.PostAuditLayer
+  - status: complete
+  - raw: `raw/EL.650.IMG.md`
+  - meta: `meta/EL.650.IMG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.660.IMG` - EL.660-699.VISUAL.Modules
+  - status: complete
+  - raw: `raw/EL.660.IMG.md`
+  - meta: `meta/EL.660.IMG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.800.I18N.UI`
+  - status: complete
+  - raw: `raw/EL.800.I18N.UI.md`
+  - meta: `meta/EL.800.I18N.UI.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.800.LNG` - EL.900.LNG.UserLanguagePacks
+  - status: complete
+  - raw: `raw/EL.800.LNG.md`
+  - meta: `meta/EL.800.LNG.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.900.AUD` - EL.900.AUD.TutorialPolicy
+  - status: complete
+  - raw: `raw/EL.900.AUD.md`
+  - meta: `meta/EL.900.AUD.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.910.PRM` - EL.910.PRM.Modules
+  - status: complete
+  - raw: `raw/EL.910.PRM.md`
+  - meta: `meta/EL.910.PRM.json`
+  - ops: complete=6, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.920.PRM` - EL.920.PRM.PersonaSyncLayer
+  - status: complete
+  - raw: `raw/EL.920.PRM.md`
+  - meta: `meta/EL.920.PRM.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.930.PRM` - EL.930.PRM.RoleInferenceModel
+  - status: complete
+  - raw: `raw/EL.930.PRM.md`
+  - meta: `meta/EL.930.PRM.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.940.PRM` - EL.940.PRM.ExperienceGradientTuner
+  - status: complete
+  - raw: `raw/EL.940.PRM.md`
+  - meta: `meta/EL.940.PRM.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.950.PRM` - EL.950.PRM.DynamicPromptTagger
+  - status: complete
+  - raw: `raw/EL.950.PRM.md`
+  - meta: `meta/EL.950.PRM.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `EL.999.CMP` - EL.999.CMP – Compression Engine
+  - status: complete
+  - raw: `raw/EL.999.CMP.md`
+  - meta: `meta/EL.999.CMP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.100.AUD` - The Auditor
+  - status: complete
+  - raw: `raw/ELOS.100.AUD.md`
+  - meta: `meta/ELOS.100.AUD.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.100.EDU` - ELos - Beginner Tier: Recursive Guidance System (RGS)
+  - status: complete
+  - raw: `raw/ELOS.100.EDU.md`
+  - meta: `meta/ELOS.100.EDU.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.100.GOV` - The Governor
+  - status: complete
+  - raw: `raw/ELOS.100.GOV.md`
+  - meta: `meta/ELOS.100.GOV.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.100.GUI` - The Guide
+  - status: complete
+  - raw: `raw/ELOS.100.GUI.md`
+  - meta: `meta/ELOS.100.GUI.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.100.LIB` - The Librarian
+  - status: complete
+  - raw: `raw/ELOS.100.LIB.md`
+  - meta: `meta/ELOS.100.LIB.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.100.OBG` - ELos - Tier-Based Onboarding System
+  - status: complete
+  - raw: `raw/ELOS.100.OBG.md`
+  - meta: `meta/ELOS.100.OBG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.100.SCR` - The Scribe
+  - status: complete
+  - raw: `raw/ELOS.100.SCR.md`
+  - meta: `meta/ELOS.100.SCR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.100.STF` - ELos - Core Staff
+  - status: complete
+  - raw: `raw/ELOS.100.STF.md`
+  - meta: `meta/ELOS.100.STF.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=1
+- `ELOS.200.SYS` - ELos - Intermediate Tier: Modular Mastery Protocol (MMP)
+  - status: complete
+  - raw: `raw/ELOS.200.SYS.md`
+  - meta: `meta/ELOS.200.SYS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.300.CMD` - ELos - Pro Tier: Sovereign Command Protocol (SCP)
+  - status: complete
+  - raw: `raw/ELOS.300.CMD.md`
+  - meta: `meta/ELOS.300.CMD.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=2, unresolvedPartials=0
+- `ELOS.300.KRN` - ELos - Command Kernel & Execution Chains
+  - status: complete
+  - raw: `raw/ELOS.300.KRN.md`
+  - meta: `meta/ELOS.300.KRN.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.500.BEG` - Beginner Tier Interface Ruleset
+  - status: complete
+  - raw: `raw/ELOS.500.BEG.md`
+  - meta: `meta/ELOS.500.BEG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.500.INT` - Intermediate Tier Interface Ruleset
+  - status: complete
+  - raw: `raw/ELOS.500.INT.md`
+  - meta: `meta/ELOS.500.INT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.500.OBD` - Tier-Based Onboarding Flow
+  - status: complete
+  - raw: `raw/ELOS.500.OBD.md`
+  - meta: `meta/ELOS.500.OBD.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.500.PRO` - Pro Tier Interface Ruleset
+  - status: complete
+  - raw: `raw/ELOS.500.PRO.md`
+  - meta: `meta/ELOS.500.PRO.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.500.TRS` - ELos Tour Branching System
+  - status: complete
+  - raw: `raw/ELOS.500.TRS.md`
+  - meta: `meta/ELOS.500.TRS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.500.UIS` - ELos - UI System Architecture
+  - status: complete
+  - raw: `raw/ELOS.500.UIS.md`
+  - meta: `meta/ELOS.500.UIS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELOS.500.UIX` - Choose Your Interface Depth
+  - status: complete
+  - raw: `raw/ELOS.500.UIX.md`
+  - meta: `meta/ELOS.500.UIX.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `ELS.100.STR` - ELos - Buildout Structure (Phased)
+  - status: complete
+  - raw: `raw/ELS.100.STR.md`
+  - meta: `meta/ELS.100.STR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.000.IDX` - Forever Flowers Canvas Index
+  - status: complete
+  - raw: `raw/FF.000.IDX.md`
+  - meta: `meta/FF.000.IDX.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.100.COL` - System Alert Protocols
+  - status: complete
+  - raw: `raw/FF.100.COL.md`
+  - meta: `meta/FF.100.COL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.100.STR` - FF Strategy & Vision
+  - status: complete
+  - raw: `raw/FF.100.STR.md`
+  - meta: `meta/FF.100.STR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.100.TDL` - FF Rebrand – Next Action List
+  - status: complete
+  - raw: `raw/FF.100.TDL.md`
+  - meta: `meta/FF.100.TDL.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=4
+- `FF.200.CLP` - Collection Logic & Naming
+  - status: complete
+  - raw: `raw/FF.200.CLP.md`
+  - meta: `meta/FF.200.CLP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.200.ETH` - FF Brand Ethos & Language
+  - status: complete
+  - raw: `raw/FF.200.ETH.md`
+  - meta: `meta/FF.200.ETH.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.200.STR` - FF.200.STR – Brand Story & Narrative
+  - status: complete
+  - raw: `raw/FF.200.STR.md`
+  - meta: `meta/FF.200.STR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.200.VIR` - FF Creative Hierarchy – Abloh Model
+  - status: complete
+  - raw: `raw/FF.200.VIR.md`
+  - meta: `meta/FF.200.VIR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.200.VIS` - FF Visual Safeguard Protocol
+  - status: complete
+  - raw: `raw/FF.200.VIS.md`
+  - meta: `meta/FF.200.VIS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.210.ATL.001` - FF.210.ATL.001 – Harvest Song Atelier Bouquet
+  - status: complete
+  - raw: `raw/FF.210.ATL.001.md`
+  - meta: `meta/FF.210.ATL.001.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.210.ATL.002` - FF.210.ATL.002 – מנגינה קצרה (Atelier Mini)
+  - status: complete
+  - raw: `raw/FF.210.ATL.002.md`
+  - meta: `meta/FF.210.ATL.002.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.300.FIN` - FF.300.FIN – Financial Model & Forecasts
+  - status: complete
+  - raw: `raw/FF.300.FIN.md`
+  - meta: `meta/FF.300.FIN.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.500.ARC` - FF Past Seasons Archive
+  - status: complete
+  - raw: `raw/FF.500.ARC.md`
+  - meta: `meta/FF.500.ARC.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.500.GRD` - FF Signature Grid Layout
+  - status: complete
+  - raw: `raw/FF.500.GRD.md`
+  - meta: `meta/FF.500.GRD.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.500.HMP` - FF Homepage Layout
+  - status: complete
+  - raw: `raw/FF.500.HMP.md`
+  - meta: `meta/FF.500.HMP.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.500.INFO` - FF Info Page Structure
+  - status: complete
+  - raw: `raw/FF.500.INFO.md`
+  - meta: `meta/FF.500.INFO.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.500.RTL` - Tentative Horizon UI RTL Port
+  - status: complete
+  - raw: `raw/FF.500.RTL.md`
+  - meta: `meta/FF.500.RTL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.500.TPL` - FF Product Page Template
+  - status: complete
+  - raw: `raw/FF.500.TPL.md`
+  - meta: `meta/FF.500.TPL.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.700.ARC` - Arcaffe Shavuot Delivery Master
+  - status: complete
+  - raw: `raw/FF.700.ARC.md`
+  - meta: `meta/FF.700.ARC.json`
+  - ops: complete=2, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `FF.700.LOC` - FF_Branch_Directory_Arcaffe
+  - status: complete
+  - raw: `raw/FF.700.LOC.md`
+  - meta: `meta/FF.700.LOC.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.700.LOG – Arcaffe Delivery Logistics Persona` - FF.700.LOG – Arcaffe Delivery Logistics Persona
+  - status: complete
+  - raw: `raw/FF.700.LOG-Arcaffe-Delivery-Logistics-Persona.md`
+  - meta: `meta/FF.700.LOG-Arcaffe-Delivery-Logistics-Persona.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.800.POD` - FF Podcast Archive & Analysis
+  - status: complete
+  - raw: `raw/FF.800.POD.md`
+  - meta: `meta/FF.800.POD.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.900.RBR` - Forever Flowers – Rebrand Master Canvas
+  - status: complete
+  - raw: `raw/FF.900.RBR.md`
+  - meta: `meta/FF.900.RBR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `FF.999.PSN` - FF.999.PSN
+  - status: complete
+  - raw: `raw/FF.999.PSN.md`
+  - meta: `meta/FF.999.PSN.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.000.VSN` - Canvas Version Control Protocol
+  - status: complete
+  - raw: `raw/IN.000.VSN.md`
+  - meta: `meta/IN.000.VSN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.100.ALL` - Allon OS – System Overview
+  - status: complete
+  - raw: `raw/IN.100.ALL.md`
+  - meta: `meta/IN.100.ALL.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=6
+- `IN.100.ARC`
+  - status: complete
+  - raw: `raw/IN.100.ARC.md`
+  - meta: `meta/IN.100.ARC.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.100.AUD` - ELos Global Naming Sweep – Audit and Change Log
+  - status: complete
+  - raw: `raw/IN.100.AUD.md`
+  - meta: `meta/IN.100.AUD.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.100.EXP` - AI OS – Expansion Opportunities & Missing Systems
+  - status: complete
+  - raw: `raw/IN.100.EXP.md`
+  - meta: `meta/IN.100.EXP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.100.FWD` - AI OS – Breakthrough Feature Concepts
+  - status: complete
+  - raw: `raw/IN.100.FWD.md`
+  - meta: `meta/IN.100.FWD.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.100.MKT` - GPTOS – Full Build & Tiered Access Strategy
+  - status: complete
+  - raw: `raw/IN.100.MKT.md`
+  - meta: `meta/IN.100.MKT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.100.REB` - ELos - Rebrand Execution
+  - status: complete
+  - raw: `raw/IN.100.REB.md`
+  - meta: `meta/IN.100.REB.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.100.STO` - Stoic Governor – Core Belief Pillars
+  - status: complete
+  - raw: `raw/IN.100.STO.md`
+  - meta: `meta/IN.100.STO.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.100.SYS` - Allon OS – System Overview
+  - status: complete
+  - raw: `raw/IN.100.SYS.md`
+  - meta: `meta/IN.100.SYS.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=2, unresolvedPartials=0
+- `IN.110.IDE` - Identity Engine – Belief Overrides, Embedded Narratives, Interrupt Protocols
+  - status: complete
+  - raw: `raw/IN.110.IDE.md`
+  - meta: `meta/IN.110.IDE.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.120.DAT` - Data+ Mode – Default Command Protocol
+  - status: complete
+  - raw: `raw/IN.120.DAT.md`
+  - meta: `meta/IN.120.DAT.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.200.SLF` - AI OS – Who Am I Module
+  - status: complete
+  - raw: `raw/IN.200.SLF.md`
+  - meta: `meta/IN.200.SLF.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.300.FTR` - GPTOS – Full Feature Map
+  - status: complete
+  - raw: `raw/IN.300.FTR.md`
+  - meta: `meta/IN.300.FTR.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.300.POL` - GPTOS – Chrome Web Store Compliance Checklist
+  - status: complete
+  - raw: `raw/IN.300.POL.md`
+  - meta: `meta/IN.300.POL.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.300.QA` - GPTOS – Risk & Contingency Matrix
+  - status: complete
+  - raw: `raw/IN.300.QA.md`
+  - meta: `meta/IN.300.QA.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.300.TEC` - Allon OS – Chrome Extension System Blueprint
+  - status: complete
+  - raw: `raw/IN.300.TEC.md`
+  - meta: `meta/IN.300.TEC.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.300.UX` - GPTOS – Uninstall Protocol & Exit UX
+  - status: complete
+  - raw: `raw/IN.300.UX.md`
+  - meta: `meta/IN.300.UX.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.500.JRN` - AI OS – The Journal
+  - status: complete
+  - raw: `raw/IN.500.JRN.md`
+  - meta: `meta/IN.500.JRN.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.500.UX` - AI OS – Onboarding Logic & User Tier Trees
+  - status: complete
+  - raw: `raw/IN.500.UX.md`
+  - meta: `meta/IN.500.UX.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.600.POD-` - Podcast Transcripts – Jan 5 to Jan 10
+  - status: complete
+  - raw: `raw/IN.600.POD.md`
+  - meta: `meta/IN.600.POD.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.600.PRM` - Allon OS – Prompt Arsenal
+  - status: complete
+  - raw: `raw/IN.600.PRM.md`
+  - meta: `meta/IN.600.PRM.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.900.ZION` - Zionism & Israeli History Research Kernel
+  - status: complete
+  - raw: `raw/IN.900.ZION.md`
+  - meta: `meta/IN.900.ZION.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.900.ZION.EP1` - Fear & Loathing in the New Jerusalem – Pt. 1
+  - status: complete
+  - raw: `raw/IN.900.ZION.EP1.md`
+  - meta: `meta/IN.900.ZION.EP1.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.900.ZION.EP2` - Fear & Loathing in the New Jerusalem – Pt. 2
+  - status: complete
+  - raw: `raw/IN.900.ZION.EP2.md`
+  - meta: `meta/IN.900.ZION.EP2.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.900.ZION.EP3` - Fear & Loathing in the New Jerusalem – Pt. 3: Nostalgia & Naivety in Honor Culture
+  - status: complete
+  - raw: `raw/IN.900.ZION.EP3.md`
+  - meta: `meta/IN.900.ZION.EP3.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.900.ZION.EP4` - Fear & Loathing in the New Jerusalem – Pt. 4
+  - status: complete
+  - raw: `raw/IN.900.ZION.EP4.md`
+  - meta: `meta/IN.900.ZION.EP4.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.900.ZION.EP5` - Fear & Loathing in the New Jerusalem – Pt. 5: Zionist Power & U.S. Backing
+  - status: complete
+  - raw: `raw/IN.900.ZION.EP5.md`
+  - meta: `meta/IN.900.ZION.EP5.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.900.ZION.EP6` - Fear & Loathing in the New Jerusalem – Pt. 6: Into the Modern Fire
+  - status: complete
+  - raw: `raw/IN.900.ZION.EP6.md`
+  - meta: `meta/IN.900.ZION.EP6.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.900.ZION.SUP1` - Supplemental: War All the Time (1948–1982)
+  - status: complete
+  - raw: `raw/IN.900.ZION.SUP1.md`
+  - meta: `meta/IN.900.ZION.SUP1.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `IN.900.ZION.WARALL` - War All the Time: Israel vs. Palestine, 1948–1982
+  - status: complete
+  - raw: `raw/IN.900.ZION.WARALL.md`
+  - meta: `meta/IN.900.ZION.WARALL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `KRNL.210.ISY` - KRNL.210.ISY
+  - status: complete
+  - raw: `raw/KRNL.210.ISY.md`
+  - meta: `meta/KRNL.210.ISY.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `LOG.700.RTE` - LOG.700.RTE – Israeli Logistics Persona: The Route Alchemist
+  - status: complete
+  - raw: `raw/LOG.700.RTE.md`
+  - meta: `meta/LOG.700.RTE.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `LYR.900.PMX` - Lyra Prompt Optimizer
+  - status: complete
+  - raw: `raw/LYR.900.PMX.md`
+  - meta: `meta/LYR.900.PMX.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.005.43-ELO.2025` - 005.43 ELO.2025
+  - status: complete
+  - raw: `raw/NAME.005.43-ELO.2025.md`
+  - meta: `meta/NAME.005.43-ELO.2025.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ACAD.BGN.ADD` - ACAD.BGN.ADD
+  - status: complete
+  - raw: `raw/NAME.ACAD.BGN.ADD.md`
+  - meta: `meta/NAME.ACAD.BGN.ADD.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ACAD.BGN.MEMORY` - ACAD.BGN.MEMORY
+  - status: complete
+  - raw: `raw/NAME.ACAD.BGN.MEMORY.md`
+  - meta: `meta/NAME.ACAD.BGN.MEMORY.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ACAD.BGN.VOICE` - ACAD.BGN.VOICE
+  - status: complete
+  - raw: `raw/NAME.ACAD.BGN.VOICE.md`
+  - meta: `meta/NAME.ACAD.BGN.VOICE.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Account-Activation-Hebrew-RTL` - Account Activation Hebrew RTL
+  - status: complete
+  - raw: `raw/NAME.Account-Activation-Hebrew-RTL.md`
+  - meta: `meta/NAME.Account-Activation-Hebrew-RTL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.102.Model` - AI.102.Model
+  - status: complete
+  - raw: `raw/NAME.AI.102.Model.md`
+  - meta: `meta/NAME.AI.102.Model.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.105.GenAI` - AI.105.GenAI
+  - status: complete
+  - raw: `raw/NAME.AI.105.GenAI.md`
+  - meta: `meta/NAME.AI.105.GenAI.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.202.Transformer` - AI.202.Transformer
+  - status: complete
+  - raw: `raw/NAME.AI.202.Transformer.md`
+  - meta: `meta/NAME.AI.202.Transformer.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.203.Embedding` - AI.203.Embedding
+  - status: complete
+  - raw: `raw/NAME.AI.203.Embedding.md`
+  - meta: `meta/NAME.AI.203.Embedding.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.204.Weights` - AI.204.Weights
+  - status: complete
+  - raw: `raw/NAME.AI.204.Weights.md`
+  - meta: `meta/NAME.AI.204.Weights.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.205.Training` - AI.205.Training
+  - status: complete
+  - raw: `raw/NAME.AI.205.Training.md`
+  - meta: `meta/NAME.AI.205.Training.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.206.FineTuning` - AI.206.FineTuning
+  - status: complete
+  - raw: `raw/NAME.AI.206.FineTuning.md`
+  - meta: `meta/NAME.AI.206.FineTuning.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.207.Tokenization` - AI.207.Tokenization
+  - status: complete
+  - raw: `raw/NAME.AI.207.Tokenization.md`
+  - meta: `meta/NAME.AI.207.Tokenization.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.301.CoT` - AI.301.CoT
+  - status: complete
+  - raw: `raw/NAME.AI.301.CoT.md`
+  - meta: `meta/NAME.AI.301.CoT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.302.Inference` - AI.302.Inference
+  - status: complete
+  - raw: `raw/NAME.AI.302.Inference.md`
+  - meta: `meta/NAME.AI.302.Inference.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.303.GroundTruth` - AI.303.GroundTruth
+  - status: complete
+  - raw: `raw/NAME.AI.303.GroundTruth.md`
+  - meta: `meta/NAME.AI.303.GroundTruth.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.304.Hallucination` - AI.304.Hallucination
+  - status: complete
+  - raw: `raw/NAME.AI.304.Hallucination.md`
+  - meta: `meta/NAME.AI.304.Hallucination.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.305.Explainability` - AI.305.Explainability
+  - status: complete
+  - raw: `raw/NAME.AI.305.Explainability.md`
+  - meta: `meta/NAME.AI.305.Explainability.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.306.Alignment` - AI.306.Alignment
+  - status: complete
+  - raw: `raw/NAME.AI.306.Alignment.md`
+  - meta: `meta/NAME.AI.306.Alignment.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.401.Chatbot` - AI.401.Chatbot
+  - status: complete
+  - raw: `raw/NAME.AI.401.Chatbot.md`
+  - meta: `meta/NAME.AI.401.Chatbot.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.403.AIAgent` - AI.403.AIAgent
+  - status: complete
+  - raw: `raw/NAME.AI.403.AIAgent.md`
+  - meta: `meta/NAME.AI.403.AIAgent.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.404.AIWrapper` - AI.404.AIWrapper
+  - status: complete
+  - raw: `raw/NAME.AI.404.AIWrapper.md`
+  - meta: `meta/NAME.AI.404.AIWrapper.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.501.Supervised` - AI.501.Supervised
+  - status: complete
+  - raw: `raw/NAME.AI.501.Supervised.md`
+  - meta: `meta/NAME.AI.501.Supervised.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.502.Unsupervised` - AI.502.Unsupervised
+  - status: complete
+  - raw: `raw/NAME.AI.502.Unsupervised.md`
+  - meta: `meta/NAME.AI.502.Unsupervised.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.503.Reinforcement` - AI.503.Reinforcement
+  - status: complete
+  - raw: `raw/NAME.AI.503.Reinforcement.md`
+  - meta: `meta/NAME.AI.503.Reinforcement.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.504.Dataset` - AI.504.Dataset
+  - status: complete
+  - raw: `raw/NAME.AI.504.Dataset.md`
+  - meta: `meta/NAME.AI.504.Dataset.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.505.TrainingReuse` - AI.505.TrainingReuse
+  - status: complete
+  - raw: `raw/NAME.AI.505.TrainingReuse.md`
+  - meta: `meta/NAME.AI.505.TrainingReuse.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.604.EmbeddingReuse` - AI.604.EmbeddingReuse
+  - status: complete
+  - raw: `raw/NAME.AI.604.EmbeddingReuse.md`
+  - meta: `meta/NAME.AI.604.EmbeddingReuse.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.605.Context` - AI.605.Context
+  - status: complete
+  - raw: `raw/NAME.AI.605.Context.md`
+  - meta: `meta/NAME.AI.605.Context.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.702.Compute` - AI.702.Compute
+  - status: complete
+  - raw: `raw/NAME.AI.702.Compute.md`
+  - meta: `meta/NAME.AI.702.Compute.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.703.VibeCoding` - AI.703.VibeCoding
+  - status: complete
+  - raw: `raw/NAME.AI.703.VibeCoding.md`
+  - meta: `meta/NAME.AI.703.VibeCoding.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.704.Parameters` - AI.704.Parameters
+  - status: complete
+  - raw: `raw/NAME.AI.704.Parameters.md`
+  - meta: `meta/NAME.AI.704.Parameters.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AI.705.WeightsReuse` - AI.705.WeightsReuse
+  - status: complete
+  - raw: `raw/NAME.AI.705.WeightsReuse.md`
+  - meta: `meta/NAME.AI.705.WeightsReuse.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.All_Personas_Index` - All_Personas_Index
+  - status: complete
+  - raw: `raw/NAME.All_Personas_Index.md`
+  - meta: `meta/NAME.All_Personas_Index.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=1, unresolvedPartials=0
+- `NAME.Allon_Memory_Consolidation` - Allon_Memory_Consolidation
+  - status: complete
+  - raw: `raw/NAME.Allon_Memory_Consolidation.md`
+  - meta: `meta/NAME.Allon_Memory_Consolidation.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=7, unresolvedPartials=2
+- `NAME.Allon-Psych-Overlay-v1.0` - Allon-Psych-Overlay-v1.0
+  - status: complete
+  - raw: `raw/NAME.Allon-Psych-Overlay-v1.0.md`
+  - meta: `meta/NAME.Allon-Psych-Overlay-v1.0.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ao_100_psn` - ao_100_psn
+  - status: complete
+  - raw: `raw/NAME.ao_100_psn.md`
+  - meta: `meta/NAME.ao_100_psn.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.AO.916.SystemPersonaIndex` - AO.916.SystemPersonaIndex
+  - status: complete
+  - raw: `raw/NAME.AO.916.SystemPersonaIndex.md`
+  - meta: `meta/NAME.AO.916.SystemPersonaIndex.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.arcaffe_bank_info` - arcaffe_bank_info
+  - status: complete
+  - raw: `raw/NAME.arcaffe_bank_info.md`
+  - meta: `meta/NAME.arcaffe_bank_info.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.arcaffe_delivery_confirmation` - arcaffe_delivery_confirmation
+  - status: complete
+  - raw: `raw/NAME.arcaffe_delivery_confirmation.md`
+  - meta: `meta/NAME.arcaffe_delivery_confirmation.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Archived-Memory-Pre-Consolidation` - Archived Memory – Pre-Consolidation
+  - status: complete
+  - raw: `raw/NAME.Archived-Memory-Pre-Consolidation.md`
+  - meta: `meta/NAME.Archived-Memory-Pre-Consolidation.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Automation_Expert_Course` - Automation_Expert_Course
+  - status: complete
+  - raw: `raw/NAME.Automation_Expert_Course.md`
+  - meta: `meta/NAME.Automation_Expert_Course.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.autopromptwriter_contentjs` - autopromptwriter_contentjs
+  - status: complete
+  - raw: `raw/NAME.autopromptwriter_contentjs.md`
+  - meta: `meta/NAME.autopromptwriter_contentjs.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=0, unresolvedPartials=1
+- `NAME.bibliography_apa` - bibliography_apa
+  - status: complete
+  - raw: `raw/NAME.bibliography_apa.md`
+  - meta: `meta/NAME.bibliography_apa.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.bilingual_email_templates` - bilingual_email_templates
+  - status: partial
+  - raw: `raw/NAME.bilingual_email_templates.md`
+  - meta: `meta/NAME.bilingual_email_templates.json`
+  - ops: complete=9, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `NAME.bouquet_gallery_prestige` - bouquet_gallery_prestige
+  - status: complete
+  - raw: `raw/NAME.bouquet_gallery_prestige.md`
+  - meta: `meta/NAME.bouquet_gallery_prestige.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.bypass_detection` - bypass_detection
+  - status: complete
+  - raw: `raw/NAME.bypass_detection.md`
+  - meta: `meta/NAME.bypass_detection.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.canvas` - canvas
+  - status: complete
+  - raw: `raw/NAME.canvas.md`
+  - meta: `meta/NAME.canvas.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Canvas-Index` - Canvas Index
+  - status: complete
+  - raw: `raw/NAME.Canvas-Index.md`
+  - meta: `meta/NAME.Canvas-Index.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Canvas-Index-Managed-by-The-Librarian` - Canvas Index - Managed by The Librarian
+  - status: complete
+  - raw: `raw/NAME.Canvas-Index-Managed-by-The-Librarian.md`
+  - meta: `meta/NAME.Canvas-Index-Managed-by-The-Librarian.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.canvas.react.js` - canvas.react.js
+  - status: complete
+  - raw: `raw/NAME.canvas.react.js.md`
+  - meta: `meta/NAME.canvas.react.js.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.CanvasStorageModule` - CanvasStorageModule
+  - status: complete
+  - raw: `raw/NAME.CanvasStorageModule.md`
+  - meta: `meta/NAME.CanvasStorageModule.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.chat_ui_styles` - chat_ui_styles
+  - status: complete
+  - raw: `raw/NAME.chat_ui_styles.md`
+  - meta: `meta/NAME.chat_ui_styles.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.collection_page_config` - collection_page_config
+  - status: complete
+  - raw: `raw/NAME.collection_page_config.md`
+  - meta: `meta/NAME.collection_page_config.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.collection-by-tag-section` - collection-by-tag-section
+  - status: complete
+  - raw: `raw/NAME.collection-by-tag-section.md`
+  - meta: `meta/NAME.collection-by-tag-section.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.command_canvas` - command_canvas
+  - status: complete
+  - raw: `raw/NAME.command_canvas.md`
+  - meta: `meta/NAME.command_canvas.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.constraint_checker` - constraint_checker
+  - status: complete
+  - raw: `raw/NAME.constraint_checker.md`
+  - meta: `meta/NAME.constraint_checker.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.contact_form_translatable` - contact_form_translatable
+  - status: complete
+  - raw: `raw/NAME.contact_form_translatable.md`
+  - meta: `meta/NAME.contact_form_translatable.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.contact_page_upgrade` - contact_page_upgrade
+  - status: complete
+  - raw: `raw/NAME.contact_page_upgrade.md`
+  - meta: `meta/NAME.contact_page_upgrade.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.contact_us_section` - contact_us_section
+  - status: complete
+  - raw: `raw/NAME.contact_us_section.md`
+  - meta: `meta/NAME.contact_us_section.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Custom-Message-Hebrew-RTL` - Custom Message Hebrew RTL
+  - status: complete
+  - raw: `raw/NAME.Custom-Message-Hebrew-RTL.md`
+  - meta: `meta/NAME.Custom-Message-Hebrew-RTL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.dabroo_chat_label` - dabroo_chat_label
+  - status: complete
+  - raw: `raw/NAME.dabroo_chat_label.md`
+  - meta: `meta/NAME.dabroo_chat_label.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.dabroo_email_form` - dabroo_email_form
+  - status: complete
+  - raw: `raw/NAME.dabroo_email_form.md`
+  - meta: `meta/NAME.dabroo_email_form.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.dabroo_modular_layout` - dabroo_modular_layout
+  - status: complete
+  - raw: `raw/NAME.dabroo_modular_layout.md`
+  - meta: `meta/NAME.dabroo_modular_layout.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.dabroo_modular_setup` - dabroo_modular_setup
+  - status: complete
+  - raw: `raw/NAME.dabroo_modular_setup.md`
+  - meta: `meta/NAME.dabroo_modular_setup.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.dabroo_prompt_studio` - dabroo_prompt_studio
+  - status: complete
+  - raw: `raw/NAME.dabroo_prompt_studio.md`
+  - meta: `meta/NAME.dabroo_prompt_studio.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.dabroo_sidebar_chat` - dabroo_sidebar_chat
+  - status: complete
+  - raw: `raw/NAME.dabroo_sidebar_chat.md`
+  - meta: `meta/NAME.dabroo_sidebar_chat.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=1, unresolvedPartials=0
+- `NAME.dabroo_sidebar_layout` - dabroo_sidebar_layout
+  - status: partial
+  - raw: `raw/NAME.dabroo_sidebar_layout.md`
+  - meta: `meta/NAME.dabroo_sidebar_layout.json`
+  - ops: complete=7, partialBodies=2, appliedPartials=1, unresolvedPartials=0
+- `NAME.dabroo_single_page` - dabroo_single_page
+  - status: complete
+  - raw: `raw/NAME.dabroo_single_page.md`
+  - meta: `meta/NAME.dabroo_single_page.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.dabroo_toggle_mode` - dabroo_toggle_mode
+  - status: complete
+  - raw: `raw/NAME.dabroo_toggle_mode.md`
+  - meta: `meta/NAME.dabroo_toggle_mode.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Dabroo-AI-content.js-Chatbar-Toggle-Integration` - Dabroo AI - content.js (Chatbar Toggle Integration)
+  - status: complete
+  - raw: `raw/NAME.Dabroo-AI-content.js-Chatbar-Toggle-Integration.md`
+  - meta: `meta/NAME.Dabroo-AI-content.js-Chatbar-Toggle-Integration.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.dabroo-chat-css` - dabroo-chat-css
+  - status: complete
+  - raw: `raw/NAME.dabroo-chat-css.md`
+  - meta: `meta/NAME.dabroo-chat-css.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.dabroo-chat-js` - dabroo-chat-js
+  - status: complete
+  - raw: `raw/NAME.dabroo-chat-js.md`
+  - meta: `meta/NAME.dabroo-chat-js.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.dabroo-chat-root` - dabroo-chat-root
+  - status: complete
+  - raw: `raw/NAME.dabroo-chat-root.md`
+  - meta: `meta/NAME.dabroo-chat-root.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.dabroo-chat.js` - dabroo-chat.js
+  - status: complete
+  - raw: `raw/NAME.dabroo-chat.js.md`
+  - meta: `meta/NAME.dabroo-chat.js.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Dabroo-Free-v1-Revamp` - Dabroo-Free-v1-Revamp
+  - status: complete
+  - raw: `raw/NAME.Dabroo-Free-v1-Revamp.md`
+  - meta: `meta/NAME.Dabroo-Free-v1-Revamp.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Dabroo-Prompt-Surgery-Engine` - Dabroo Prompt Surgery Engine
+  - status: complete
+  - raw: `raw/NAME.Dabroo-Prompt-Surgery-Engine.md`
+  - meta: `meta/NAME.Dabroo-Prompt-Surgery-Engine.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.dabrooslate_module` - dabrooslate_module
+  - status: complete
+  - raw: `raw/NAME.dabrooslate_module.md`
+  - meta: `meta/NAME.dabrooslate_module.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.discount-bar.liquid` - discount-bar.liquid
+  - status: complete
+  - raw: `raw/NAME.discount-bar.liquid.md`
+  - meta: `meta/NAME.discount-bar.liquid.json`
+  - ops: complete=8, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Edens-Prompt` - Eden's Prompt
+  - status: complete
+  - raw: `raw/NAME.Edens-Prompt.md`
+  - meta: `meta/NAME.Edens-Prompt.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELoS_AI_Interface` - ELoS_AI_Interface
+  - status: complete
+  - raw: `raw/NAME.ELoS_AI_Interface.md`
+  - meta: `meta/NAME.ELoS_AI_Interface.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos_Beginner_Recursive_Guide` - ELos_Beginner_Recursive_Guide
+  - status: complete
+  - raw: `raw/NAME.ELos_Beginner_Recursive_Guide.md`
+  - meta: `meta/NAME.ELos_Beginner_Recursive_Guide.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos_Beginner_Training` - ELos_Beginner_Training
+  - status: complete
+  - raw: `raw/NAME.ELos_Beginner_Training.md`
+  - meta: `meta/NAME.ELos_Beginner_Training.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos_Controller_Core` - ELos_Controller_Core
+  - status: complete
+  - raw: `raw/NAME.ELos_Controller_Core.md`
+  - meta: `meta/NAME.ELos_Controller_Core.json`
+  - ops: complete=13, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos_Echo_Module` - ELos_Echo_Module
+  - status: complete
+  - raw: `raw/NAME.ELos_Echo_Module.md`
+  - meta: `meta/NAME.ELos_Echo_Module.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.elos_extension_v0_1` - elos_extension_v0_1
+  - status: complete
+  - raw: `raw/NAME.elos_extension_v0_1.md`
+  - meta: `meta/NAME.elos_extension_v0_1.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos_Extension_v0.1` - ELos_Extension_v0.1
+  - status: complete
+  - raw: `raw/NAME.ELos_Extension_v0.1.md`
+  - meta: `meta/NAME.ELos_Extension_v0.1.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.elos_font_bifurcation` - elos_font_bifurcation
+  - status: complete
+  - raw: `raw/NAME.elos_font_bifurcation.md`
+  - meta: `meta/NAME.elos_font_bifurcation.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos_Librarian_Persona` - ELos_Librarian_Persona
+  - status: complete
+  - raw: `raw/NAME.ELos_Librarian_Persona.md`
+  - meta: `meta/NAME.ELos_Librarian_Persona.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos_MirrorOS_Audit` - ELos_MirrorOS_Audit
+  - status: complete
+  - raw: `raw/NAME.ELos_MirrorOS_Audit.md`
+  - meta: `meta/NAME.ELos_MirrorOS_Audit.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=1
+- `NAME.ELos_Onboarding_Beginner_Click` - ELos_Onboarding_Beginner_Click
+  - status: complete
+  - raw: `raw/NAME.ELos_Onboarding_Beginner_Click.md`
+  - meta: `meta/NAME.ELos_Onboarding_Beginner_Click.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.elos_pipeline_simulator` - elos_pipeline_simulator
+  - status: complete
+  - raw: `raw/NAME.elos_pipeline_simulator.md`
+  - meta: `meta/NAME.elos_pipeline_simulator.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.elos_playbook_v2` - elos_playbook_v2
+  - status: complete
+  - raw: `raw/NAME.elos_playbook_v2.md`
+  - meta: `meta/NAME.elos_playbook_v2.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos_Pricing_Model` - ELos_Pricing_Model
+  - status: complete
+  - raw: `raw/NAME.ELos_Pricing_Model.md`
+  - meta: `meta/NAME.ELos_Pricing_Model.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos_Pricing_Model_v1` - ELos_Pricing_Model_v1
+  - status: complete
+  - raw: `raw/NAME.ELos_Pricing_Model_v1.md`
+  - meta: `meta/NAME.ELos_Pricing_Model_v1.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos_Pro_Gating` - ELos_Pro_Gating
+  - status: complete
+  - raw: `raw/NAME.ELos_Pro_Gating.md`
+  - meta: `meta/NAME.ELos_Pro_Gating.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos_Prompt_Protocol_v2` - ELos_Prompt_Protocol_v2
+  - status: complete
+  - raw: `raw/NAME.ELos_Prompt_Protocol_v2.md`
+  - meta: `meta/NAME.ELos_Prompt_Protocol_v2.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.elos_site_vercel` - elos_site_vercel
+  - status: complete
+  - raw: `raw/NAME.elos_site_vercel.md`
+  - meta: `meta/NAME.elos_site_vercel.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos_Synthesis_Module` - ELos_Synthesis_Module
+  - status: complete
+  - raw: `raw/NAME.ELos_Synthesis_Module.md`
+  - meta: `meta/NAME.ELos_Synthesis_Module.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.elos_translate_pipeline` - elos_translate_pipeline
+  - status: complete
+  - raw: `raw/NAME.elos_translate_pipeline.md`
+  - meta: `meta/NAME.elos_translate_pipeline.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.elos_ui_magic_bar` - elos_ui_magic_bar
+  - status: complete
+  - raw: `raw/NAME.elos_ui_magic_bar.md`
+  - meta: `meta/NAME.elos_ui_magic_bar.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos_v1_Buildout_Code` - ELos_v1_Buildout_Code
+  - status: complete
+  - raw: `raw/NAME.ELos_v1_Buildout_Code.md`
+  - meta: `meta/NAME.ELos_v1_Buildout_Code.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.elos_v1_extension_codebase` - elos_v1_extension_codebase
+  - status: complete
+  - raw: `raw/NAME.elos_v1_extension_codebase.md`
+  - meta: `meta/NAME.elos_v1_extension_codebase.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos_Visual_AdvancedModules` - ELos_Visual_AdvancedModules
+  - status: complete
+  - raw: `raw/NAME.ELos_Visual_AdvancedModules.md`
+  - meta: `meta/NAME.ELos_Visual_AdvancedModules.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Academy-Integration-Code` - ELos Academy Integration Code
+  - status: complete
+  - raw: `raw/NAME.ELos-Academy-Integration-Code.md`
+  - meta: `meta/NAME.ELos-Academy-Integration-Code.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Academy-Unlock-Flow` - ELos Academy Unlock Flow
+  - status: complete
+  - raw: `raw/NAME.ELos-Academy-Unlock-Flow.md`
+  - meta: `meta/NAME.ELos-Academy-Unlock-Flow.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-AI-Auditing-Toolkit` - ELos - AI Auditing Toolkit
+  - status: complete
+  - raw: `raw/NAME.ELos-AI-Auditing-Toolkit.md`
+  - meta: `meta/NAME.ELos-AI-Auditing-Toolkit.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Beginner-Tier-System-Overview` - ELos - Beginner Tier System Overview
+  - status: complete
+  - raw: `raw/NAME.ELos-Beginner-Tier-System-Overview.md`
+  - meta: `meta/NAME.ELos-Beginner-Tier-System-Overview.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Build-Conflict-Audit` - ELos Build Conflict Audit
+  - status: complete
+  - raw: `raw/NAME.ELos-Build-Conflict-Audit.md`
+  - meta: `meta/NAME.ELos-Build-Conflict-Audit.json`
+  - ops: complete=6, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Canvas-Index` - ELos Canvas Index
+  - status: complete
+  - raw: `raw/NAME.ELos-Canvas-Index.md`
+  - meta: `meta/NAME.ELos-Canvas-Index.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.elos-core-modules` - elos-core-modules
+  - status: complete
+  - raw: `raw/NAME.elos-core-modules.md`
+  - meta: `meta/NAME.elos-core-modules.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Extension-Buildout-Phase-1` - ELos - Extension Buildout (Phase 1)
+  - status: complete
+  - raw: `raw/NAME.ELos-Extension-Buildout-Phase-1.md`
+  - meta: `meta/NAME.ELos-Extension-Buildout-Phase-1.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Full-Buildout-No-API` - ELos - Full Buildout (No API)
+  - status: complete
+  - raw: `raw/NAME.ELos-Full-Buildout-No-API.md`
+  - meta: `meta/NAME.ELos-Full-Buildout-No-API.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Future-Modules-Overview` - ELos - Future Modules Overview
+  - status: complete
+  - raw: `raw/NAME.ELos-Future-Modules-Overview.md`
+  - meta: `meta/NAME.ELos-Future-Modules-Overview.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Global-Language-UI-Correction` - ELos - Global Language & UI Correction
+  - status: complete
+  - raw: `raw/NAME.ELos-Global-Language-UI-Correction.md`
+  - meta: `meta/NAME.ELos-Global-Language-UI-Correction.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Initial-content.js-Build` - ELos - Initial content.js Build
+  - status: complete
+  - raw: `raw/NAME.ELos-Initial-content.js-Build.md`
+  - meta: `meta/NAME.ELos-Initial-content.js-Build.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Intermediate-Tier-System-Overview` - ELos - Intermediate Tier System Overview
+  - status: complete
+  - raw: `raw/NAME.ELos-Intermediate-Tier-System-Overview.md`
+  - meta: `meta/NAME.ELos-Intermediate-Tier-System-Overview.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Intermediate-Training` - ELos Intermediate Training
+  - status: complete
+  - raw: `raw/NAME.ELos-Intermediate-Training.md`
+  - meta: `meta/NAME.ELos-Intermediate-Training.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Live-Canvas-Diff-Viewer` - ELos - Live Canvas Diff Viewer
+  - status: complete
+  - raw: `raw/NAME.ELos-Live-Canvas-Diff-Viewer.md`
+  - meta: `meta/NAME.ELos-Live-Canvas-Diff-Viewer.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Memory-Graph` - ELos - Memory Graph
+  - status: complete
+  - raw: `raw/NAME.ELos-Memory-Graph.md`
+  - meta: `meta/NAME.ELos-Memory-Graph.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Module-Interoperability-Map` - ELos - Module Interoperability Map
+  - status: complete
+  - raw: `raw/NAME.ELos-Module-Interoperability-Map.md`
+  - meta: `meta/NAME.ELos-Module-Interoperability-Map.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Pro-Gating-System` - ELos - Pro Gating System
+  - status: complete
+  - raw: `raw/NAME.ELos-Pro-Gating-System.md`
+  - meta: `meta/NAME.ELos-Pro-Gating-System.json`
+  - ops: complete=6, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Pro-Tier-System-Overview` - ELos - Pro Tier System Overview
+  - status: complete
+  - raw: `raw/NAME.ELos-Pro-Tier-System-Overview.md`
+  - meta: `meta/NAME.ELos-Pro-Tier-System-Overview.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Pro-Training` - ELos Pro Training
+  - status: complete
+  - raw: `raw/NAME.ELos-Pro-Training.md`
+  - meta: `meta/NAME.ELos-Pro-Training.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Recursive-Architect` - ELos - Recursive Architect
+  - status: complete
+  - raw: `raw/NAME.ELos-Recursive-Architect.md`
+  - meta: `meta/NAME.ELos-Recursive-Architect.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Recursive-System-Layer-Imported-from-AI-OS` - ELos - Recursive System Layer (Imported from AI OS)
+  - status: complete
+  - raw: `raw/NAME.ELos-Recursive-System-Layer-Imported-from-AI-OS.md`
+  - meta: `meta/NAME.ELos-Recursive-System-Layer-Imported-from-AI-OS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Shadow-Mode` - ELos - Shadow Mode
+  - status: complete
+  - raw: `raw/NAME.ELos-Shadow-Mode.md`
+  - meta: `meta/NAME.ELos-Shadow-Mode.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-System-Overview-v2.0` - ELos - System Overview v2.0
+  - status: complete
+  - raw: `raw/NAME.ELos-System-Overview-v2.0.md`
+  - meta: `meta/NAME.ELos-System-Overview-v2.0.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tier-Compliance-Governance-Layer` - ELos - Tier Compliance Governance Layer
+  - status: complete
+  - raw: `raw/NAME.ELos-Tier-Compliance-Governance-Layer.md`
+  - meta: `meta/NAME.ELos-Tier-Compliance-Governance-Layer.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Audit-Command-Logic` - ELos - Tiered Audit Command Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Audit-Command-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Audit-Command-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Clear-Command-Logic` - ELos - Tiered Clear Command Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Clear-Command-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Clear-Command-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Command-Expansion-Bundle` - ELos - Tiered Command Expansion Bundle
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Command-Expansion-Bundle.md`
+  - meta: `meta/NAME.ELos-Tiered-Command-Expansion-Bundle.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Command-Expansion-v2` - ELos - Tiered Command Expansion v2
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Command-Expansion-v2.md`
+  - meta: `meta/NAME.ELos-Tiered-Command-Expansion-v2.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Command-Menu-UI-Logic` - ELos - Tiered Command Menu UI Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Command-Menu-UI-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Command-Menu-UI-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Command-Preview-Logic` - ELos - Tiered Command Preview Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Command-Preview-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Command-Preview-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Command-UI-Framework` - ELos - Tiered Command UI Framework
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Command-UI-Framework.md`
+  - meta: `meta/NAME.ELos-Tiered-Command-UI-Framework.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Diff-Command-Logic` - ELos - Tiered Diff Command Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Diff-Command-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Diff-Command-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Export-Command-Logic` - ELos - Tiered Export Command Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Export-Command-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Export-Command-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Help-Command-Logic` - ELos - Tiered Help Command Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Help-Command-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Help-Command-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Map-Command-Logic` - ELos - Tiered Map Command Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Map-Command-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Map-Command-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Mode-Command-Logic` - ELos - Tiered Mode Command Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Mode-Command-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Mode-Command-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Plan-Command-Logic` - ELos - Tiered Plan Command Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Plan-Command-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Plan-Command-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Review-Command-Logic` - ELos - Tiered Review Command Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Review-Command-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Review-Command-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Rollback-Command-Logic` - ELos - Tiered Rollback Command Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Rollback-Command-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Rollback-Command-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Shadowlog-Command-Logic` - ELos - Tiered Shadowlog Command Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Shadowlog-Command-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Shadowlog-Command-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Sync-Command-Logic` - ELos - Tiered Sync Command Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Sync-Command-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Sync-Command-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-UX-Command-Bundle` - ELos - Tiered UX Command Bundle
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-UX-Command-Bundle.md`
+  - meta: `meta/NAME.ELos-Tiered-UX-Command-Bundle.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-UX-Language-Map` - ELos - Tiered UX & Language Map
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-UX-Language-Map.md`
+  - meta: `meta/NAME.ELos-Tiered-UX-Language-Map.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Tiered-Whoami-Command-Logic` - ELos - Tiered Whoami Command Logic
+  - status: complete
+  - raw: `raw/NAME.ELos-Tiered-Whoami-Command-Logic.md`
+  - meta: `meta/NAME.ELos-Tiered-Whoami-Command-Logic.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Elos-UI-Settings-Tiered-Components` - Elos UI Settings & Tiered Components
+  - status: complete
+  - raw: `raw/NAME.Elos-UI-Settings-Tiered-Components.md`
+  - meta: `meta/NAME.Elos-UI-Settings-Tiered-Components.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-UX-System-Spec-v1.0` - ELos - UX System Spec v1.0
+  - status: complete
+  - raw: `raw/NAME.ELos-UX-System-Spec-v1.0.md`
+  - meta: `meta/NAME.ELos-UX-System-Spec-v1.0.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-v1-Buildout-Code` - ELos v1 Buildout Code
+  - status: complete
+  - raw: `raw/NAME.ELos-v1-Buildout-Code.md`
+  - meta: `meta/NAME.ELos-v1-Buildout-Code.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-V1-QA-Checklist` - ELos V1 QA Checklist
+  - status: complete
+  - raw: `raw/NAME.ELos-V1-QA-Checklist.md`
+  - meta: `meta/NAME.ELos-V1-QA-Checklist.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELos-Wand-Injection-content.js` - ELos Wand Injection - content.js
+  - status: complete
+  - raw: `raw/NAME.ELos-Wand-Injection-content.js.md`
+  - meta: `meta/NAME.ELos-Wand-Injection-content.js.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ELOS.TNF.SafeExpansion` - ELOS.TNF.SafeExpansion
+  - status: complete
+  - raw: `raw/NAME.ELOS.TNF.SafeExpansion.md`
+  - meta: `meta/NAME.ELOS.TNF.SafeExpansion.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.email_fulfillment_hebrew` - email_fulfillment_hebrew
+  - status: complete
+  - raw: `raw/NAME.email_fulfillment_hebrew.md`
+  - meta: `meta/NAME.email_fulfillment_hebrew.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.faq_updated_json` - faq_updated_json
+  - status: complete
+  - raw: `raw/NAME.faq_updated_json.md`
+  - meta: `meta/NAME.faq_updated_json.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ff-editorial-strips.liquid-Fresh` - ff-editorial-strips.liquid (Fresh)
+  - status: complete
+  - raw: `raw/NAME.ff-editorial-strips.liquid-Fresh.md`
+  - meta: `meta/NAME.ff-editorial-strips.liquid-Fresh.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.FF-RTL-RH-Stylesheet-Prestige` - FF RTL + RH Stylesheet (Prestige)
+  - status: complete
+  - raw: `raw/NAME.FF-RTL-RH-Stylesheet-Prestige.md`
+  - meta: `meta/NAME.FF-RTL-RH-Stylesheet-Prestige.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.FF-SEO-Titles-Meta-Descriptions-Products` - FF | SEO Titles + Meta Descriptions (Products)
+  - status: complete
+  - raw: `raw/NAME.FF-SEO-Titles-Meta-Descriptions-Products.md`
+  - meta: `meta/NAME.FF-SEO-Titles-Meta-Descriptions-Products.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.filtered_collection_tag` - filtered_collection_tag
+  - status: complete
+  - raw: `raw/NAME.filtered_collection_tag.md`
+  - meta: `meta/NAME.filtered_collection_tag.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.fireproofed_prompt_library` - fireproofed_prompt_library
+  - status: complete
+  - raw: `raw/NAME.fireproofed_prompt_library.md`
+  - meta: `meta/NAME.fireproofed_prompt_library.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever_flowers_automation_map` - forever_flowers_automation_map
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_automation_map.md`
+  - meta: `meta/NAME.forever_flowers_automation_map.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever_flowers_business_plan` - forever_flowers_business_plan
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_business_plan.md`
+  - meta: `meta/NAME.forever_flowers_business_plan.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=13
+- `NAME.forever_flowers_core_principles` - forever_flowers_core_principles
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_core_principles.md`
+  - meta: `meta/NAME.forever_flowers_core_principles.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.FOREVER_FLOWERS_CUSTOMIZE_AND_NEUTRAL_PAGES_AUTHORITY` - FOREVER_FLOWERS_CUSTOMIZE_AND_NEUTRAL_PAGES_AUTHORITY
+  - status: complete
+  - raw: `raw/NAME.FOREVER_FLOWERS_CUSTOMIZE_AND_NEUTRAL_PAGES_AUTHORITY.md`
+  - meta: `meta/NAME.FOREVER_FLOWERS_CUSTOMIZE_AND_NEUTRAL_PAGES_AUTHORITY.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.FOREVER_FLOWERS_DECORATE_PAGES_AUTHORITY` - FOREVER_FLOWERS_DECORATE_PAGES_AUTHORITY
+  - status: complete
+  - raw: `raw/NAME.FOREVER_FLOWERS_DECORATE_PAGES_AUTHORITY.md`
+  - meta: `meta/NAME.FOREVER_FLOWERS_DECORATE_PAGES_AUTHORITY.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever_flowers_deep_dive_updated_hebrew` - forever_flowers_deep_dive_updated_hebrew
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_deep_dive_updated_hebrew.md`
+  - meta: `meta/NAME.forever_flowers_deep_dive_updated_hebrew.json`
+  - ops: complete=1, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever_flowers_faq` - forever_flowers_faq
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_faq.md`
+  - meta: `meta/NAME.forever_flowers_faq.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever_flowers_full_deep_dive_master` - forever_flowers_full_deep_dive_master
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_full_deep_dive_master.md`
+  - meta: `meta/NAME.forever_flowers_full_deep_dive_master.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever_flowers_full_deep_dive_master_hebrew` - forever_flowers_full_deep_dive_master_hebrew
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_full_deep_dive_master_hebrew.md`
+  - meta: `meta/NAME.forever_flowers_full_deep_dive_master_hebrew.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever_flowers_homepage` - forever_flowers_homepage
+  - status: partial
+  - raw: `raw/NAME.forever_flowers_homepage.md`
+  - meta: `meta/NAME.forever_flowers_homepage.json`
+  - ops: complete=0, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `NAME.FOREVER_FLOWERS_HOMEPAGE_AUTHORITY` - FOREVER_FLOWERS_HOMEPAGE_AUTHORITY
+  - status: complete
+  - raw: `raw/NAME.FOREVER_FLOWERS_HOMEPAGE_AUTHORITY.md`
+  - meta: `meta/NAME.FOREVER_FLOWERS_HOMEPAGE_AUTHORITY.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever_flowers_loccitane` - forever_flowers_loccitane
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_loccitane.md`
+  - meta: `meta/NAME.forever_flowers_loccitane.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever_flowers_meeting_combined` - forever_flowers_meeting_combined
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_meeting_combined.md`
+  - meta: `meta/NAME.forever_flowers_meeting_combined.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever_flowers_meeting_combined_updated` - forever_flowers_meeting_combined_updated
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_meeting_combined_updated.md`
+  - meta: `meta/NAME.forever_flowers_meeting_combined_updated.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever_flowers_meeting_docs` - forever_flowers_meeting_docs
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_meeting_docs.md`
+  - meta: `meta/NAME.forever_flowers_meeting_docs.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_DIAGRAM.md` - FOREVER_FLOWERS_PERSONALIZED_FLOW_DIAGRAM.md
+  - status: complete
+  - raw: `raw/NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_DIAGRAM.md.md`
+  - meta: `meta/NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_DIAGRAM.md.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=1, unresolvedPartials=1
+- `NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md` - FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md
+  - status: complete
+  - raw: `raw/NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md.md`
+  - meta: `meta/NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=8, unresolvedPartials=1
+- `NAME.forever_flowers_pricing` - forever_flowers_pricing
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_pricing.md`
+  - meta: `meta/NAME.forever_flowers_pricing.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=1, unresolvedPartials=1
+- `NAME.forever_flowers_product_page` - forever_flowers_product_page
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_product_page.md`
+  - meta: `meta/NAME.forever_flowers_product_page.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever_flowers_rebrand` - forever_flowers_rebrand
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_rebrand.md`
+  - meta: `meta/NAME.forever_flowers_rebrand.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever_flowers_savings` - forever_flowers_savings
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_savings.md`
+  - meta: `meta/NAME.forever_flowers_savings.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.FOREVER_FLOWERS_SYSTEM_BOUNDARIES` - FOREVER_FLOWERS_SYSTEM_BOUNDARIES
+  - status: complete
+  - raw: `raw/NAME.FOREVER_FLOWERS_SYSTEM_BOUNDARIES.md`
+  - meta: `meta/NAME.FOREVER_FLOWERS_SYSTEM_BOUNDARIES.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.FOREVER_FLOWERS_SYSTEM_PHILOSOPHY` - FOREVER_FLOWERS_SYSTEM_PHILOSOPHY
+  - status: complete
+  - raw: `raw/NAME.FOREVER_FLOWERS_SYSTEM_PHILOSOPHY.md`
+  - meta: `meta/NAME.FOREVER_FLOWERS_SYSTEM_PHILOSOPHY.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.FOREVER_FLOWERS_TRY_PAGES_AUTHORITY` - FOREVER_FLOWERS_TRY_PAGES_AUTHORITY
+  - status: complete
+  - raw: `raw/NAME.FOREVER_FLOWERS_TRY_PAGES_AUTHORITY.md`
+  - meta: `meta/NAME.FOREVER_FLOWERS_TRY_PAGES_AUTHORITY.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever_flowers_weekly_schedule` - forever_flowers_weekly_schedule
+  - status: complete
+  - raw: `raw/NAME.forever_flowers_weekly_schedule.md`
+  - meta: `meta/NAME.forever_flowers_weekly_schedule.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=2, unresolvedPartials=0
+- `NAME.Forever_Focus_Journal` - Forever_Focus_Journal
+  - status: complete
+  - raw: `raw/NAME.Forever_Focus_Journal.md`
+  - meta: `meta/NAME.Forever_Focus_Journal.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Forever-Flowers-Canonical-Project-Index` - Forever Flowers – Canonical Project Index
+  - status: complete
+  - raw: `raw/NAME.Forever-Flowers-Canonical-Project-Index.md`
+  - meta: `meta/NAME.Forever-Flowers-Canonical-Project-Index.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.forever-flowers-collections-summary` - forever-flowers-collections-summary
+  - status: complete
+  - raw: `raw/NAME.forever-flowers-collections-summary.md`
+  - meta: `meta/NAME.forever-flowers-collections-summary.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Forever-Flowers-Deep-Dive-with-Albert-Improvements` - Forever Flowers Deep Dive with Albert Improvements
+  - status: complete
+  - raw: `raw/NAME.Forever-Flowers-Deep-Dive-with-Albert-Improvements.md`
+  - meta: `meta/NAME.Forever-Flowers-Deep-Dive-with-Albert-Improvements.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Forever-Flowers-Gifting-System-Specification-Fireproofed-v2` - Forever Flowers — Gifting System Specification (Fireproofed v2)
+  - status: complete
+  - raw: `raw/NAME.Forever-Flowers-Gifting-System-Specification-Fireproofed-v2.md`
+  - meta: `meta/NAME.Forever-Flowers-Gifting-System-Specification-Fireproofed-v2.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Forever-Flowers-Headless-Rebuild-Wireframe-Direction-Israel-Fireproofed` - Forever Flowers — Headless Rebuild Wireframe & Direction (Israel Fireproofed)
+  - status: complete
+  - raw: `raw/NAME.Forever-Flowers-Headless-Rebuild-Wireframe-Direction-Israel-Fireproofed.md`
+  - meta: `meta/NAME.Forever-Flowers-Headless-Rebuild-Wireframe-Direction-Israel-Fireproofed.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Forever-Flowers-OS` - Forever Flowers OS
+  - status: complete
+  - raw: `raw/NAME.Forever-Flowers-OS.md`
+  - meta: `meta/NAME.Forever-Flowers-OS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Forever-Flowers-Rebuild-Phases` - Forever Flowers Rebuild Phases
+  - status: complete
+  - raw: `raw/NAME.Forever-Flowers-Rebuild-Phases.md`
+  - meta: `meta/NAME.Forever-Flowers-Rebuild-Phases.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Forever-Flowers-Subscription-Rebrand-Canonical-Master` - Forever Flowers Subscription Rebrand — Canonical Master
+  - status: complete
+  - raw: `raw/NAME.Forever-Flowers-Subscription-Rebrand-Canonical-Master.md`
+  - meta: `meta/NAME.Forever-Flowers-Subscription-Rebrand-Canonical-Master.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Forever-Flowers-System-Canonical-Foundations` - Forever Flowers – System Canonical Foundations
+  - status: complete
+  - raw: `raw/NAME.Forever-Flowers-System-Canonical-Foundations.md`
+  - meta: `meta/NAME.Forever-Flowers-System-Canonical-Foundations.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Forever-Flowers-UX` - Forever Flowers — שפת המותג החדשה (אתר · UX · סושיאל)
+  - status: complete
+  - raw: `raw/NAME.Forever-Flowers-UX.md`
+  - meta: `meta/NAME.Forever-Flowers-UX.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Forever-Flowers-Website-Flow-Canonical-UX` - Forever Flowers Website Flow — Canonical UX
+  - status: complete
+  - raw: `raw/NAME.Forever-Flowers-Website-Flow-Canonical-UX.md`
+  - meta: `meta/NAME.Forever-Flowers-Website-Flow-Canonical-UX.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Forever-Flowers-Wireframe-Outlines-All-Approved-Pages` - Forever Flowers – Wireframe Outlines (All Approved Pages)
+  - status: complete
+  - raw: `raw/NAME.Forever-Flowers-Wireframe-Outlines-All-Approved-Pages.md`
+  - meta: `meta/NAME.Forever-Flowers-Wireframe-Outlines-All-Approved-Pages.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=1, unresolvedPartials=0
+- `NAME.Forever-Panel-Internal-Dashboards-Implementation-Playbook` - Forever Panel Internal Dashboards – Implementation Playbook
+  - status: complete
+  - raw: `raw/NAME.Forever-Panel-Internal-Dashboards-Implementation-Playbook.md`
+  - meta: `meta/NAME.Forever-Panel-Internal-Dashboards-Implementation-Playbook.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Forever-Panel-Internal-Dashboards-Master-Build-Plan` - Forever Panel Internal Dashboards – Master Build Plan
+  - status: complete
+  - raw: `raw/NAME.Forever-Panel-Internal-Dashboards-Master-Build-Plan.md`
+  - meta: `meta/NAME.Forever-Panel-Internal-Dashboards-Master-Build-Plan.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ForeverFlowers_BrandManifesto` - ForeverFlowers_BrandManifesto
+  - status: complete
+  - raw: `raw/NAME.ForeverFlowers_BrandManifesto.md`
+  - meta: `meta/NAME.ForeverFlowers_BrandManifesto.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ForeverFlowers_CompetitiveAudit` - ForeverFlowers_CompetitiveAudit
+  - status: complete
+  - raw: `raw/NAME.ForeverFlowers_CompetitiveAudit.md`
+  - meta: `meta/NAME.ForeverFlowers_CompetitiveAudit.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.FullCanvasUI` - FullCanvasUI
+  - status: complete
+  - raw: `raw/NAME.FullCanvasUI.md`
+  - meta: `meta/NAME.FullCanvasUI.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.gallery-bespoke.liquid` - gallery-bespoke.liquid
+  - status: complete
+  - raw: `raw/NAME.gallery-bespoke.liquid.md`
+  - meta: `meta/NAME.gallery-bespoke.liquid.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.gpt_suggestion_layer` - gpt_suggestion_layer
+  - status: complete
+  - raw: `raw/NAME.gpt_suggestion_layer.md`
+  - meta: `meta/NAME.gpt_suggestion_layer.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.hebrew_goldset_500` - hebrew_goldset_500
+  - status: complete
+  - raw: `raw/NAME.hebrew_goldset_500.md`
+  - meta: `meta/NAME.hebrew_goldset_500.json`
+  - ops: complete=11, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.helix_canvas_sidebar.html` - helix_canvas_sidebar.html
+  - status: complete
+  - raw: `raw/NAME.helix_canvas_sidebar.html.md`
+  - meta: `meta/NAME.helix_canvas_sidebar.html.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.input_patcher` - input_patcher
+  - status: complete
+  - raw: `raw/NAME.input_patcher.md`
+  - meta: `meta/NAME.input_patcher.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.interactive_bouquet_tool` - interactive_bouquet_tool
+  - status: partial
+  - raw: `raw/NAME.interactive_bouquet_tool.md`
+  - meta: `meta/NAME.interactive_bouquet_tool.json`
+  - ops: complete=0, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `NAME.Israeli-Centric-Use-Cases` - Israeli Centric Use Cases
+  - status: partial
+  - raw: `raw/NAME.Israeli-Centric-Use-Cases.md`
+  - meta: `meta/NAME.Israeli-Centric-Use-Cases.json`
+  - ops: complete=0, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `NAME.logo_list_section` - logo_list_section
+  - status: complete
+  - raw: `raw/NAME.logo_list_section.md`
+  - meta: `meta/NAME.logo_list_section.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.media_grid_advanced` - media_grid_advanced
+  - status: complete
+  - raw: `raw/NAME.media_grid_advanced.md`
+  - meta: `meta/NAME.media_grid_advanced.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Memory-Save-Directive` - Memory Save Directive
+  - status: complete
+  - raw: `raw/NAME.Memory-Save-Directive.md`
+  - meta: `meta/NAME.Memory-Save-Directive.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Mirror_Audit_System` - Mirror_Audit_System
+  - status: complete
+  - raw: `raw/NAME.Mirror_Audit_System.md`
+  - meta: `meta/NAME.Mirror_Audit_System.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.MirrorOS_Core_Doctrine` - MirrorOS_Core_Doctrine
+  - status: complete
+  - raw: `raw/NAME.MirrorOS_Core_Doctrine.md`
+  - meta: `meta/NAME.MirrorOS_Core_Doctrine.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.order_confirmation_audit` - order_confirmation_audit
+  - status: complete
+  - raw: `raw/NAME.order_confirmation_audit.md`
+  - meta: `meta/NAME.order_confirmation_audit.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.order_confirmation_update` - order_confirmation_update
+  - status: complete
+  - raw: `raw/NAME.order_confirmation_update.md`
+  - meta: `meta/NAME.order_confirmation_update.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.order_delivery_email_he` - order_delivery_email_he
+  - status: complete
+  - raw: `raw/NAME.order_delivery_email_he.md`
+  - meta: `meta/NAME.order_delivery_email_he.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.order_email_hebrew_rtl` - order_email_hebrew_rtl
+  - status: complete
+  - raw: `raw/NAME.order_email_hebrew_rtl.md`
+  - meta: `meta/NAME.order_email_hebrew_rtl.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.order_out_for_delivery_he` - order_out_for_delivery_he
+  - status: complete
+  - raw: `raw/NAME.order_out_for_delivery_he.md`
+  - meta: `meta/NAME.order_out_for_delivery_he.json`
+  - ops: complete=2, partialBodies=1, appliedPartials=0, unresolvedPartials=1
+- `NAME.OutForDelivery-Email-Hebrew-RTL` - OutForDelivery Email Hebrew RTL
+  - status: complete
+  - raw: `raw/NAME.OutForDelivery-Email-Hebrew-RTL.md`
+  - meta: `meta/NAME.OutForDelivery-Email-Hebrew-RTL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Password-Reset-Hebrew-RTL` - Password Reset Hebrew RTL
+  - status: complete
+  - raw: `raw/NAME.Password-Reset-Hebrew-RTL.md`
+  - meta: `meta/NAME.Password-Reset-Hebrew-RTL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.persona_response_formatting` - persona_response_formatting
+  - status: partial
+  - raw: `raw/NAME.persona_response_formatting.md`
+  - meta: `meta/NAME.persona_response_formatting.json`
+  - ops: complete=2, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `NAME.phase1_intent_classifier` - phase1_intent_classifier
+  - status: complete
+  - raw: `raw/NAME.phase1_intent_classifier.md`
+  - meta: `meta/NAME.phase1_intent_classifier.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Phase2-Precision-Rewrite` - Phase2 Precision Rewrite
+  - status: complete
+  - raw: `raw/NAME.Phase2-Precision-Rewrite.md`
+  - meta: `meta/NAME.Phase2-Precision-Rewrite.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Phase3-PostProcessing` - Phase3 PostProcessing
+  - status: complete
+  - raw: `raw/NAME.Phase3-PostProcessing.md`
+  - meta: `meta/NAME.Phase3-PostProcessing.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Podcast-Dave-8_29_18` - Podcast - Dave 8_29_18
+  - status: partial
+  - raw: `raw/NAME.Podcast-Dave-8_29_18.md`
+  - meta: `meta/NAME.Podcast-Dave-8_29_18.json`
+  - ops: complete=0, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `NAME.Podcast-Dave-Multiple-Sessions` - Podcast - Dave (Multiple Sessions)
+  - status: complete
+  - raw: `raw/NAME.Podcast-Dave-Multiple-Sessions.md`
+  - meta: `meta/NAME.Podcast-Dave-Multiple-Sessions.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Podcast-Jan-10-2019` - Judgment as a Filter for Reality
+  - status: complete
+  - raw: `raw/NAME.Podcast-Jan-10-2019.md`
+  - meta: `meta/NAME.Podcast-Jan-10-2019.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Podcast-Jan-5-2019` - OG Podcast #1
+  - status: complete
+  - raw: `raw/NAME.Podcast-Jan-5-2019.md`
+  - meta: `meta/NAME.Podcast-Jan-5-2019.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Podcast-Jan-6-2019` - Daily Stoic Reflections & Purpose Clarity
+  - status: complete
+  - raw: `raw/NAME.Podcast-Jan-6-2019.md`
+  - meta: `meta/NAME.Podcast-Jan-6-2019.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Podcast-Jan-7-2019` - Living with Intention & Recognizing the Voice Within
+  - status: complete
+  - raw: `raw/NAME.Podcast-Jan-7-2019.md`
+  - meta: `meta/NAME.Podcast-Jan-7-2019.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Podcast-Jan-8-2019` - The Value of Waking Up & Seeing Our Addictions
+  - status: complete
+  - raw: `raw/NAME.Podcast-Jan-8-2019.md`
+  - meta: `meta/NAME.Podcast-Jan-8-2019.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Podcast-Jan-9-2019` - What We Control and What We Don’t
+  - status: complete
+  - raw: `raw/NAME.Podcast-Jan-9-2019.md`
+  - meta: `meta/NAME.Podcast-Jan-9-2019.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Podcast-JR-Conversation` - Meaning, Stoicism, and the Flow State
+  - status: complete
+  - raw: `raw/NAME.Podcast-JR-Conversation.md`
+  - meta: `meta/NAME.Podcast-JR-Conversation.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Podcast-Michael-Multiple-Sessions` - Podcast - Michael (Multiple Sessions)
+  - status: complete
+  - raw: `raw/NAME.Podcast-Michael-Multiple-Sessions.md`
+  - meta: `meta/NAME.Podcast-Michael-Multiple-Sessions.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.PRM.FRG.LifeCoach` - PRM.FRG.LifeCoach
+  - status: complete
+  - raw: `raw/NAME.PRM.FRG.LifeCoach.md`
+  - meta: `meta/NAME.PRM.FRG.LifeCoach.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.product_tabs_section` - product_tabs_section
+  - status: complete
+  - raw: `raw/NAME.product_tabs_section.md`
+  - meta: `meta/NAME.product_tabs_section.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.product_templates_editions` - product_templates_editions
+  - status: complete
+  - raw: `raw/NAME.product_templates_editions.md`
+  - meta: `meta/NAME.product_templates_editions.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=2, unresolvedPartials=0
+- `NAME.product-bespoke-bouquet` - product-bespoke-bouquet
+  - status: complete
+  - raw: `raw/NAME.product-bespoke-bouquet.md`
+  - meta: `meta/NAME.product-bespoke-bouquet.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.prompt_engineering_master` - prompt_engineering_master
+  - status: complete
+  - raw: `raw/NAME.prompt_engineering_master.md`
+  - meta: `meta/NAME.prompt_engineering_master.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.prompt_library_full` - prompt_library_full
+  - status: complete
+  - raw: `raw/NAME.prompt_library_full.md`
+  - meta: `meta/NAME.prompt_library_full.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Prompt-Library-Master-Index` - Prompt Library – Master Index
+  - status: complete
+  - raw: `raw/NAME.Prompt-Library-Master-Index.md`
+  - meta: `meta/NAME.Prompt-Library-Master-Index.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=3, unresolvedPartials=0
+- `NAME.Prompt-Surgeon-Persona` - Prompt Surgeon Persona
+  - status: complete
+  - raw: `raw/NAME.Prompt-Surgeon-Persona.md`
+  - meta: `meta/NAME.Prompt-Surgeon-Persona.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.PromptTrace_Log` - PromptTrace_Log
+  - status: complete
+  - raw: `raw/NAME.PromptTrace_Log.md`
+  - meta: `meta/NAME.PromptTrace_Log.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Randomized-Testimonials-Section-Full-Code` - Randomized Testimonials Section (Full Code)
+  - status: complete
+  - raw: `raw/NAME.Randomized-Testimonials-Section-Full-Code.md`
+  - meta: `meta/NAME.Randomized-Testimonials-Section-Full-Code.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Rebrand-Step-2-What-Gets-Deleted-Kept` - Rebrand Step 2 — What Gets Deleted / Kept
+  - status: complete
+  - raw: `raw/NAME.Rebrand-Step-2-What-Gets-Deleted-Kept.md`
+  - meta: `meta/NAME.Rebrand-Step-2-What-Gets-Deleted-Kept.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Rebrand-Step-3-Wireframe-Level-Page-Structures` - Rebrand Step 3 — Wireframe-Level Page Structures
+  - status: complete
+  - raw: `raw/NAME.Rebrand-Step-3-Wireframe-Level-Page-Structures.md`
+  - meta: `meta/NAME.Rebrand-Step-3-Wireframe-Level-Page-Structures.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Rebrand-Step-4-Shopify-Prestige-Section-Architecture` - Rebrand Step 4 — Shopify Prestige Section Architecture
+  - status: complete
+  - raw: `raw/NAME.Rebrand-Step-4-Shopify-Prestige-Section-Architecture.md`
+  - meta: `meta/NAME.Rebrand-Step-4-Shopify-Prestige-Section-Architecture.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Redundancy-Audit-60-Pair-Merge-Log` - Redundancy Audit – 60 Pair Merge Log
+  - status: complete
+  - raw: `raw/NAME.Redundancy-Audit-60-Pair-Merge-Log.md`
+  - meta: `meta/NAME.Redundancy-Audit-60-Pair-Merge-Log.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=8
+- `NAME.Return-Label-Email-Hebrew-Rtl` - Return Label Email Hebrew Rtl
+  - status: complete
+  - raw: `raw/NAME.Return-Label-Email-Hebrew-Rtl.md`
+  - meta: `meta/NAME.Return-Label-Email-Hebrew-Rtl.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.rewrite_integrity_check` - rewrite_integrity_check
+  - status: complete
+  - raw: `raw/NAME.rewrite_integrity_check.md`
+  - meta: `meta/NAME.rewrite_integrity_check.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.self_debug` - self_debug
+  - status: complete
+  - raw: `raw/NAME.self_debug.md`
+  - meta: `meta/NAME.self_debug.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.shipping_confirmation_template` - shipping_confirmation_template
+  - status: complete
+  - raw: `raw/NAME.shipping_confirmation_template.md`
+  - meta: `meta/NAME.shipping_confirmation_template.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Shipping-Confirmation-Update` - Shipping Confirmation Update
+  - status: complete
+  - raw: `raw/NAME.Shipping-Confirmation-Update.md`
+  - meta: `meta/NAME.Shipping-Confirmation-Update.json`
+  - ops: complete=13, partialBodies=2, appliedPartials=1, unresolvedPartials=0
+- `NAME.Shipping-Notification-Hebrew-RTL` - Shipping Notification Hebrew RTL
+  - status: complete
+  - raw: `raw/NAME.Shipping-Notification-Hebrew-RTL.md`
+  - meta: `meta/NAME.Shipping-Notification-Hebrew-RTL.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.shopify_blocks_review` - shopify_blocks_review
+  - status: complete
+  - raw: `raw/NAME.shopify_blocks_review.md`
+  - meta: `meta/NAME.shopify_blocks_review.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=33, unresolvedPartials=2
+- `NAME.sidebar` - sidebar
+  - status: complete
+  - raw: `raw/NAME.sidebar.md`
+  - meta: `meta/NAME.sidebar.json`
+  - ops: complete=12, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.signature_generator` - signature_generator
+  - status: complete
+  - raw: `raw/NAME.signature_generator.md`
+  - meta: `meta/NAME.signature_generator.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.signature_hebrew_translation` - signature_hebrew_translation
+  - status: complete
+  - raw: `raw/NAME.signature_hebrew_translation.md`
+  - meta: `meta/NAME.signature_hebrew_translation.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.stargate_core` - stargate_core
+  - status: complete
+  - raw: `raw/NAME.stargate_core.md`
+  - meta: `meta/NAME.stargate_core.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Stargate_Hybrid_Protocol_Config` - Stargate_Hybrid_Protocol_Config
+  - status: complete
+  - raw: `raw/NAME.Stargate_Hybrid_Protocol_Config.md`
+  - meta: `meta/NAME.Stargate_Hybrid_Protocol_Config.json`
+  - ops: complete=6, partialBodies=0, appliedPartials=1, unresolvedPartials=12
+- `NAME.Stargate-Kernel` - Stargate Kernel
+  - status: complete
+  - raw: `raw/NAME.Stargate-Kernel.md`
+  - meta: `meta/NAME.Stargate-Kernel.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Stargate-Phase-1-Intent-Classifier` - Stargate Phase 1 Intent Classifier
+  - status: complete
+  - raw: `raw/NAME.Stargate-Phase-1-Intent-Classifier.md`
+  - meta: `meta/NAME.Stargate-Phase-1-Intent-Classifier.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Stargate-Phase-2-Rewrite-Engine` - Stargate Phase 2 Rewrite Engine
+  - status: complete
+  - raw: `raw/NAME.Stargate-Phase-2-Rewrite-Engine.md`
+  - meta: `meta/NAME.Stargate-Phase-2-Rewrite-Engine.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Stargate-Phase-3-Post-Processing` - Stargate Phase 3 Post Processing
+  - status: complete
+  - raw: `raw/NAME.Stargate-Phase-3-Post-Processing.md`
+  - meta: `meta/NAME.Stargate-Phase-3-Post-Processing.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.STS_Framework_ForeverFlowers` - STS_Framework_ForeverFlowers
+  - status: complete
+  - raw: `raw/NAME.STS_Framework_ForeverFlowers.md`
+  - meta: `meta/NAME.STS_Framework_ForeverFlowers.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Subscription-Addendum-Gifting-Tier` - Subscription Addendum – Gifting Tier
+  - status: complete
+  - raw: `raw/NAME.Subscription-Addendum-Gifting-Tier.md`
+  - meta: `meta/NAME.Subscription-Addendum-Gifting-Tier.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=4, unresolvedPartials=0
+- `NAME.Super-Prompts` - Super Prompts
+  - status: complete
+  - raw: `raw/NAME.Super-Prompts.md`
+  - meta: `meta/NAME.Super-Prompts.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.TNF.Translate.ExecutionContract` - TNF.Translate.ExecutionContract
+  - status: complete
+  - raw: `raw/NAME.TNF.Translate.ExecutionContract.md`
+  - meta: `meta/NAME.TNF.Translate.ExecutionContract.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.TNFChatGPTInjector` - TNFChatGPTInjector
+  - status: complete
+  - raw: `raw/NAME.TNFChatGPTInjector.md`
+  - meta: `meta/NAME.TNFChatGPTInjector.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.TNFHeuristicFallback` - TNFHeuristicFallback
+  - status: complete
+  - raw: `raw/NAME.TNFHeuristicFallback.md`
+  - meta: `meta/NAME.TNFHeuristicFallback.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.TNFKernel` - TNFKernel
+  - status: complete
+  - raw: `raw/NAME.TNFKernel.md`
+  - meta: `meta/NAME.TNFKernel.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.TNFRouter` - TNFRouter
+  - status: complete
+  - raw: `raw/NAME.TNFRouter.md`
+  - meta: `meta/NAME.TNFRouter.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.tone_audit` - tone_audit
+  - status: complete
+  - raw: `raw/NAME.tone_audit.md`
+  - meta: `meta/NAME.tone_audit.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Translate.2.1.ExecutionStandard` - Translate.2.1.ExecutionStandard
+  - status: complete
+  - raw: `raw/NAME.Translate.2.1.ExecutionStandard.md`
+  - meta: `meta/NAME.Translate.2.1.ExecutionStandard.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.translate2-extension` - translate2-extension
+  - status: complete
+  - raw: `raw/NAME.translate2-extension.md`
+  - meta: `meta/NAME.translate2-extension.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.translate2-wasm-extension-plan` - translate2-wasm-extension-plan
+  - status: complete
+  - raw: `raw/NAME.translate2-wasm-extension-plan.md`
+  - meta: `meta/NAME.translate2-wasm-extension-plan.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.Tree_of_Knowledge_Design_Philosophy` - Tree_of_Knowledge_Design_Philosophy
+  - status: complete
+  - raw: `raw/NAME.Tree_of_Knowledge_Design_Philosophy.md`
+  - meta: `meta/NAME.Tree_of_Knowledge_Design_Philosophy.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.true_fans_master_list` - true_fans_master_list
+  - status: complete
+  - raw: `raw/NAME.true_fans_master_list.md`
+  - meta: `meta/NAME.true_fans_master_list.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.ultimate-hero-section` - ultimate-hero-section
+  - status: complete
+  - raw: `raw/NAME.ultimate-hero-section.md`
+  - meta: `meta/NAME.ultimate-hero-section.json`
+  - ops: complete=7, partialBodies=0, appliedPartials=1, unresolvedPartials=0
+- `NAME.unnamed` - איך זה מושך את הלקוחות הנכונים — הסבר משותף (אלון → שירן)
+  - status: complete
+  - raw: `raw/NAME.unnamed.md`
+  - meta: `meta/NAME.unnamed.json`
+  - ops: complete=1, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `NAME.updated_page_with_image_text` - updated_page_with_image_text
+  - status: complete
+  - raw: `raw/NAME.updated_page_with_image_text.md`
+  - meta: `meta/NAME.updated_page_with_image_text.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.WG.010.PanelRoster.JSON` - WG.010.PanelRoster.JSON
+  - status: complete
+  - raw: `raw/NAME.WG.010.PanelRoster.JSON.md`
+  - meta: `meta/NAME.WG.010.PanelRoster.JSON.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `NAME.WG.010.PanelStack` - WG.010.PanelStack
+  - status: complete
+  - raw: `raw/NAME.WG.010.PanelStack.md`
+  - meta: `meta/NAME.WG.010.PanelStack.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `OS.001.SWT` - OS Switchboard – System Navigator
+  - status: complete
+  - raw: `raw/OS.001.SWT.md`
+  - meta: `meta/OS.001.SWT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `OS.100.BOOT` - Allon OS – Boot Protocol
+  - status: complete
+  - raw: `raw/OS.100.BOOT.md`
+  - meta: `meta/OS.100.BOOT.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `OS.200.MDS` - Behavioral Mode Stack Protocol
+  - status: complete
+  - raw: `raw/OS.200.MDS.md`
+  - meta: `meta/OS.200.MDS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `OS.200.MEM` - Memory OS – Allon Architecture
+  - status: complete
+  - raw: `raw/OS.200.MEM.md`
+  - meta: `meta/OS.200.MEM.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `OS.300.PDJ` - Podcast Index – Solo Sessions January 2019
+  - status: complete
+  - raw: `raw/OS.300.PDJ.md`
+  - meta: `meta/OS.300.PDJ.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `OS.300.PMT` - Prompt Surgeon v2.0 – Precision Prompt Engineering
+  - status: complete
+  - raw: `raw/OS.300.PMT.md`
+  - meta: `meta/OS.300.PMT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `OS.400.PSN` - Persona OS – Master Integration Index
+  - status: complete
+  - raw: `raw/OS.400.PSN.md`
+  - meta: `meta/OS.400.PSN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `OS.800.POD`
+  - status: complete
+  - raw: `raw/OS.800.POD.md`
+  - meta: `meta/OS.800.POD.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.000.IDX` - Persona Index: Inner & Functional
+  - status: complete
+  - raw: `raw/PR.000.IDX.md`
+  - meta: `meta/PR.000.IDX.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.000.SPP` - missing-elos-modules
+  - status: complete
+  - raw: `raw/PR.000.SPP.md`
+  - meta: `meta/PR.000.SPP.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=8
+- `PR.001.EPP` - PR.001.EPP_Prompt_Protocol
+  - status: complete
+  - raw: `raw/PR.001.EPP.md`
+  - meta: `meta/PR.001.EPP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.001.EPP-2` - ELoS-Prompt-Protocol-v2
+  - status: complete
+  - raw: `raw/PR.001.EPP-2.md`
+  - meta: `meta/PR.001.EPP-2.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.001.EPP-3` - PR.001.EPP-3 – Dynamic Intent Feedback Layer
+  - status: complete
+  - raw: `raw/PR.001.EPP-3.md`
+  - meta: `meta/PR.001.EPP-3.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.001.EPP.2.100X` - ELoS-Prompt-Templates
+  - status: complete
+  - raw: `raw/PR.001.EPP.2.100X.md`
+  - meta: `meta/PR.001.EPP.2.100X.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.001.EPP.LOG` - EPP-Changelog
+  - status: complete
+  - raw: `raw/PR.001.EPP.LOG.md`
+  - meta: `meta/PR.001.EPP.LOG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.002.SMK` - PR.002.SMK – Sharpening Kernel
+  - status: complete
+  - raw: `raw/PR.002.SMK.md`
+  - meta: `meta/PR.002.SMK.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.003.SDE` - PR.003.SDE_Socratic_Drip_Engine
+  - status: complete
+  - raw: `raw/PR.003.SDE.md`
+  - meta: `meta/PR.003.SDE.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.004.DIA` - ELoS_Prompt_Modules_Stubs
+  - status: complete
+  - raw: `raw/PR.004.DIA.md`
+  - meta: `meta/PR.004.DIA.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.005.INT` - PR.005.INT_Intent_Parser
+  - status: complete
+  - raw: `raw/PR.005.INT.md`
+  - meta: `meta/PR.005.INT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.020.PFP` - PR.020.PFP_Prompt_Forge
+  - status: complete
+  - raw: `raw/PR.020.PFP.md`
+  - meta: `meta/PR.020.PFP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.100.ALL` - PR.100.ALL – Allon Personality Core
+  - status: complete
+  - raw: `raw/PR.100.ALL.md`
+  - meta: `meta/PR.100.ALL.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.100.CVR` - PR.100.CVR – Persona / Conversion Expert
+  - status: complete
+  - raw: `raw/PR.100.CVR.md`
+  - meta: `meta/PR.100.CVR.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.100.DPH` - Dual Persona – The Commander & The Historian
+  - status: complete
+  - raw: `raw/PR.100.DPH.md`
+  - meta: `meta/PR.100.DPH.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.100.PER` - PR.100.PER – Prompts / Strategy / Persona
+  - status: complete
+  - raw: `raw/PR.100.PER.md`
+  - meta: `meta/PR.100.PER.json`
+  - ops: complete=2, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `PR.100.PRS` - ▧ PR.100.PRS – Prompt Surgeon: Master Persona Profile
+  - status: complete
+  - raw: `raw/PR.100.PRS.md`
+  - meta: `meta/PR.100.PRS.json`
+  - ops: complete=5, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.100.PSN` - Persona Archive - Full Catalog
+  - status: complete
+  - raw: `raw/PR.100.PSN.md`
+  - meta: `meta/PR.100.PSN.json`
+  - ops: complete=7, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `PR.201.PLN` - PR.201.PLN
+  - status: complete
+  - raw: `raw/PR.201.PLN.md`
+  - meta: `meta/PR.201.PLN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.202.FIN` - PR.202.FIN
+  - status: complete
+  - raw: `raw/PR.202.FIN.md`
+  - meta: `meta/PR.202.FIN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.203.MKT` - PR.203.MKT
+  - status: complete
+  - raw: `raw/PR.203.MKT.md`
+  - meta: `meta/PR.203.MKT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.204.BRD` - PR.204.BRD
+  - status: complete
+  - raw: `raw/PR.204.BRD.md`
+  - meta: `meta/PR.204.BRD.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.205.ARC` - PR.205.ARC
+  - status: complete
+  - raw: `raw/PR.205.ARC.md`
+  - meta: `meta/PR.205.ARC.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.206.GPT` - PR.206.GPT
+  - status: complete
+  - raw: `raw/PR.206.GPT.md`
+  - meta: `meta/PR.206.GPT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.207.SHR` - PR.207.SHR
+  - status: complete
+  - raw: `raw/PR.207.SHR.md`
+  - meta: `meta/PR.207.SHR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.208.IMA` - PR.208.IMA
+  - status: complete
+  - raw: `raw/PR.208.IMA.md`
+  - meta: `meta/PR.208.IMA.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.209.BUB` - PR.209.BUB
+  - status: complete
+  - raw: `raw/PR.209.BUB.md`
+  - meta: `meta/PR.209.BUB.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.210.ALB` - PR.210.ALB
+  - status: complete
+  - raw: `raw/PR.210.ALB.md`
+  - meta: `meta/PR.210.ALB.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.300.CRT` - The Critic
+  - status: complete
+  - raw: `raw/PR.300.CRT.md`
+  - meta: `meta/PR.300.CRT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.300.EFR` - The Emotional Architect (Efrat)
+  - status: complete
+  - raw: `raw/PR.300.EFR.md`
+  - meta: `meta/PR.300.EFR.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.300.FBK` - PR.300.FBK
+  - status: complete
+  - raw: `raw/PR.300.FBK.md`
+  - meta: `meta/PR.300.FBK.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.300.GHO` - The Ghost
+  - status: complete
+  - raw: `raw/PR.300.GHO.md`
+  - meta: `meta/PR.300.GHO.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.300.ORN` - The Contrarian (Oren)
+  - status: complete
+  - raw: `raw/PR.300.ORN.md`
+  - meta: `meta/PR.300.ORN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.301.MCN` - PR.301.MCN
+  - status: complete
+  - raw: `raw/PR.301.MCN.md`
+  - meta: `meta/PR.301.MCN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.302.NXT` - PR.302.NXT
+  - status: complete
+  - raw: `raw/PR.302.NXT.md`
+  - meta: `meta/PR.302.NXT.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.700.CPC` - PR.700.CPC – Copy Prompt Core
+  - status: partial
+  - raw: `raw/PR.700.CPC.md`
+  - meta: `meta/PR.700.CPC.json`
+  - ops: complete=0, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `PR.700.IMG` - PR.700.IMG.PhotoRoomPromptEngine
+  - status: complete
+  - raw: `raw/PR.700.IMG.md`
+  - meta: `meta/PR.700.IMG.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.900.CMD` - PR.900.CMD – Command Registry
+  - status: complete
+  - raw: `raw/PR.900.CMD.md`
+  - meta: `meta/PR.900.CMD.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.900.LMM` - PR.900.LMM_Local_Memory_Matching
+  - status: complete
+  - raw: `raw/PR.900.LMM.md`
+  - meta: `meta/PR.900.LMM.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `PR.910.PSN.LIBRARIAN` - PR.910.PSN.LIBRARIAN
+  - status: complete
+  - raw: `raw/PR.910.PSN.LIBRARIAN.md`
+  - meta: `meta/PR.910.PSN.LIBRARIAN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `SYS.101.SGS` - SYS.101.SGS_Stargate_Protocol
+  - status: complete
+  - raw: `raw/SYS.101.SGS.md`
+  - meta: `meta/SYS.101.SGS.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `UIX.420.CNV` - UIX_Canvas_Menu_Tier_Phase_Mock
+  - status: complete
+  - raw: `raw/UIX.420.CNV.md`
+  - meta: `meta/UIX.420.CNV.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `UUID.087ecf9b-ade5-416b-b2e0-7ecc2c8989e2-0`
+  - status: complete
+  - raw: `raw/UUID.087ecf9b-ade5-416b-b2e0-7ecc2c8989e2-0.md`
+  - meta: `meta/UUID.087ecf9b-ade5-416b-b2e0-7ecc2c8989e2-0.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `UUID.2f077234-b54c-49cb-8525-6e43b2a8163c-0`
+  - status: partial
+  - raw: `raw/UUID.2f077234-b54c-49cb-8525-6e43b2a8163c-0.md`
+  - meta: `meta/UUID.2f077234-b54c-49cb-8525-6e43b2a8163c-0.json`
+  - ops: complete=0, partialBodies=1, appliedPartials=0, unresolvedPartials=0
+- `UUID.4fbfda22-58d7-405f-bb7c-060157063eb4-0`
+  - status: complete
+  - raw: `raw/UUID.4fbfda22-58d7-405f-bb7c-060157063eb4-0.md`
+  - meta: `meta/UUID.4fbfda22-58d7-405f-bb7c-060157063eb4-0.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `UUID.59b2152d-7a83-496d-85a5-c0e4bd3ef1a8`
+  - status: complete
+  - raw: `raw/UUID.59b2152d-7a83-496d-85a5-c0e4bd3ef1a8.md`
+  - meta: `meta/UUID.59b2152d-7a83-496d-85a5-c0e4bd3ef1a8.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `UUID.ad708119-6b5a-4f79-a08d-67ae444d89cc-0`
+  - status: complete
+  - raw: `raw/UUID.ad708119-6b5a-4f79-a08d-67ae444d89cc-0.md`
+  - meta: `meta/UUID.ad708119-6b5a-4f79-a08d-67ae444d89cc-0.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `UUID.d565e00c-8025-4640-816c-6a279a270aff-0`
+  - status: complete
+  - raw: `raw/UUID.d565e00c-8025-4640-816c-6a279a270aff-0.md`
+  - meta: `meta/UUID.d565e00c-8025-4640-816c-6a279a270aff-0.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `UUID.d7fc8286-8c8d-454c-a73d-331ce6ff9c08-0`
+  - status: complete
+  - raw: `raw/UUID.d7fc8286-8c8d-454c-a73d-331ce6ff9c08-0.md`
+  - meta: `meta/UUID.d7fc8286-8c8d-454c-a73d-331ce6ff9c08-0.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `UUID.ec74345d-9166-4cd0-9a8b-bcbf8e19bac7-0`
+  - status: complete
+  - raw: `raw/UUID.ec74345d-9166-4cd0-9a8b-bcbf8e19bac7-0.md`
+  - meta: `meta/UUID.ec74345d-9166-4cd0-9a8b-bcbf8e19bac7-0.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `UX.400.ONB` - UX.400.ONB_Onboarding_Flow
+  - status: complete
+  - raw: `raw/UX.400.ONB.md`
+  - meta: `meta/UX.400.ONB.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `VP.900.FF` - FF_SoftStructure_Fingerprint
+  - status: complete
+  - raw: `raw/VP.900.FF.md`
+  - meta: `meta/VP.900.FF.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `VP.901.FF` - FF_Israeli_Luxury_Audit
+  - status: complete
+  - raw: `raw/VP.901.FF.md`
+  - meta: `meta/VP.901.FF.json`
+  - ops: complete=8, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `VV.999.HUD` - VV.999.HUD – vVerse Live System Overlay
+  - status: complete
+  - raw: `raw/VV.999.HUD.md`
+  - meta: `meta/VV.999.HUD.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `VV.999.LOG` - VV.999.LOG – vVerse System Event Log
+  - status: complete
+  - raw: `raw/VV.999.LOG.md`
+  - meta: `meta/VV.999.LOG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `VV.999.MAP` - VV.999.MAP – vVerse Atlas Map
+  - status: complete
+  - raw: `raw/VV.999.MAP.md`
+  - meta: `meta/VV.999.MAP.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `VV.999.META` - VV.999.META – vVerse Core Logic Stack
+  - status: complete
+  - raw: `raw/VV.999.META.md`
+  - meta: `meta/VV.999.META.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `VV.999.MIN` - VV.999.MIN – vVerse MiniHUD Sidebar Overlay
+  - status: complete
+  - raw: `raw/VV.999.MIN.md`
+  - meta: `meta/VV.999.MIN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `VV.999.PTN` - VV.999.PTN – Pattern Memory Engine
+  - status: complete
+  - raw: `raw/VV.999.PTN.md`
+  - meta: `meta/VV.999.PTN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `VV.999.SCN` - VV.999.SCN – Scenario Reconstructor
+  - status: complete
+  - raw: `raw/VV.999.SCN.md`
+  - meta: `meta/VV.999.SCN.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `WG.000.CMD` - WG.000.CMD – War Games Console Core
+  - status: complete
+  - raw: `raw/WG.000.CMD.md`
+  - meta: `meta/WG.000.CMD.json`
+  - ops: complete=2, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `WG.001.PSN` - WG.001.PSN.Jocko
+  - status: complete
+  - raw: `raw/WG.001.PSN.md`
+  - meta: `meta/WG.001.PSN.json`
+  - ops: complete=3, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `WG.002.PSN` - WG.002.PSN.Darryl
+  - status: complete
+  - raw: `raw/WG.002.PSN.md`
+  - meta: `meta/WG.002.PSN.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=4
+- `WG.011.PSN` - WG.011.PSN.IDFCommanders.v2
+  - status: complete
+  - raw: `raw/WG.011.PSN.md`
+  - meta: `meta/WG.011.PSN.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `WG.012.PSN` - WG.012.PSN.CyberClarke.v2
+  - status: complete
+  - raw: `raw/WG.012.PSN.md`
+  - meta: `meta/WG.012.PSN.json`
+  - ops: complete=4, partialBodies=0, appliedPartials=0, unresolvedPartials=0
+- `WG.900.SIMLOG` - WG.900.SIMLOG
+  - status: complete
+  - raw: `raw/WG.900.SIMLOG.md`
+  - meta: `meta/WG.900.SIMLOG.json`
+  - ops: complete=1, partialBodies=0, appliedPartials=0, unresolvedPartials=0

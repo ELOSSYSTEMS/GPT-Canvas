@@ -1,0 +1,77 @@
+{
+  "artifactKey": "EL.410.PRC",
+  "names": [
+    "ELOS Lite and Pro Protocols"
+  ],
+  "titles": [
+    "ELOS Protocol Lite & Pro Design Specification"
+  ],
+  "conversations": [
+    "ELOS Extension Integration",
+    "Mode Forks: Text vs Voice"
+  ],
+  "latestTime": 1749360638.889392,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Mode Forks: Text vs Voice",
+    "createTime": 1749360638.889392,
+    "messageId": "44605242-505a-4dde-8fe4-8724e51f3131",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748605405.843657,
+      "messageId": "1090aa14-19e2-4b6b-839a-81ab4ff4c0dd",
+      "conversation": "ELOS Extension Integration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2786,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748606318.266768,
+      "messageId": "7ea8ffc0-c006-4a59-b3d8-d5dff4a9cf9f",
+      "conversation": "ELOS Extension Integration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3140,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748606765.038251,
+      "messageId": "9b49835c-2f0e-4e3f-beb9-c8931a87cef5",
+      "conversation": "ELOS Extension Integration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2899,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749360638.889392,
+      "messageId": "44605242-505a-4dde-8fe4-8724e51f3131",
+      "conversation": "Mode Forks: Text vs Voice",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 660,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

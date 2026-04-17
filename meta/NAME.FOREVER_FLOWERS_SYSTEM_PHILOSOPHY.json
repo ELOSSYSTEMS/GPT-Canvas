@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.FOREVER_FLOWERS_SYSTEM_PHILOSOPHY",
+  "names": [
+    "FOREVER_FLOWERS_SYSTEM_PHILOSOPHY"
+  ],
+  "titles": [
+    "FOREVER_FLOWERS_SYSTEM_PHILOSOPHY"
+  ],
+  "conversations": [
+    "Forever Flowers Site Review"
+  ],
+  "latestTime": 1767994177.979449,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Forever Flowers Site Review",
+    "createTime": 1767994177.979449,
+    "messageId": "ed56fff2-37d5-48d2-bef8-62d157704f5f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1767994177.979449,
+      "messageId": "ed56fff2-37d5-48d2-bef8-62d157704f5f",
+      "conversation": "Forever Flowers Site Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4708,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

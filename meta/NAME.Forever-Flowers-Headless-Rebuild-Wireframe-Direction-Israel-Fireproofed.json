@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Forever-Flowers-Headless-Rebuild-Wireframe-Direction-Israel-Fireproofed",
+  "names": [
+    "Forever Flowers — Headless Rebuild Wireframe & Direction (Israel Fireproofed)"
+  ],
+  "titles": [
+    "Forever Flowers — Headless Rebuild Wireframe & Direction (Israel Fireproofed)"
+  ],
+  "conversations": [
+    "Vercel Shopify Integration Guide"
+  ],
+  "latestTime": 1767989860.272348,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Vercel Shopify Integration Guide",
+    "createTime": 1767989860.272348,
+    "messageId": "5d935c82-dac6-4387-9d85-475cddc4eef8",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1767989860.272348,
+      "messageId": "5d935c82-dac6-4387-9d85-475cddc4eef8",
+      "conversation": "Vercel Shopify Integration Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5229,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

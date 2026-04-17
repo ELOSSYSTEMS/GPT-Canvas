@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.700.CPC",
+  "names": [
+    "PR.700.CPC – Copy Prompt Core"
+  ],
+  "titles": [
+    "PR.700.CPC – Copy Prompt Core"
+  ],
+  "conversations": [
+    "Canvas List Retrieval"
+  ],
+  "latestTime": 1753973303.620701,
+  "latestBodyComplete": false,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Canvas List Retrieval",
+    "createTime": 1753973303.620701,
+    "messageId": "b710a3b2-2464-4f19-ad47-33554d7f745e",
+    "heuristic": "create-payload",
+    "parseMode": "regex-create-partial"
+  },
+  "completeBodyOps": 0,
+  "partialBodyOps": 1,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753973303.620701,
+      "messageId": "b710a3b2-2464-4f19-ad47-33554d7f745e",
+      "conversation": "Canvas List Retrieval",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 699,
+      "heuristic": "create-payload",
+      "parseMode": "regex-create-partial",
+      "pattern": null
+    }
+  ]
+}

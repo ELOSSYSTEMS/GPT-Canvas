@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.forever-flowers-collections-summary",
+  "names": [
+    "forever-flowers-collections-summary"
+  ],
+  "titles": [
+    "forever-flowers-collections-summary"
+  ],
+  "conversations": [
+    "Forever Flowers Editions Overview"
+  ],
+  "latestTime": 1752076608.641732,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Forever Flowers Editions Overview",
+    "createTime": 1752076608.641732,
+    "messageId": "f0775998-ef78-4240-a7ef-dc0e6a2b7216",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1752076506.156559,
+      "messageId": "d0f3c55e-2dd7-4b0b-b2ab-f2e92b06aaa9",
+      "conversation": "Forever Flowers Editions Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4100,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1752076608.641732,
+      "messageId": "f0775998-ef78-4240-a7ef-dc0e6a2b7216",
+      "conversation": "Forever Flowers Editions Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4175,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.100.DPH",
+  "names": [
+    "Dual Persona - The Commander and The Historian"
+  ],
+  "titles": [
+    "Dual Persona – The Commander & The Historian"
+  ],
+  "conversations": [
+    "Unraveler Persona Creation"
+  ],
+  "latestTime": 1747857503.849414,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Unraveler Persona Creation",
+    "createTime": 1747857503.849414,
+    "messageId": "6df96681-065c-4e8c-b280-a71c94d89219",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747857503.849414,
+      "messageId": "6df96681-065c-4e8c-b280-a71c94d89219",
+      "conversation": "Unraveler Persona Creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3403,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

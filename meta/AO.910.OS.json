@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.910.OS",
+  "names": [
+    "AO.910.OS.PersonaWorkers"
+  ],
+  "titles": [
+    "AO.910.OS.PersonaWorkers"
+  ],
+  "conversations": [
+    "Recursive Persona System Design"
+  ],
+  "latestTime": 1748186664.667158,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Recursive Persona System Design",
+    "createTime": 1748186664.667158,
+    "messageId": "f2602407-52ff-4abb-93e1-28fce980aed9",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748186664.667158,
+      "messageId": "f2602407-52ff-4abb-93e1-28fce980aed9",
+      "conversation": "Recursive Persona System Design",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3871,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

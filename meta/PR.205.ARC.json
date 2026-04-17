@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.205.ARC",
+  "names": [
+    "PR.205.ARC"
+  ],
+  "titles": [
+    "PR.205.ARC"
+  ],
+  "conversations": [
+    "Mission Ready Status"
+  ],
+  "latestTime": 1747610742.583862,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mission Ready Status",
+    "createTime": 1747610742.583862,
+    "messageId": "c88f9f1c-c993-4c32-828f-3461b466a096",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747610742.583862,
+      "messageId": "c88f9f1c-c993-4c32-828f-3461b466a096",
+      "conversation": "Mission Ready Status",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2314,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

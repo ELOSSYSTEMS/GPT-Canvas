@@ -1,0 +1,52 @@
+{
+  "artifactKey": "FF.700.LOG – Arcaffe Delivery Logistics Persona",
+  "names": [
+    "FF.700.LOG – Arcaffe Delivery Logistics Persona"
+  ],
+  "titles": [
+    "FF.700.LOG – Arcaffe Delivery Logistics Persona"
+  ],
+  "conversations": [
+    "Bootloader Initialization Complete"
+  ],
+  "latestTime": 1748719739.200537,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Bootloader Initialization Complete",
+    "createTime": 1748719739.200537,
+    "messageId": "25a893a0-840e-4b0a-bf31-7dd5ef655164",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748719095.606858,
+      "messageId": "9f63d456-9eb3-49a9-bbd3-d51d16348f45",
+      "conversation": "Bootloader Initialization Complete",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2274,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748719739.200537,
+      "messageId": "25a893a0-840e-4b0a-bf31-7dd5ef655164",
+      "conversation": "Bootloader Initialization Complete",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2678,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

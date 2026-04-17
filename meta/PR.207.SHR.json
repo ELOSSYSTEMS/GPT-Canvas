@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.207.SHR",
+  "names": [
+    "PR.207.SHR"
+  ],
+  "titles": [
+    "PR.207.SHR"
+  ],
+  "conversations": [
+    "Mission Ready Status"
+  ],
+  "latestTime": 1747610774.248197,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mission Ready Status",
+    "createTime": 1747610774.248197,
+    "messageId": "bb3d8d4b-12d3-49e8-9c90-69f172b5c8e9",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747610774.248197,
+      "messageId": "bb3d8d4b-12d3-49e8-9c90-69f172b5c8e9",
+      "conversation": "Mission Ready Status",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2078,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

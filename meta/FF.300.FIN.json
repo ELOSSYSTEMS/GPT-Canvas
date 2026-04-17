@@ -1,0 +1,52 @@
+{
+  "artifactKey": "FF.300.FIN",
+  "names": [
+    "FF.300.FIN – Financial Model & Forecasts"
+  ],
+  "titles": [
+    "FF.300.FIN – Financial Model & Forecasts"
+  ],
+  "conversations": [
+    "Fear and Loathing Transcripts"
+  ],
+  "latestTime": 1749073487.493467,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Fear and Loathing Transcripts",
+    "createTime": 1749073487.493467,
+    "messageId": "5e76c307-1dc7-4e0b-aa66-4708687ddb42",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749073284.735311,
+      "messageId": "a513c8ef-3a16-483c-b699-284de56b1db7",
+      "conversation": "Fear and Loathing Transcripts",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2870,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749073487.493467,
+      "messageId": "5e76c307-1dc7-4e0b-aa66-4708687ddb42",
+      "conversation": "Fear and Loathing Transcripts",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4334,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

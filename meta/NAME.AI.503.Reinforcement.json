@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.503.Reinforcement",
+  "names": [
+    "AI.503.Reinforcement"
+  ],
+  "titles": [
+    "AI.503.Reinforcement"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756439.302635,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756439.302635,
+    "messageId": "6c29ae1e-9522-44eb-bd6f-ed0bb6f07992",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756439.302635,
+      "messageId": "6c29ae1e-9522-44eb-bd6f-ed0bb6f07992",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 761,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

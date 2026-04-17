@@ -1,0 +1,52 @@
+{
+  "artifactKey": "AO.100.OVL.V3",
+  "names": [
+    "Allon-Psych-Overlay-v3-to-v6"
+  ],
+  "titles": [
+    "Allon-Psych-Overlay-v3-to-v6"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748033039.65225,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748033039.65225,
+    "messageId": "535ffa03-a47a-4525-87c5-c5e6a2b635f3",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748032926.214227,
+      "messageId": "398268f0-9436-4e06-86be-ea6171514bc5",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3886,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748033039.65225,
+      "messageId": "535ffa03-a47a-4525-87c5-c5e6a2b635f3",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4644,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

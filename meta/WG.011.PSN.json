@@ -1,0 +1,82 @@
+{
+  "artifactKey": "WG.011.PSN",
+  "names": [
+    "WG.011.PSN.IDFCommanders.v2",
+    "WG.011.PSN.milBarak.v2",
+    "WG.011.PSN.diplEland.v2",
+    "WG.011.PSN.homeNitzan.v2"
+  ],
+  "titles": [
+    "WG.011.PSN.IDFCommanders.v2",
+    "WG.011.PSN.milBarak.v2",
+    "WG.011.PSN.diplEland.v2",
+    "WG.011.PSN.homeNitzan.v2"
+  ],
+  "conversations": [
+    "War Games"
+  ],
+  "latestTime": 1749803428.925088,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "War Games",
+    "createTime": 1749803428.925088,
+    "messageId": "2cc3600a-b9bb-47cc-9388-30ace69f3efe",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749802928.123985,
+      "messageId": "a0f2a07c-ef06-40c4-bfc7-1583d5418d06",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2524,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749803359.980692,
+      "messageId": "8b834d6d-22dc-43c7-b1c5-acf32955c63c",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1635,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749803387.495471,
+      "messageId": "0fe8b9f5-5ab0-436e-abcd-3ceb614e9588",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1699,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749803428.925088,
+      "messageId": "2cc3600a-b9bb-47cc-9388-30ace69f3efe",
+      "conversation": "War Games",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1699,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

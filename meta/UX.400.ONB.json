@@ -1,0 +1,40 @@
+{
+  "artifactKey": "UX.400.ONB",
+  "names": [
+    "UX.400.ONB_Onboarding_Flow"
+  ],
+  "titles": [
+    "UX.400.ONB_Onboarding_Flow"
+  ],
+  "conversations": [
+    "BUILDING THE WEBAPP"
+  ],
+  "latestTime": 1750596884.863388,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "BUILDING THE WEBAPP",
+    "createTime": 1750596884.863388,
+    "messageId": "82bf06d8-f5f4-48a6-84e7-ccf46d5467b8",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750596884.863388,
+      "messageId": "82bf06d8-f5f4-48a6-84e7-ccf46d5467b8",
+      "conversation": "BUILDING THE WEBAPP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1374,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

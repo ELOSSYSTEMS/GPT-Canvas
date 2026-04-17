@@ -1,0 +1,64 @@
+{
+  "artifactKey": "NAME.ELos-Academy-Integration-Code",
+  "names": [
+    "ELos Academy Integration Code"
+  ],
+  "titles": [
+    "ELos Academy Integration Code"
+  ],
+  "conversations": [
+    "ELos academy integration"
+  ],
+  "latestTime": 1748102515.072366,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "ELos academy integration",
+    "createTime": 1748102515.072366,
+    "messageId": "336dc61f-d80f-437b-92e1-ed809d0af317",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748102112.391497,
+      "messageId": "8cbcdb5d-b89a-479f-8d8d-608f4c9e47cb",
+      "conversation": "ELos academy integration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1447,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748102136.305996,
+      "messageId": "2cf09cf6-a287-4eef-a44b-6e61ffb168c7",
+      "conversation": "ELos academy integration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1784,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748102515.072366,
+      "messageId": "336dc61f-d80f-437b-92e1-ed809d0af317",
+      "conversation": "ELos academy integration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2090,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

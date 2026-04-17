@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.003.EXP",
+  "names": [
+    "EL.003.EXP – Experimental Prompt Protocol Layer"
+  ],
+  "titles": [
+    "EL.003.EXP – Experimental Prompt Protocol Layer"
+  ],
+  "conversations": [
+    "PROMPT PROTOCOL OPTIMIZATION"
+  ],
+  "latestTime": 1748973333.351834,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+    "createTime": 1748973333.351834,
+    "messageId": "b18cdf18-f486-43f0-9093-7c85d0f66657",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748973333.351834,
+      "messageId": "b18cdf18-f486-43f0-9093-7c85d0f66657",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 883,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

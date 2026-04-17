@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.filtered_collection_tag",
+  "names": [
+    "filtered_collection_tag"
+  ],
+  "titles": [
+    "filtered_collection_tag"
+  ],
+  "conversations": [
+    "Create collection page"
+  ],
+  "latestTime": 1753732390.163781,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Create collection page",
+    "createTime": 1753732390.163781,
+    "messageId": "296a2753-b950-463c-aa63-99bf3d258ec6",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753732390.163781,
+      "messageId": "296a2753-b950-463c-aa63-99bf3d258ec6",
+      "conversation": "Create collection page",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1223,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.504.Dataset",
+  "names": [
+    "AI.504.Dataset"
+  ],
+  "titles": [
+    "AI.504.Dataset"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756443.915975,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756443.915975,
+    "messageId": "6fdf18df-858f-4483-ae23-e9f3a7c5928b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756443.915975,
+      "messageId": "6fdf18df-858f-4483-ae23-e9f3a7c5928b",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 730,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

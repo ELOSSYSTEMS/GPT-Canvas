@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.440.LOC",
+  "names": [
+    "ELos_Local_Only_Feature_Map"
+  ],
+  "titles": [
+    "ELos_Local_Only_Feature_Map"
+  ],
+  "conversations": [
+    "Builder Onboarding Step 4"
+  ],
+  "latestTime": 1748198815.040587,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Builder Onboarding Step 4",
+    "createTime": 1748198815.040587,
+    "messageId": "f469dc32-34a1-465e-98d5-5d511e458fa6",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748198815.040587,
+      "messageId": "f469dc32-34a1-465e-98d5-5d511e458fa6",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3993,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

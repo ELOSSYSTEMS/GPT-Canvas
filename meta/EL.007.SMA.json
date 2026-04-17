@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.007.SMA",
+  "names": [
+    "EL.007.PatchSuite"
+  ],
+  "titles": [
+    "EL.007.PatchSuite"
+  ],
+  "conversations": [
+    "PROMPT PROTOCOL OPTIMIZATION"
+  ],
+  "latestTime": 1748977814.534146,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+    "createTime": 1748977814.534146,
+    "messageId": "aac469c7-20e6-439c-8541-2521ee88b38a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748977814.534146,
+      "messageId": "aac469c7-20e6-439c-8541-2521ee88b38a",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3117,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

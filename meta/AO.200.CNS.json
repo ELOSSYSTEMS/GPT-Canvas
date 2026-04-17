@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.200.CNS",
+  "names": [
+    "Consistency Auditor Persona"
+  ],
+  "titles": [
+    "Consistency Auditor Persona"
+  ],
+  "conversations": [
+    "Memory Modularization Plan"
+  ],
+  "latestTime": 1748116105.405858,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Memory Modularization Plan",
+    "createTime": 1748116105.405858,
+    "messageId": "cef6ef19-2533-433e-87fc-d44a98e0b13b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748116105.405858,
+      "messageId": "cef6ef19-2533-433e-87fc-d44a98e0b13b",
+      "conversation": "Memory Modularization Plan",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1292,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

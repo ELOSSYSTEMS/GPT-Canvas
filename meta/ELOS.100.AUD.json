@@ -1,0 +1,40 @@
+{
+  "artifactKey": "ELOS.100.AUD",
+  "names": [
+    "The Auditor"
+  ],
+  "titles": [
+    "The Auditor"
+  ],
+  "conversations": [
+    "ELos Buildout Structure"
+  ],
+  "latestTime": 1748089761.61046,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Buildout Structure",
+    "createTime": 1748089761.61046,
+    "messageId": "e86c027a-405d-4691-bf18-a47e9ca226c2",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748089761.61046,
+      "messageId": "e86c027a-405d-4691-bf18-a47e9ca226c2",
+      "conversation": "ELos Buildout Structure",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1302,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

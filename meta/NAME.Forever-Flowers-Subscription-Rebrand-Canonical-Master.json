@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Forever-Flowers-Subscription-Rebrand-Canonical-Master",
+  "names": [
+    "Forever Flowers Subscription Rebrand — Canonical Master"
+  ],
+  "titles": [
+    "Forever Flowers Subscription Rebrand — Canonical Master"
+  ],
+  "conversations": [
+    "SUB WEB REBUILD"
+  ],
+  "latestTime": 1769434031.621598,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "SUB WEB REBUILD",
+    "createTime": 1769434031.621598,
+    "messageId": "5233d778-aead-49a6-8f93-150a4cbd8ec3",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1769434031.621598,
+      "messageId": "5233d778-aead-49a6-8f93-150a4cbd8ec3",
+      "conversation": "SUB WEB REBUILD",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4187,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "ELOS.100.OBG",
+  "names": [
+    "ELos - Tier-Based Onboarding System"
+  ],
+  "titles": [
+    "ELos - Tier-Based Onboarding System"
+  ],
+  "conversations": [
+    "Recursive Guidance for Beginners"
+  ],
+  "latestTime": 1748074293.622626,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Recursive Guidance for Beginners",
+    "createTime": 1748074293.622626,
+    "messageId": "ecf6f076-95c0-471e-9107-005dfe743769",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748074293.622626,
+      "messageId": "ecf6f076-95c0-471e-9107-005dfe743769",
+      "conversation": "Recursive Guidance for Beginners",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2383,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

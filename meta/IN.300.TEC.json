@@ -1,0 +1,52 @@
+{
+  "artifactKey": "IN.300.TEC",
+  "names": [
+    "Allon OS – Chrome Extension System Blueprint"
+  ],
+  "titles": [
+    "Allon OS – Chrome Extension System Blueprint"
+  ],
+  "conversations": [
+    "NEW CHATPT OS APP"
+  ],
+  "latestTime": 1748013448.42337,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "NEW CHATPT OS APP",
+    "createTime": 1748013448.42337,
+    "messageId": "23e3c315-90eb-49bf-96bf-971c5ac324b8",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748013263.557432,
+      "messageId": "b87a3258-3209-42f8-8574-385a5dc1f571",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2092,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748013448.42337,
+      "messageId": "23e3c315-90eb-49bf-96bf-971c5ac324b8",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2644,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.dabroo_single_page",
+  "names": [
+    "dabroo_single_page"
+  ],
+  "titles": [
+    "dabroo_single_page"
+  ],
+  "conversations": [
+    "Liquid Page Breakdown Issues"
+  ],
+  "latestTime": 1747203955.393794,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Liquid Page Breakdown Issues",
+    "createTime": 1747203955.393794,
+    "messageId": "b692a71d-90a9-459a-babd-f5a341281fc1",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747171907.424003,
+      "messageId": "9bf1b2d5-646a-43fb-b566-5f43fce8e4ff",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 7661,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747203955.393794,
+      "messageId": "b692a71d-90a9-459a-babd-f5a341281fc1",
+      "conversation": "Liquid Page Breakdown Issues",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4186,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

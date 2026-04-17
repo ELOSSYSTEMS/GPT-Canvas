@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.constraint_checker",
+  "names": [
+    "constraint_checker"
+  ],
+  "titles": [
+    "constraint_checker"
+  ],
+  "conversations": [
+    "ELos Translate 2.0 Test"
+  ],
+  "latestTime": 1748716799.709636,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Translate 2.0 Test",
+    "createTime": 1748716799.709636,
+    "messageId": "99709306-8a2a-4ea5-b269-192e064e024a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748716799.709636,
+      "messageId": "99709306-8a2a-4ea5-b269-192e064e024a",
+      "conversation": "ELos Translate 2.0 Test",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 197,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

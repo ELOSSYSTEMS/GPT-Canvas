@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.300.OS3",
+  "names": [
+    "Allon OS Chrome Extension v3"
+  ],
+  "titles": [
+    "Allon OS Chrome Extension v3"
+  ],
+  "conversations": [
+    "Memory Modularization Plan"
+  ],
+  "latestTime": 1748116118.339024,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Memory Modularization Plan",
+    "createTime": 1748116118.339024,
+    "messageId": "6f60c0fa-4841-4193-a323-432c64da506f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748116118.339024,
+      "messageId": "6f60c0fa-4841-4193-a323-432c64da506f",
+      "conversation": "Memory Modularization Plan",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1003,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

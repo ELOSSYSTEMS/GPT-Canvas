@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.460.PHA",
+  "names": [
+    "ELos_Phase_Logic_By_Tier"
+  ],
+  "titles": [
+    "ELos_Phase_Logic_By_Tier"
+  ],
+  "conversations": [
+    "Builder Onboarding Step 4"
+  ],
+  "latestTime": 1748199934.95983,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Builder Onboarding Step 4",
+    "createTime": 1748199934.95983,
+    "messageId": "7d9ea7e2-589c-490c-8a61-3355114cbf8d",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748199934.95983,
+      "messageId": "7d9ea7e2-589c-490c-8a61-3355114cbf8d",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2558,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

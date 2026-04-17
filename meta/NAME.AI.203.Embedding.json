@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.203.Embedding",
+  "names": [
+    "AI.203.Embedding"
+  ],
+  "titles": [
+    "AI.203.Embedding"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756294.006414,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756294.006414,
+    "messageId": "b4893c7f-e064-4533-b644-9f6dac66af95",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756294.006414,
+      "messageId": "b4893c7f-e064-4533-b644-9f6dac66af95",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 770,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

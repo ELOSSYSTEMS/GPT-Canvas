@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.bouquet_gallery_prestige",
+  "names": [
+    "bouquet_gallery_prestige"
+  ],
+  "titles": [
+    "bouquet_gallery_prestige"
+  ],
+  "conversations": [
+    "RealtimeStack Shopify App Overview"
+  ],
+  "latestTime": 1752749214.147476,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "RealtimeStack Shopify App Overview",
+    "createTime": 1752749214.147476,
+    "messageId": "f44da593-04e3-4e76-98e0-851d5679504d",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1752749116.700302,
+      "messageId": "d2f82fae-3267-4675-aa95-21c46078091e",
+      "conversation": "RealtimeStack Shopify App Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1925,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1752749214.147476,
+      "messageId": "f44da593-04e3-4e76-98e0-851d5679504d",
+      "conversation": "RealtimeStack Shopify App Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1925,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "IN.100.MKT",
+  "names": [
+    "GPTOS – Full Build & Tiered Access Strategy"
+  ],
+  "titles": [
+    "GPTOS – Full Build & Tiered Access Strategy"
+  ],
+  "conversations": [
+    "NEW CHATPT OS APP"
+  ],
+  "latestTime": 1748022853.197625,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "NEW CHATPT OS APP",
+    "createTime": 1748022853.197625,
+    "messageId": "35f96e63-0b08-4258-896c-b04e4be24097",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748022853.197625,
+      "messageId": "35f96e63-0b08-4258-896c-b04e4be24097",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2240,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

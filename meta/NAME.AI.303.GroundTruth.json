@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.303.GroundTruth",
+  "names": [
+    "AI.303.GroundTruth"
+  ],
+  "titles": [
+    "AI.303.GroundTruth"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756360.260308,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756360.260308,
+    "messageId": "51d1e3d5-7429-4e66-bc42-f590b43719ff",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756360.260308,
+      "messageId": "51d1e3d5-7429-4e66-bc42-f590b43719ff",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 749,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

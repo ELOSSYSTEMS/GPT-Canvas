@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Stargate-Phase-2-Rewrite-Engine",
+  "names": [
+    "Stargate Phase 2 Rewrite Engine"
+  ],
+  "titles": [
+    "Stargate Phase 2 Rewrite Engine"
+  ],
+  "conversations": [
+    "שיחה עם עוזר"
+  ],
+  "latestTime": 1748894715.426796,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "שיחה עם עוזר",
+    "createTime": 1748894715.426796,
+    "messageId": "a990ed2f-ddb0-4607-bc0a-bb0865c956ca",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748894715.426796,
+      "messageId": "a990ed2f-ddb0-4607-bc0a-bb0865c956ca",
+      "conversation": "שיחה עם עוזר",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 762,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

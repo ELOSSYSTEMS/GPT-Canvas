@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.STS_Framework_ForeverFlowers",
+  "names": [
+    "STS_Framework_ForeverFlowers"
+  ],
+  "titles": [
+    "STS_Framework_ForeverFlowers"
+  ],
+  "conversations": [
+    "STS Meta Ad Recreation"
+  ],
+  "latestTime": 1749843763.909641,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "STS Meta Ad Recreation",
+    "createTime": 1749843763.909641,
+    "messageId": "8ddde7b0-1b68-4704-a083-b783074266aa",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749843763.909641,
+      "messageId": "8ddde7b0-1b68-4704-a083-b783074266aa",
+      "conversation": "STS Meta Ad Recreation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2375,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

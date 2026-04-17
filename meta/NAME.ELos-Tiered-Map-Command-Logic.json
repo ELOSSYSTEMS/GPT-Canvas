@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tiered-Map-Command-Logic",
+  "names": [
+    "ELos - Tiered Map Command Logic"
+  ],
+  "titles": [
+    "ELos - Tiered Map Command Logic"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083425.948513,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083425.948513,
+    "messageId": "09d52fe0-b768-45f9-90d8-1428bf98d1e6",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083425.948513,
+      "messageId": "09d52fe0-b768-45f9-90d8-1428bf98d1e6",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1061,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

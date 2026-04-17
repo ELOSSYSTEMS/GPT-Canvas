@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.forever_flowers_automation_map",
+  "names": [
+    "forever_flowers_automation_map"
+  ],
+  "titles": [
+    "forever_flowers_automation_map"
+  ],
+  "conversations": [
+    "Forever Flowers Automation Plan"
+  ],
+  "latestTime": 1744624728.577621,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Forever Flowers Automation Plan",
+    "createTime": 1744624728.577621,
+    "messageId": "8cd076bf-16c2-40c6-bd6b-43e6e07dec0f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1744624728.577621,
+      "messageId": "8cd076bf-16c2-40c6-bd6b-43e6e07dec0f",
+      "conversation": "Forever Flowers Automation Plan",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2668,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

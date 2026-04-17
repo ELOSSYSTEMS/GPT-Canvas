@@ -1,0 +1,40 @@
+{
+  "artifactKey": "ELOS.500.BEG",
+  "names": [
+    "Beginner Tier Interface Ruleset"
+  ],
+  "titles": [
+    "Beginner Tier Interface Ruleset"
+  ],
+  "conversations": [
+    "ELos Buildout Structure"
+  ],
+  "latestTime": 1748090301.418993,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Buildout Structure",
+    "createTime": 1748090301.418993,
+    "messageId": "7a1fd302-41da-4b46-a63e-3aa4e5dfb76d",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748090301.418993,
+      "messageId": "7a1fd302-41da-4b46-a63e-3aa4e5dfb76d",
+      "conversation": "ELos Buildout Structure",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2031,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

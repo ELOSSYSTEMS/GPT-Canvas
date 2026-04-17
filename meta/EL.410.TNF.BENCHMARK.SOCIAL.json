@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.410.TNF.BENCHMARK.SOCIAL",
+  "names": [
+    "TNF_Benchmark_Social_Identity"
+  ],
+  "titles": [
+    "TNF_Benchmark_Social_Identity"
+  ],
+  "conversations": [
+    "translation 2.0 integration and expansion"
+  ],
+  "latestTime": 1749326190.083263,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "translation 2.0 integration and expansion",
+    "createTime": 1749326190.083263,
+    "messageId": "39a50c16-f8b4-40e5-b599-2d371f0c3d15",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749326190.083263,
+      "messageId": "39a50c16-f8b4-40e5-b599-2d371f0c3d15",
+      "conversation": "translation 2.0 integration and expansion",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1147,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

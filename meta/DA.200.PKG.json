@@ -1,0 +1,38 @@
+{
+  "artifactKey": "DA.200.PKG",
+  "names": [],
+  "titles": [
+    "DABROO AI - Packaging & Presentation"
+  ],
+  "conversations": [
+    "Dabroo AI Packaging Design"
+  ],
+  "latestTime": 1747613194.196465,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Dabroo AI Packaging Design",
+    "createTime": 1747613194.196465,
+    "messageId": "5d7e901b-2886-4c6c-94c8-0f401d2f061e",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747613194.196465,
+      "messageId": "5d7e901b-2886-4c6c-94c8-0f401d2f061e",
+      "conversation": "Dabroo AI Packaging Design",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2853,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

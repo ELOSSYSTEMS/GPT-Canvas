@@ -1,0 +1,76 @@
+{
+  "artifactKey": "AI.840.RCA",
+  "names": [
+    "Recursive-Architect-Persona"
+  ],
+  "titles": [
+    "Recursive-Architect-Persona"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748037738.494903,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748037738.494903,
+    "messageId": "f6eb0816-9630-4647-bfcd-74f6979aecf2",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748037300.554517,
+      "messageId": "a2514f4f-21f2-4b18-9bdf-b71107a36373",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2955,
+      "heuristic": "create-payload",
+      "parseMode": "escaped-control-chars",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748037732.754961,
+      "messageId": "ce2665a1-c5c4-494e-899d-f5da9f234fd9",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 195,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748037735.628815,
+      "messageId": "c932bc4b-60f4-4ee8-b2ce-d49856dfe6b8",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 176,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748037738.494903,
+      "messageId": "f6eb0816-9630-4647-bfcd-74f6979aecf2",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 199,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

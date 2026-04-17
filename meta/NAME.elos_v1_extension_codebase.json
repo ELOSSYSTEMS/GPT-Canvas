@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.elos_v1_extension_codebase",
+  "names": [
+    "elos_v1_extension_codebase"
+  ],
+  "titles": [
+    "elos_v1_extension_codebase"
+  ],
+  "conversations": [
+    "ELos Build Framework"
+  ],
+  "latestTime": 1748116677.250866,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Build Framework",
+    "createTime": 1748116677.250866,
+    "messageId": "05c89d25-724c-4f91-a89b-38709afc9ab9",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748116677.250866,
+      "messageId": "05c89d25-724c-4f91-a89b-38709afc9ab9",
+      "conversation": "ELos Build Framework",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5108,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

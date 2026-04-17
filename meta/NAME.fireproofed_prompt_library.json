@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.fireproofed_prompt_library",
+  "names": [
+    "fireproofed_prompt_library"
+  ],
+  "titles": [
+    "fireproofed_prompt_library"
+  ],
+  "conversations": [
+    "Bootloader Activation Summary"
+  ],
+  "latestTime": 1749129963.829462,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749129963.829462,
+    "messageId": "04de2b0a-c96a-4e13-b172-e185251d7c33",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749129941.93202,
+      "messageId": "ec26b45b-3b91-48e5-94dd-d313a995b216",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3895,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749129963.829462,
+      "messageId": "04de2b0a-c96a-4e13-b172-e185251d7c33",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3895,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

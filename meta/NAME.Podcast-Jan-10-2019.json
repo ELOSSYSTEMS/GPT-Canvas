@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Podcast-Jan-10-2019",
+  "names": [
+    "Podcast - Jan 10, 2019"
+  ],
+  "titles": [
+    "Judgment as a Filter for Reality"
+  ],
+  "conversations": [
+    "PODCAST TRANSCRIPTION"
+  ],
+  "latestTime": 1748031252.245079,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PODCAST TRANSCRIPTION",
+    "createTime": 1748031252.245079,
+    "messageId": "ce0816d2-7355-46a5-aabb-25b0d9337355",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748031252.245079,
+      "messageId": "ce0816d2-7355-46a5-aabb-25b0d9337355",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1982,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

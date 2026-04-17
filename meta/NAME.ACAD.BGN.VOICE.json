@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ACAD.BGN.VOICE",
+  "names": [
+    "ACAD.BGN.VOICE"
+  ],
+  "titles": [
+    "ACAD.BGN.VOICE"
+  ],
+  "conversations": [
+    "Builder Onboarding Step 4"
+  ],
+  "latestTime": 1748196554.026784,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Builder Onboarding Step 4",
+    "createTime": 1748196554.026784,
+    "messageId": "c052836c-4092-409a-9c1b-d9c588602cb9",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748196554.026784,
+      "messageId": "c052836c-4092-409a-9c1b-d9c588602cb9",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2085,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "artifactKey": "EL.600.IMG",
+  "names": [
+    "ELos_ImagePrompt_Engine",
+    "EL.600.IMG.CoreEngine"
+  ],
+  "titles": [
+    "ELos_ImagePrompt_Engine",
+    "EL.600.IMG.CoreEngine"
+  ],
+  "conversations": [
+    "ELOS VISUALS OS"
+  ],
+  "latestTime": 1749199864.084041,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELOS VISUALS OS",
+    "createTime": 1749199864.084041,
+    "messageId": "449776b1-950d-4b19-8622-48f300fc5905",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 5,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749197351.132198,
+      "messageId": "1145ce7a-8c26-472c-8440-3777258fdbf0",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2276,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749197500.28139,
+      "messageId": "09bc621d-cbe1-4b19-9956-c57ce1e50f38",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3932,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749197620.577383,
+      "messageId": "c6f27a6e-2f72-4a74-a2be-d95d2386350b",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3903,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749197839.999884,
+      "messageId": "ad9b0f32-2ec0-429c-b80f-a1e29b06f83c",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4363,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749199864.084041,
+      "messageId": "449776b1-950d-4b19-8622-48f300fc5905",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1449,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

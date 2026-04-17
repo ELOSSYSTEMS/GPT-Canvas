@@ -1,0 +1,124 @@
+{
+  "artifactKey": "NAME.Prompt-Library-Master-Index",
+  "names": [
+    "Prompt Library – Master Index"
+  ],
+  "titles": [
+    "Prompt Library – Master Index"
+  ],
+  "conversations": [
+    "PROMPT PROTOCOL OPTIMIZATION"
+  ],
+  "latestTime": 1748970091.816627,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+    "createTime": 1748969690.797509,
+    "messageId": "5608c597-6329-4a66-a4dd-4507925f6cdf",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 5,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 3,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748951211.931526,
+      "messageId": "a39c8367-d606-411b-931c-c7f64b23ccfc",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1358,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748964497.575178,
+      "messageId": "27fdbbb7-199d-481e-a3be-ba89cf278774",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4838,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748969364.110241,
+      "messageId": "0a82e1a9-042e-4712-a475-a22dccfc433a",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4901,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748969648.467114,
+      "messageId": "55b0eb3b-320d-4012-b496-20ccb430e282",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3416,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748969690.797509,
+      "messageId": "5608c597-6329-4a66-a4dd-4507925f6cdf",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4733,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748969729.245348,
+      "messageId": "0741ac94-0de4-47ed-beee-533af4147c64",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 2702,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## 📈 Marketing & Advertising Prompts"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748969966.739245,
+      "messageId": "a6032b1d-696a-4a4d-9849-8200ce3786c1",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 5455,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## 📈 Marketing & Advertising Prompts"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748970091.816627,
+      "messageId": "1720eb3e-a4f3-412d-ad43-33b84bb094af",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 4067,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## 📈 Marketing & Advertising Prompts"
+    }
+  ]
+}

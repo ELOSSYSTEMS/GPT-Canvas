@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.100.STR",
+  "names": [
+    "FF Strategy & Vision"
+  ],
+  "titles": [
+    "FF Strategy & Vision"
+  ],
+  "conversations": [
+    "Dabroo Power User Guide"
+  ],
+  "latestTime": 1747609492.966453,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo Power User Guide",
+    "createTime": 1747609492.966453,
+    "messageId": "403e6212-26cd-4779-adf2-4f32b52b2743",
+    "heuristic": "create-payload",
+    "parseMode": "escaped-control-chars"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747609492.966453,
+      "messageId": "403e6212-26cd-4779-adf2-4f32b52b2743",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1598,
+      "heuristic": "create-payload",
+      "parseMode": "escaped-control-chars",
+      "pattern": null
+    }
+  ]
+}

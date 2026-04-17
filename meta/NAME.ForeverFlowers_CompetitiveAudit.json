@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.ForeverFlowers_CompetitiveAudit",
+  "names": [
+    "ForeverFlowers_CompetitiveAudit"
+  ],
+  "titles": [
+    "ForeverFlowers_CompetitiveAudit"
+  ],
+  "conversations": [
+    "Competitive Landscape & Gaps"
+  ],
+  "latestTime": 1746734521.044751,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Competitive Landscape & Gaps",
+    "createTime": 1746734521.044751,
+    "messageId": "5d8b3ca9-bc81-4454-b16a-58b2645ddcaa",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1746734201.46526,
+      "messageId": "420540de-264a-476c-abff-ce3db6d6b815",
+      "conversation": "Competitive Landscape & Gaps",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4632,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1746734521.044751,
+      "messageId": "5d8b3ca9-bc81-4454-b16a-58b2645ddcaa",
+      "conversation": "Competitive Landscape & Gaps",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 6386,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "artifactKey": "EL.900.AUD",
+  "names": [
+    "EL.900.AUD.TutorialPolicy",
+    "EL.900.AUD.UserAffinityModel"
+  ],
+  "titles": [
+    "EL.900.AUD.TutorialPolicy",
+    "EL.900.AUD.UserAffinityModel"
+  ],
+  "conversations": [
+    "Prompt Library Overview"
+  ],
+  "latestTime": 1749496871.804488,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Library Overview",
+    "createTime": 1749496871.804488,
+    "messageId": "fe4d70fd-76c0-4f6d-80d2-63cc8f870cbd",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749495751.53904,
+      "messageId": "a528e07e-214b-48f2-bbfc-3c7a2ed9b4db",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1490,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749496343.247948,
+      "messageId": "11ea49ae-9832-4b01-927d-73787fefbb9b",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 779,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749496871.804488,
+      "messageId": "fe4d70fd-76c0-4f6d-80d2-63cc8f870cbd",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1015,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

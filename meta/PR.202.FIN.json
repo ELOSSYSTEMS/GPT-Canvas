@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.202.FIN",
+  "names": [
+    "PR.202.FIN"
+  ],
+  "titles": [
+    "PR.202.FIN"
+  ],
+  "conversations": [
+    "Mission Ready Status"
+  ],
+  "latestTime": 1747610699.703781,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mission Ready Status",
+    "createTime": 1747610699.703781,
+    "messageId": "a3134fb3-afde-4a99-b9d9-a729d6cc59af",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747610699.703781,
+      "messageId": "a3134fb3-afde-4a99-b9d9-a729d6cc59af",
+      "conversation": "Mission Ready Status",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2322,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

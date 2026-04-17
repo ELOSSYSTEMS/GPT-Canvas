@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.990.EL1",
+  "names": [
+    "AO.990.EL1.LegacyArchive"
+  ],
+  "titles": [
+    "AO.990.EL1.LegacyArchive"
+  ],
+  "conversations": [
+    "Recursive Persona System Design"
+  ],
+  "latestTime": 1748187006.545696,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Recursive Persona System Design",
+    "createTime": 1748187006.545696,
+    "messageId": "cc0a9899-daff-403c-a638-195ad1a2dc48",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748187006.545696,
+      "messageId": "cc0a9899-daff-403c-a638-195ad1a2dc48",
+      "conversation": "Recursive Persona System Design",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1401,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

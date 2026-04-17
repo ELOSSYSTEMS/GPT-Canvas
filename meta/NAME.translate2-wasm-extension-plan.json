@@ -1,0 +1,88 @@
+{
+  "artifactKey": "NAME.translate2-wasm-extension-plan",
+  "names": [
+    "translate2-wasm-extension-plan"
+  ],
+  "titles": [
+    "translate2-wasm-extension-plan"
+  ],
+  "conversations": [
+    "Stargate Protocol Activated"
+  ],
+  "latestTime": 1748681015.790719,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Stargate Protocol Activated",
+    "createTime": 1748681015.790719,
+    "messageId": "31cf90b7-2464-4841-ac6d-49985528b940",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 5,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748679326.163696,
+      "messageId": "5a4a97d9-8ac2-45aa-b20e-714835034a01",
+      "conversation": "Stargate Protocol Activated",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2337,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748679357.930992,
+      "messageId": "bc3b3c3d-f59d-47ac-8ed8-e89b4a7b7532",
+      "conversation": "Stargate Protocol Activated",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2384,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748679458.424679,
+      "messageId": "d6ee78d0-75b2-4a22-9bdd-ef13259a02bf",
+      "conversation": "Stargate Protocol Activated",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2966,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748680943.566915,
+      "messageId": "8fff3de3-1b7f-437c-98f3-64dc1ff6b378",
+      "conversation": "Stargate Protocol Activated",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3372,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748681015.790719,
+      "messageId": "31cf90b7-2464-4841-ac6d-49985528b940",
+      "conversation": "Stargate Protocol Activated",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3984,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

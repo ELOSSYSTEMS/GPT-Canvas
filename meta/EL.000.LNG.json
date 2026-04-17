@@ -1,0 +1,36 @@
+{
+  "artifactKey": "EL.000.LNG",
+  "names": [],
+  "titles": [],
+  "conversations": [
+    "BUILDING CANVAS MODULE"
+  ],
+  "latestTime": 1749321457.460201,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "BUILDING CANVAS MODULE",
+    "createTime": 1749321457.460201,
+    "messageId": "4ec2c4cf-0e12-46fb-8587-32e7b556212f",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749321457.460201,
+      "messageId": "4ec2c4cf-0e12-46fb-8587-32e7b556212f",
+      "conversation": "BUILDING CANVAS MODULE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4158,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.signature_generator",
+  "names": [
+    "signature_generator"
+  ],
+  "titles": [
+    "signature_generator"
+  ],
+  "conversations": [
+    "ELos Translate 2.0 Test"
+  ],
+  "latestTime": 1748716802.185448,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Translate 2.0 Test",
+    "createTime": 1748716802.185448,
+    "messageId": "2cbd3e6c-861a-4f57-9e22-c311dbd1dd44",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748716802.185448,
+      "messageId": "2cbd3e6c-861a-4f57-9e22-c311dbd1dd44",
+      "conversation": "ELos Translate 2.0 Test",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 124,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

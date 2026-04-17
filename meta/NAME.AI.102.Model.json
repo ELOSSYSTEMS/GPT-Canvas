@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.102.Model",
+  "names": [
+    "AI.102.Model"
+  ],
+  "titles": [
+    "AI.102.Model"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756219.026591,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756219.026591,
+    "messageId": "b59130ea-f51f-4b58-b95d-b76aa5ce8a1c",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756219.026591,
+      "messageId": "b59130ea-f51f-4b58-b95d-b76aa5ce8a1c",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 779,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

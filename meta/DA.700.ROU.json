@@ -1,0 +1,40 @@
+{
+  "artifactKey": "DA.700.ROU",
+  "names": [
+    "DA.700.ROU - Dabroo Staff / Ops / Arcaffe Branch Map"
+  ],
+  "titles": [
+    "DA.700.ROU - Dabroo Staff / Ops / Arcaffe Branch Map"
+  ],
+  "conversations": [
+    "סניפים והזמנות שבועות"
+  ],
+  "latestTime": 1747820577.026073,
+  "latestBodyComplete": false,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "סניפים והזמנות שבועות",
+    "createTime": 1747820577.026073,
+    "messageId": "9184e378-f8d2-4b4a-a04d-9bae2f2854ce",
+    "heuristic": "create-payload",
+    "parseMode": "regex-create-partial"
+  },
+  "completeBodyOps": 0,
+  "partialBodyOps": 1,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747820577.026073,
+      "messageId": "9184e378-f8d2-4b4a-a04d-9bae2f2854ce",
+      "conversation": "סניפים והזמנות שבועות",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 1339,
+      "heuristic": "create-payload",
+      "parseMode": "regex-create-partial",
+      "pattern": null
+    }
+  ]
+}

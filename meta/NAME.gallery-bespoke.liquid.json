@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.gallery-bespoke.liquid",
+  "names": [
+    "gallery-bespoke.liquid"
+  ],
+  "titles": [
+    "gallery-bespoke.liquid"
+  ],
+  "conversations": [
+    "שיפור דף זרי פרחים"
+  ],
+  "latestTime": 1746589746.163327,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "שיפור דף זרי פרחים",
+    "createTime": 1746589746.163327,
+    "messageId": "1935c3a5-dc5e-4eaa-97f7-b76a85c22abe",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1746589737.597535,
+      "messageId": "82e8a69f-daef-440b-b9b1-e1df443d1c19",
+      "conversation": "שיפור דף זרי פרחים",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 0,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1746589746.163327,
+      "messageId": "1935c3a5-dc5e-4eaa-97f7-b76a85c22abe",
+      "conversation": "שיפור דף זרי פרחים",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2469,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

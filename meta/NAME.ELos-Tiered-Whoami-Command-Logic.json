@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tiered-Whoami-Command-Logic",
+  "names": [
+    "ELos - Tiered Whoami Command Logic"
+  ],
+  "titles": [
+    "ELos - Tiered Whoami Command Logic"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083224.998129,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083224.998129,
+    "messageId": "90f7e552-d6dd-4bfa-88e9-5ffd03662366",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083224.998129,
+      "messageId": "90f7e552-d6dd-4bfa-88e9-5ffd03662366",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1287,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

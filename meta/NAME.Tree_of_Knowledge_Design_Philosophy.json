@@ -1,0 +1,76 @@
+{
+  "artifactKey": "NAME.Tree_of_Knowledge_Design_Philosophy",
+  "names": [
+    "Tree_of_Knowledge_Design_Philosophy"
+  ],
+  "titles": [
+    "Tree_of_Knowledge_Design_Philosophy"
+  ],
+  "conversations": [
+    "Builder Onboarding Step 4"
+  ],
+  "latestTime": 1748195308.796464,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Builder Onboarding Step 4",
+    "createTime": 1748195308.796464,
+    "messageId": "8dfbd455-691a-4c6b-b0fe-d1a8325a8774",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748194531.159802,
+      "messageId": "aa4994e6-4992-4ae3-b16a-9f9e58a1e31d",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3047,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748194811.537611,
+      "messageId": "fbcb5131-02e5-4ab2-8965-4d1ef1f9f76b",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3935,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748195162.928177,
+      "messageId": "793f94a0-baa5-43c5-847a-e492659e7b2c",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4354,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748195308.796464,
+      "messageId": "8dfbd455-691a-4c6b-b0fe-d1a8325a8774",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4692,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

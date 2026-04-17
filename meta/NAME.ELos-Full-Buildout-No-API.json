@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Full-Buildout-No-API",
+  "names": [
+    "ELos - Full Buildout (No API)"
+  ],
+  "titles": [
+    "ELos - Full Buildout (No API)"
+  ],
+  "conversations": [
+    "ELos Buildout Structure"
+  ],
+  "latestTime": 1748086302.420779,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Buildout Structure",
+    "createTime": 1748086302.420779,
+    "messageId": "6bafcd02-fe2b-46fe-af9f-a26c498a0833",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748086302.420779,
+      "messageId": "6bafcd02-fe2b-46fe-af9f-a26c498a0833",
+      "conversation": "ELos Buildout Structure",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3916,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

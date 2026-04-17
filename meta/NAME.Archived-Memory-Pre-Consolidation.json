@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Archived-Memory-Pre-Consolidation",
+  "names": [
+    "Archived Memory – Pre-Consolidation"
+  ],
+  "titles": [
+    "Archived Memory – Pre-Consolidation"
+  ],
+  "conversations": [
+    "*-*-*-* MEMORY CONSOLIDATION *-*-*-*"
+  ],
+  "latestTime": 1747607340.989687,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "createTime": 1747607340.989687,
+    "messageId": "9964b569-0bab-449f-8243-109801d84089",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747607340.989687,
+      "messageId": "9964b569-0bab-449f-8243-109801d84089",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1103,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

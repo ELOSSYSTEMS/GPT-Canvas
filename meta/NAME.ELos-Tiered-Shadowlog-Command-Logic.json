@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tiered-Shadowlog-Command-Logic",
+  "names": [
+    "ELos - Tiered Shadowlog Command Logic"
+  ],
+  "titles": [
+    "ELos - Tiered Shadowlog Command Logic"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083413.014747,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083413.014747,
+    "messageId": "d326fb56-ac80-4e46-b73f-aa28943f006c",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083413.014747,
+      "messageId": "d326fb56-ac80-4e46-b73f-aa28943f006c",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1095,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

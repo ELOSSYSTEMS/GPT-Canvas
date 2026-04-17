@@ -1,0 +1,40 @@
+{
+  "artifactKey": "UIX.420.CNV",
+  "names": [
+    "UIX_Canvas_Menu_Tier_Phase_Mock"
+  ],
+  "titles": [
+    "UIX_Canvas_Menu_Tier_Phase_Mock"
+  ],
+  "conversations": [
+    "Builder Onboarding Step 4"
+  ],
+  "latestTime": 1748200077.545211,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Builder Onboarding Step 4",
+    "createTime": 1748200077.545211,
+    "messageId": "b4ed6c2e-3435-4336-be3b-17f3c975ef38",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748200077.545211,
+      "messageId": "b4ed6c2e-3435-4336-be3b-17f3c975ef38",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3411,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "IN.100.AUD",
+  "names": [
+    "ELos Global Naming Sweep"
+  ],
+  "titles": [
+    "ELos Global Naming Sweep – Audit and Change Log"
+  ],
+  "conversations": [
+    "Global ELos Naming Sweep"
+  ],
+  "latestTime": 1748081843.368183,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Global ELos Naming Sweep",
+    "createTime": 1748081843.368183,
+    "messageId": "0c64d887-4645-43de-8994-6442039b31b0",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748081843.368183,
+      "messageId": "0c64d887-4645-43de-8994-6442039b31b0",
+      "conversation": "Global ELos Naming Sweep",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2024,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

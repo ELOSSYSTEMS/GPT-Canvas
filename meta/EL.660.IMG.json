@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.660.IMG",
+  "names": [
+    "EL.660-699.VISUAL.Modules"
+  ],
+  "titles": [
+    "EL.660-699.VISUAL.Modules"
+  ],
+  "conversations": [
+    "ELOS VISUALS OS"
+  ],
+  "latestTime": 1749207041.086117,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELOS VISUALS OS",
+    "createTime": 1749207041.086117,
+    "messageId": "1167af5e-73fc-4444-91fa-10a06b516047",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749207041.086117,
+      "messageId": "1167af5e-73fc-4444-91fa-10a06b516047",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2481,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

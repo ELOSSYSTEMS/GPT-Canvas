@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.920.PSN",
+  "names": [
+    "Bootloader_Persona_Expansion"
+  ],
+  "titles": [
+    "Bootloader_Persona_Expansion"
+  ],
+  "conversations": [
+    "Bootloader Activation Summary"
+  ],
+  "latestTime": 1749133814.285476,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749133814.285476,
+    "messageId": "9983979c-a921-4f00-b475-f7b4c2bb4df0",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749133814.285476,
+      "messageId": "9983979c-a921-4f00-b475-f7b4c2bb4df0",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1270,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-AI-Auditing-Toolkit",
+  "names": [
+    "ELos - AI Auditing Toolkit"
+  ],
+  "titles": [
+    "ELos - AI Auditing Toolkit"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748081985.184423,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748081985.184423,
+    "messageId": "c468398a-2af5-4d06-827c-40f15429879b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748081985.184423,
+      "messageId": "c468398a-2af5-4d06-827c-40f15429879b",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1091,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

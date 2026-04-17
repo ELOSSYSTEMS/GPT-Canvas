@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tiered-Export-Command-Logic",
+  "names": [
+    "ELos - Tiered Export Command Logic"
+  ],
+  "titles": [
+    "ELos - Tiered Export Command Logic"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083489.063976,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083489.063976,
+    "messageId": "2bbe3789-26f9-4457-8fe5-4b95f1bc001d",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083489.063976,
+      "messageId": "2bbe3789-26f9-4457-8fe5-4b95f1bc001d",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1026,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

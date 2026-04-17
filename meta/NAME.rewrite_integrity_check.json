@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.rewrite_integrity_check",
+  "names": [
+    "rewrite_integrity_check"
+  ],
+  "titles": [
+    "rewrite_integrity_check"
+  ],
+  "conversations": [
+    "ELos Translate 2.0 Test"
+  ],
+  "latestTime": 1748716797.165868,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Translate 2.0 Test",
+    "createTime": 1748716797.165868,
+    "messageId": "d862c6bf-763e-4c54-81c3-ab5bc4d35132",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748716797.165868,
+      "messageId": "d862c6bf-763e-4c54-81c3-ab5bc4d35132",
+      "conversation": "ELos Translate 2.0 Test",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 197,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

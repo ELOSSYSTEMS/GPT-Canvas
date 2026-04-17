@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.001.EPP.2.100X",
+  "names": [
+    "ELoS-Prompt-Templates"
+  ],
+  "titles": [
+    "ELoS-Prompt-Templates"
+  ],
+  "conversations": [
+    "Hike Recommendation Request"
+  ],
+  "latestTime": 1751405490.202669,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Hike Recommendation Request",
+    "createTime": 1751405490.202669,
+    "messageId": "f317aaef-a267-4fb2-9ffb-daf94efbd56b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1751405490.202669,
+      "messageId": "f317aaef-a267-4fb2-9ffb-daf94efbd56b",
+      "conversation": "Hike Recommendation Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1378,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

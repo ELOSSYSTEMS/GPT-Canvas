@@ -1,0 +1,76 @@
+{
+  "artifactKey": "NAME.forever_flowers_weekly_schedule",
+  "names": [
+    "forever_flowers_weekly_schedule"
+  ],
+  "titles": [
+    "forever_flowers_weekly_schedule"
+  ],
+  "conversations": [
+    "Forever Flowers Meeting Itinerary"
+  ],
+  "latestTime": 1745941800.650905,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Forever Flowers Meeting Itinerary",
+    "createTime": 1745941420.378966,
+    "messageId": "de9bb843-3460-4c56-bb0d-0c3a7746b75b",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 2,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1745941292.675687,
+      "messageId": "7db4a4d2-ea25-4101-8e9d-c4e65104cdfa",
+      "conversation": "Forever Flowers Meeting Itinerary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2535,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1745941420.378966,
+      "messageId": "de9bb843-3460-4c56-bb0d-0c3a7746b75b",
+      "conversation": "Forever Flowers Meeting Itinerary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1714,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1745941497.823733,
+      "messageId": "0b256979-a0a0-4aee-9dcc-82a97aa281fa",
+      "conversation": "Forever Flowers Meeting Itinerary",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 1663,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## 📅 לוח שבועי \\(09:00–15:00\\)[\\s\\S]+?---"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1745941800.650905,
+      "messageId": "fb601752-7fd2-4013-ad50-7baf62659f19",
+      "conversation": "Forever Flowers Meeting Itinerary",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 2003,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## 📅 לוח שבועי \\(09:00–15:00\\)[\\s\\S]+?---"
+    }
+  ]
+}

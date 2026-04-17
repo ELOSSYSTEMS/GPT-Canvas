@@ -1,0 +1,64 @@
+{
+  "artifactKey": "FF.999.PSN",
+  "names": [
+    "FF.999.PSN"
+  ],
+  "titles": [
+    "FF.999.PSN"
+  ],
+  "conversations": [
+    "Bootloader Execution Summary"
+  ],
+  "latestTime": 1749330204.73238,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Bootloader Execution Summary",
+    "createTime": 1749330204.73238,
+    "messageId": "58a07754-0286-4c50-bd01-748d11687259",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749330079.558905,
+      "messageId": "21f75e5d-3d6e-4060-b341-681e83a24455",
+      "conversation": "Bootloader Execution Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2058,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749330169.310319,
+      "messageId": "e9913fe8-0180-404e-a27a-4451bcf06554",
+      "conversation": "Bootloader Execution Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2285,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749330204.73238,
+      "messageId": "58a07754-0286-4c50-bd01-748d11687259",
+      "conversation": "Bootloader Execution Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2919,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "artifactKey": "NAME.persona_response_formatting",
+  "names": [
+    "persona_response_formatting"
+  ],
+  "titles": [
+    "persona_response_formatting"
+  ],
+  "conversations": [
+    "Bootloader protocol loaded"
+  ],
+  "latestTime": 1754251233.331992,
+  "latestBodyComplete": false,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Bootloader protocol loaded",
+    "createTime": 1754251233.331992,
+    "messageId": "59c9a36a-9f23-4619-bed8-abe3eda0890d",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "regex-update-partial"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 1,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1754248231.299511,
+      "messageId": "a7fa3ca1-5cd1-4b78-83db-d5059c5d9755",
+      "conversation": "Bootloader protocol loaded",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 7346,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1754249848.252162,
+      "messageId": "e527cbf7-575a-4371-a442-b8b9d814d691",
+      "conversation": "Bootloader protocol loaded",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2172,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1754251233.331992,
+      "messageId": "59c9a36a-9f23-4619-bed8-abe3eda0890d",
+      "conversation": "Bootloader protocol loaded",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 887,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "regex-update-partial",
+      "pattern": ".*"
+    }
+  ]
+}

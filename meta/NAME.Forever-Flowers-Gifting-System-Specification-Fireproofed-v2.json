@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Forever-Flowers-Gifting-System-Specification-Fireproofed-v2",
+  "names": [
+    "Forever Flowers — Gifting System Specification (Fireproofed v2)"
+  ],
+  "titles": [
+    "Forever Flowers — Gifting System Specification (Fireproofed v2)"
+  ],
+  "conversations": [
+    "Vercel Shopify Integration Guide"
+  ],
+  "latestTime": 1767989209.38613,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Vercel Shopify Integration Guide",
+    "createTime": 1767989209.38613,
+    "messageId": "de0302d9-5307-4504-b672-4ccd93fdb5f7",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1767989209.38613,
+      "messageId": "de0302d9-5307-4504-b672-4ccd93fdb5f7",
+      "conversation": "Vercel Shopify Integration Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5132,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

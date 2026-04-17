@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.100.COL",
+  "names": [
+    "System Alert Protocols"
+  ],
+  "titles": [
+    "System Alert Protocols"
+  ],
+  "conversations": [
+    "OS System Overview"
+  ],
+  "latestTime": 1748067789.63297,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "OS System Overview",
+    "createTime": 1748067789.63297,
+    "messageId": "9c12da7f-a35f-4ed6-9bac-afb6fa33af17",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748067789.63297,
+      "messageId": "9c12da7f-a35f-4ed6-9bac-afb6fa33af17",
+      "conversation": "OS System Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2727,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

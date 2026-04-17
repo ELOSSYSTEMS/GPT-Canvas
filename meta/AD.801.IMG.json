@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AD.801.IMG",
+  "names": [
+    "AD.801.IMG.CanvaPromptEngine"
+  ],
+  "titles": [
+    "AD.801.IMG.CanvaPromptEngine"
+  ],
+  "conversations": [
+    "ELOS VISUALS OS"
+  ],
+  "latestTime": 1749200111.319669,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELOS VISUALS OS",
+    "createTime": 1749200111.319669,
+    "messageId": "1cede62a-2e0d-40d5-a71c-d693d61c9d3c",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749200111.319669,
+      "messageId": "1cede62a-2e0d-40d5-a71c-d693d61c9d3c",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 780,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

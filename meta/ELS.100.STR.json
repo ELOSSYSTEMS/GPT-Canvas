@@ -1,0 +1,40 @@
+{
+  "artifactKey": "ELS.100.STR",
+  "names": [
+    "ELos - Buildout Structure (Phased)"
+  ],
+  "titles": [
+    "ELos - Buildout Structure (Phased)"
+  ],
+  "conversations": [
+    "ELos Buildout Phases"
+  ],
+  "latestTime": 1748091591.979924,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Buildout Phases",
+    "createTime": 1748091591.979924,
+    "messageId": "23ca63be-4cdf-4136-a7c0-b7b34e0ad908",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748091591.979924,
+      "messageId": "23ca63be-4cdf-4136-a7c0-b7b34e0ad908",
+      "conversation": "ELos Buildout Phases",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3023,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

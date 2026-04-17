@@ -1,0 +1,68 @@
+{
+  "artifactKey": "EL.500.OBG",
+  "names": [
+    "EL.500.OBG.RecommendationAura",
+    "EL.500.OBG.TutorialBubble",
+    "EL.500.OBG.TutorialMemoryEngine"
+  ],
+  "titles": [
+    "EL.500.OBG.RecommendationAura",
+    "EL.500.OBG.TutorialBubble",
+    "EL.500.OBG.TutorialMemoryEngine"
+  ],
+  "conversations": [
+    "Prompt Library Overview"
+  ],
+  "latestTime": 1749497351.934038,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Library Overview",
+    "createTime": 1749497351.934038,
+    "messageId": "c729029d-4855-4ac9-8f24-134096589bee",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749496886.24544,
+      "messageId": "c9486177-0b4c-40cb-aac1-96b16b05951c",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 938,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749497156.139865,
+      "messageId": "9d78589a-82e8-4158-b2c4-67212fd50d87",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 648,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749497351.934038,
+      "messageId": "c729029d-4855-4ac9-8f24-134096589bee",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 517,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "IN.100.FWD",
+  "names": [
+    "AI OS – Breakthrough Feature Concepts"
+  ],
+  "titles": [
+    "AI OS – Breakthrough Feature Concepts"
+  ],
+  "conversations": [
+    "NEW CHATPT OS APP"
+  ],
+  "latestTime": 1748030137.662615,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "NEW CHATPT OS APP",
+    "createTime": 1748030137.662615,
+    "messageId": "7c6f85a2-f3e0-4d8d-9269-8b0afeae0123",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748030137.662615,
+      "messageId": "7c6f85a2-f3e0-4d8d-9269-8b0afeae0123",
+      "conversation": "NEW CHATPT OS APP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2092,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

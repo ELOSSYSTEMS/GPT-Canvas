@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AOS.800.RSM",
+  "names": [
+    "Recursive Systems Summary - ELos & Allon OS"
+  ],
+  "titles": [
+    "Recursive Systems Summary - ELos & Allon OS"
+  ],
+  "conversations": [
+    "ELos Canvas Index Summary"
+  ],
+  "latestTime": 1748112415.557531,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Canvas Index Summary",
+    "createTime": 1748112415.557531,
+    "messageId": "2402775e-decf-4477-8521-c50cc9ccd9aa",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748112415.557531,
+      "messageId": "2402775e-decf-4477-8521-c50cc9ccd9aa",
+      "conversation": "ELos Canvas Index Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3841,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

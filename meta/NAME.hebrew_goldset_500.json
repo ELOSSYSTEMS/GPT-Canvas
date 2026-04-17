@@ -1,0 +1,160 @@
+{
+  "artifactKey": "NAME.hebrew_goldset_500",
+  "names": [
+    "hebrew_goldset_500"
+  ],
+  "titles": [
+    "hebrew_goldset_500"
+  ],
+  "conversations": [
+    "Hebrew goldset creation"
+  ],
+  "latestTime": 1754681221.315995,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Hebrew goldset creation",
+    "createTime": 1754681221.315995,
+    "messageId": "2eb01289-1b12-4646-9e1d-90a73a350bef",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 11,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1754679940.553748,
+      "messageId": "632dd4ff-1ecb-4b2c-9ed8-6e97ebcf0615",
+      "conversation": "Hebrew goldset creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3807,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1754679992.543756,
+      "messageId": "8bbe2617-c54c-414f-a47b-b92de9e18b0c",
+      "conversation": "Hebrew goldset creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2332,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1754680018.061073,
+      "messageId": "87f847b2-491e-4d3e-b43f-dbc8ac32eb4d",
+      "conversation": "Hebrew goldset creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4670,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1754680043.783826,
+      "messageId": "f15d3bc8-f055-4b1c-a65e-928999507b70",
+      "conversation": "Hebrew goldset creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3535,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1754680418.006034,
+      "messageId": "b89b319b-9c5e-42a6-a7ad-ec81490976c1",
+      "conversation": "Hebrew goldset creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4553,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1754680720.464099,
+      "messageId": "fabe1368-4461-4525-8aa1-00d2baa16234",
+      "conversation": "Hebrew goldset creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 666,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1754680844.714867,
+      "messageId": "8fc81fea-0ffd-4bc8-9e00-3807a2985b17",
+      "conversation": "Hebrew goldset creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2937,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1754680874.147162,
+      "messageId": "74d83fa2-b6cf-4a0b-b437-b10a00c5de42",
+      "conversation": "Hebrew goldset creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4232,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1754680902.989522,
+      "messageId": "531dfb4e-3b10-4e6a-b930-29909f7ba5db",
+      "conversation": "Hebrew goldset creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 8502,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1754681154.359476,
+      "messageId": "7ac6ff98-69dc-4bd4-8779-e85c7f8cd1df",
+      "conversation": "Hebrew goldset creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 842,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1754681221.315995,
+      "messageId": "2eb01289-1b12-4646-9e1d-90a73a350bef",
+      "conversation": "Hebrew goldset creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1294,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

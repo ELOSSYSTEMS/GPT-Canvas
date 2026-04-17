@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.elos_font_bifurcation",
+  "names": [
+    "elos_font_bifurcation"
+  ],
+  "titles": [
+    "elos_font_bifurcation"
+  ],
+  "conversations": [
+    "Prompt Expansion Ready"
+  ],
+  "latestTime": 1749750503.737509,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Expansion Ready",
+    "createTime": 1749750503.737509,
+    "messageId": "733640a6-7c53-40b0-90da-2d08815db132",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749750503.737509,
+      "messageId": "733640a6-7c53-40b0-90da-2d08815db132",
+      "conversation": "Prompt Expansion Ready",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1888,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

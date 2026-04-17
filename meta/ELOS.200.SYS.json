@@ -1,0 +1,40 @@
+{
+  "artifactKey": "ELOS.200.SYS",
+  "names": [
+    "ELos - Intermediate Tier: Modular Mastery Protocol"
+  ],
+  "titles": [
+    "ELos - Intermediate Tier: Modular Mastery Protocol (MMP)"
+  ],
+  "conversations": [
+    "Recursive Guidance for Beginners"
+  ],
+  "latestTime": 1748072375.691429,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Recursive Guidance for Beginners",
+    "createTime": 1748072375.691429,
+    "messageId": "eb6508ce-7b2a-4f3f-ba0f-2a42f7d6b1c1",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748072375.691429,
+      "messageId": "eb6508ce-7b2a-4f3f-ba0f-2a42f7d6b1c1",
+      "conversation": "Recursive Guidance for Beginners",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2109,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

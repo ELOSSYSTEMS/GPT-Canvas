@@ -1,0 +1,40 @@
+{
+  "artifactKey": "OS.400.PSN",
+  "names": [
+    "Persona OS – Master Integration Index"
+  ],
+  "titles": [
+    "Persona OS – Master Integration Index"
+  ],
+  "conversations": [
+    "*-*-*-* MEMORY CONSOLIDATION *-*-*-*"
+  ],
+  "latestTime": 1747607660.7354,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "createTime": 1747607660.7354,
+    "messageId": "580817f3-b8c7-4f27-b036-7f987d9ae8e4",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747607660.7354,
+      "messageId": "580817f3-b8c7-4f27-b036-7f987d9ae8e4",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1875,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

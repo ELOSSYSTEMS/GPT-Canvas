@@ -1,0 +1,52 @@
+{
+  "artifactKey": "OS.100.BOOT",
+  "names": [
+    "Allon OS – Boot Protocol"
+  ],
+  "titles": [
+    "Allon OS – Boot Protocol"
+  ],
+  "conversations": [
+    "*-*-*-* MEMORY CONSOLIDATION *-*-*-*"
+  ],
+  "latestTime": 1747608884.091062,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "createTime": 1747608884.091062,
+    "messageId": "0311ba18-e015-4446-b894-593691b2b944",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747607629.566654,
+      "messageId": "921127d9-c54c-4c4d-97f6-d89a939c0a43",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1153,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747608884.091062,
+      "messageId": "0311ba18-e015-4446-b894-593691b2b944",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4309,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

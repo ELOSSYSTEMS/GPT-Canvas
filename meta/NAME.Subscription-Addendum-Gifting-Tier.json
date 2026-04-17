@@ -1,0 +1,88 @@
+{
+  "artifactKey": "NAME.Subscription-Addendum-Gifting-Tier",
+  "names": [
+    "Subscription Addendum – Gifting Tier"
+  ],
+  "titles": [
+    "Subscription Addendum – Gifting Tier"
+  ],
+  "conversations": [
+    "SUB WEB REBUILD"
+  ],
+  "latestTime": 1769433842.775149,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "SUB WEB REBUILD",
+    "createTime": 1769433624.902694,
+    "messageId": "c8bb2bae-8ebf-4258-a609-ef783f5bcc22",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 4,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1769433624.902694,
+      "messageId": "c8bb2bae-8ebf-4258-a609-ef783f5bcc22",
+      "conversation": "SUB WEB REBUILD",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2214,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1769433714.697722,
+      "messageId": "d414912b-01f9-496e-b270-2bd70c7055b9",
+      "conversation": "SUB WEB REBUILD",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 226,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## Deliveries[\\s\\S]*?---"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1769433714.697722,
+      "messageId": "d414912b-01f9-496e-b270-2bd70c7055b9",
+      "conversation": "SUB WEB REBUILD",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 244,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## Pricing \\(Indicative\\)[\\s\\S]*?> Final pricing intentionally left flexible to test anchoring\\."
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1769433817.88216,
+      "messageId": "29f3073a-51b7-458d-8bbf-9e0019a935c9",
+      "conversation": "SUB WEB REBUILD",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 1278,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "## One-Line Definition \\(Internal\\)[\\s\\S]*$"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1769433842.775149,
+      "messageId": "1d97c55b-38d7-4459-b558-70f9cbc777d4",
+      "conversation": "SUB WEB REBUILD",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 1279,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "\\*\\*\\\"Flowers, handled — for the dates that matter\\.\\\"\\*\\*[\\s\\S]*$"
+    }
+  ]
+}

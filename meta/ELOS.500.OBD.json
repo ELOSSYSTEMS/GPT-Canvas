@@ -1,0 +1,40 @@
+{
+  "artifactKey": "ELOS.500.OBD",
+  "names": [
+    "Tier-Based Onboarding Flow"
+  ],
+  "titles": [
+    "Tier-Based Onboarding Flow"
+  ],
+  "conversations": [
+    "ELos Buildout Structure"
+  ],
+  "latestTime": 1748090476.487592,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Buildout Structure",
+    "createTime": 1748090476.487592,
+    "messageId": "99b1d4a0-c9be-4ade-aa7f-3bc0f2a243b7",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748090476.487592,
+      "messageId": "99b1d4a0-c9be-4ade-aa7f-3bc0f2a243b7",
+      "conversation": "ELos Buildout Structure",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2361,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Phase3-PostProcessing",
+  "names": [
+    "Phase3 PostProcessing"
+  ],
+  "titles": [
+    "Phase3 PostProcessing"
+  ],
+  "conversations": [
+    "שיחה עם עוזר"
+  ],
+  "latestTime": 1748894658.845551,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "שיחה עם עוזר",
+    "createTime": 1748894658.845551,
+    "messageId": "3866831d-391d-4d3b-9ed0-30cd165fe3e4",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748894658.845551,
+      "messageId": "3866831d-391d-4d3b-9ed0-30cd165fe3e4",
+      "conversation": "שיחה עם עוזר",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 941,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

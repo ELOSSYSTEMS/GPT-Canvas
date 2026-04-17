@@ -1,0 +1,55 @@
+{
+  "artifactKey": "EL.602.FF.VIS",
+  "names": [
+    "EL.602.FF.VIS.InvocationProtocol",
+    "EL.602.FF.VIS.Fingerprint"
+  ],
+  "titles": [
+    "EL.602.FF.VIS.InvocationProtocol – Forever Flowers Visual Fingerprint Invocation Logic",
+    "EL.602.FF.VIS.Fingerprint"
+  ],
+  "conversations": [
+    "ELOS VISUALS OS",
+    "NEW ELOS EXTENSION"
+  ],
+  "latestTime": 1749894178.023181,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "NEW ELOS EXTENSION",
+    "createTime": 1749894178.023181,
+    "messageId": "fb05e8c4-7925-48d8-baa3-ff43f615d704",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749210843.796231,
+      "messageId": "22c84e67-8eab-430c-a1a6-5df9cbd14dde",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2425,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749894178.023181,
+      "messageId": "fb05e8c4-7925-48d8-baa3-ff43f615d704",
+      "conversation": "NEW ELOS EXTENSION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2054,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.arcaffe_delivery_confirmation",
+  "names": [
+    "arcaffe_delivery_confirmation"
+  ],
+  "titles": [
+    "arcaffe_delivery_confirmation"
+  ],
+  "conversations": [
+    "פורמט אישור אספקה"
+  ],
+  "latestTime": 1737019563.03554,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "פורמט אישור אספקה",
+    "createTime": 1737019563.03554,
+    "messageId": "d2793dbf-b39a-4be1-a050-8e311d89f42a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1737019563.03554,
+      "messageId": "d2793dbf-b39a-4be1-a050-8e311d89f42a",
+      "conversation": "פורמט אישור אספקה",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1477,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

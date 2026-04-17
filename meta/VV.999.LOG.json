@@ -1,0 +1,40 @@
+{
+  "artifactKey": "VV.999.LOG",
+  "names": [
+    "VV.999.LOG – vVerse System Event Log"
+  ],
+  "titles": [
+    "VV.999.LOG – vVerse System Event Log"
+  ],
+  "conversations": [
+    "Bootloader Activation Summary"
+  ],
+  "latestTime": 1749162043.768018,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749162043.768018,
+    "messageId": "fc944fc7-3265-4237-9716-79406cf42dd5",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749162043.768018,
+      "messageId": "fc944fc7-3265-4237-9716-79406cf42dd5",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2362,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

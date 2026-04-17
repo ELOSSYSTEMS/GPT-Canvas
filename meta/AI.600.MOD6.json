@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.600.MOD6",
+  "names": [
+    "AI.600.MOD6"
+  ],
+  "titles": [
+    "AI.600.MOD6"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756204.606335,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756204.606335,
+    "messageId": "1d3b20cd-a426-447a-8fd3-ddfcbb6ff8ff",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756204.606335,
+      "messageId": "1d3b20cd-a426-447a-8fd3-ddfcbb6ff8ff",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 530,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.signature_hebrew_translation",
+  "names": [
+    "signature_hebrew_translation"
+  ],
+  "titles": [
+    "signature_hebrew_translation"
+  ],
+  "conversations": [
+    "ELOS עיצוב מחדש"
+  ],
+  "latestTime": 1750230482.925291,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELOS עיצוב מחדש",
+    "createTime": 1750230482.925291,
+    "messageId": "21b94a20-808d-4a60-84eb-67f15a617738",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750230482.925291,
+      "messageId": "21b94a20-808d-4a60-84eb-67f15a617738",
+      "conversation": "ELOS עיצוב מחדש",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2888,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

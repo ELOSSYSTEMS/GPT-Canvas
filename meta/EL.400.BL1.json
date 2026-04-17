@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.400.BL1",
+  "names": [
+    "EL.400.BL1 - Build Phase 1 Code Bundle"
+  ],
+  "titles": [
+    "EL.400.BL1 - Build Phase 1 Code Bundle"
+  ],
+  "conversations": [
+    "ELos Canvas Index"
+  ],
+  "latestTime": 1748118028.87726,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Canvas Index",
+    "createTime": 1748118028.87726,
+    "messageId": "bf00a0b6-5700-4b11-8849-b018e889e957",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748118028.87726,
+      "messageId": "bf00a0b6-5700-4b11-8849-b018e889e957",
+      "conversation": "ELos Canvas Index",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2036,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

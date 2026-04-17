@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.505.TrainingReuse",
+  "names": [
+    "AI.505.TrainingReuse"
+  ],
+  "titles": [
+    "AI.505.TrainingReuse"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756447.768403,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756447.768403,
+    "messageId": "df96e142-6488-4b67-9ef2-0fe25517c2a4",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756447.768403,
+      "messageId": "df96e142-6488-4b67-9ef2-0fe25517c2a4",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 759,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

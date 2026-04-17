@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.collection-by-tag-section",
+  "names": [
+    "collection-by-tag-section"
+  ],
+  "titles": [
+    "collection-by-tag-section"
+  ],
+  "conversations": [
+    "Create collection page"
+  ],
+  "latestTime": 1753732277.981724,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Create collection page",
+    "createTime": 1753732277.981724,
+    "messageId": "8ef76261-8133-42ec-a024-954ff6267699",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1753732277.981724,
+      "messageId": "8ef76261-8133-42ec-a024-954ff6267699",
+      "conversation": "Create collection page",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2734,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

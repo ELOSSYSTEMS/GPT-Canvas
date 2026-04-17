@@ -1,0 +1,40 @@
+{
+  "artifactKey": "ELOS.500.PRO",
+  "names": [
+    "Pro Tier Interface Ruleset"
+  ],
+  "titles": [
+    "Pro Tier Interface Ruleset"
+  ],
+  "conversations": [
+    "ELos Buildout Structure"
+  ],
+  "latestTime": 1748090346.160474,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Buildout Structure",
+    "createTime": 1748090346.160474,
+    "messageId": "1175b4fb-a0c6-48c8-af72-be7d7a2dcc80",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748090346.160474,
+      "messageId": "1175b4fb-a0c6-48c8-af72-be7d7a2dcc80",
+      "conversation": "ELos Buildout Structure",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1821,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

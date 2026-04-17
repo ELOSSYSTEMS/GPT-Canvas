@@ -1,0 +1,64 @@
+{
+  "artifactKey": "NAME.forever_flowers_pricing",
+  "names": [
+    "forever_flowers_pricing"
+  ],
+  "titles": [
+    "forever_flowers_pricing"
+  ],
+  "conversations": [
+    "L'Occitane Brand Overview"
+  ],
+  "latestTime": 1739888678.945359,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "L'Occitane Brand Overview",
+    "createTime": 1739888641.621221,
+    "messageId": "5c518fa8-3c45-4b8d-9762-722894cc4b8d",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 1,
+  "unresolvedPartialOps": 1,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1739888641.621221,
+      "messageId": "5c518fa8-3c45-4b8d-9762-722894cc4b8d",
+      "conversation": "L'Occitane Brand Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 296,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1739888678.945359,
+      "messageId": "19628a68-7bf1-4f19-8af9-2dd37f90a15b",
+      "conversation": "L'Occitane Brand Overview",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 28,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "אספקה לנקודת המכירה"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1739888825.625631,
+      "messageId": "776f01fb-a6ca-4ffd-89d6-98e6658c9f92",
+      "conversation": "L'Occitane Brand Overview",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 98,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "נשמח להמשיך בשיח ולהציע פתרונות מותאמים אישית עבור חנויות ל'אוקסיטן בישראל.\\n\\nנשמח לשתף פעולה ולהציע פתרונות מותאמים אישית לעסק שלכם."
+    }
+  ]
+}

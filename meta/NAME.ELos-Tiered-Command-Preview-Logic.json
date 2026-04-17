@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tiered-Command-Preview-Logic",
+  "names": [
+    "ELos - Tiered Command Preview Logic"
+  ],
+  "titles": [
+    "ELos - Tiered Command Preview Logic"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083903.938137,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083903.938137,
+    "messageId": "67c0ceea-84df-4803-b56b-5697a5f97d3c",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083903.938137,
+      "messageId": "67c0ceea-84df-4803-b56b-5697a5f97d3c",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1623,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

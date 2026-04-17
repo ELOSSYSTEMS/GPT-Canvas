@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.prompt_engineering_master",
+  "names": [
+    "prompt_engineering_master"
+  ],
+  "titles": [
+    "prompt_engineering_master"
+  ],
+  "conversations": [
+    "Bootloader Activation Summary"
+  ],
+  "latestTime": 1749130234.322245,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749130234.322245,
+    "messageId": "6e964080-97b3-4b60-871c-78b18edead17",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749130132.928581,
+      "messageId": "c7456953-9e10-4471-8fa8-095eb0ed6ab3",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 6939,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749130234.322245,
+      "messageId": "6e964080-97b3-4b60-871c-78b18edead17",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 6924,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

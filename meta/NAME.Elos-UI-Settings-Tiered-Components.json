@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Elos-UI-Settings-Tiered-Components",
+  "names": [
+    "Elos UI Settings & Tiered Components"
+  ],
+  "titles": [
+    "Elos UI Settings & Tiered Components"
+  ],
+  "conversations": [
+    "Beginner UI Redesign Ideas"
+  ],
+  "latestTime": 1748088741.789041,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Beginner UI Redesign Ideas",
+    "createTime": 1748088741.789041,
+    "messageId": "088fc2a6-073b-4d6a-b2b3-51eeb8ac2b63",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748088741.789041,
+      "messageId": "088fc2a6-073b-4d6a-b2b3-51eeb8ac2b63",
+      "conversation": "Beginner UI Redesign Ideas",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2321,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

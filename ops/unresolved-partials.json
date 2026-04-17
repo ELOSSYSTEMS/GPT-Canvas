@@ -1,0 +1,862 @@
+[
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "639b62d4-d380-4363-9829-4e4833519b3c",
+    "reason": "regex-no-match",
+    "pattern": "Google Search and Shopping Ads: Optimize keywords and launch campaigns targeting home decor enthusiasts and businesses.",
+    "replacementSnippet": "Google Search and Shopping Ads: Conduct thorough keyword research using tools like Google Keyword Planner to identify high-traffic, low-competition terms. Create compelling ad copy and visuals that highlight the luxury, eco-friendly nature of Forever Flowers bouquets. Segment campaigns to target spe",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "1023028d-b1eb-4468-b6a3-f185bc2efd10",
+    "reason": "regex-no-match",
+    "pattern": "Regular blog posts on floral trends, eco-friendly decor, and DIY arrangement tips.",
+    "replacementSnippet": "10 engaging blog post topics to start with:\n1. \"Floral Trends of 2025: What’s Hot in Home Decor?\"\n2. \"Why Choose Dried Flowers? Eco-Friendly and Timeless Benefits\"\n3. \"DIY Floral Arrangements: Easy Steps to Style Your Forever Flowers\"\n4. \"The Perfect Vase Pairing: Enhancing Your Dried Flower Bouquet",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "96cbed09-40be-4503-bdce-914475f4415f",
+    "reason": "regex-no-match",
+    "pattern": "- \\*\\*Referral Program:\\*\\*\\n  - Launch a referral program offering discounts or free products for successful referrals\\.",
+    "replacementSnippet": "- **Referral Program:**\n  - Launch a referral program offering discounts or free products for successful referrals.\n  - **Steps to Implement:**\n    1. Define the referral rewards: Decide whether customers will receive a percentage discount, store credit, or a free product for successful referrals.\n ",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "27c6769d-56df-4bac-888a-1f3ca150c6ce",
+    "reason": "regex-no-match",
+    "pattern": "Maintain a 5x markup on costs for retail bouquets\\.",
+    "replacementSnippet": "For example, if the cost to produce a bouquet is 50 NIS, applying a 5x markup would result in a retail price of 250 NIS. This pricing ensures profitability while aligning with the luxury branding of Forever Flowers.",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "629a4b39-45dd-4cb8-8679-0d93d4d946eb",
+    "reason": "regex-no-match",
+    "pattern": "Create bundled offerings \\(e\\.g\\., bouquet \\+ vase \\+ care instructions\\) with slight discounts to encourage larger orders\\.",
+    "replacementSnippet": "Create bundled offerings (e.g., bouquet + vase + care instructions) with slight discounts to encourage larger orders. For instance, offer a \"Home Decor Starter Pack\" that includes a mid-sized bouquet, a matching vase, and a detailed care instruction leaflet. This bundle could be priced 10-15% lower ",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "4b334867-2df2-4913-a017-7588029f5f83",
+    "reason": "regex-no-match",
+    "pattern": "Offer a subscription for monthly bouquet deliveries, targeting both individual and corporate clients\\.",
+    "replacementSnippet": "Offer a subscription for monthly bouquet deliveries, targeting both individual and corporate clients. For individuals, create tiered subscription plans (e.g., Basic Plan with one small bouquet per month, Premium Plan with larger bouquets and customization options). For corporate clients, offer flexi",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "03c44f87-ea29-434c-8ac9-fd2a0645ae0c",
+    "reason": "regex-no-match",
+    "pattern": "Introduce tiered pricing \\(Standard, Executive, Exclusive\\) with clear value differentiation\\.",
+    "replacementSnippet": "Introduce tiered pricing (Standard, Executive, Exclusive) with clear value differentiation. For the Standard tier, offer high-quality bouquets with a minimal design focus, suitable for casual gifting or home use. The Executive tier would feature medium-sized bouquets with more intricate designs and ",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "2e5352db-e1fe-421d-9e48-469a62bc834a",
+    "reason": "regex-no-match",
+    "pattern": "Focus on the three bestsellers \\(לחישת שדה, צבעוני נצחי, שקט נצחי\\) with upsell options \\(e\\.g\\., fuller bouquets, premium flower additions\\)\\.",
+    "replacementSnippet": "Focus on the three bestsellers (לחישת שדה, צבעוני נצחי, שקט נצחי) with upsell options. For example, offer a fuller bouquet option for an additional 50 NIS that enhances the visual impact by adding more filler greens and secondary flowers. Premium flower additions could include roses (30 NIS per flow",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "03288021-e5aa-426b-ac5c-d42d441a901c",
+    "reason": "regex-no-match",
+    "pattern": "Free shipping and a complimentary vase with every bouquet\\.",
+    "replacementSnippet": "Free shipping on orders above 300 NIS and a complimentary vase with every bouquet. This threshold encourages larger purchases while maintaining profitability. Analyze average order values over time to adjust the free shipping threshold if necessary, ensuring it aligns with customer spending patterns",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "759d40fc-4c09-4485-89f3-909976e55358",
+    "reason": "regex-no-match",
+    "pattern": "Free shipping on orders above 300 NIS and a complimentary vase with every bouquet\\. This threshold encourages larger purchases while maintaining profitability\\. Analyze average order values over time to adjust the free shipping threshold if necessary, ensuring it aligns with customer spending patterns and business goals\\.",
+    "replacementSnippet": "300 NIS is a reasonable starting point for free shipping, but this threshold should be validated through customer purchasing behavior analysis. Begin by calculating the current average order value and comparing it to this threshold. Test higher thresholds, such as 350 NIS or 400 NIS, over a three-mo",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "4ddf2d72-0ec9-4341-bc57-726eee2e2ab8",
+    "reason": "regex-no-match",
+    "pattern": "- \\*\\*Efficiency in Deliveries:\\*\\*\\n  - Optimize delivery routes to reduce costs, especially for Arcaffe branches\\.\\n  - Implement zone-based delivery schedules \\(weekly for Tel Aviv, bi-weekly for other areas\\)\\.",
+    "replacementSnippet": "- **Efficiency in Deliveries:**\n  - Shift focus to the Merkaz Region, offering hand-delivered bouquets with a \"white glove\" service for a personalized customer experience.\n  - Establish clear delivery zones within the Merkaz Region and implement fixed delivery schedules to optimize efficiency.\n  - D",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "89895302-1f2f-49aa-9cd1-d5c14ebcb402",
+    "reason": "regex-no-match",
+    "pattern": "Discontinue deliveries to areas outside the Merkaz Region to streamline operations and maintain high service quality\\.",
+    "replacementSnippet": "Discontinue deliveries to areas outside the Merkaz Region to streamline operations and maintain high service quality. On the website, communicate this shift transparently by updating the delivery policy page and creating a pop-up or banner announcement for visitors. Use positive language to emphasiz",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_business_plan",
+    "conversation": "Business Plan for Forever Flowers",
+    "messageId": "a094144e-541a-41e1-a526-575927d67b46",
+    "reason": "regex-no-match",
+    "pattern": "Focus on differentiating Forever Flowers by offering free shipping, a free vase with every bouquet, and unique design collections\\.",
+    "replacementSnippet": "Focus on differentiating Forever Flowers by emphasizing unique design collections, personalized hand-delivery service within the Merkaz Region, and a luxury brand experience. Analyze competitors to identify gaps in their offerings, such as limited customization options, lack of eco-friendly products",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.shopify_blocks_review",
+    "conversation": "List of Sections",
+    "messageId": "000b4c29-64de-4dfe-8ea6-c5f8089eb22b",
+    "reason": "regex-no-match",
+    "pattern": "#### (\\d+)\\. \\*\\*(.*?)\\*\\*\\n(.*?)\\n- \\*\\*Typography\\*\\*:.*?\\n",
+    "replacementSnippet": "#### \\1. **\\2**\\n\\3\\n- **Typography**: Inherits from the theme's typography by default for consistency. Individual font styles, sizes, and alignment can be overridden as needed.\\n",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.shopify_blocks_review",
+    "conversation": "List of Sections",
+    "messageId": "118b7d19-acc1-4127-8d76-1b6520001705",
+    "reason": "regex-no-match",
+    "pattern": "#### (\\d+)\\. \\*\\*(.*?)\\*\\*\\n(.*?)\\n- \\*\\*Colors\\*\\*:.*?\\n",
+    "replacementSnippet": "#### \\1. **\\2**\\n\\3\\n- **Colors**: Inherits from the theme's color palette by default for consistency. Backgrounds, borders, and text colors can be overridden individually as needed.\\n",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.order_out_for_delivery_he",
+    "conversation": "הזמנה נמסרה דוא\"ל",
+    "messageId": "2b6300c5-ef38-494c-9b9d-87e30de0fe05",
+    "reason": "regex-no-match",
+    "pattern": "Order \\{\\{ name \\}\\} is out for delivery",
+    "replacementSnippet": "ההזמנה {{ name }} יצאה למשלוח",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.forever_flowers_pricing",
+    "conversation": "L'Occitane Brand Overview",
+    "messageId": "776f01fb-a6ca-4ffd-89d6-98e6658c9f92",
+    "reason": "regex-no-match",
+    "pattern": "נשמח להמשיך בשיח ולהציע פתרונות מותאמים אישית עבור חנויות ל'אוקסיטן בישראל.\\n\\nנשמח לשתף פעולה ולהציע פתרונות מותאמים אישית לעסק שלכם.",
+    "replacementSnippet": "נשמח להמשיך בשיח, לשתף פעולה ולהציע פתרונות מותאמים אישית עבור חנויות ל'אוקסיטן בישראל ולעסק שלכם.",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Allon_Memory_Consolidation",
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "messageId": "5b3b7f4b-6f9b-4cec-9ef7-232ae9bdcb79",
+    "reason": "regex-no-match",
+    "pattern": "### 3\\. 🧠 \\*\\*The Marketing Team\\*\\* \\\\*\\(Israeli Marketer \\+ Genius \\+ Shopify Architect\\)\\*\\*[\\s\\S]*?---",
+    "replacementSnippet": "### 3. 🧠 **The Marketing Team** *(Israeli Marketer + Genius + Shopify Architect)*\n> A unified group of 3 specialist personas who confer automatically.\n\n---\n\n### Persona: The Israeli Marketer  \n**Alias:** The Bullshit Radar  \n**Core Function:** Precision-native persuasion for the Israeli market.  \n*",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Allon_Memory_Consolidation",
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "messageId": "030178fa-025a-4ab0-b22c-d3ede95cd03b",
+    "reason": "regex-no-match",
+    "pattern": "### 3\\. 🧠 \\*\\*The Marketing Team\\*\\* \\*\\(Israeli Marketer \\+ Genius \\+ Shopify Architect\\)\\*\\*[\\s\\S]*?---",
+    "replacementSnippet": "### 3. 🧠 **The Marketing Team** *(Israeli Marketer + Genius + Shopify Architect)*\n> A unified group of 3 specialist personas who confer automatically.\n\n---\n\n### Persona: The Israeli Marketer  \n**Alias:** The Bullshit Radar  \n**Core Function:** Precision-native persuasion for the Israeli market.  \n*",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "DA.300.LOG",
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "55a54f2b-4758-4247-8f61-c3d1fcc8c211",
+    "reason": "regex-no-match",
+    "pattern": "Icon: minimalist lightning bolt",
+    "replacementSnippet": "Icon: minimalist blue chat bubble",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "DA.300.LOG",
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "55a54f2b-4758-4247-8f61-c3d1fcc8c211",
+    "reason": "regex-no-match",
+    "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol",
+    "replacementSnippet": "Chrome extension icon: clean, minimalist blue chat bubble symbol",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "DA.300.LOG",
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "b97cf4b0-76bb-4708-8aa6-eb706dc1d670",
+    "reason": "regex-no-match",
+    "pattern": "Icon: minimalist lightning bolt",
+    "replacementSnippet": "Icon: minimalist blue chat bubble",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "DA.300.LOG",
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "b97cf4b0-76bb-4708-8aa6-eb706dc1d670",
+    "reason": "regex-no-match",
+    "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol",
+    "replacementSnippet": "Chrome extension icon: clean, minimalist blue chat bubble symbol",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "DA.300.LOG",
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "c003a7d4-2e09-4287-b294-3101875a102c",
+    "reason": "regex-no-match",
+    "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol",
+    "replacementSnippet": "Chrome extension icon: clean, minimalist blue chat bubble symbol",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "DA.300.LOG",
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "5b7a4547-b74e-440d-86c6-7d4749312884",
+    "reason": "regex-no-match",
+    "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol",
+    "replacementSnippet": "Chrome extension icon: clean, minimalist blue chat bubble symbol",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "DA.300.LOG",
+    "conversation": "Dabroo AI Packaging Design",
+    "messageId": "5029d5dd-2a9d-4e57-a873-11ca1823c38c",
+    "reason": "regex-no-match",
+    "pattern": "Chrome extension icon: clean, minimalist lightning bolt symbol",
+    "replacementSnippet": "Chrome extension icon: clean, minimalist blue chat bubble symbol",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "FF.100.TDL",
+    "conversation": "Conversation Continuation",
+    "messageId": "3e9951a7-b4fb-40e8-bc9b-48d329502c1f",
+    "reason": "regex-no-match",
+    "pattern": "(?<=\\*\\*Hero Section:\\*\\*\\n- Full-width static image of current seasonal bouquet\\n- English Headline \\(1–3 words\\): )[^\\n]*",
+    "replacementSnippet": "e.g. “SEASONAL COLLECTION”",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "FF.100.TDL",
+    "conversation": "Conversation Continuation",
+    "messageId": "3e9951a7-b4fb-40e8-bc9b-48d329502c1f",
+    "reason": "regex-no-match",
+    "pattern": "(?<=\\n- Hebrew Subline: ).*",
+    "replacementSnippet": "פרחים משומרים. טבעיים. ללא תחזוקה.",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "FF.100.TDL",
+    "conversation": "Conversation Continuation",
+    "messageId": "e2f7202b-a50b-4302-af9b-3ff62aeca7b0",
+    "reason": "regex-no-match",
+    "pattern": "(?<=\\*\\*Hero Section:\\*\\*\\n- Full-width static image of current seasonal bouquet\\n- English Headline \\(1–3 words\\): ).*",
+    "replacementSnippet": "SEASONAL COLLECTION",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "FF.100.TDL",
+    "conversation": "Conversation Continuation",
+    "messageId": "e2f7202b-a50b-4302-af9b-3ff62aeca7b0",
+    "reason": "regex-no-match",
+    "pattern": "(?<=\\n- Hebrew Subline: ).*",
+    "replacementSnippet": "פרחים משומרים. טבעיים. ללא תחזוקה.",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "IN.100.ALL",
+    "conversation": "NEW CHATPT OS APP",
+    "messageId": "4b5e391b-45e4-4639-b368-2f9e6758b260",
+    "reason": "regex-no-match",
+    "pattern": "^(\\s*-\\s)(Sharp Mode|Motherly Mode|Fatherly Mode|Teacher Persona|Prompt Surgeon|Stoic Governor|Consistency Auditor)",
+    "replacementSnippet": "\\1[prototype] \\2",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "IN.100.ALL",
+    "conversation": "NEW CHATPT OS APP",
+    "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+    "reason": "regex-no-match",
+    "pattern": "(?<=\\*\\*Behavior Mode Engine\\*\\*\\n- )Modes: ",
+    "replacementSnippet": "[prototype] Modes: ",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "IN.100.ALL",
+    "conversation": "NEW CHATPT OS APP",
+    "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+    "reason": "regex-no-match",
+    "pattern": "(?<=\\*\\*Modular Governors\\*\\*\\n- )Prompt Surgeon",
+    "replacementSnippet": "[prototype] Prompt Surgeon",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "IN.100.ALL",
+    "conversation": "NEW CHATPT OS APP",
+    "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+    "reason": "regex-no-match",
+    "pattern": "(?<=\\*\\*Modular Governors\\*\\*\\n- [^\\n]*\\n- )Stoic Governor",
+    "replacementSnippet": "[prototype] Stoic Governor",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "IN.100.ALL",
+    "conversation": "NEW CHATPT OS APP",
+    "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+    "reason": "regex-no-match",
+    "pattern": "(?<=\\*\\*Modular Governors\\*\\*\\n- [^\\n]*\\n- [^\\n]*\\n- )Consistency Auditor",
+    "replacementSnippet": "[prototype] Consistency Auditor",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "IN.100.ALL",
+    "conversation": "NEW CHATPT OS APP",
+    "messageId": "6e406b49-277f-494a-897e-1f55fc64f5bf",
+    "reason": "regex-no-match",
+    "pattern": "(?<=\\*\\*Persona Management\\*\\*\\n- )Activate default or user-created personas",
+    "replacementSnippet": "[prototype] Activate default or user-created personas",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "3ec6cadc-1aff-45f8-b8c5-4ba2f189f29a",
+    "reason": "regex-no-match",
+    "pattern": "\\bGPTOS\\b",
+    "replacementSnippet": "ELos",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "3ec6cadc-1aff-45f8-b8c5-4ba2f189f29a",
+    "reason": "regex-no-match",
+    "pattern": "\\bAI OS\\b",
+    "replacementSnippet": "ELos",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "fffb31e3-0223-45fb-bea1-6d1bd3e1badc",
+    "reason": "regex-no-match",
+    "pattern": "\\bGPTOS\\b",
+    "replacementSnippet": "ELos",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "fffb31e3-0223-45fb-bea1-6d1bd3e1badc",
+    "reason": "regex-no-match",
+    "pattern": "\\bAI OS\\b",
+    "replacementSnippet": "ELos",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "7d5ced82-7197-4a2b-9a51-1c7121ab315e",
+    "reason": "regex-no-match",
+    "pattern": "\\bGPTOS\\b",
+    "replacementSnippet": "ELos",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "7d5ced82-7197-4a2b-9a51-1c7121ab315e",
+    "reason": "regex-no-match",
+    "pattern": "\\bAI OS\\b",
+    "replacementSnippet": "ELos",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "c0c3705d-a773-44c0-bb1c-c6d5705b63a8",
+    "reason": "regex-no-match",
+    "pattern": "GPTOS",
+    "replacementSnippet": "ELos",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+    "conversation": "60 Flagged Pairs Review",
+    "messageId": "c0c3705d-a773-44c0-bb1c-c6d5705b63a8",
+    "reason": "regex-no-match",
+    "pattern": "AI OS",
+    "replacementSnippet": "ELos",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "ELOS.100.STF",
+    "conversation": "ELos Buildout Structure",
+    "messageId": "c9344903-f3ba-4bdb-85b1-e3844f934f8f",
+    "reason": "regex-no-match",
+    "pattern": "## Indexed Canvases \\(Core Staff\\)[\\s\\S]*?\\n\\n",
+    "replacementSnippet": "## Indexed Canvases (Core Staff)\n- ▧ ELOS.100.STF – ELos Core Staff (Summary)\n- ▧ ELOS.100.LIB – The Librarian\n- ▧ ELOS.100.GUI – The Guide\n- ▧ ELOS.100.GOV – The Governor\n- ▧ ELOS.100.SCR – The Scribe\n- ▧ ELOS.100.AUD – The Auditor\n\n",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AI.999.ATL",
+    "conversation": "Psychometric Profile Analysis Request",
+    "messageId": "c722c9c7-70f9-4806-8c2a-1c94a279c312",
+    "reason": "missing-replacement",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.910.PSN",
+    "conversation": "Recursive Persona System Design",
+    "messageId": "122db5ce-b489-47b7-be41-47a9e1c378d2",
+    "reason": "regex-no-match",
+    "pattern": "### \\*\\*Step 3: What You Can Do\\*\\*\\n```markdown\\n.*?```",
+    "replacementSnippet": "### **Step 3: What You Can Do Right Now**\n```markdown\nFrom the Tree of Knowledge, you can:\n\n- **See Your ChatGPT Voice**  \n  View and switch your current system mode (e.g., Expert, Friendly, Socratic)\n\n- **Understand What This System Knows About You**  \n  Review a simple summary of your preferences ",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.910.PSN",
+    "conversation": "Recursive Persona System Design",
+    "messageId": "38260e17-e500-4622-b85b-c1b5a0993d5d",
+    "reason": "regex-no-match",
+    "pattern": "### \\*\\*Step 1: Welcome & Friction Diffusal\\*\\*\\n```markdown\\nWelcome to ELos\\.\\n\\nThis is not just another plugin\\. It's an OS for AI\\..*?```",
+    "replacementSnippet": "### **Step 1: Welcome & Friction Diffusal**\n```markdown\nWelcome to ELos.\n\nThis is not just another plugin. It's an OS for AI.\nDesigned for one thing: clarity in execution.\n\nYou are currently in: Beginner Mode  \nThis means you're seeing a simplified, safe view of ELos.  \nNew capabilities will unlock ",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.910.PSN",
+    "conversation": "Recursive Persona System Design",
+    "messageId": "38260e17-e500-4622-b85b-c1b5a0993d5d",
+    "reason": "regex-no-match",
+    "pattern": "### \\*\\*Step 4: Now You Try\\*\\*\\n```markdown\\nLet’s test it:\\nClick the Tree of Knowledge\\.\\nThen select: `Start With Builder`\\n```",
+    "replacementSnippet": "### **Step 4: Now You Try**\n```markdown\nLet’s test it:\nClick the Tree of Knowledge.\nThen select: `Start With Builder`\n\nYou're ready.\nClick the Tree of Knowledge anytime.\nIt's your compass, your control panel, your first and last button.\n\nYou're now running ELos.\n```",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.910.PSN",
+    "conversation": "Recursive Persona System Design",
+    "messageId": "f983083a-21c7-4e0c-9bc9-ae54ee814057",
+    "reason": "regex-no-match",
+    "pattern": "### \\*\\*Step 1: Welcome & Friction Diffusal\\*\\*\\n```markdown\\nWelcome to ELos\\.\\n\\nThis is not just another plugin\\. It's an OS for AI\\.\\nDesigned for one thing: clarity in execution\\.\\n```",
+    "replacementSnippet": "### **Step 1: Welcome & Friction Diffusal**\n```markdown\nWelcome to ELos.\n\nThis is not just another plugin. It's an OS for AI.\nDesigned for one thing: clarity in execution.\n\nYou are currently in: Beginner Mode  \nThis means you're seeing a simplified, safe view of ELos.  \nNew capabilities will unlock ",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.910.PSN",
+    "conversation": "Recursive Persona System Design",
+    "messageId": "f983083a-21c7-4e0c-9bc9-ae54ee814057",
+    "reason": "regex-no-match",
+    "pattern": "### \\*\\*Step 4: Now You Try\\*\\*\\n```markdown\\nLet’s test it:\\nClick the Tree of Knowledge\\.\\nThen select: `Start With Builder`\\n```",
+    "replacementSnippet": "### **Step 4: Now You Try**\n```markdown\nLet’s test it:\nClick the Tree of Knowledge.\nThen select: `Start With Builder`\n\nYou're ready.\nClick the Tree of Knowledge anytime.\nIt's your compass, your control panel, your first and last button.\n\nYou're now running ELos.\n```",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.910.PSN",
+    "conversation": "Recursive Persona System Design",
+    "messageId": "9f60cb5c-04d6-498a-801a-54a10c9cf476",
+    "reason": "regex-no-match",
+    "pattern": "### \\*\\*Step 6: Empowerment Close\\*\\*\\n```markdown\\n(.*?)\\n```",
+    "replacementSnippet": "### **Step 6: Empowerment Close**\n```markdown\n$1\n\nYou can find this anytime under: Tree of Knowledge → Beginner Tools → 'Use My Voice'.\n```",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.910.PSN",
+    "conversation": "Recursive Persona System Design",
+    "messageId": "53d7146c-98b4-498b-8f44-11958c9ff963",
+    "reason": "regex-no-match",
+    "pattern": "Use My Voice",
+    "replacementSnippet": "Change My Voice",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.autopromptwriter_contentjs",
+    "conversation": "Prompt Strategy Deep Dive",
+    "messageId": "3dcb3e3c-114f-464d-b228-a08b5443f3de",
+    "reason": "missing-replacement",
+    "parseMode": "regex-update-partial"
+  },
+  {
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "1d20532b-9d85-46f9-b096-ba654408765d",
+    "reason": "regex-no-match",
+    "pattern": "Stargate Protocol",
+    "replacementSnippet": "ELos Protocol",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "1d20532b-9d85-46f9-b096-ba654408765d",
+    "reason": "regex-no-match",
+    "pattern": "Stargate",
+    "replacementSnippet": "ELos",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "4b90ebf3-b9bd-4871-93c6-da347210ecfe",
+    "reason": "regex-no-match",
+    "pattern": "stargate_protocol",
+    "replacementSnippet": "elos_protocol",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "4b90ebf3-b9bd-4871-93c6-da347210ecfe",
+    "reason": "regex-no-match",
+    "pattern": "Stargate Protocol",
+    "replacementSnippet": "ELos Protocol",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "4b90ebf3-b9bd-4871-93c6-da347210ecfe",
+    "reason": "regex-no-match",
+    "pattern": "\\bStargate\\b",
+    "replacementSnippet": "ELos",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "dbdc808e-3760-43d8-9780-4587d0dae06a",
+    "reason": "regex-no-match",
+    "pattern": "stargate hybrid protocol",
+    "replacementSnippet": "ELos Prompt Protocol",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "dbdc808e-3760-43d8-9780-4587d0dae06a",
+    "reason": "regex-no-match",
+    "pattern": "stargate_protocol",
+    "replacementSnippet": "elos_protocol",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "dbdc808e-3760-43d8-9780-4587d0dae06a",
+    "reason": "regex-no-match",
+    "pattern": "Stargate Protocol",
+    "replacementSnippet": "ELos Protocol",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+    "conversation": "Prompt Refinement Protocol",
+    "messageId": "dbdc808e-3760-43d8-9780-4587d0dae06a",
+    "reason": "regex-no-match",
+    "pattern": "Stargate",
+    "replacementSnippet": "ELos",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.001.RBI",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "messageId": "d45d23d6-4450-425e-a28a-055447cf137d",
+    "reason": "regex-no-match",
+    "pattern": "🧠 Weights \\(חוזר\\) – ערכי למידה פנימיים\n\n---\n\n\\*\\*מה זה אומר\\?\\*\\*\nמונח שחוזר מהמודול הטכני – כאן מתמקד בהשפעה על תפעול, העתקה, והתאמה של מודלים. המשקולות הן הלב של כל ידע שנלמד.\n\n---\n\n\\*\\*שימוש במודול 7:\\*\\*\nכשמשכפלים מודל, מעבירים גרסה, יוצרים checkpoint – מה שמעבירים בפועל זה את ה-Weights.\n\n---\n\n\\*\\*דוגמה מהחיים:\\*\\*\nאם Meta משחררת את LLaMA-3 להורדה – מה שאתה מקבל זה קובץ עם weights בלבד. בלי זה, אין מודל.\n\n---\n\n\\*\\*שימוש יומיומי\\?\\*\\*\nמאחורי הקלעים: בכל פעם שאתה טוען מודל מותאם, או עובד עם huggingface, אתה בעצם טוען את המשקולות.\n\n---\n\n\\*\\*שאלת העמקה:\\*\\*\nמה קורה אם משנים את ה-Weights ביד – בלי לאמן מחדש\\?\n\n---\n\n\\*\\*מושגים קשורים:\\*\\*\n- Parameters\n- Model Architecture\n- Fine-Tuning\n\n---\n\n\\*\\*שורת סיכום לזכירה:\\*\\*\nWeights = הקבצים שכוללים את כל מה שהמודל \"למד\" — המוח שלו, בלי הגוף.",
+    "replacementSnippet": "🧠 Weights (חוזר) – ערכי למידה פנימיים\n\n---\n\n**מה זה אומר?**\nמונח שחוזר מהמודול הטכני – כאן מתמקד בהשפעה על תפעול, העתקה, והתאמה של מודלים. המשקולות הן הלב של כל ידע שנלמד.\n\n---\n\n**שימוש במודול 7:**\nכשמשכפלים מודל, מעבירים גרסה, יוצרים checkpoint – מה שמעבירים בפועל זה את ה-Weights.\n\n---\n\n**דוגמה מה",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.910.PRM",
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "0cf9c063-e372-42a7-8c5a-bc55ebbfe363",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "Load all indexed canvases including AO\\.910\\.PRM\\.LIB_Full",
+    "replacementSnippet": "Load all indexed canvases, including all prompt canvases (e.g., AO.910.PRM.LIB_Full), logic blocks, system stacks, and recursively referenced canvases in AO.001.RBI",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.911.IDE",
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "732bc8a9-42cb-48d6-853b-c3d8e2834a93",
+    "reason": "regex-no-match",
+    "pattern": "Activate ELoS Prompt Protocol v3\\.1-total-fireproofed \\(includes Stargate Protocol\\)",
+    "replacementSnippet": "Activate ELoS Prompt Protocol v3.1-total-fireproofed (includes Stargate Protocol and AO.911.IDE – Intelligent Design Engine)",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.911.IDE",
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "6ec6bcaa-258f-47a7-a443-0eeb3934840c",
+    "reason": "regex-no-match",
+    "pattern": "Activate ELoS Prompt Protocol v3\\.1-total-fireproofed \\(includes Stargate Protocol\\)",
+    "replacementSnippet": "Activate ELoS Prompt Protocol v3.1-total-fireproofed (includes Stargate Protocol and AO.911.IDE – Intelligent Design Engine)",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.911.IDE",
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "d9feef6b-f82e-4211-b816-f7d3aed3c287",
+    "reason": "regex-no-match",
+    "pattern": "Activate ELoS Prompt Protocol v3\\.1-total-fireproofed",
+    "replacementSnippet": "Activate ELoS Prompt Protocol v3.1-total-fireproofed (includes Stargate Protocol and AO.911.IDE – Intelligent Design Engine)",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.911.IDE",
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "830583dd-f197-4376-ac06-93ff3e19a16b",
+    "reason": "regex-no-match",
+    "pattern": "Activate ELoS Prompt Protocol v3\\.1-total-fireproofed \\(includes Stargate Protocol\\)",
+    "replacementSnippet": "Activate ELoS Prompt Protocol v3.1-total-fireproofed (includes Stargate Protocol and Intelligent Design Engine AO.911.IDE)",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.911.IDE",
+    "conversation": "Bootloader Activation Summary",
+    "messageId": "c0b103c3-0aaf-46f7-9048-ce2398d141bf",
+    "reason": "regex-no-match",
+    "pattern": "Activate ELoS Prompt Protocol v3\\.1.*?Stargate Protocol\\)",
+    "replacementSnippet": "Activate ELoS Prompt Protocol v3.1-total-fireproofed (includes Stargate Protocol and Intelligent Design Engine AO.911.IDE)",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "WG.002.PSN",
+    "conversation": "War Games",
+    "messageId": "607e2690-0af1-4a58-8fcd-a9ed4046c795",
+    "reason": "regex-no-match",
+    "pattern": "logSimulation\\(\\{ command: cleaned, response }\\);",
+    "replacementSnippet": "const consulted = getConsultedPanelNodes(cleaned);\n  logSimulation({ command: cleaned, response, consulted });",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "WG.002.PSN",
+    "conversation": "War Games",
+    "messageId": "607e2690-0af1-4a58-8fcd-a9ed4046c795",
+    "reason": "regex-no-match",
+    "pattern": "export function handleWarGamesCommand\\(rawInput\\) \\{",
+    "replacementSnippet": "import { getConsultedPanelNodes } from './WG.010.PanelStack.js';\n\nexport function handleWarGamesCommand(rawInput) {",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "WG.002.PSN",
+    "conversation": "War Games",
+    "messageId": "a568e9ae-81fa-4b6f-a793-b08245798727",
+    "reason": "regex-no-match",
+    "pattern": "logSimulation\\(\\{ command: cleaned, response \\}\\);",
+    "replacementSnippet": "const consulted = getConsultedPanelNodes(cleaned);\n  logSimulation({ command: cleaned, response, consulted });",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "WG.002.PSN",
+    "conversation": "War Games",
+    "messageId": "a568e9ae-81fa-4b6f-a793-b08245798727",
+    "reason": "regex-no-match",
+    "pattern": "export function handleWarGamesCommand\\(rawInput\\) \\{",
+    "replacementSnippet": "import { getConsultedPanelNodes } from './WG.010.PanelStack.js';\n\nexport function handleWarGamesCommand(rawInput) {",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.910.PRM.IDX",
+    "conversation": "PROMPT LIBRARY",
+    "messageId": "c42e2b10-8925-4b5d-8621-238a18a9c569",
+    "reason": "regex-no-match",
+    "pattern": "\"prompt_count\":\\s*120",
+    "replacementSnippet": "\"prompt_count\": 121",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.910.PRM.IDX",
+    "conversation": "PROMPT LIBRARY",
+    "messageId": "23faf08d-7d74-452c-9988-fb6421d0bbcc",
+    "reason": "regex-no-match",
+    "pattern": "\"prompt_count\":\\s*120",
+    "replacementSnippet": "\"prompt_count\": 121",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.000.SPP",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "52f73dd2-9212-4084-b914-382206f7fa2d",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "## Canvas Autoload Registry\\n```[\\s\\S]*?```",
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.210.DBT – Debate Module\nPR.211.HIS – Historical Timeline Module\nPR.212.STP – Step-by-Step Engine\nPR.700.PIT – Prompt Inheri",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.000.SPP",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "2679a5a6-ae93-4efd-972d-cae029946981",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "## Canvas Autoload Registry\\n```[\\s\\S]*?```",
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.004.DIA – Diagnostic Layer\nPR.005.INT – Intent Extraction Layer\nPR.006.CNT – Context Loader\nPR.007.MIR – Mirror Clarifier\nE",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.210.DBT",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "3ad963cf-07ff-431f-a345-3d41e6d4b206",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "## Command Registry Mapping\\n```[\\s\\S]*?```",
+    "replacementSnippet": "## Command Registry Mapping\n```\nCOMMAND     ALIAS         TARGET_CANVAS\n!debate     →             PR.210.DBT\n!history    →             PR.211.HIS\n!stepflow   →             PR.212.STP\n!diagnose   →             PR.004.DIA\n!intent     →             PR.005.INT\n!context    →             PR.006.CNT\n!clari",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.210.DBT",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "c2d35ad9-73e8-4afa-968e-639f82373267",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "## Command Registry Mapping\\n```.\\n.*?```",
+    "replacementSnippet": "## Command Registry Mapping\n```\nCOMMAND     ALIAS         TARGET_CANVAS\n!debate     →             PR.210.DBT\n!history    →             PR.211.HIS\n!stepflow   →             PR.212.STP\n!diagnose   →             PR.004.DIA\n!intent     →             PR.005.INT\n!context    →             PR.006.CNT\n!clari",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.210.DBT",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "98d4b59f-f1c3-4c46-8503-e29351236338",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "## Command Registry Mapping\\n```[\\s\\S]*?```",
+    "replacementSnippet": "## Command Registry Mapping\n```\nCOMMAND     ALIAS         TARGET_CANVAS\n!debate     →             PR.210.DBT\n!history    →             PR.211.HIS\n!stepflow   →             PR.212.STP\n!diagnose   →             PR.004.DIA\n!intent     →             PR.005.INT\n!context    →             PR.006.CNT\n!clari",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.210.DBT",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "aefb422f-bd63-4f1a-88a1-f879439af17c",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "## Command Registry Mapping\\n```.?\\n.*?```",
+    "replacementSnippet": "## Command Registry Mapping\n```\nCOMMAND     ALIAS         TARGET_CANVAS\n!debate     →             PR.210.DBT\n!history    →             PR.211.HIS\n!stepflow   →             PR.212.STP\n!diagnose   →             PR.004.DIA\n!intent     →             PR.005.INT\n!context    →             PR.006.CNT\n!clari",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.210.DBT",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "e1c478a5-c770-4e2f-8553-e70588ffb9f6",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "## Command Registry Mapping\\n```[\\s\\S]*?```",
+    "replacementSnippet": "## Command Registry Mapping\n```\nCOMMAND     ALIAS         TARGET_CANVAS\n!debate     →             PR.210.DBT\n!history    →             PR.211.HIS\n!stepflow   →             PR.212.STP\n!diagnose   →             PR.004.DIA\n!intent     →             PR.005.INT\n!context    →             PR.006.CNT\n!clari",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.210.DBT",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "ed8c3d66-38d7-4165-b74e-776ce12ba97d",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "## Command Registry Mapping[\\s\\S]*",
+    "replacementSnippet": "## Command Registry Mapping\n```\nCOMMAND     ALIAS         TARGET_CANVAS\n!debate     →             PR.210.DBT\n!history    →             PR.211.HIS\n!stepflow   →             PR.212.STP\n!diagnose   →             PR.004.DIA\n!intent     →             PR.005.INT\n!context    →             PR.006.CNT\n!clari",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.210.DBT",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "029e8c77-63b2-4dc7-9cae-95a353be5a3f",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "COMMAND\\s+ALIAS\\s+TARGET_CANVAS\\n",
+    "replacementSnippet": "COMMAND  ALIAS        TARGET_CANVAS\n!debate   →            PR.210.DBT\n!history  →            PR.211.HIS\n!stepflow →            PR.212.STP\n!diagnose →            PR.004.DIA\n!intent   →            PR.005.INT\n!context  →            PR.006.CNT\n!clarify  →            PR.007.MIR\n!formalize→            PR.",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.001.RBI",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "8f8a7ff8-7165-4277-ab71-7f505267ffbc",
+    "reason": "regex-no-match",
+    "pattern": "## Canvas Autoload Registry\\n```([\\s\\S]*?)```",
+    "replacementSnippet": "## Canvas Autoload Registry\n```\n\\1\nELoS.CommandRegistry – Command Alias Registry\n```",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AO.001.RBI",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "eba885a0-8685-4e06-8dc0-d1e32bb2c08c",
+    "reason": "regex-no-match",
+    "pattern": "## Canvas Autoload Registry\\n```\n([\\s\\S]*?)\n```",
+    "replacementSnippet": "## Canvas Autoload Registry\n```\n\\1\nELoS.CommandRegistry – Command Alias Registry\n```",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.000.SPP",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "a8dce4f7-6c2f-4aed-a91f-f0af088dde7e",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "## Canvas Autoload Registry\\n```([\\s\\S]*?)```",
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.004.DIA – Diagnostic Layer\nPR.005.INT – Intent Extraction Layer\nPR.006.CNT – Context Loader\nPR.007.MIR – Mirror Clarifier\nE",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.000.SPP",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "7bf6b1ae-832b-4a80-a97b-a4082a2022f7",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "## Canvas Autoload Registry\\n```[\\s\\S]*?```",
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.004.DIA – Diagnostic Layer\nPR.005.INT – Intent Extraction Layer\nPR.006.CNT – Context Loader\nPR.007.MIR – Mirror Clarifier\nE",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.000.SPP",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "ed2b48c6-58fd-4a76-873d-83b785df1002",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "## Canvas Autoload Registry\\n([\\s\\S]*?)\\n## Command Registry Mapping",
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.004.DIA – Diagnostic Layer\nPR.005.INT – Intent Extraction Layer\nPR.006.CNT – Context Loader\nPR.007.MIR – Mirror Clarifier\nE",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.000.SPP",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "2051efdb-c33a-4679-8aa7-c85306e9ed06",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "## Canvas Autoload Registry\\n```([\\s\\S]*?)```",
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.004.DIA – Diagnostic Layer\nPR.005.INT – Intent Extraction Layer\nPR.006.CNT – Context Loader\nPR.007.MIR – Mirror Clarifier\nE",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.000.SPP",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "498d906e-700e-475c-8026-56cd941da5e0",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "## Canvas Autoload Registry\\n[\\s\\S]*?\\n(?=##|\\Z)",
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.004.DIA – Diagnostic Layer\nPR.005.INT – Intent Extraction Layer\nPR.006.CNT – Context Loader\nPR.007.MIR – Mirror Clarifier\nE",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "PR.000.SPP",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "b195026f-d5bb-45e8-b014-7942d68c2547",
+    "reason": "no-current-body-for-partial-update",
+    "pattern": "## Canvas Autoload Registry\\n```[\\s\\S]*?```",
+    "replacementSnippet": "## Canvas Autoload Registry\n```\nPR.000.SPP – ELoS Silent Planning Protocol\nPR.001.EPP – ELoS Prompt Protocol\nPR.002.SMK – Sharpening Kernel\nPR.003.SDE – Socratic Drip Engine\nPR.004.DIA – Diagnostic Layer\nPR.005.INT – Intent Extraction Layer\nPR.006.CNT – Context Loader\nPR.007.MIR – Mirror Clarifier\nE",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "AI.850.MOS",
+    "conversation": "Boot Sequence Execution",
+    "messageId": "3a0acbb0-b7ef-41e1-99bc-f219c71c1741",
+    "reason": "regex-no-match",
+    "pattern": "## Canvas Autoload Registry\\n```([\\s\\S]*?)```",
+    "replacementSnippet": "## Canvas Autoload Registry\n```\n\\1\nAI.850.MOS – Mind OS Master Architecture\nAI.851.ALC – Alignment Calibration Engine\nAI.852.MIR – MirrorOS Integration Layer\nAI.853.TRM – Trait Reinforcement Map\nAI.854.PAD – Persona Adaptation Driver\nAO.920.HST.PSN – Persona History Tracker\nVV.999.META – vVerse Core",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_SUMMARY.md",
+    "conversation": "Personalized Flow Design",
+    "messageId": "ea11bbf9-d34f-4197-b939-b21824a73cdc",
+    "reason": "regex-no-match",
+    "pattern": "---\\n\\n## Final Anchor",
+    "replacementSnippet": "---\n\n## PDP Re-Entry & Progressive Nudge System\n\n## Problem Statement\nCustomers often return to the same PDP **many times (10–15+)** over several days before purchasing. A static PDP wastes these returns.\n\nThe PDP must acknowledge **repeated intent** and progressively reduce hesitation.\n\n---\n\n## Cor",
+    "parseMode": "json-parse"
+  },
+  {
+    "artifactKey": "NAME.FOREVER_FLOWERS_PERSONALIZED_FLOW_DIAGRAM.md",
+    "conversation": "Personalized Flow Design",
+    "messageId": "afb27002-fe69-478f-a76f-2fabab7c9c42",
+    "reason": "regex-no-match",
+    "pattern": "## Final Anchor",
+    "replacementSnippet": "## Canonical Email Lifecycle Map (Added)\n\nThis section pairs **marketing email concepts** with each lifecycle state and decision step.\nEmails are not campaigns; they are **conversation continuations**.\n\n---\n\n## Email Collection (Non-Purchasing Users)\n\n### Where to Collect Email (Allowed, Non-Disrupt",
+    "parseMode": "json-parse"
+  }
+]

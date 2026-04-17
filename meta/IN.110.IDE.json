@@ -1,0 +1,67 @@
+{
+  "artifactKey": "IN.110.IDE",
+  "names": [
+    "IN.110.IDE_Identity_Engine",
+    "IN.110.IDE"
+  ],
+  "titles": [
+    "Identity Engine – Belief Overrides, Embedded Narratives, Interrupt Protocols",
+    "IN.110.IDE"
+  ],
+  "conversations": [
+    "Prompt Expansion Ready",
+    "Bootloader Function and Context"
+  ],
+  "latestTime": 1750503235.864753,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Function and Context",
+    "createTime": 1750503235.864753,
+    "messageId": "bb209783-e9d7-4086-8aa8-a67fc13d0f6c",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749675582.503943,
+      "messageId": "2a9d394c-4c89-4c4a-a81c-bf4194a9eca0",
+      "conversation": "Prompt Expansion Ready",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4131,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749675655.440181,
+      "messageId": "20bb45e2-136a-4d45-b8fd-31d1c84f5fba",
+      "conversation": "Prompt Expansion Ready",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3634,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750503235.864753,
+      "messageId": "bb209783-e9d7-4086-8aa8-a67fc13d0f6c",
+      "conversation": "Bootloader Function and Context",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1285,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

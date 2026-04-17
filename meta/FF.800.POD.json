@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.800.POD",
+  "names": [
+    "FF Podcast Archive & Analysis"
+  ],
+  "titles": [
+    "FF Podcast Archive & Analysis"
+  ],
+  "conversations": [
+    "PODCAST TRANSCRIPTION"
+  ],
+  "latestTime": 1748030970.489759,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PODCAST TRANSCRIPTION",
+    "createTime": 1748030970.489759,
+    "messageId": "a82ba343-4f8e-4df2-baae-54c5e4dc5e07",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748030970.489759,
+      "messageId": "a82ba343-4f8e-4df2-baae-54c5e4dc5e07",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3509,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "artifactKey": "KRNL.210.ISY",
+  "names": [
+    "KRNL.210.ISY"
+  ],
+  "titles": [
+    "KRNL.210.ISY"
+  ],
+  "conversations": [
+    "Fix Stargate Protocol"
+  ],
+  "latestTime": 1748585961.586838,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Fix Stargate Protocol",
+    "createTime": 1748585961.586838,
+    "messageId": "61b2f0de-852d-4f8c-8f27-cc41428fac8e",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748585887.698333,
+      "messageId": "66951167-85b4-4905-b675-3dd9c899ea52",
+      "conversation": "Fix Stargate Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1475,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748585894.344236,
+      "messageId": "d416ddb3-2644-4672-85c8-5667b075b0db",
+      "conversation": "Fix Stargate Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1570,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748585961.586838,
+      "messageId": "61b2f0de-852d-4f8c-8f27-cc41428fac8e",
+      "conversation": "Fix Stargate Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1648,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

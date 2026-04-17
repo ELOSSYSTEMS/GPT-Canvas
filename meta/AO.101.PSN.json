@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.101.PSN",
+  "names": [
+    "AO.101.PSN.Registry"
+  ],
+  "titles": [
+    "AO.101.PSN.Registry"
+  ],
+  "conversations": [
+    "Bootloader Execution Summary"
+  ],
+  "latestTime": 1749329962.963626,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Execution Summary",
+    "createTime": 1749329962.963626,
+    "messageId": "993a4515-0aec-4c3b-a4f7-000f8bcc8b38",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749329962.963626,
+      "messageId": "993a4515-0aec-4c3b-a4f7-000f8bcc8b38",
+      "conversation": "Bootloader Execution Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3142,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

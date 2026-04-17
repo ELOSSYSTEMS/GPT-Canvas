@@ -1,0 +1,160 @@
+{
+  "artifactKey": "NAME.Allon_Memory_Consolidation",
+  "names": [
+    "Allon_Memory_Consolidation"
+  ],
+  "titles": [
+    "Allon_Memory_Consolidation"
+  ],
+  "conversations": [
+    "*-*-*-* MEMORY CONSOLIDATION *-*-*-*"
+  ],
+  "latestTime": 1747581888.517007,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "createTime": 1747552590.758314,
+    "messageId": "53ac9e93-0cdb-4192-968e-f8060e952a94",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 7,
+  "unresolvedPartialOps": 2,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747552297.006489,
+      "messageId": "97b8fb39-b389-4ea5-b196-02f1b79f90fd",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3296,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747552590.758314,
+      "messageId": "53ac9e93-0cdb-4192-968e-f8060e952a94",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 7455,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747552750.975063,
+      "messageId": "f5a7215c-5c37-408a-8ad3-3b8741a479d0",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 2072,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "### 7\\. 🧬 \\*\\*Allon’s Identity, Psychology & Operating System\\*\\*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747552804.416408,
+      "messageId": "a31b32f0-f9cc-45f4-94f7-c76ae2a545b1",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 2154,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "### 4\\. 💵 \\*\\*The Financier Persona\\*\\*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747552828.227612,
+      "messageId": "23ec8f85-c952-453e-9473-89a4eba66faa",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 1827,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Allon Schaham's master financial profile as of May 2025.*?personal expenses remain categorized as such unless reclassified\\."
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747553087.219918,
+      "messageId": "d2c6651d-828a-4b74-a1e7-d85cd0f6e232",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 926,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "### MEMORY CONSOLIDATION PROPOSAL FOR ALLON S\\."
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747577204.759148,
+      "messageId": "f2cb0f74-c5a9-45f1-9765-22341ad876ec",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 2926,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "### 6\\. 🧠 \\*\\*The Prompt Surgeon Persona\\*\\*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747578032.839642,
+      "messageId": "181dff57-f959-4e64-97ab-db472f967728",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 5496,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "### 6\\. 🧠 \\*\\*The Prompt Surgeon Persona\\*\\*[\\s\\S]*?---"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747581809.287382,
+      "messageId": "5b3b7f4b-6f9b-4cec-9ef7-232ae9bdcb79",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 2524,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "### 3\\. 🧠 \\*\\*The Marketing Team\\*\\* \\\\*\\(Israeli Marketer \\+ Genius \\+ Shopify Architect\\)\\*\\*[\\s\\S]*?---"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747581842.995067,
+      "messageId": "030178fa-025a-4ab0-b22c-d3ede95cd03b",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 2524,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "### 3\\. 🧠 \\*\\*The Marketing Team\\*\\* \\*\\(Israeli Marketer \\+ Genius \\+ Shopify Architect\\)\\*\\*[\\s\\S]*?---"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747581888.517007,
+      "messageId": "59341675-3054-4cf4-b7bc-f552377984d0",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 2205,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "1\\. \\*\\*Israeli Marketer\\*\\* – voice expert combining:[\\s\\S]*?Writes for Israeli buyers who resist manipulation\\."
+    }
+  ]
+}

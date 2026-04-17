@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.901.VVR",
+  "names": [
+    "vVerse Core Runtime"
+  ],
+  "titles": [
+    "vVerse Core Runtime"
+  ],
+  "conversations": [
+    "TinyTroupe vs vVerse"
+  ],
+  "latestTime": 1748259520.102586,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "TinyTroupe vs vVerse",
+    "createTime": 1748259520.102586,
+    "messageId": "0dee472b-edd8-4675-9a5c-7cc07d5d47b5",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748259520.102586,
+      "messageId": "0dee472b-edd8-4675-9a5c-7cc07d5d47b5",
+      "conversation": "TinyTroupe vs vVerse",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1935,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

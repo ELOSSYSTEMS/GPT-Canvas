@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.500.MOD5",
+  "names": [
+    "AI.500.MOD5"
+  ],
+  "titles": [
+    "AI.500.MOD5"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756197.876879,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756197.876879,
+    "messageId": "e2325b3f-6611-4fe5-a875-902f7ac5f884",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756197.876879,
+      "messageId": "e2325b3f-6611-4fe5-a875-902f7ac5f884",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 529,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

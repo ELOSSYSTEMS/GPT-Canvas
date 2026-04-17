@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.200.CLP",
+  "names": [
+    "FF.200.CLP"
+  ],
+  "titles": [
+    "Collection Logic & Naming"
+  ],
+  "conversations": [
+    "Forever Flowers OS Overview"
+  ],
+  "latestTime": 1749668752.172956,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Forever Flowers OS Overview",
+    "createTime": 1749668752.172956,
+    "messageId": "313cdbed-c9f7-427a-a229-12306792d68f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749668752.172956,
+      "messageId": "313cdbed-c9f7-427a-a229-12306792d68f",
+      "conversation": "Forever Flowers OS Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2673,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

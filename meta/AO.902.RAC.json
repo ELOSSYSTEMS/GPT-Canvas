@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.902.RAC",
+  "names": [
+    "Routing Audit Canvas"
+  ],
+  "titles": [
+    "Routing Audit Canvas"
+  ],
+  "conversations": [
+    "Critical Prompt Routing Protocol"
+  ],
+  "latestTime": 1748203232.933746,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Critical Prompt Routing Protocol",
+    "createTime": 1748203232.933746,
+    "messageId": "a6eca5f5-9ecd-4a70-9a7e-18e4040d0835",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748203232.933746,
+      "messageId": "a6eca5f5-9ecd-4a70-9a7e-18e4040d0835",
+      "conversation": "Critical Prompt Routing Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3094,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

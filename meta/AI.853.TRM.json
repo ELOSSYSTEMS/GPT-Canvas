@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.853.TRM",
+  "names": [
+    "AI.853.TRM – Trait Reinforcement Map"
+  ],
+  "titles": [
+    "AI.853.TRM – Trait Reinforcement Map"
+  ],
+  "conversations": [
+    "Bootloader Activation Summary"
+  ],
+  "latestTime": 1749133290.727176,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749133290.727176,
+    "messageId": "6a126160-fe4e-4276-82f5-211154c1575f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749133290.727176,
+      "messageId": "6a126160-fe4e-4276-82f5-211154c1575f",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2890,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

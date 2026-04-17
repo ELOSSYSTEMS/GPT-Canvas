@@ -1,0 +1,108 @@
+{
+  "artifactKey": "EL.910.PRM",
+  "names": [
+    "EL.910.PRM.Modules",
+    "EL.910.PRM.FeedEngine",
+    "EL.910.PRM.PersonalizedAgent",
+    "EL.910.PRM.StargateBridge",
+    "EL.910.PRM.FeedbackLoop"
+  ],
+  "titles": [
+    "EL.910.PRM.Modules",
+    "EL.910.PRM.FeedEngine",
+    "EL.910.PRM.PersonalizedAgent",
+    "EL.910.PRM.StargateBridge",
+    "EL.910.PRM.FeedbackLoop"
+  ],
+  "conversations": [
+    "Prompt Library Overview"
+  ],
+  "latestTime": 1749496945.5035,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Library Overview",
+    "createTime": 1749496945.5035,
+    "messageId": "d44c2dfa-5590-4628-9626-2bb966269ec7",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 6,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749496010.462273,
+      "messageId": "264d44df-8a60-4d95-90c1-8f36b56b3e75",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2897,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749496361.154461,
+      "messageId": "15189af0-6cf6-48ce-b836-8d9d69553244",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 836,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749496369.64116,
+      "messageId": "7e3d8a4a-b59d-4358-a2d9-b7d31fac12f8",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2390,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749496417.54143,
+      "messageId": "52f6dab8-a9e7-475c-8edf-e05b89e229e7",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2523,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749496920.656269,
+      "messageId": "c0b9cc02-587f-4902-9107-7d7335f9452d",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 721,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749496945.5035,
+      "messageId": "d44c2dfa-5590-4628-9626-2bb966269ec7",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1015,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

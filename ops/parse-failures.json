@@ -1,0 +1,704 @@
+[
+  {
+    "conversation": "SUB WEB REBUILD",
+    "messageId": "2fe96249-2c23-4abe-a8db-bdc1610ae800",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Shopify UGC Section Code",
+    "messageId": "4b2e21aa-37e6-4e3c-919a-0c96e5e0d2eb",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Audit Completion Verification",
+    "messageId": "c29a151c-549f-49ef-8f35-9403b7cad1d7",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Forever Flowers Site Review",
+    "messageId": "6f130251-f9f0-4edd-b7f8-4b1d877060b8",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Forever Flowers Site Review",
+    "messageId": "a2c91c5e-36bf-4048-a0b5-6490c55b797a",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Forever Flowers Site Review",
+    "messageId": "b304e993-7aa0-4b3f-8f5d-29179d04504f",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "Forever Flowers Site Review",
+    "messageId": "da9d122b-0c5b-4138-be11-6e54d57b7945",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Forever Flowers Site Review",
+    "messageId": "16279a00-24b0-4d33-8571-5af314d7ddfd",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Antigravity flow explanation",
+    "messageId": "d13d1435-0e71-47bf-948f-12864997ae4f",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "B2B landing page plan",
+    "messageId": "e1c851a8-ec47-4383-8002-fccfab02281d",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Shopify expert instructions",
+    "messageId": "e444eca5-e400-4d80-ae29-f0a009adc129",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Stock trend signals code",
+    "messageId": "687e1481-606b-4e5b-b97a-4f13346b828c",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Textarea element list",
+    "messageId": "601cdea9-d762-4448-9a14-dc369d71c181",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Conversation restart",
+    "messageId": "6b7ba796-0e57-4b3c-b1ed-9858f5d280ae",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Conversation restart",
+    "messageId": "9844068b-89ad-43ef-a882-8d3f590cc964",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "Conversation restart",
+    "messageId": "f88207f2-23fa-426a-85f9-539d51a029c2",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "Conversation restart",
+    "messageId": "e27b5746-971b-418e-bd2d-9589dfdeaecf",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "EPP integration blueprint",
+    "messageId": "69f52d0a-a763-4ace-b726-83f0ba3a3481",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "ELos app discussion",
+    "messageId": "7fb4dc27-aeed-4cc7-a555-76ad843e3673",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "ELos app discussion",
+    "messageId": "a758a22b-0d8f-4652-954b-a3f8d17f20e4",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "ELos app discussion",
+    "messageId": "61d58269-0fbb-43ac-b3c0-05f5e05cb8ae",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "**** ELOS WEB-APP *****",
+    "messageId": "be41f9e7-5721-45e9-84e0-e74d0e8ac167",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "**** ELOS WEB-APP *****",
+    "messageId": "27b573a7-6734-4b61-847e-1ac4ab0d43b6",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "**** ELOS WEB-APP *****",
+    "messageId": "027c9b64-e94a-4011-8b9a-4096fd8ce953",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "**** ELOS WEB-APP *****",
+    "messageId": "33a82167-bba9-449b-aaf2-194b313bb888",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "**** ELOS WEB-APP *****",
+    "messageId": "c72e2a2b-ec98-463c-b1b6-3cd274b8f28e",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "**** ELOS WEB-APP *****",
+    "messageId": "3929456a-cc52-41f3-95d4-29d1a6fb1d44",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "**** ELOS WEB-APP *****",
+    "messageId": "1dab65c6-5a17-41ac-b8d1-f4e4bc711bff",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "**** ELOS WEB-APP *****",
+    "messageId": "d2241be9-98d3-48e2-a4a1-bdbf0481ba1a",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "**** ELOS WEB-APP *****",
+    "messageId": "a83381d9-eb2c-446d-b8e2-dcc2933b4299",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "**** ELOS WEB-APP *****",
+    "messageId": "109e3c77-e3d9-4cc1-af5a-59771ca4797c",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "**** ELOS WEB-APP *****",
+    "messageId": "c7051e0b-0522-4a5c-ba0c-d31ed1f79f45",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "**** ELOS WEB-APP *****",
+    "messageId": "eb8dfad9-0868-43d1-a380-44d569c94650",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "**** ELOS WEB-APP *****",
+    "messageId": "f1dd2315-d817-410f-bcec-b40622247f33",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "**** ELOS WEB-APP *****",
+    "messageId": "999c040c-e930-43a7-a5c0-b386dcbf0149",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Bootloader sequence initiated",
+    "messageId": "48c0969c-ccb6-4cc5-a73e-4fe2f9a884e8",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Bootloader engagement status",
+    "messageId": "83b12e6d-28c5-410e-b569-ef3f43f7898d",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Bootloader engagement status",
+    "messageId": "6db685ff-33b2-4bd0-951a-f78cad96b22d",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Hebrew goldset creation",
+    "messageId": "150c0100-9ed8-406e-bf97-82e17bee705f",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "Hebrew goldset creation",
+    "messageId": "f1089ad7-bb9a-43f1-a9dc-a4ba29783f44",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Hebrew goldset creation",
+    "messageId": "e0080848-964e-4bb6-a1b2-21fc1beff878",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Hebrew goldset creation",
+    "messageId": "184b17f8-8358-4538-a75a-1c052b6f2f5d",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "38bc2b78-79b6-4869-928f-6723a9421a5f",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected token 'W', \"We need to\"... is not valid JSON",
+    "payloadLength": 101,
+    "payloadSnippet": "We need to update the textdoc content rewriting entire doc with new list. We'll add the new canvases.",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "Boot Sequence Execution",
+    "messageId": "0e383621-8b40-4e81-ae10-bf49785f1ce6",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected token 'W', \"We need to\"... is not valid JSON",
+    "payloadLength": 58,
+    "payloadSnippet": "We need to craft JSON string; let's craft replacement now.",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "ELOS VISUALS OS",
+    "messageId": "4b24c222-ecdb-4bac-a82d-e1d2572283e3",
+    "recipient": "canmore.update_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-update"
+    ]
+  },
+  {
+    "conversation": "LAST KNOWN WORKING VERSION ELOS 2",
+    "messageId": "ca3d869e-1671-478f-9abd-335eea64c718",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "LAST KNOWN WORKING VERSION ELOS 2",
+    "messageId": "baf5cd48-80a0-4258-97f8-ef3e96e5b3b1",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "LAST KNOWN WORKING VERSION ELOS 2",
+    "messageId": "c4c36354-def1-4260-b343-dd1766ef46e7",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "LAST KNOWN WORKING VERSION ELOS 2",
+    "messageId": "5fa2750a-bf01-4875-bd51-b8ecb5038cbb",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "vVerse AI Video Editing",
+    "messageId": "d63dd3ee-538b-419a-a527-fd3142b02fed",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unterminated string in JSON at position 19 (line 2 column 18)",
+    "payloadLength": 19,
+    "payloadSnippet": "{\n  \"name\": \"AO.001",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "Sidebar Development Fix",
+    "messageId": "a808398e-983a-44b6-8cda-052641fad060",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "B2B Flower Referral Message",
+    "messageId": "b2d040dd-b23d-46af-88f6-7d80c837d016",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "B2B Flower Referral Message",
+    "messageId": "b4577349-6777-4473-a73c-ae0f78e97d72",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Unexpected end of JSON input",
+    "payloadLength": 0,
+    "payloadSnippet": "",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  },
+  {
+    "conversation": "ELos Buildout Phases",
+    "messageId": "76a715cf-2a11-43bd-8c2f-8db3a91fc4e2",
+    "recipient": "canmore.create_textdoc",
+    "error": "SyntaxError: Expected double-quoted property name in JSON at position 38 (line 3 column 1)",
+    "payloadLength": 38,
+    "payloadSnippet": "{\n  \"name\": \"ELos - Free Tier Scope\",\n",
+    "modesTried": [
+      "json-parse",
+      "escaped-control-chars",
+      "regex-create"
+    ]
+  }
+]

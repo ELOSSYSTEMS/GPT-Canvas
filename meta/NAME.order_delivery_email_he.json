@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.order_delivery_email_he",
+  "names": [
+    "order_delivery_email_he"
+  ],
+  "titles": [
+    "order_delivery_email_he"
+  ],
+  "conversations": [
+    "הזמנה נמסרה דוא\"ל"
+  ],
+  "latestTime": 1738844860.607028,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "הזמנה נמסרה דוא\"ל",
+    "createTime": 1738844860.607028,
+    "messageId": "b3a8e749-06eb-45ff-85f6-da345a54db50",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1738844691.351758,
+      "messageId": "0a5707a0-4505-4116-8836-3e204101db97",
+      "conversation": "הזמנה נמסרה דוא\"ל",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5261,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1738844860.607028,
+      "messageId": "b3a8e749-06eb-45ff-85f6-da345a54db50",
+      "conversation": "הזמנה נמסרה דוא\"ל",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5582,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

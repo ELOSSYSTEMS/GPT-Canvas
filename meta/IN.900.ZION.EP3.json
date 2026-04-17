@@ -1,0 +1,90 @@
+{
+  "artifactKey": "IN.900.ZION.EP3",
+  "names": [
+    "IN.900.ZION.EP3 – Nostalgia and Naivety in Honor Culture",
+    "IN.900.ZION.EP3"
+  ],
+  "titles": [
+    "Fear & Loathing in the New Jerusalem – Pt. 3: Nostalgia & Naivety in Honor Culture",
+    "Fear & Loathing in the New Jerusalem – Pt. 3"
+  ],
+  "conversations": [
+    "**FEAR AND LOATHING IN THE NEW JERUSALEM"
+  ],
+  "latestTime": 1748761595.796833,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+    "createTime": 1748761595.796833,
+    "messageId": "f5099b1f-9c7a-4dde-9850-69306276cdfa",
+    "heuristic": "id-from-replacement",
+    "parseMode": "escaped-control-chars"
+  },
+  "completeBodyOps": 5,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748760556.630885,
+      "messageId": "9add0a8d-fc64-4cf4-990c-b544c6e726b3",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 915,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748761161.954603,
+      "messageId": "282b2a67-9ecc-4a27-86b9-f5e88b4c34dd",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 926,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748761166.085273,
+      "messageId": "f339f6f3-8bae-479d-84af-ee26662dcc8d",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 926,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748761277.743145,
+      "messageId": "c6c2f95a-0a26-4c4c-b730-ad914d3f83f4",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 897,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748761595.796833,
+      "messageId": "f5099b1f-9c7a-4dde-9850-69306276cdfa",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 768,
+      "heuristic": "id-from-replacement",
+      "parseMode": "escaped-control-chars",
+      "pattern": ".*"
+    }
+  ]
+}

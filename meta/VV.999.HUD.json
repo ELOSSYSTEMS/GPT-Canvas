@@ -1,0 +1,40 @@
+{
+  "artifactKey": "VV.999.HUD",
+  "names": [
+    "VV.999.HUD – vVerse Live System Overlay"
+  ],
+  "titles": [
+    "VV.999.HUD – vVerse Live System Overlay"
+  ],
+  "conversations": [
+    "Bootloader Activation Summary"
+  ],
+  "latestTime": 1749162176.910642,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749162176.910642,
+    "messageId": "bd679ff3-2319-4a07-9a80-4f11288ce65b",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749162176.910642,
+      "messageId": "bd679ff3-2319-4a07-9a80-4f11288ce65b",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2559,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

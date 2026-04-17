@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Extension-Buildout-Phase-1",
+  "names": [
+    "ELos - Extension Buildout (Phase 1)"
+  ],
+  "titles": [
+    "ELos - Extension Buildout (Phase 1)"
+  ],
+  "conversations": [
+    "ELos Buildout Phases"
+  ],
+  "latestTime": 1748091690.621942,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Buildout Phases",
+    "createTime": 1748091690.621942,
+    "messageId": "0dd6ebeb-130c-4a2c-9f19-1b0b9c40c39a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748091690.621942,
+      "messageId": "0dd6ebeb-130c-4a2c-9f19-1b0b9c40c39a",
+      "conversation": "ELos Buildout Phases",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3472,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

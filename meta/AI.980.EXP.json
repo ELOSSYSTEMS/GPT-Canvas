@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.980.EXP",
+  "names": [
+    "MIND-OS-Export-Protocol"
+  ],
+  "titles": [
+    "MIND-OS-Export-Protocol"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748035940.566214,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748035940.566214,
+    "messageId": "05e3605c-3e67-4f4b-86f6-9c564aa37169",
+    "heuristic": "create-payload",
+    "parseMode": "escaped-control-chars"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748035940.566214,
+      "messageId": "05e3605c-3e67-4f4b-86f6-9c564aa37169",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3627,
+      "heuristic": "create-payload",
+      "parseMode": "escaped-control-chars",
+      "pattern": null
+    }
+  ]
+}

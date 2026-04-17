@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.ForeverFlowers_BrandManifesto",
+  "names": [
+    "ForeverFlowers_BrandManifesto"
+  ],
+  "titles": [
+    "ForeverFlowers_BrandManifesto"
+  ],
+  "conversations": [
+    "פרסום מותג והמרה"
+  ],
+  "latestTime": 1747424160.077014,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "פרסום מותג והמרה",
+    "createTime": 1747424160.077014,
+    "messageId": "acbbf629-2254-4ede-86aa-31eb8f7728f5",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747424078.315192,
+      "messageId": "6045a06d-96de-4556-bc96-44dc0f9c84e3",
+      "conversation": "פרסום מותג והמרה",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2452,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1747424160.077014,
+      "messageId": "acbbf629-2254-4ede-86aa-31eb8f7728f5",
+      "conversation": "פרסום מותג והמרה",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2016,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

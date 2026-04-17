@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tiered-Command-Expansion-v2",
+  "names": [
+    "ELos - Tiered Command Expansion v2"
+  ],
+  "titles": [
+    "ELos - Tiered Command Expansion v2"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083583.749517,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083583.749517,
+    "messageId": "313f54d5-a3b0-4676-9a32-6f3873b8b59a",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083583.749517,
+      "messageId": "313f54d5-a3b0-4676-9a32-6f3873b8b59a",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1189,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

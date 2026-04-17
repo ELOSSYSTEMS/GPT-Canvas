@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.420.HBA",
+  "names": [
+    "Hebrew Tone Fidelity Fireproofing Audit"
+  ],
+  "titles": [
+    "Hebrew Tone Fidelity Fireproofing Audit"
+  ],
+  "conversations": [
+    "ELOS Extension Integration"
+  ],
+  "latestTime": 1748607906.234418,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELOS Extension Integration",
+    "createTime": 1748607906.234418,
+    "messageId": "814baef8-2c4c-4f50-a9c3-422117e6c9da",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748607906.234418,
+      "messageId": "814baef8-2c4c-4f50-a9c3-422117e6c9da",
+      "conversation": "ELOS Extension Integration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2109,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

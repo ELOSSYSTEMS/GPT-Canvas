@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Podcast-Jan-5-2019",
+  "names": [
+    "Podcast - Jan 5, 2019"
+  ],
+  "titles": [
+    "OG Podcast #1"
+  ],
+  "conversations": [
+    "PODCAST TRANSCRIPTION"
+  ],
+  "latestTime": 1748031154.330581,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PODCAST TRANSCRIPTION",
+    "createTime": 1748031154.330581,
+    "messageId": "09bb248d-a3b4-4ad3-a8f9-04ac49daa954",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748031154.330581,
+      "messageId": "09bb248d-a3b4-4ad3-a8f9-04ac49daa954",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3756,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.MirrorOS_Core_Doctrine",
+  "names": [
+    "MirrorOS_Core_Doctrine"
+  ],
+  "titles": [
+    "MirrorOS_Core_Doctrine"
+  ],
+  "conversations": [
+    "Stoic Life Lessons"
+  ],
+  "latestTime": 1748275077.9499,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Stoic Life Lessons",
+    "createTime": 1748275077.9499,
+    "messageId": "483ae05f-6216-4e83-8f07-7a8a143cab38",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748275077.9499,
+      "messageId": "483ae05f-6216-4e83-8f07-7a8a143cab38",
+      "conversation": "Stoic Life Lessons",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2668,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

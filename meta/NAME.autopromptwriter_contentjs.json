@@ -1,0 +1,100 @@
+{
+  "artifactKey": "NAME.autopromptwriter_contentjs",
+  "names": [
+    "autopromptwriter_contentjs"
+  ],
+  "titles": [
+    "autopromptwriter_contentjs"
+  ],
+  "conversations": [
+    "Prompt Strategy Deep Dive"
+  ],
+  "latestTime": 1748377242.186702,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Prompt Strategy Deep Dive",
+    "createTime": 1748377242.186702,
+    "messageId": "73243565-6c21-455a-9b20-caf63e1dd771",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 5,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 1,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748375412.567953,
+      "messageId": "ad0e53ab-e7f3-4d16-a615-e0eb2e607c01",
+      "conversation": "Prompt Strategy Deep Dive",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5498,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748375719.116201,
+      "messageId": "f31ff18c-20b4-48c7-a2e5-105deb80a977",
+      "conversation": "Prompt Strategy Deep Dive",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4849,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748375877.059573,
+      "messageId": "3dcb3e3c-114f-464d-b228-a08b5443f3de",
+      "conversation": "Prompt Strategy Deep Dive",
+      "fullBody": false,
+      "bodyComplete": false,
+      "bodyLength": 0,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "regex-update-partial",
+      "pattern": "inputBox\\.innerText\\s"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748376516.183123,
+      "messageId": "0fc3e373-0408-46cd-bd23-92ac9bedb781",
+      "conversation": "Prompt Strategy Deep Dive",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5222,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748376617.203835,
+      "messageId": "4ce9b682-3146-4734-a85e-2c70b98ad21e",
+      "conversation": "Prompt Strategy Deep Dive",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 6586,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748377242.186702,
+      "messageId": "73243565-6c21-455a-9b20-caf63e1dd771",
+      "conversation": "Prompt Strategy Deep Dive",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1653,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

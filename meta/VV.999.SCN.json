@@ -1,0 +1,40 @@
+{
+  "artifactKey": "VV.999.SCN",
+  "names": [
+    "VV.999.SCN – Scenario Reconstructor"
+  ],
+  "titles": [
+    "VV.999.SCN – Scenario Reconstructor"
+  ],
+  "conversations": [
+    "Bootloader Activation Summary"
+  ],
+  "latestTime": 1749162079.565326,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749162079.565326,
+    "messageId": "1e46aa72-ef14-41e8-8134-26009decec78",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749162079.565326,
+      "messageId": "1e46aa72-ef14-41e8-8134-26009decec78",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2762,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

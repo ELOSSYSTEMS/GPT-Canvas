@@ -1,0 +1,40 @@
+{
+  "artifactKey": "OS.001.SWT",
+  "names": [
+    "OS Switchboard – System Navigator"
+  ],
+  "titles": [
+    "OS Switchboard – System Navigator"
+  ],
+  "conversations": [
+    "*-*-*-* MEMORY CONSOLIDATION *-*-*-*"
+  ],
+  "latestTime": 1747609303.656656,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+    "createTime": 1747609303.656656,
+    "messageId": "7350c50c-31de-4572-ae02-e0eab4fdb117",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747609303.656656,
+      "messageId": "7350c50c-31de-4572-ae02-e0eab4fdb117",
+      "conversation": "*-*-*-* MEMORY CONSOLIDATION *-*-*-*",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1587,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

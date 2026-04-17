@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.830.RDL",
+  "names": [
+    "Recursion-Driver-Layer"
+  ],
+  "titles": [
+    "Recursion-Driver-Layer"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748036955.115987,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748036955.115987,
+    "messageId": "1c4a83d0-4611-42c8-bed6-7aad1178c5e6",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748036955.115987,
+      "messageId": "1c4a83d0-4611-42c8-bed6-7aad1178c5e6",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3338,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

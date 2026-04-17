@@ -1,0 +1,256 @@
+{
+  "artifactKey": "NAME.Stargate_Hybrid_Protocol_Config",
+  "names": [
+    "Stargate_Hybrid_Protocol_Config"
+  ],
+  "titles": [
+    "Stargate_Hybrid_Protocol_Config"
+  ],
+  "conversations": [
+    "Prompt Refinement Protocol"
+  ],
+  "latestTime": 1748458681.346691,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Prompt Refinement Protocol",
+    "createTime": 1748458681.346691,
+    "messageId": "6a9a12a5-2fdf-459a-a3df-3a001206ae8b",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 6,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 1,
+  "unresolvedPartialOps": 12,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748454274.126312,
+      "messageId": "9a5298a0-a03a-41c0-a685-db430ceaaa6e",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2664,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748456198.221527,
+      "messageId": "6e104bd7-79b4-4458-a77a-6c25a9b5bfce",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3418,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748457657.3606,
+      "messageId": "727b4948-2c97-4ef1-a65a-d8177d54c4d4",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4987,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748457952.10075,
+      "messageId": "1d20532b-9d85-46f9-b096-ba654408765d",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 13,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "stargate_protocol"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748457952.10075,
+      "messageId": "1d20532b-9d85-46f9-b096-ba654408765d",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 13,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Stargate Protocol"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748457952.10075,
+      "messageId": "1d20532b-9d85-46f9-b096-ba654408765d",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 4,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Stargate"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748457954.380221,
+      "messageId": "4b90ebf3-b9bd-4871-93c6-da347210ecfe",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 13,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "stargate_protocol"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748457954.380221,
+      "messageId": "4b90ebf3-b9bd-4871-93c6-da347210ecfe",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 13,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Stargate Protocol"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748457954.380221,
+      "messageId": "4b90ebf3-b9bd-4871-93c6-da347210ecfe",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 4,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "\\bStargate\\b"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748458063.512579,
+      "messageId": "547a3853-ec55-44ca-aa00-0c9569b0810a",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 20,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "(?i)stargate hybrid protocol"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748458063.512579,
+      "messageId": "547a3853-ec55-44ca-aa00-0c9569b0810a",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 13,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "(?i)stargate protocol"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748458063.512579,
+      "messageId": "547a3853-ec55-44ca-aa00-0c9569b0810a",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 4,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "(?i)stargate"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748458064.828563,
+      "messageId": "dbdc808e-3760-43d8-9780-4587d0dae06a",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 20,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "stargate hybrid protocol"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748458064.828563,
+      "messageId": "dbdc808e-3760-43d8-9780-4587d0dae06a",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 13,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "stargate_protocol"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748458064.828563,
+      "messageId": "dbdc808e-3760-43d8-9780-4587d0dae06a",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 13,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Stargate Protocol"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748458064.828563,
+      "messageId": "dbdc808e-3760-43d8-9780-4587d0dae06a",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 4,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "Stargate"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748458379.41881,
+      "messageId": "b8ca696b-24d9-4194-9f0b-76a80b2d13b6",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5569,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748458448.290375,
+      "messageId": "f204af3f-cefa-4307-8e26-8cec648b40a9",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5580,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748458681.346691,
+      "messageId": "6a9a12a5-2fdf-459a-a3df-3a001206ae8b",
+      "conversation": "Prompt Refinement Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 5513,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

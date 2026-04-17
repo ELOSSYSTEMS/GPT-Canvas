@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.500.INFO",
+  "names": [
+    "FF Info Page Structure"
+  ],
+  "titles": [
+    "FF Info Page Structure"
+  ],
+  "conversations": [
+    "Conversation Continuation"
+  ],
+  "latestTime": 1747983329.610082,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Conversation Continuation",
+    "createTime": 1747983329.610082,
+    "messageId": "384252b8-f3cf-4b10-9d1c-0d4547a37523",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747983329.610082,
+      "messageId": "384252b8-f3cf-4b10-9d1c-0d4547a37523",
+      "conversation": "Conversation Continuation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1250,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

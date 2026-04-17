@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.001.SHARP",
+  "names": [
+    "AO.001.SHARP"
+  ],
+  "titles": [
+    "AO.001.SHARP"
+  ],
+  "conversations": [
+    "Fix Stargate Protocol"
+  ],
+  "latestTime": 1748589535.151367,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Fix Stargate Protocol",
+    "createTime": 1748589535.151367,
+    "messageId": "1d92a753-8200-41cb-8435-e2e9b08191ab",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748589535.151367,
+      "messageId": "1d92a753-8200-41cb-8435-e2e9b08191ab",
+      "conversation": "Fix Stargate Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1121,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

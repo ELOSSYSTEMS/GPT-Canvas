@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.930.PRM",
+  "names": [
+    "EL.930.PRM.RoleInferenceModel"
+  ],
+  "titles": [
+    "EL.930.PRM.RoleInferenceModel"
+  ],
+  "conversations": [
+    "Prompt Library Overview"
+  ],
+  "latestTime": 1749497171.225321,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Library Overview",
+    "createTime": 1749497171.225321,
+    "messageId": "5b9fc7b2-c601-4ef6-bc78-84730d5a9c13",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749497171.225321,
+      "messageId": "5b9fc7b2-c601-4ef6-bc78-84730d5a9c13",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 733,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

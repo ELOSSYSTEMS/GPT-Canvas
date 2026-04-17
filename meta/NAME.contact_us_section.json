@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.contact_us_section",
+  "names": [
+    "contact_us_section"
+  ],
+  "titles": [
+    "contact_us_section"
+  ],
+  "conversations": [
+    "ML350 Strut Part Numbers"
+  ],
+  "latestTime": 1735064619.013079,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ML350 Strut Part Numbers",
+    "createTime": 1735064619.013079,
+    "messageId": "d9d5110a-7eef-4110-aaea-4740c8a0ee05",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1735064619.013079,
+      "messageId": "d9d5110a-7eef-4110-aaea-4740c8a0ee05",
+      "conversation": "ML350 Strut Part Numbers",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2728,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "FF.000.IDX",
+  "names": [
+    "Forever Flowers Canvas Index"
+  ],
+  "titles": [
+    "Forever Flowers Canvas Index"
+  ],
+  "conversations": [
+    "Dabroo Power User Guide"
+  ],
+  "latestTime": 1747609382.388302,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo Power User Guide",
+    "createTime": 1747609382.388302,
+    "messageId": "71bcf846-4381-41f8-8398-d8379de9eb39",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747609382.388302,
+      "messageId": "71bcf846-4381-41f8-8398-d8379de9eb39",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 985,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

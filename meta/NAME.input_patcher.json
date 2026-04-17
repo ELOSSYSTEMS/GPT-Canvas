@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.input_patcher",
+  "names": [
+    "input_patcher"
+  ],
+  "titles": [
+    "input_patcher"
+  ],
+  "conversations": [
+    "ELos Translate 2.0 Test"
+  ],
+  "latestTime": 1748716795.136107,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Translate 2.0 Test",
+    "createTime": 1748716795.136107,
+    "messageId": "82e06e16-ce5f-463f-80a2-02e0fd906b7d",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748716795.136107,
+      "messageId": "82e06e16-ce5f-463f-80a2-02e0fd906b7d",
+      "conversation": "ELos Translate 2.0 Test",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 260,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

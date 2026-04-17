@@ -1,0 +1,40 @@
+{
+  "artifactKey": "▧ ELOS.400.USG",
+  "names": [
+    "ELos_Token_Throttle_and_Prompt_Injection"
+  ],
+  "titles": [
+    "ELos – Token Throttle + Prompt Injection Refactor"
+  ],
+  "conversations": [
+    "ELos AIOS GPTOS Summary"
+  ],
+  "latestTime": 1748111535.412246,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos AIOS GPTOS Summary",
+    "createTime": 1748111535.412246,
+    "messageId": "9c37254a-4543-4824-8068-a5347028d6bd",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748111535.412246,
+      "messageId": "9c37254a-4543-4824-8068-a5347028d6bd",
+      "conversation": "ELos AIOS GPTOS Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1757,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

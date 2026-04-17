@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Module-Interoperability-Map",
+  "names": [
+    "ELos - Module Interoperability Map"
+  ],
+  "titles": [
+    "ELos - Module Interoperability Map"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748082457.858948,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748082457.858948,
+    "messageId": "5c1e6774-1a8c-4063-8b3e-cfedead021d3",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748082457.858948,
+      "messageId": "5c1e6774-1a8c-4063-8b3e-cfedead021d3",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1927,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

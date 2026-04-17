@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.650.IMG",
+  "names": [
+    "EL.650.IMG.PostAuditLayer"
+  ],
+  "titles": [
+    "EL.650.IMG.PostAuditLayer"
+  ],
+  "conversations": [
+    "ELOS VISUALS OS"
+  ],
+  "latestTime": 1749200431.030731,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELOS VISUALS OS",
+    "createTime": 1749200431.030731,
+    "messageId": "2a4383b6-2a02-4375-9172-a451d16bb38d",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749200431.030731,
+      "messageId": "2a4383b6-2a02-4375-9172-a451d16bb38d",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 860,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

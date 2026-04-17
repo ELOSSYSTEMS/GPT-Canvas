@@ -1,0 +1,148 @@
+{
+  "artifactKey": "NAME.Redundancy-Audit-60-Pair-Merge-Log",
+  "names": [
+    "Redundancy Audit – 60 Pair Merge Log"
+  ],
+  "titles": [
+    "Redundancy Audit – 60 Pair Merge Log"
+  ],
+  "conversations": [
+    "60 Flagged Pairs Review"
+  ],
+  "latestTime": 1748081662.623828,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "60 Flagged Pairs Review",
+    "createTime": 1748081662.623828,
+    "messageId": "19ab1bd1-5140-4981-bf45-a4d9e78ff92a",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 8,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748081617.944121,
+      "messageId": "a47d3ab4-07a0-4d01-95a9-cf9feee38101",
+      "conversation": "60 Flagged Pairs Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2383,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748081662.623828,
+      "messageId": "19ab1bd1-5140-4981-bf45-a4d9e78ff92a",
+      "conversation": "60 Flagged Pairs Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2378,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748081688.975863,
+      "messageId": "3ec6cadc-1aff-45f8-b8c5-4ba2f189f29a",
+      "conversation": "60 Flagged Pairs Review",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 4,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "\\bGPTOS\\b"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748081688.975863,
+      "messageId": "3ec6cadc-1aff-45f8-b8c5-4ba2f189f29a",
+      "conversation": "60 Flagged Pairs Review",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 4,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "\\bAI OS\\b"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748081689.918779,
+      "messageId": "fffb31e3-0223-45fb-bea1-6d1bd3e1badc",
+      "conversation": "60 Flagged Pairs Review",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 4,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "\\bGPTOS\\b"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748081689.918779,
+      "messageId": "fffb31e3-0223-45fb-bea1-6d1bd3e1badc",
+      "conversation": "60 Flagged Pairs Review",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 4,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "\\bAI OS\\b"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748081719.201073,
+      "messageId": "7d5ced82-7197-4a2b-9a51-1c7121ab315e",
+      "conversation": "60 Flagged Pairs Review",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 4,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "\\bGPTOS\\b"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748081719.201073,
+      "messageId": "7d5ced82-7197-4a2b-9a51-1c7121ab315e",
+      "conversation": "60 Flagged Pairs Review",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 4,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "\\bAI OS\\b"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748081720.38731,
+      "messageId": "c0c3705d-a773-44c0-bb1c-c6d5705b63a8",
+      "conversation": "60 Flagged Pairs Review",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 4,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "GPTOS"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748081720.38731,
+      "messageId": "c0c3705d-a773-44c0-bb1c-c6d5705b63a8",
+      "conversation": "60 Flagged Pairs Review",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 4,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "AI OS"
+    }
+  ]
+}

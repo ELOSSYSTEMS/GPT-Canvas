@@ -1,0 +1,40 @@
+{
+  "artifactKey": "LOG.700.RTE",
+  "names": [
+    "LOG.700.RTE – Israeli Logistics Persona: The Route Alchemist"
+  ],
+  "titles": [
+    "LOG.700.RTE – Israeli Logistics Persona: The Route Alchemist"
+  ],
+  "conversations": [
+    "Persona Crafter Creation"
+  ],
+  "latestTime": 1747820061.626103,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Persona Crafter Creation",
+    "createTime": 1747820061.626103,
+    "messageId": "ac11bd9a-57d9-4384-8daa-b78ff448ccda",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747820061.626103,
+      "messageId": "ac11bd9a-57d9-4384-8daa-b78ff448ccda",
+      "conversation": "Persona Crafter Creation",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2196,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

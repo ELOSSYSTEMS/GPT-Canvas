@@ -1,0 +1,40 @@
+{
+  "artifactKey": "ELOS.100.EDU",
+  "names": [
+    "ELos - Beginner Tier: Recursive Guidance System"
+  ],
+  "titles": [
+    "ELos - Beginner Tier: Recursive Guidance System (RGS)"
+  ],
+  "conversations": [
+    "Recursive Guidance for Beginners"
+  ],
+  "latestTime": 1748072195.785859,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Recursive Guidance for Beginners",
+    "createTime": 1748072195.785859,
+    "messageId": "4e10d215-600c-44f7-81c4-4a1d62b2a781",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748072195.785859,
+      "messageId": "4e10d215-600c-44f7-81c4-4a1d62b2a781",
+      "conversation": "Recursive Guidance for Beginners",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2410,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

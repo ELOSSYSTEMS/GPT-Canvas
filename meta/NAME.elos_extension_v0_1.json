@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.elos_extension_v0_1",
+  "names": [
+    "elos_extension_v0_1"
+  ],
+  "titles": [
+    "elos_extension_v0_1"
+  ],
+  "conversations": [
+    "NEW ELOS EXTENSION"
+  ],
+  "latestTime": 1749482424.716587,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "NEW ELOS EXTENSION",
+    "createTime": 1749482424.716587,
+    "messageId": "9940803c-ba88-413e-ae5e-1e71817c8f04",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749482128.303692,
+      "messageId": "5aa7844d-d762-4f01-8df3-d0704a826484",
+      "conversation": "NEW ELOS EXTENSION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3038,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749482424.716587,
+      "messageId": "9940803c-ba88-413e-ae5e-1e71817c8f04",
+      "conversation": "NEW ELOS EXTENSION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1703,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "artifactKey": "NAME.forever_flowers_full_deep_dive_master_hebrew",
+  "names": [
+    "forever_flowers_full_deep_dive_master_hebrew"
+  ],
+  "titles": [
+    "forever_flowers_full_deep_dive_master_hebrew"
+  ],
+  "conversations": [
+    "Forever Flowers Meeting Itinerary"
+  ],
+  "latestTime": 1745940843.241497,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Forever Flowers Meeting Itinerary",
+    "createTime": 1745940843.241497,
+    "messageId": "fee79b6b-1b4d-4f88-9188-542e72e5bf7c",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1745939036.936585,
+      "messageId": "3c393758-be95-4208-b036-5ea64862c37a",
+      "conversation": "Forever Flowers Meeting Itinerary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4774,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1745940843.241497,
+      "messageId": "fee79b6b-1b4d-4f88-9188-542e72e5bf7c",
+      "conversation": "Forever Flowers Meeting Itinerary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 6583,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

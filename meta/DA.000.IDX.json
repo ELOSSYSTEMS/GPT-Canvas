@@ -1,0 +1,40 @@
+{
+  "artifactKey": "DA.000.IDX",
+  "names": [
+    "Dabroo Canvas Index"
+  ],
+  "titles": [
+    "Dabroo Canvas Index"
+  ],
+  "conversations": [
+    "Dabroo Power User Guide"
+  ],
+  "latestTime": 1747609224.21416,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo Power User Guide",
+    "createTime": 1747609224.21416,
+    "messageId": "2d915064-c359-4ac5-a1db-4721dfebc3db",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747609224.21416,
+      "messageId": "2d915064-c359-4ac5-a1db-4721dfebc3db",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1735,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

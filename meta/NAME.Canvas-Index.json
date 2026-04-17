@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Canvas-Index",
+  "names": [
+    "Canvas Index"
+  ],
+  "titles": [
+    "Canvas Index"
+  ],
+  "conversations": [
+    "ELos Protocol Execution Status"
+  ],
+  "latestTime": 1748550994.472112,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Protocol Execution Status",
+    "createTime": 1748550994.472112,
+    "messageId": "a21bdba8-7c97-4447-8a03-a556f89c2151",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748550994.472112,
+      "messageId": "a21bdba8-7c97-4447-8a03-a556f89c2151",
+      "conversation": "ELos Protocol Execution Status",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1432,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

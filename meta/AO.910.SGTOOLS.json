@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.910.SGTOOLS",
+  "names": [
+    "StackGate Enforcement Toolkit"
+  ],
+  "titles": [
+    "StackGate Enforcement Toolkit"
+  ],
+  "conversations": [
+    "Critical Prompt Routing Protocol"
+  ],
+  "latestTime": 1748203681.377671,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Critical Prompt Routing Protocol",
+    "createTime": 1748203681.377671,
+    "messageId": "170ac1d4-2497-4892-a6da-1a0091a03b57",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748203681.377671,
+      "messageId": "170ac1d4-2497-4892-a6da-1a0091a03b57",
+      "conversation": "Critical Prompt Routing Protocol",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2286,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

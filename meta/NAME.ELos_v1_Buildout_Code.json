@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos_v1_Buildout_Code",
+  "names": [
+    "ELos_v1_Buildout_Code"
+  ],
+  "titles": [
+    "ELos_v1_Buildout_Code"
+  ],
+  "conversations": [
+    "ELos academy integration"
+  ],
+  "latestTime": 1748098794.279538,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos academy integration",
+    "createTime": 1748098794.279538,
+    "messageId": "b906013f-2d73-455f-ba00-8b78a1ccac20",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748098794.279538,
+      "messageId": "b906013f-2d73-455f-ba00-8b78a1ccac20",
+      "conversation": "ELos academy integration",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3465,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

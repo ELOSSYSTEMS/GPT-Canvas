@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.700.MOD7",
+  "names": [
+    "AI.700.MOD7"
+  ],
+  "titles": [
+    "AI.700.MOD7"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756210.480563,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756210.480563,
+    "messageId": "027cc10a-d05e-4199-b6d7-3c758d12811f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756210.480563,
+      "messageId": "027cc10a-d05e-4199-b6d7-3c758d12811f",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 487,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

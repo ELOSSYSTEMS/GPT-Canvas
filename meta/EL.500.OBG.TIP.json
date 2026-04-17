@@ -1,0 +1,54 @@
+{
+  "artifactKey": "EL.500.OBG.TIP",
+  "names": [
+    "PromoteInsightTutorial",
+    "EL.500.OBG.TIP.promoteInsight"
+  ],
+  "titles": [
+    "PromoteInsightTutorial",
+    "EL.500.OBG.TIP.promoteInsight"
+  ],
+  "conversations": [
+    "Prompt Library Overview"
+  ],
+  "latestTime": 1749496331.944299,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Library Overview",
+    "createTime": 1749496331.944299,
+    "messageId": "6bee7bfa-c688-4895-a3ce-ee1318fe5fe8",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749495641.859925,
+      "messageId": "8ac72bf8-59a3-4829-a68d-1c5dbc375e30",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1332,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749496331.944299,
+      "messageId": "6bee7bfa-c688-4895-a3ce-ee1318fe5fe8",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 952,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

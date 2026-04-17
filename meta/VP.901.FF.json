@@ -1,0 +1,130 @@
+{
+  "artifactKey": "VP.901.FF",
+  "names": [
+    "FF_Israeli_Luxury_Audit",
+    "FF_SoftStructure_IsraeliLuxury",
+    "ff_visual_fingerprint",
+    "EL.602.FF.VIS.Fingerprint"
+  ],
+  "titles": [
+    "FF_Israeli_Luxury_Audit",
+    "FF_SoftStructure_IsraeliLuxury",
+    "ff_visual_fingerprint",
+    "EL.602.FF.VIS.Fingerprint"
+  ],
+  "conversations": [
+    "ELOS VISUALS OS"
+  ],
+  "latestTime": 1749894144.447205,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "ELOS VISUALS OS",
+    "createTime": 1749894144.447205,
+    "messageId": "f2aa0ef1-a256-4d8a-b850-81fd86ea0dc0",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 8,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749209413.960465,
+      "messageId": "24a55911-0c75-48f1-8d1b-43bba56d71eb",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3015,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749209429.971178,
+      "messageId": "db453a0b-8965-4e71-984e-165c23742b0b",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3341,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749209646.63703,
+      "messageId": "cd5b5f3e-eb63-45e3-8603-155d5092cbf4",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 3103,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749210256.068858,
+      "messageId": "ad505106-c2df-4ac9-b6a3-7ad7ee8cca57",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2533,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749210432.952244,
+      "messageId": "0784de3c-46cb-4a5e-91b1-55a06d7d91d5",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2634,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749210878.754687,
+      "messageId": "ad53219f-e742-4031-8129-cccb5b1d618a",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1869,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749211044.293328,
+      "messageId": "d79b0395-5ce2-4ce8-8df8-0cf5893e0a56",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2742,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749894144.447205,
+      "messageId": "f2aa0ef1-a256-4d8a-b850-81fd86ea0dc0",
+      "conversation": "ELOS VISUALS OS",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2803,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

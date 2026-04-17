@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Memory-Graph",
+  "names": [
+    "ELos - Memory Graph"
+  ],
+  "titles": [
+    "ELos - Memory Graph"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748082001.18179,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748082001.18179,
+    "messageId": "5a29be06-89af-48da-b2c0-ecb53dfe53fe",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748082001.18179,
+      "messageId": "5a29be06-89af-48da-b2c0-ecb53dfe53fe",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 922,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

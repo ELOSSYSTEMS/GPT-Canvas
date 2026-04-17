@@ -1,0 +1,40 @@
+{
+  "artifactKey": "▧ ELOS.800.RPA",
+  "names": [
+    "ELos_Recursive_Modules"
+  ],
+  "titles": [
+    "ELos – Recursive Modules (Refactored from Epoch I)"
+  ],
+  "conversations": [
+    "ELos AIOS GPTOS Summary"
+  ],
+  "latestTime": 1748111234.818696,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos AIOS GPTOS Summary",
+    "createTime": 1748111234.818696,
+    "messageId": "9cf5df8b-c59b-4494-b153-1150d3fac7cc",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748111234.818696,
+      "messageId": "9cf5df8b-c59b-4494-b153-1150d3fac7cc",
+      "conversation": "ELos AIOS GPTOS Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2798,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

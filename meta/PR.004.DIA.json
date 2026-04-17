@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.004.DIA",
+  "names": [
+    "ELoS_Prompt_Modules_Stubs"
+  ],
+  "titles": [
+    "ELoS_Prompt_Modules_Stubs"
+  ],
+  "conversations": [
+    "Boot Sequence Execution"
+  ],
+  "latestTime": 1750565180.23698,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Boot Sequence Execution",
+    "createTime": 1750565180.23698,
+    "messageId": "2646c2d7-1460-4079-b8e8-d70240744543",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750565180.23698,
+      "messageId": "2646c2d7-1460-4079-b8e8-d70240744543",
+      "conversation": "Boot Sequence Execution",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2236,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

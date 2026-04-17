@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Recursive-System-Layer-Imported-from-AI-OS",
+  "names": [
+    "ELos - Recursive System Layer (Imported from AI OS)"
+  ],
+  "titles": [
+    "ELos - Recursive System Layer (Imported from AI OS)"
+  ],
+  "conversations": [
+    "ELos Canvas Index Summary"
+  ],
+  "latestTime": 1748112161.926564,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Canvas Index Summary",
+    "createTime": 1748112161.926564,
+    "messageId": "5788e164-d1d1-42b0-9bed-fda5604a8172",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748112161.926564,
+      "messageId": "5788e164-d1d1-42b0-9bed-fda5604a8172",
+      "conversation": "ELos Canvas Index Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1561,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

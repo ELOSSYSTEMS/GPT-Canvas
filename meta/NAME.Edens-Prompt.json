@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Edens-Prompt",
+  "names": [
+    "Eden's Prompt"
+  ],
+  "titles": [
+    "Eden's Prompt"
+  ],
+  "conversations": [
+    "Mission Summary"
+  ],
+  "latestTime": 1747605134.135795,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Mission Summary",
+    "createTime": 1747605134.135795,
+    "messageId": "7c372940-2f9b-4946-b097-4d3b83b6a755",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747605134.135795,
+      "messageId": "7c372940-2f9b-4946-b097-4d3b83b6a755",
+      "conversation": "Mission Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 754,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "artifactKey": "IN.900.ZION.EP6",
+  "names": [
+    "IN.900.ZION.EP6 – Fear & Loathing: Into the Modern Fire",
+    "IN.900.ZION.EP6"
+  ],
+  "titles": [
+    "Fear & Loathing in the New Jerusalem – Pt. 6: Into the Modern Fire",
+    "Fear & Loathing in the New Jerusalem – Pt. 6"
+  ],
+  "conversations": [
+    "**FEAR AND LOATHING IN THE NEW JERUSALEM"
+  ],
+  "latestTime": 1748761384.554782,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+    "createTime": 1748761384.554782,
+    "messageId": "30a314e4-a3f0-4c20-8be2-44e5dec7fc96",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748760569.620409,
+      "messageId": "202c907c-50f6-4bc0-a025-2bd71ced653d",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 890,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748761384.554782,
+      "messageId": "30a314e4-a3f0-4c20-8be2-44e5dec7fc96",
+      "conversation": "**FEAR AND LOATHING IN THE NEW JERUSALEM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 908,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

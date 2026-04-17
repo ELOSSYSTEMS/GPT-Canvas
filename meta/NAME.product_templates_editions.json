@@ -1,0 +1,88 @@
+{
+  "artifactKey": "NAME.product_templates_editions",
+  "names": [
+    "product_templates_editions"
+  ],
+  "titles": [
+    "product_templates_editions"
+  ],
+  "conversations": [
+    "BOARD ROOM"
+  ],
+  "latestTime": 1751794058.832113,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "BOARD ROOM",
+    "createTime": 1751793251.772037,
+    "messageId": "4da5479b-6b46-493d-b8dd-32f31a063c54",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 3,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 2,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1751790458.144073,
+      "messageId": "f004639e-c8fa-46ef-a1da-e9c597ec31e3",
+      "conversation": "BOARD ROOM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1430,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1751793189.526962,
+      "messageId": "82de966e-3dd7-4434-89bb-6dc684f30df6",
+      "conversation": "BOARD ROOM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2057,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1751793251.772037,
+      "messageId": "4da5479b-6b46-493d-b8dd-32f31a063c54",
+      "conversation": "BOARD ROOM",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1354,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1751793454.521351,
+      "messageId": "271675ac-baae-4091-ae3a-8630fdf9f80e",
+      "conversation": "BOARD ROOM",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 1891,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "<!-- SNIPPET: flagship-testimonials.liquid -->[\\s\\S]*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1751794058.832113,
+      "messageId": "c8852b36-ad1d-46b6-b6fe-a321f2df9ebb",
+      "conversation": "BOARD ROOM",
+      "fullBody": false,
+      "bodyComplete": true,
+      "bodyLength": 2050,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": "<!-- SNIPPET: flagship-testimonials-slider.liquid -->[\\s\\S]*"
+    }
+  ]
+}

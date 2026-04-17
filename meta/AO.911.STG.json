@@ -1,0 +1,52 @@
+{
+  "artifactKey": "AO.911.STG",
+  "names": [
+    "AO.911.STG.Logbook"
+  ],
+  "titles": [
+    "AO.911.STG.Logbook"
+  ],
+  "conversations": [
+    "Spellbook AI for Lawyers"
+  ],
+  "latestTime": 1749074583.399706,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Spellbook AI for Lawyers",
+    "createTime": 1749074583.399706,
+    "messageId": "68a6eba1-680b-4a30-8e23-75e8ab0c023a",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749074560.670511,
+      "messageId": "52eef6d6-85e1-433b-9795-8ee29e297754",
+      "conversation": "Spellbook AI for Lawyers",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1212,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749074583.399706,
+      "messageId": "68a6eba1-680b-4a30-8e23-75e8ab0c023a",
+      "conversation": "Spellbook AI for Lawyers",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2045,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Dabroo-Free-v1-Revamp",
+  "names": [
+    "Dabroo-Free-v1-Revamp"
+  ],
+  "titles": [
+    "Dabroo-Free-v1-Revamp"
+  ],
+  "conversations": [
+    "Dabroo AI Overview"
+  ],
+  "latestTime": 1747685224.035284,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo AI Overview",
+    "createTime": 1747685224.035284,
+    "messageId": "b2e5719a-4116-4429-8395-34afb75b30cf",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747685224.035284,
+      "messageId": "b2e5719a-4116-4429-8395-34afb75b30cf",
+      "conversation": "Dabroo AI Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4394,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

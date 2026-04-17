@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.001.INDEX",
+  "names": [
+    "AO.001.INDEX"
+  ],
+  "titles": [
+    "AO.001.INDEX"
+  ],
+  "conversations": [
+    "Conversation Summary Request"
+  ],
+  "latestTime": 1748611625.465675,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Conversation Summary Request",
+    "createTime": 1748611625.465675,
+    "messageId": "057ef2a5-3af2-4ea7-b95d-ec31776193bb",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748611625.465675,
+      "messageId": "057ef2a5-3af2-4ea7-b95d-ec31776193bb",
+      "conversation": "Conversation Summary Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 760,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

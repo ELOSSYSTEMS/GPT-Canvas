@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.305.Explainability",
+  "names": [
+    "AI.305.Explainability"
+  ],
+  "titles": [
+    "AI.305.Explainability"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756370.783165,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756370.783165,
+    "messageId": "8d2e2a7d-1baf-4644-b552-2524a16987d9",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756370.783165,
+      "messageId": "8d2e2a7d-1baf-4644-b552-2524a16987d9",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 782,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.001.EPP.LOG",
+  "names": [
+    "EPP-Changelog"
+  ],
+  "titles": [
+    "EPP-Changelog"
+  ],
+  "conversations": [
+    "Hike Recommendation Request"
+  ],
+  "latestTime": 1751405504.43198,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Hike Recommendation Request",
+    "createTime": 1751405504.43198,
+    "messageId": "f0ee9128-3648-4a9d-8a49-6d65900b1116",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1751405504.43198,
+      "messageId": "f0ee9128-3648-4a9d-8a49-6d65900b1116",
+      "conversation": "Hike Recommendation Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1022,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

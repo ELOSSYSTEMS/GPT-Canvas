@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.703.VibeCoding",
+  "names": [
+    "AI.703.VibeCoding"
+  ],
+  "titles": [
+    "AI.703.VibeCoding"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756514.066504,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756514.066504,
+    "messageId": "3d6a2aad-defb-499d-a83a-4d9f27d12589",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756514.066504,
+      "messageId": "3d6a2aad-defb-499d-a83a-4d9f27d12589",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 826,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

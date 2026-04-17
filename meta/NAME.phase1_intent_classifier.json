@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.phase1_intent_classifier",
+  "names": [
+    "phase1_intent_classifier"
+  ],
+  "titles": [
+    "phase1_intent_classifier"
+  ],
+  "conversations": [
+    "שיחה עם עוזר"
+  ],
+  "latestTime": 1748894556.136422,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "שיחה עם עוזר",
+    "createTime": 1748894556.136422,
+    "messageId": "dfd5b566-aaac-451d-8627-da4a9e9314a6",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748894556.136422,
+      "messageId": "dfd5b566-aaac-451d-8627-da4a9e9314a6",
+      "conversation": "שיחה עם עוזר",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1539,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

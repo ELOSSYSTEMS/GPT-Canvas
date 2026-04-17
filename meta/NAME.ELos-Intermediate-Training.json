@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Intermediate-Training",
+  "names": [
+    "ELos Intermediate Training"
+  ],
+  "titles": [
+    "ELos Intermediate Training"
+  ],
+  "conversations": [
+    "ELos Academy Review"
+  ],
+  "latestTime": 1748101915.460351,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos Academy Review",
+    "createTime": 1748101915.460351,
+    "messageId": "772c7396-352e-4e0f-8c11-c8e1c9a393af",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748101915.460351,
+      "messageId": "772c7396-352e-4e0f-8c11-c8e1c9a393af",
+      "conversation": "ELos Academy Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2481,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

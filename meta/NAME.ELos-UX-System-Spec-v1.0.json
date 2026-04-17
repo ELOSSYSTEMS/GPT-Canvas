@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-UX-System-Spec-v1.0",
+  "names": [
+    "ELos - UX System Spec v1.0"
+  ],
+  "titles": [
+    "ELos - UX System Spec v1.0"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748084447.550454,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748084447.550454,
+    "messageId": "0dd5958b-c9fc-412c-8eaa-fcfc546c9b67",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748084447.550454,
+      "messageId": "0dd5958b-c9fc-412c-8eaa-fcfc546c9b67",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2710,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

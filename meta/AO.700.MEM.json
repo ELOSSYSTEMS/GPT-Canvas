@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AO.700.MEM",
+  "names": [
+    "Legacy Memory Archive"
+  ],
+  "titles": [
+    "Legacy Memory Archive"
+  ],
+  "conversations": [
+    "Memory Modularization Plan"
+  ],
+  "latestTime": 1748116340.505321,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Memory Modularization Plan",
+    "createTime": 1748116340.505321,
+    "messageId": "5f6233a2-dc42-4307-9fa4-c14fdf16e1e6",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748116340.505321,
+      "messageId": "5f6233a2-dc42-4307-9fa4-c14fdf16e1e6",
+      "conversation": "Memory Modularization Plan",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1551,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

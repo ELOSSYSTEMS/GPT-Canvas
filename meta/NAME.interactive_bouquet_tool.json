@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.interactive_bouquet_tool",
+  "names": [
+    "interactive_bouquet_tool"
+  ],
+  "titles": [
+    "interactive_bouquet_tool"
+  ],
+  "conversations": [
+    "Forever Flowers Overview"
+  ],
+  "latestTime": 1735849481.609239,
+  "latestBodyComplete": false,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Forever Flowers Overview",
+    "createTime": 1735849481.609239,
+    "messageId": "5ead6f5b-f9af-4d8a-9d78-7c253bbcfce3",
+    "heuristic": "create-payload",
+    "parseMode": "regex-create-partial"
+  },
+  "completeBodyOps": 0,
+  "partialBodyOps": 1,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1735849481.609239,
+      "messageId": "5ead6f5b-f9af-4d8a-9d78-7c253bbcfce3",
+      "conversation": "Forever Flowers Overview",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 188,
+      "heuristic": "create-payload",
+      "parseMode": "regex-create-partial",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ff-editorial-strips.liquid-Fresh",
+  "names": [
+    "ff-editorial-strips.liquid (Fresh)"
+  ],
+  "titles": [
+    "ff-editorial-strips.liquid (Fresh)"
+  ],
+  "conversations": [
+    "Replicating Floralis Section"
+  ],
+  "latestTime": 1769279118.076579,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Replicating Floralis Section",
+    "createTime": 1769279118.076579,
+    "messageId": "a086d6f7-6dba-4677-8e5e-979b3a8b1576",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1769279118.076579,
+      "messageId": "a086d6f7-6dba-4677-8e5e-979b3a8b1576",
+      "conversation": "Replicating Floralis Section",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 9084,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

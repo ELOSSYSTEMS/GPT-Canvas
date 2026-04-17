@@ -1,0 +1,40 @@
+{
+  "artifactKey": "AI.100.OVL.V8",
+  "names": [
+    "Allon-Psych-Overlay-v8"
+  ],
+  "titles": [
+    "Allon-Psych-Overlay-v8"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748033400.618742,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748033400.618742,
+    "messageId": "1af2af20-719e-40ba-84e4-98def839e508",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748033400.618742,
+      "messageId": "1af2af20-719e-40ba-84e4-98def839e508",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2870,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.Podcast-Michael-Multiple-Sessions",
+  "names": [
+    "Podcast - Michael (Multiple Sessions)"
+  ],
+  "titles": [
+    "Podcast - Michael (Multiple Sessions)"
+  ],
+  "conversations": [
+    "PODCAST TRANSCRIPTION"
+  ],
+  "latestTime": 1748031552.490295,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PODCAST TRANSCRIPTION",
+    "createTime": 1748031552.490295,
+    "messageId": "e63d1e8d-c4e0-4bca-8b83-d4b154e5e4b5",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748031552.490295,
+      "messageId": "e63d1e8d-c4e0-4bca-8b83-d4b154e5e4b5",
+      "conversation": "PODCAST TRANSCRIPTION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2518,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.006.SCN",
+  "names": [
+    "EL.006.PatchStack"
+  ],
+  "titles": [
+    "EL.006.PatchStack"
+  ],
+  "conversations": [
+    "PROMPT PROTOCOL OPTIMIZATION"
+  ],
+  "latestTime": 1748977675.38102,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+    "createTime": 1748977675.38102,
+    "messageId": "e6958dca-7c3f-4e36-8694-f3da5a00d3df",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748977675.38102,
+      "messageId": "e6958dca-7c3f-4e36-8694-f3da5a00d3df",
+      "conversation": "PROMPT PROTOCOL OPTIMIZATION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2031,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

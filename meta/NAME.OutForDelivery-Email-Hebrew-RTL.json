@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.OutForDelivery-Email-Hebrew-RTL",
+  "names": [
+    "OutForDelivery Email Hebrew RTL"
+  ],
+  "titles": [
+    "OutForDelivery Email Hebrew RTL"
+  ],
+  "conversations": [
+    "תרגום דוא\"ל לעברית"
+  ],
+  "latestTime": 1750256292.219011,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "תרגום דוא\"ל לעברית",
+    "createTime": 1750256292.219011,
+    "messageId": "2ecf6f83-05ea-4fe2-a892-a18b96bf59e8",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750256292.219011,
+      "messageId": "2ecf6f83-05ea-4fe2-a892-a18b96bf59e8",
+      "conversation": "תרגום דוא\"ל לעברית",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1352,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

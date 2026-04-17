@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.910.PSN.LIBRARIAN",
+  "names": [
+    "PR.910.PSN.LIBRARIAN"
+  ],
+  "titles": [
+    "PR.910.PSN.LIBRARIAN"
+  ],
+  "conversations": [
+    "NEW ELOS EXTENSION"
+  ],
+  "latestTime": 1749405455.682482,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "NEW ELOS EXTENSION",
+    "createTime": 1749405455.682482,
+    "messageId": "3b33d976-033b-4e75-85c1-8a4fa4eada5c",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749405455.682482,
+      "messageId": "3b33d976-033b-4e75-85c1-8a4fa4eada5c",
+      "conversation": "NEW ELOS EXTENSION",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1372,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

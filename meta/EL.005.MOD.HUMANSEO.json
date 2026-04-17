@@ -1,0 +1,53 @@
+{
+  "artifactKey": "EL.005.MOD.HUMANSEO",
+  "names": [
+    "EL.005.MOD.HUMANSEO"
+  ],
+  "titles": [
+    "EL.005.MOD.HUMANSEO"
+  ],
+  "conversations": [
+    "PROMPT SCRAPE IMPROVE AND STORE",
+    "Mode Forks: Text vs Voice"
+  ],
+  "latestTime": 1749360641.117407,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Mode Forks: Text vs Voice",
+    "createTime": 1749360641.117407,
+    "messageId": "bcabb75e-b335-4bd7-8181-16abd248c6b4",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749055193.898173,
+      "messageId": "e29a41fc-2fca-4da6-8072-354ffa9719fd",
+      "conversation": "PROMPT SCRAPE IMPROVE AND STORE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2322,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749360641.117407,
+      "messageId": "bcabb75e-b335-4bd7-8181-16abd248c6b4",
+      "conversation": "Mode Forks: Text vs Voice",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 700,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

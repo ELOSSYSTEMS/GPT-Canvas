@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.ELos-Tiered-Command-Menu-UI-Logic",
+  "names": [
+    "ELos - Tiered Command Menu UI Logic"
+  ],
+  "titles": [
+    "ELos - Tiered Command Menu UI Logic"
+  ],
+  "conversations": [
+    "ELos System Review"
+  ],
+  "latestTime": 1748083721.060763,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "ELos System Review",
+    "createTime": 1748083721.060763,
+    "messageId": "5a0e9b4e-ea5c-4227-9f32-f1d185a914b9",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748083721.060763,
+      "messageId": "5a0e9b4e-ea5c-4227-9f32-f1d185a914b9",
+      "conversation": "ELos System Review",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2081,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.canvas",
+  "names": [
+    "canvas"
+  ],
+  "titles": [
+    "canvas"
+  ],
+  "conversations": [
+    "BUILDING THE WEBAPP"
+  ],
+  "latestTime": 1750601658.717319,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "BUILDING THE WEBAPP",
+    "createTime": 1750601658.717319,
+    "messageId": "b63d11fd-a5ac-4594-add5-f5eba39a3110",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1750601658.717319,
+      "messageId": "b63d11fd-a5ac-4594-add5-f5eba39a3110",
+      "conversation": "BUILDING THE WEBAPP",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1648,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

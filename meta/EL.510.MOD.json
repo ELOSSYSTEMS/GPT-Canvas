@@ -1,0 +1,40 @@
+{
+  "artifactKey": "EL.510.MOD",
+  "names": [
+    "EL.510.MOD.CanvasModule"
+  ],
+  "titles": [
+    "EL.510.MOD.CanvasModule"
+  ],
+  "conversations": [
+    "BUILDING CANVAS MODULE"
+  ],
+  "latestTime": 1749317969.826741,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "BUILDING CANVAS MODULE",
+    "createTime": 1749317969.826741,
+    "messageId": "ec1d7994-90d2-4749-96b4-90f27bef71eb",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749317969.826741,
+      "messageId": "ec1d7994-90d2-4749-96b4-90f27bef71eb",
+      "conversation": "BUILDING CANVAS MODULE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2016,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artifactKey": "PR.300.GHO",
+  "names": [
+    "The Ghost"
+  ],
+  "titles": [
+    "The Ghost"
+  ],
+  "conversations": [
+    "Dabroo Power User Guide"
+  ],
+  "latestTime": 1747609885.706811,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Dabroo Power User Guide",
+    "createTime": 1747609885.706811,
+    "messageId": "968d6678-1696-495c-9a4e-70c1cc0990d7",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1747609885.706811,
+      "messageId": "968d6678-1696-495c-9a4e-70c1cc0990d7",
+      "conversation": "Dabroo Power User Guide",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 883,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

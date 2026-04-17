@@ -1,0 +1,52 @@
+{
+  "artifactKey": "EL.420.HBX",
+  "names": [
+    "EL.420.HBX"
+  ],
+  "titles": [
+    "EL.420.HBX"
+  ],
+  "conversations": [
+    "Bootloader Sequence Initiated"
+  ],
+  "latestTime": 1749501396.64115,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Sequence Initiated",
+    "createTime": 1749501396.64115,
+    "messageId": "04c6f146-6c5d-4c8a-93c3-e68fdaa0a0dd",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 1,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749501387.528785,
+      "messageId": "7119577f-db01-478c-80d0-6d5459ca2b30",
+      "conversation": "Bootloader Sequence Initiated",
+      "fullBody": true,
+      "bodyComplete": false,
+      "bodyLength": 374,
+      "heuristic": "create-payload",
+      "parseMode": "regex-create-partial",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749501396.64115,
+      "messageId": "04c6f146-6c5d-4c8a-93c3-e68fdaa0a0dd",
+      "conversation": "Bootloader Sequence Initiated",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1501,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

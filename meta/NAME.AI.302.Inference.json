@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.AI.302.Inference",
+  "names": [
+    "AI.302.Inference"
+  ],
+  "titles": [
+    "AI.302.Inference"
+  ],
+  "conversations": [
+    "*** ELOS AI INTRO COURSE"
+  ],
+  "latestTime": 1748756354.652013,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "*** ELOS AI INTRO COURSE",
+    "createTime": 1748756354.652013,
+    "messageId": "bba778cc-5aee-4fa2-a22b-e4b7d9afdbe4",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748756354.652013,
+      "messageId": "bba778cc-5aee-4fa2-a22b-e4b7d9afdbe4",
+      "conversation": "*** ELOS AI INTRO COURSE",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 687,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

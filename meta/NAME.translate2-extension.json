@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.translate2-extension",
+  "names": [
+    "translate2-extension"
+  ],
+  "titles": [
+    "translate2-extension"
+  ],
+  "conversations": [
+    "Stargate Protocol Activated"
+  ],
+  "latestTime": 1748679168.595299,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Stargate Protocol Activated",
+    "createTime": 1748679168.595299,
+    "messageId": "e54f3067-96ba-403a-9ac6-d8212eec64c7",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748679168.595299,
+      "messageId": "e54f3067-96ba-403a-9ac6-d8212eec64c7",
+      "conversation": "Stargate Protocol Activated",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1842,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

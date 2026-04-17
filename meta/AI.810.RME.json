@@ -1,0 +1,52 @@
+{
+  "artifactKey": "AI.810.RME",
+  "names": [
+    "Recursive-Mode-Engine"
+  ],
+  "titles": [
+    "Recursive-Mode-Engine"
+  ],
+  "conversations": [
+    "Psychometric Profile Analysis Request"
+  ],
+  "latestTime": 1748036651.82504,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Psychometric Profile Analysis Request",
+    "createTime": 1748036651.82504,
+    "messageId": "037d6e9f-c717-46ab-9510-54f876071af9",
+    "heuristic": "id-from-replacement",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 2,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748036532.691608,
+      "messageId": "28f7c906-565f-4abd-a0fe-79f213cf5508",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4100,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748036651.82504,
+      "messageId": "037d6e9f-c717-46ab-9510-54f876071af9",
+      "conversation": "Psychometric Profile Analysis Request",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 4260,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}

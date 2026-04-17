@@ -1,0 +1,79 @@
+{
+  "artifactKey": "AO.940.PRM",
+  "names": [
+    "AO.940.PRM.PromptForge",
+    "AO.940.PRM.ScorecardSystem"
+  ],
+  "titles": [
+    "AO.940.PRM.PromptForge",
+    "AO.940.PRM.ScorecardSystem"
+  ],
+  "conversations": [
+    "Prompt Library Overview",
+    "Prompt Expansion Ready"
+  ],
+  "latestTime": 1749671349.316744,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Prompt Expansion Ready",
+    "createTime": 1749671349.316744,
+    "messageId": "7b30da8f-39a8-4e47-a11f-33d245f78584",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749497869.961474,
+      "messageId": "8259e64a-532e-4244-a309-269a8555dc9c",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1721,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1749498011.458505,
+      "messageId": "9b7d427a-536c-4fd6-b281-b9cb8cb10537",
+      "conversation": "Prompt Library Overview",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1880,
+      "heuristic": "id-from-replacement",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749671337.378127,
+      "messageId": "d0583b76-c8b3-4303-8286-0562a63e596b",
+      "conversation": "Prompt Expansion Ready",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2292,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749671349.316744,
+      "messageId": "7b30da8f-39a8-4e47-a11f-33d245f78584",
+      "conversation": "Prompt Expansion Ready",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2002,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

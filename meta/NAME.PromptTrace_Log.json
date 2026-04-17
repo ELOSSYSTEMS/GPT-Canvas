@@ -1,0 +1,40 @@
+{
+  "artifactKey": "NAME.PromptTrace_Log",
+  "names": [
+    "PromptTrace_Log"
+  ],
+  "titles": [
+    "PromptTrace_Log"
+  ],
+  "conversations": [
+    "Bootloader Activation Summary"
+  ],
+  "latestTime": 1749134927.17445,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "create_textdoc",
+    "conversation": "Bootloader Activation Summary",
+    "createTime": 1749134927.17445,
+    "messageId": "009cf972-eba8-4a14-9c95-7598b0ed389f",
+    "heuristic": "create-payload",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 1,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1749134927.17445,
+      "messageId": "009cf972-eba8-4a14-9c95-7598b0ed389f",
+      "conversation": "Bootloader Activation Summary",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 835,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "artifactKey": "NAME.ACAD.BGN.MEMORY",
+  "names": [
+    "ACAD.BGN.MEMORY"
+  ],
+  "titles": [
+    "ACAD.BGN.MEMORY"
+  ],
+  "conversations": [
+    "Builder Onboarding Step 4"
+  ],
+  "latestTime": 1748197056.897955,
+  "latestBodyComplete": true,
+  "latestSource": {
+    "opType": "update_textdoc",
+    "conversation": "Builder Onboarding Step 4",
+    "createTime": 1748197056.897955,
+    "messageId": "2963a3bd-0c7b-49c9-871c-48141fb0f97e",
+    "heuristic": "conversation-last-artifact",
+    "parseMode": "json-parse"
+  },
+  "completeBodyOps": 4,
+  "partialBodyOps": 0,
+  "appliedPartialOps": 0,
+  "unresolvedPartialOps": 0,
+  "operations": [
+    {
+      "opType": "create_textdoc",
+      "createTime": 1748196801.779003,
+      "messageId": "9f83774b-3961-4eff-bcf1-b1e0d4c94489",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 1704,
+      "heuristic": "create-payload",
+      "parseMode": "json-parse",
+      "pattern": null
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748196930.209801,
+      "messageId": "a3cd6e9a-04a2-44a1-95ed-61e599dbf66f",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2063,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748196991.859911,
+      "messageId": "5ac34527-273e-4be9-afd0-6dac3fc620d6",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2167,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    },
+    {
+      "opType": "update_textdoc",
+      "createTime": 1748197056.897955,
+      "messageId": "2963a3bd-0c7b-49c9-871c-48141fb0f97e",
+      "conversation": "Builder Onboarding Step 4",
+      "fullBody": true,
+      "bodyComplete": true,
+      "bodyLength": 2155,
+      "heuristic": "conversation-last-artifact",
+      "parseMode": "json-parse",
+      "pattern": ".*"
+    }
+  ]
+}
